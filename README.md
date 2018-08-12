@@ -5,7 +5,7 @@ Traduction française de Mahoutsukai no Yoru (魔法使いの夜)
 ## Installation
 1. Se rendre sur la page des releases : [Release](https://github.com/IDerr/mahoyo-french/releases)
 1. Télécharger les 3 patchs
-1. Les placer dans le dossier d'installation du jeu (ex : c:\mahoyo\savedata\patches)
+1. Les placer dans le dossier d'installation du jeu (ex : mahoyo\savedata\patches)
 
 ## Avancement de la traduction
 | Chapitre      | Avancement  | Pages |
