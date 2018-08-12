@@ -1,11 +1,17 @@
-# mahoyo-french
 ![Banniere](https://github.com/IDerr/mahoyo-french/raw/master/images/banniere.jpg)
-Traduction française de Mahoutsukai no Yoru (魔法使いの夜) 
+
+### Traduction française de Mahoutsukai no Yoru (魔法使いの夜) 
 
 ## Installation
 1. Se rendre sur la page des releases : [Release](https://github.com/IDerr/mahoyo-french/releases)
-1. Télécharger les 3 patchs
-1. Les placer dans le dossier d'installation du jeu (ex : mahoyo\savedata\patches)
+2. Télécharger les 3 patchs
+3. Les placer dans le dossier d'installation du jeu (ex : mahoyo\savedata\patches)
+
+## Equipe : 
+  - Traduction    : Naoyrig
+  - Relecture     : Naoyrig, Caster
+  - Hacking       : Belderak
+  - Remerciements : Nodamin, Atlas, N-harmonia, Elfy, Yokathaking, Shipanda 
 
 ## Avancement de la traduction
 | Chapitre      | Avancement  | Pages |
