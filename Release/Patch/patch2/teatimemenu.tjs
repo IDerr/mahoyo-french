@@ -1,0 +1,237 @@
+@if(__TEATIMEMENU_DEFINED__==0)
+@set(__TEATIMEMENU_DEFINED__=1)
+
+//	1ならティータイムメニューを表示せずすぐに次へ進む
+@set(THROUGH_TEATIME=0)
+
+/*
+ *	ティータイム
+ */
+var	TTMslot	= 0;
+var	TTMlayerElm	= %[page:"fore", layer:0, channel:1];
+var	TTMchapter2id	= %[	//	章毎に対応したタイムラインID
+	"1" =>	[ 4, 6 ],
+	"2" =>	[ 9, 8 ],
+	"3" =>	[ 13, 14 ],
+	"4" =>	[ 15, 16 ],
+	"5" =>	[ 17, 18 ],
+	"5.5" =>[ 19, 20 ],
+	"6" =>	[ 21, 22 ],
+	"7" =>	[ 23, 24 ],
+	"8" =>	[ 25, 26 ],
+//	"8.5" =>[ 25, 26 ],	//	仮のTeaTime
+	"9" =>	[ 27, 28 ],
+	"10" =>	[ 29, 30 ],
+	"11" =>	[ 31, 32 ],	//	このあたり、対応がおかしいかも
+	"12" =>	[ 33, 34 ],
+//	"12.5"=>[ 33, 34 ],
+	"13" =>	[ 35, 37 ],
+];
+var	TTMouttime;	//	消滅タイムラインの時間
+function TTMsetProps(name2pos, creates)
+{
+	//	5章の先頭で1.5章を読んでいなければ、next episode/title を表示しない
+/*	if(f.chapter == 5 && !(sf.scenario1_5_1>0&&sf.scenario1_5_2>0&&sf.scenario1_5_3>0&&sf.scenario1_5_4>0))
+	{
+		setCreateProp(creates[name2pos["TTMnextepisode"]], "visible", false);
+		setCreateProp(creates[name2pos["TTMtitle"]], "visible", false);
+	}
+*/
+	//	左右のキー移動を無効化
+	for(var i=0; i<creates.count; i++)
+	{
+		setCreateProp(creates[i], "leftItems", "");
+		setCreateProp(creates[i], "rightItems", "");
+	}
+}
+function openTeatime()
+{
+@if(THROUGH_TEATIME)
+	asyncCaller.call(TTMtrigger);
+	return;
+@endif
+	if(tf.ttm_opened)
+		return;
+	tf.ttm_opened= true;
+	f.in_ttm	= true;
+	inMenu("teatime");
+	f.chapter	= 1 if f.chapter == void;
+
+	with(kag)
+	{
+		.stopAllTransitions();
+		.stopAllActions(true);
+		var pages = ["fore","back"];
+		for( var i=0; i<pages.count; i++ )
+		{
+			var pg = kag[pages[i]];
+			for( var j=0; j<pg.messages.count; j++ )
+				pg.messages[j].clear();
+		}
+	}
+
+	Scripts.execStorage("teatimemenu.ttd") if typeof global.__get_teatimemenu_timelinedata == "undefined";
+	var	tdata	= __get_teatimemenu_timelinedata(TTMchapter2id[f.chapter][0]);	//	開く
+	TTMsetProps(tdata[0], tdata[1]);
+	Menu_object.playTimeline("fore", tdata[1], tdata[2], %[absolute:1000000],,, true);
+	Menu_object.setClick();	//	右クリックは無効
+/*
+	//	章毎にムービーを再生
+	var	storage	= "KomadoriA.amv";
+	with(global.alphamovie_object)
+	{
+		.open(TTMslot, storage);
+		.setLayer(TTMslot, TTMlayerElm);
+		.setOptions(TTMslot, %[loop:true]);
+		.play(TTMslot, storage);
+	}
+	var	layer	= kag.getLayerFromElm(TTMlayerElm);
+	layer.setPos(0, 0);
+	layer.absolute	= 1010000;
+	layer.visible	= true;
+*/
+	return 0;
+}
+function closeTeatime()
+{
+	if(!tf.ttm_opened)
+		return;
+	delete tf.ttm_opened;
+	delete f.in_ttm;
+
+	outMenu("teatime");
+
+	Scripts.execStorage("teatimemenu.ttd") if typeof global.__get_teatimemenu_timelinedata == "undefined";
+	var	tdata	= __get_teatimemenu_timelinedata(TTMchapter2id[f.chapter][1]);	//	閉じる
+	TTMsetProps(tdata[0], tdata[1]);
+	Menu_object.playTimeline("fore", tdata[1], tdata[2], %[absolute:1000000],, true);
+}
+function TTMgoArchive()
+{
+	delete tf.ttm_opened;
+
+	//	トランジション停止
+	kag.fore.base.stopTransition();
+	kag.back.base.stopTransition();
+@if(0)
+	//	履歴を一次退避
+	kag.historyLayer.pushStackHistory();
+	kag.pushStackHistoryOfStore();
+@endif
+	TTMstopMovie();	//	αムービーの後片付け
+
+	Menu_object.doInvalidateByInvisible("fore");	//	裏へ行ったら消す、ついでにボタンの無効化
+	openArchiveMenu("back");		//	裏にアーカイブメニューを構成
+
+	//	トランジション
+	kag.fore.base.beginTransition(%[time:300, method:"crossfade"]);
+}
+function TTMopenSaveMenu()
+{
+	//	セーブメニューが閉じたとき、知らせてもらう
+	tf.closeSaveMenuCaller	= TTMonSaveMenuClosed;
+
+	//	セーブメニューを開く
+	openSaveMenu(true);
+}
+function TTMonSaveMenuClosed()
+{
+	//	セーブメニューが閉じたら、状態を更新する
+	var	menuitems	= Menu_object.getMenuItems();
+	for(var i=0; i<menuitems.count; i++)
+		menuitems[i].updateState() if menuitems[i] != void && menuitems[i] isvalid;
+}
+function TTMstopMovie()
+{/*
+	with(global.alphamovie_object)
+	{
+		.stop(TTMslot);
+		.resetLayer(TTMslot, TTMlayerElm);
+		var	layer	= kag.getLayerFromElm(TTMlayerElm);
+		layer.absolute	= TTMlayerElm.layer * 1000;
+		layer.visible	= false;
+	}
+*/
+}
+function returnTeatime()
+{
+	tf.ttm_opened	= true;
+
+	//	トランジション停止
+	kag.fore.base.stopTransition();
+	kag.back.base.stopTransition();
+	
+	//	メッセージレイヤーを非表示に
+	var pages = ["fore","back"];
+	for( var i=0; i<pages.count; i++ )
+	{
+		var pg = kag[pages[i]];
+		for( var j=0; j<pg.messages.count; j++ )
+			pg.messages[j].visible = false;
+	}
+@if(0)
+	//	履歴を元に戻す
+	kag.popStackHistoryOfStore();
+	kag.historyLayer.popStackHistory();
+@endif
+	//	裏にメニューを構成
+	Scripts.execStorage("teatimemenu.ttd") if typeof global.__get_teatimemenu_timelinedata == "undefined";
+	var	tdata	= __get_teatimemenu_timelinedata(TTMchapter2id[f.chapter][0]);	//	開く
+	TTMsetProps(tdata[0], tdata[1]);
+	Menu_object.playTimeline("back", tdata[1], tdata[2], %[absolute:1000000],,, true);
+
+	TTMstopMovie();	//	αムービーの後片付け
+
+	Menu_object.setClick() if Menu_object._lclickstack.count == 0;	//	archive のデータをロードしたとき、Teatimeのスタックが無いので
+
+	//	トランジション
+	kag.fore.base.beginTransition(%[time:300, method:"crossfade"]);
+}
+//	次のエピソードへ
+function TTMnextEpisode()
+{
+	delete tf.ttm_opened;
+	with(Menu_object)
+	{
+		Scripts.execStorage("teatimemenu.ttd") if typeof global.__get_teatimemenu_timelinedata == "undefined";
+		var	tdata	= __get_teatimemenu_timelinedata(TTMchapter2id[f.chapter][1]);	//	閉じる
+		TTMsetProps(tdata[0], tdata[1]);
+		TTMouttime	= .playTimeline("fore", tdata[1], tdata[2], %[absolute:1000000],, true);
+		.resetClick();
+		.setDisfocusableAll();	//	全てのボタンを無効化
+	}
+	outMenu("teatime",, false);	//	最初はメッセージレイヤーを表示しない
+
+	TTMstopMovie();	//	αムービーの後片付け
+
+	//	アーカイブからシナリオを実行しているかもしれないので、シナリオの位置を元に戻す
+	kag.process('teatime.ks', '*finishteatime');
+
+	//	シナリオ移動処理後、トリガを引いて次へ進む
+	asyncCaller.call(TTMtrigger);
+}
+function TTMtrigger()
+{
+	kag.conductor.trigger('nextepisode');
+}
+
+//	TeaTimeように f.scripttitle を設定
+function TTMsetScriptTitle()
+{
+	if(f.chap == void)
+	{
+		f.chap	= "TeaTime ";
+		f.chap	+= f.chapter == 5 ? "5 (1)" : (f.chapter == 5.5 ? "5 (2)" : f.chapter);
+		f.scripttitle <-> f.chap;
+	}
+}
+function TTMresetScriptTitle()
+{
+	if(f.chap != void)
+	{
+		f.chap <-> f.scripttitle;
+		delete f.chap;
+	}
+}
+
+@endif

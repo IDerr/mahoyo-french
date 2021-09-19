@@ -1,0 +1,4006 @@
+// PartBgPlugin.tjs - 特殊背景(部分背景の役割をする機能を追加した前景)レイヤー
+@if(__PARTBG_PLUGIN_DEFINED__==0)
+@set(__PARTBG_PLUGIN_DEFINED__=1)
+/*
+特殊背景処理概要(09/06/18時点)
+
+	//枠幅変更時、アルファ成分の画像更新
+	bordersize setter()
+
+	//描画更新前処理
+	onPaint()
+	↓
+	//枠及び中身の更新処理
+	extraBackFrame()
+		↓
+		//枠自身のサイズや幅などが更新され、再生成が必要かチェック
+		//枠自身の作り直し
+		extraUpdateFrame()
+			//アルファ情報のみをアルファレイヤーから拡大コピーして生成
+			//上下左右四隅が必要か、縦だけで良いか転送対象を判定
+			stretchCopy(), fillRect()
+		↓
+		//コピー元からのコピーが必要かチェックし再読込
+		reloadFromOriginalImage()
+			//拡大縮小回転が無い場合そのままコピー
+			extraCopyFrame()
+				//アルファを保護したままRGB成分をコピー
+				operateRect()
+				↓
+				//境界が必要であれば外側を塗りつぶす
+				drawBorderMaskColor()
+			//変形が必要
+			extraAffineFrame()
+				//コピー元から逆演算によって切り出す矩形を求める
+				getTransformedImageRect()
+				↓
+				//変形コピー
+				affineCopy()
+				↓
+				//境界が必要であれば外側を塗りつぶす
+				drawBorderMaskColor()
+	↓
+	//エフェクト等の効果反映(AnimationLayer_override)
+	applyColorCorrection_in_onPaint()
+	↓
+	//_imageからの更新フラグON
+	calcAffine()
+	↓
+	//_imageからgloba.Layer実イメージへのAffineLayer互換複写処理(AnimationLayer_override)
+	AffineLayer_onPaint()
+
+
+特殊背景処理変更案(09/06/30時点)
+
+	拡大縮小、回転が掛かっていたら
+		今までと同じ処理
+
+	枠あり時
+		_image をオリジナルに戻す
+		クリッピング指定(枠の中央まで)
+		内部に_imageをoperateAffine(holdAlpha=false で stFastLinear を効かせる)
+		クリッピング解除
+		枠サイズに変更があれば
+			外側の枠をoperateRect,operateStretch(face=dfBoth)
+		内側の枠をoperateRect,operateStretch(face=dfOpaque)
+
+	枠なし時
+		_image をオリジナルに戻す
+		_imageをoperateAffine(holdAlpha=false)
+		周囲にoperateRect,operateStretch(face=dfMask)
+
+*/
+@set(PARTBGLAYER_ACTION_VERVOSE=0)
+
+@set(GREEN_TRANSPARENT_AREA=0)
+
+Scripts.execStorage("EasyAffineTransform.tjs");
+Scripts.execStorage("BasePlugin.tjs");
+
+//	plugin/sub/timeline/ObjectValues.tjs の PartBgKeysInit と同じ値にすること
+Scripts.execStorage("ObjectValues.tjs");
+var	defaultPartBgSrcLeft =		PartBgDefaultValues["srcleft"];
+var	defaultPartBgSrcTop =		PartBgDefaultValues["srctop"];
+var	defaultPartBgSrcAfx =		PartBgDefaultValues["srcafx"];
+var	defaultPartBgSrcAfy =		PartBgDefaultValues["srcafy"];
+var	defaultPartBgSrcRotate =	PartBgDefaultValues["srcrotate"];
+var	defaultPartBgSrcZoomx =		PartBgDefaultValues["srczoomx"];
+var	defaultPartBgSrcZoomy =		PartBgDefaultValues["srczoomy"];
+var	defaultPartBgSrcOpacity =	PartBgDefaultValues["srcopacity"];
+var	defaultPartBgAbsolute =		PartBgDefaultValues["absolute"];
+var	defaultPartBgCenter =		PartBgDefaultValues["center"];
+var	defaultPartBgVcenter =		PartBgDefaultValues["vcenter"];
+var	defaultPartBgWidth =		PartBgDefaultValues["width"];
+var	defaultPartBgHeight =		PartBgDefaultValues["height"];
+var	defaultPartBgOpacity =		PartBgDefaultValues["opacity"];
+var	defaultPartBgType =			PartBgDefaultValues["type"];
+var	defaultPartBgAfx =			PartBgDefaultValues["afx"];
+var	defaultPartBgAfy =			PartBgDefaultValues["afy"];
+var	defaultPartBgRotate =		PartBgDefaultValues["rotate"];
+var	defaultPartBgEffect =		PartBgDefaultValues["effect"];
+var	defaultPartBgContrast =		PartBgDefaultValues["contrast"];
+var	defaultPartBgXblur =		PartBgDefaultValues["xblur"];
+var	defaultPartBgYblur =		PartBgDefaultValues["yblur"];
+var	defaultPartBgBorderSize	=	PartBgDefaultValues["bordersize"];
+var	defaultPartBgBorderColor =	PartBgDefaultValues["bordercolor"];
+
+var	_alphaimages = [];
+var	_alphaimageInvs = [];
+var	_alphaimageSizes = [ 512, 256, 128, 80, 64, 20 ];	//	デフォルトが40なので、80を用意すれば綺麗に描画される
+var	_gradationsupportlayer;
+
+@set(RECORD_LAYER_STATE=0)
+
+@if(RECORD_LAYER_STATE)
+var	layerstates	= [];
+var	layerstateno= 0;
+
+function saveLayerStates()
+{
+	var	dir	= "file://./z/layerstates/";
+	Storages.createDirectory(dir) if !Storages.isExistentDirectory(dir);
+	for(var i=0; i<layerstateno; i++)
+		layerstates[i].saveLayerImage(dir + "%03d.bmp".sprintf(i));
+	layerstateno	= 0;
+}
+@endif
+
+class PartBgPlugin extends BasePlugin
+{
+	var name = "PartBg";
+	var	fore, back;
+	var window;
+
+	var	defaultTime	= 300;
+
+	function PartBgPlugin(window)
+	{
+		super.BasePlugin(...);
+		this.window = window;
+
+		fore = [];
+		back = [];
+	}
+
+	function finalize()
+	{
+		for(var i=0; i<_alphaimages.count; i++)
+		{
+			invalidate _alphaimages[i] if _alphaimages[i] != void;
+			invalidate _alphaimageInvs[i] if _alphaimageInvs[i] != void;
+		}
+		invalidate _gradationsupportlayer if _gradationsupportlayer != void;
+		clear();
+		super.finalize();
+	}
+
+	function clear()
+	{
+//		dm("PartBgPlugin.clear(): "+Scripts.getTraceString());
+		var	pgs	= [ "fore", "back" ];
+		for(var i=0; i<pgs.count; i++)
+		{
+			page	= pgs[i];
+			if( typeof this[page] == "undefined" ) continue;
+			var	layers	= this[page];
+			for(var j=0; j<layers.count; j++)
+				layers[j].notuse = true;
+		}
+		super.clear();
+	}
+
+	function allocatePartBgLayers(num)
+	{
+//		dm("allocatePartBgLayers("+num+"): "+fore.count);
+		if(fore.count > num)
+		{
+			for(var i=num; i<fore.count; i++)
+			{
+				invalidate fore[i];
+				invalidate back[i];
+			}
+			fore.count	= back.count	= num;
+		}
+		else if(fore.count < num)
+		{
+			for(var i=fore.count; i<num; i++)
+			{
+				fore[i]	= new PartBgLayer(window, window.fore.base, "表特殊背景"+i, void);
+				back[i]	= new PartBgLayer(window, window.back.base, "裏特殊背景"+i, void);
+				fore[i].plugin = back[i].plugin = this;
+				fore[i].visible = back[i].visible = false;
+				fore[i].notuse = back[i].notuse = true;
+				fore[i].setCompLayer(back[i]);
+				back[i].setCompLayer(fore[i]);
+			}
+		}
+	}
+
+	function addPartBgLayers(page)
+	{
+		var	num	= fore == void ? 0 : fore.count;
+		allocatePartBgLayers(num + 1);
+		if(page != "")
+			return this[page][num];
+	}
+
+	/**
+	 * トランジションするパラメータかどうか
+	 */
+	function isDoTrans(elm)
+	{
+		with(elm)
+			return .rule != "" || .time != void || .vague != void;
+	}
+
+	/**
+	 *	パラメータによってトランジションしたりしなかったり
+	 *	@param rule ルール画像
+	 *	@param vague 滑らかさ
+	 *	@param time トランジション時間
+	 */
+	function doTrans(elm)
+	{
+		with(elm)
+		{
+			if(isDoTrans(elm))
+			{
+				.layer	= "base";
+				if(.rule === void || .rule == "crossfade")
+					.method	= "crossfade";
+				else
+					.method	= "universal";
+				.time	= defaultTime if .time === void;
+				.vague	= 256 if .vague === void;
+				delete elm.id;
+
+				//	そのままでは特殊背景単体のトランジションを行ってしまうので、画面全体になるように変更
+				delete elm.part;
+				elm.layer	= "base";
+
+				return kag.tagHandlers.trans(elm);
+			}
+			else
+				return 0;
+		}
+	}
+
+	//指定storage,idを元に既存のオブジェクトを探してパラメータ適用をする
+	//存在しない場合は新規に作成する
+	function loadImages(elm)
+	{
+		var ret = 0;
+
+		//PartBgPluginのgetLayerFromElmのみを呼び出す
+		elm.part = true;
+		elm.ispart = true;
+
+		var lay = getLayerFromElm(elm);
+		elm.needlayer = false;	//生成が済んだので後続のtransなどで処理されないよう落としておく
+		elm.part = elm.ispart = false;
+
+//		dm("image tag getLayerFromElm復帰値 : lay=" + (string)lay + " elm.layer=" + (string)elm.layer);
+		if( lay === void ){
+@if(DEBUG)
+			throw new Exception("PartBgPlugin: 特殊背景のみをターゲットとしたgetLayerFromElmがvoidを返しました");
+@endif
+			return 0;
+		}
+
+		//拡張パラメータのリセット
+		lay.reset();
+
+		//先にサイズを設定しておく
+		lay.width = +elm.width if elm.width !== void;
+		lay.height = +elm.height if elm.height !== void;
+		lay.setOptions(elm);
+		lay.type	= ltAlpha if lay.type == ltOpaque;	//	opaque として読み込まれた画像を assign することで、ltOpaque になるかもしれないので
+		lay.visible = true;
+		lay.calcAffine();
+		lay.notuse = false;
+		//dm("opacity=" + lay.opacity + " " + lay.name);
+
+		return doTrans(elm);	//	パラメータによってトランジションしたりしなかったり
+	}
+
+	function onStore(f, elm)
+	{
+		// 栞を保存する際に呼ばれる
+		// f = 保存先の栞データ ( Dictionary クラスのオブジェクト )
+		// elm = tempsave 時のオプション ( 現在は常に void )
+		var	flayers	= fore;
+		var blayers = back;
+		var nums = (flayers.count > blayers.count)?flayers.count:blayers.count;
+		f.forePartBgLayers = [];
+		f.backPartBgLayers = [];
+		for(var i=0; i<nums; i++)
+		{
+			f.forePartBgLayers[i] = flayers[i].store() if flayers[i] !== void && ! flayers[i].notuse;
+			f.backPartBgLayers[i] = blayers[i].store() if blayers[i] !== void && ! blayers[i].notuse;
+		}
+
+	}
+
+	function onRestore(f, clear, elm)
+	{
+		// 栞を読み出すときに呼ばれる
+		// f = 読み込む栞データ ( Dictionary クラスのオブジェクト )
+		// clear = メッセージレイヤをクリアするか ( tempload の時のみ false )
+		// elm = tempload 時のオプション ( tempload でない場合は 常に void,
+		//                                 tempload の時は Dictionary クラスのオブジェクト )
+		//this.clear() if clear;		//	データの破棄と、処理の停止(サブクラスで定義)
+		this.clear();		//常に再構築
+
+		if(f.forePartBgLayers != void) with(f)
+		{
+			var	nums	= .forePartBgLayers.count;
+			allocatePartBgLayers(nums);
+
+			for(var i=0; i<nums; i++)
+			{
+				fore[i].restore(.forePartBgLayers[i]) if .forePartBgLayers[i] != void;
+				back[i].restore(.backPartBgLayers[i]) if .backPartBgLayers[i] != void;
+			}
+		}
+	}
+
+	function onExchangeForeBack()
+	{
+		back <-> fore;
+		for(var i=0; i<fore.count; i++)
+		{
+			fore[i].name	= "表特殊背景"+i;
+			with(fore[i])
+				for( var j=0; j<.borders.count; j++ )
+					.borders[j].name = .name+"("+.storage+") の枠";
+		}
+		for(var i=0; i<back.count; i++)
+		{
+			back[i].name	= "裏特殊背景"+i;
+			with(back[i])
+				for( var j=0; j<.borders.count; j++ )
+					.borders[j].name = .name+"("+.storage+") の枠";
+		}
+	}
+
+	function onCopyLayer(toback, withAction=false)
+	{
+		var	layers	= toback ? back : fore;
+		for(var i=0; i<layers.count; i++)
+			layers[i].assignComp(withAction);
+	}
+
+	//	レイヤー構成をシンプルに
+	function onSimplify()
+	{
+		allocatePartBgLayers(0);	//	partbg を削除
+	}
+
+	//	指定ページ側のレイヤーを全て返す
+	function getLayerAll(elm, prefix, layers)
+	{
+//		dm("**************** partbg object.getLayerAll("+elm.page+")");
+		for(var i=0; i<this[elm.page].count; i++)
+			layers.add(this[elm.page][i]);
+	}
+
+	//	引数に対応したレイヤーを返す
+	function getLayerFromElm(elm, prefix)
+	{
+		with(elm)
+		{
+//			dm("******** partbg.getLayerFromElm(page="+.page+", storage="+.storage+", ispart="+.ispart+", id="+.id+", need="+.needlayer+", prefix="+prefix+")");
+			if(.ispart || .part || (.id != "" && .partbgid == void && .partbg == void))	//	.id が partbg の id を指定しているかどうかは、partbgid/partbg が存在するかどうかで判断する
+			{//	引数にしたがって、特殊背景として管理しているレイヤーを返す
+				page	= string(.page);
+				var	list= this[page];
+//				dm("list.count = "+list.count);
+				if( !.needlayer )
+				{
+					var	founds	= [];
+					for( var i=0; i<list.count; i++ )
+					{
+						var	layer	= list[i];
+//						dm("search "+.storage+"[id="+.id+"]"+page+".layers["+i+"] = "+layer.layerID+" / "+layer.storage+" notuse="+layer.notuse);
+						if(layer === void || layer.notuse) continue;
+						if( (.id !== void && layer.layerID === .id) ||
+							(.id === void && layer.storage == .storage) )
+						{
+							delete .created if .created !== void;
+							founds.add(layer);
+						}
+					}
+					if(founds.count == 1)
+						return founds[0];
+					if(.id === void)
+					{//	id が指定されていなければ、layerID が指定されているレイヤーを無視する
+						for(var i=0; i<founds.count; i++)
+						{
+							if(founds[i].layerID !== void)
+							{
+								founds.erase(i);
+								i--;
+							}
+						}
+						if(founds.count == 1)
+							return founds[0];
+					}
+					if(founds.count > 1)
+					{
+@if(DEBUG)
+						throw new Exception("引数("+(.id !== void ? "id = "+.id : "storage = "+.storage)+")に対応するpartbgが複数見つかりました。");
+						return void;
+@endif
+						return founds[0];	//	とりあえず先に見つかった方を返す
+					}
+				}
+				else if(.ispart || .part)	//	id だけを指定しているときは、新規作成しない
+				{
+					//無効フラグの立っているものがあれは再利用
+					for( var i=0; i<list.count; i++ )
+					{
+						var	layer	= list[i];
+//						dm("list["+i+"]: layerID = "+layer.layerID+", notuse = "+layer.notuse+", "+layer.storage);
+						if( layer.notuse == true)
+						{
+//							dm("☆PartBg.getLayerFromElm: layer=void, recycle idx=" + i);
+							.created = true;
+							layer.notuse = false;
+							layer.layerID = .id;
+							return layer;
+						}
+					}
+
+					//空きがないので拡張生成する
+					var	layer	= addPartBgLayers(page);
+					.created	= true;
+					layer.notuse= false;
+					layer.layerID = .id;
+					return layer;
+				}
+			}
+			else if(.partbg !== void || .partbgid !== void)
+			{//	partbg 以下に格納されているレイヤーの可能性がある
+//				dm(".partbg = "+.partbg+" / .partbgid = "+.partbgid+" / "+Scripts.getTraceString());
+				//	対象となる partbg を探す
+				var	te	= %[ispart:true, page:.page];
+				te.storage	= .partbg if .partbg !== void;
+				te.id		= .partbgid if .partbgid !== void;
+				var	pbg	= getLayerFromElm(te);
+				if(pbg == void)
+				{
+@if(DEBUG)
+					throw new Exception("追加先のpartbg(storage="+.partbg+"/id="+.partbgid+"が見つかりませんでした。");
+					return void;
+@endif
+					return this[string(.page)][0];	//	先頭の partbg に追加する
+				}
+//				dm("target partbg: "+pbg.name+" / "+.needlayer);
+
+				//	探すか追加する
+				if(.all)
+				{
+					var	layers	= [ pbg ];
+					for(var i=0; i<pbg.layers.count; i++)
+						layers.add(pbg.layers[i]);
+					return layers;
+				}
+				else
+				{
+					var	layer = !.needlayer ? pbg.findLayer(elm) : pbg.addLayer();
+					layer.layerID = elm.id if layer != void && elm.id !== void;
+					return layer;
+				}
+			}
+			//dm("PartBg.getLayerFromElm: ispart=false, SKIP");
+			delete .created if .cleated !== void;
+		}
+		return void;
+	}
+
+	function getLayerPageFromElm(elm, backlay)
+	{
+		var ispart	= (elm.ispart !== void)?elm.ispart:false;
+		if(elm.id !== void && ispart)
+		{
+			//	引数に沿って、プラグイン管理下にあるレイヤーのページを返す
+			var	layers	= this[backlay ? "back" : "fore"];
+			for( var i=0; i<layers.count; i++ )
+			{
+				if( layers[i].layerID == elm.id )
+					return layers[i];
+			}
+		}
+		return void;
+	}
+
+	function getLayerFromObject(object)
+	{
+		var	pgs	= [ "fore", "back" ];
+		for(var i=0; i<pgs.count; i++)
+		{
+			page	= pgs[i];
+			var	layers	= this[pgs[i]];
+			for(var j=0; j<layers.count; j++)
+			{
+				if(layers[j] == object)
+					return %[page:pgs[i], id:layers[j].layerID, storage:layers[j].storage, ispart:true];
+			}
+		}
+		return void;
+	}
+
+	//	新たなタイムラインを読み込んだ時
+	function onLoadTimeline(storage, data)
+	{
+@if(DEBUG)
+		dm("PartBgPlugin.onLoadTimeline(): 本来 clear() するか、判定すべきかも→編集の都合上、リセットしてない");
+@endif
+//		clear();
+	}
+
+
+	//重ね合わせ対象のレイヤー獲得処理
+	function getToPileLayers(page)
+	{
+		var ret = [];
+		for( var i=0; i<this[page].count; i++ )
+		{
+			var tmp = this[page][i];
+			if( tmp !== void )
+			{
+				if( tmp.visible && tmp.opacity > 0 ){
+					tmp.onPaint(true);
+					ret.add(tmp);
+				}
+			}
+		}
+		return ret;
+	}
+
+	//背景読み込みなどに伴う全消去
+	function clearAllLayers(page)
+	{
+		var tgt = this[page];
+		for( var i=0; i<tgt.count; i++ )
+		{
+			tgt[i].notuse = true;
+		}
+	}
+
+	//	全てのトランジションを停止
+	function stopAllTransitions()
+	{
+		var	pages	= [ fore, back ];
+		for(var i=0; i<pages.count; i++)
+		{
+			var	page	= pages[i];
+			for(var i=0; i<page.count; i++)
+			{
+				if(page[i] != void)
+				{
+					page[i].stopTransition();
+					var	layers	= page[i].layers;
+					for(var i=0; i<layers.count; i++)
+						layers[i].stopTransition() if layers[i] != void;
+				}
+			}
+		}
+	}
+}
+
+/*----------------------------------------------------------------------------/
+/	プラグインのインスタンス作成
+/----------------------------------------------------------------------------*/
+@if(!IS_TLE)
+kag.addPlugin(global.partbg_object = new PartBgPlugin(kag));	//	TLE ではTLE側で対応する
+
+//	プラグインリストへ登録する
+global.effectPluginList[global.partbg_object.name]	= global.partbg_object;
+
+
+
+
+
+/*----------------------------------------------------------------------------/
+/	特殊背景タグハンドラ
+/----------------------------------------------------------------------------*/
+var kt = kag.tagHandlers;
+
+// 特殊背景の読み込み
+/**TAG
+ *	partbg - 特殊背景レイヤーの表示
+ *	@param storage	画像ファイル名
+ *	@param bgstorage	同時に読み込む画面全体の背景画像ファイル名
+ *	@param bgleft		〃　の表示位置
+ *	@param bgtop		〃　の表示位置
+ *	@param page		ページ指定 (default:back)
+ *	@param id		複数の同一画像を使用する場合に付番する識別ID
+ *	@param index	前後位置
+ *	@param left		左上座標
+ *	@param top		左上座標
+ *	@param center	X軸方向の中心座標(default:base.width/2)
+ *	@param vcenter	Y軸方向の中心座標(default:base.height/2)
+ *	@param width	幅
+ *	@param height	高さ
+ *	@param bottom	下端の高さ
+ *	@param afx		拡大回転中心座標
+ *	@param afy		拡大回転中心座標
+ *	@param srcleft	切り出し元座標(srcafxからの相対オフセット)
+ *	@param srctop	切り出し元座標(srcafyからの相対オフセット)
+ *	@param srcafx	切り出し元の回転拡大中心座標
+ *	@param srcafy	切り出し元の回転拡大中心座標
+ *	@param srcrotate	切り出し元の回転指定
+ *	@param srczoomx		切り出し元の拡大指定
+ *	@param srczoomy		切り出し元の拡大指定
+ *	@param srczoom		切り出し元の拡大指定をX-Y同比率で設定する
+ *	@param srcopacity	切り出し元を描画するときの不透明度
+ *	@param xblur	横方向のブラー
+ *	@param yblur	縦方向のブラー
+ *	@param blur		縦横のブラーを同量で設定する
+ *	@param effect	画面効果
+ *	@param type		レイヤー合成タイプ
+ *	@param bordersize	枠幅
+ *	@param bordercolor	枠境界部の塗りつぶし色指定
+ *	@param rule		トランジションするときのルール(default:crossfade)
+ *	@param time		トランジション時間
+ *	@param vague	トランジションの滑らかさ
+ *	@param nowait	トランジションの終了を待つか(default:false)
+ *	@param canskip	トランジションの終了待ちをスキップできるか(default:true)
+ *	@param textoff	トランジションの前にテキストを消去するか(default:設定次第)
+ *	@param noclear	前景画像をクリアするかどうか(default:true)
+ *	@param opacity	不透明度(default:255)
+ *	@param visible	表示するか(default:true)
+ *		@memo: rule, time, vague の何れかを設定すると、トランジションを実行します
+ *		@link: partbg, clpartbg, partbgopt, chgpartbg, movepartbg, type
+ *		@group: 特殊背景プラグイン
+ */
+kt.partbg	= function(elm)
+{
+	//dm("partbg elm=" + getDebugStringFromElm(elm));
+	if( elm.layer === void )
+		elm.layer = "";
+
+	with(elm)
+	{
+		if(.storage == void){
+@if(DEBUG)
+			throw new Exception("storage が指定されていません。");
+@endif
+			return 0;
+		}
+		.page	= "back" if .page == void;
+		if(.page == "back" && (.preback || .preback===void) && (.rule != "" || .time != void || .vague != void) && !.noclear)
+			kag.backupLayer(%[], true);
+
+		.center	= defaultPartBgCenter if .center === void;
+		.vcenter= defaultPartBgVcenter if .vcenter === void;
+
+		if(.visible == void)	.visible = true;
+		tagHandlers.bg4partbg(elm);
+
+//		.mode = 1;
+		.part = true;	//特殊背景となる前景のみにプロパティ適用
+		.needlayer = true;
+//		dm("1:" + getDebugStringFromElm(elm));
+		return global.partbg_object.loadImages(elm);
+	}
+} incontextof kag;
+
+/**TAG
+ *	bg4partbg - 特殊背景レイヤーの表示と背景の同時読み込み
+ *	@param bgstorage	同時に読み込む画面全体の背景画像ファイル名
+ *	@param bgleft		〃　の表示位置
+ *	@param bgtop		〃　の表示位置
+ *		@link: partbg, clpartbg, partbgopt, chgpartbg, movepartbg, type
+ *		@group: 特殊背景プラグイン
+ */
+kt.bg4partbg	= function(elm)
+{
+	with(elm)
+	{
+		//	bgstorage指定時は独自に背景読み込みを行う
+		//	→	既に指定の画像になっていたら、重ねては行わない
+		if(.bgstorage !== void)// && kag[.page].base.storage != .bgstorage)
+		{
+			var newelm = %[];
+			newelm.page = .page;
+			newelm.storage = .bgstorage;
+			newelm.left	= .bgleft if .bgleft !== void;
+			newelm.top	= .bgtop if .bgtop !== void;
+			newelm.noclear = .noclear;
+			newelm.stop	= true;		//	実行中のアクションは停止する
+			return kag.tagHandlers.bg(newelm);
+		}
+		return 0;
+	}
+} incontextof kag;
+
+// 特殊背景の消去(無効状態フラグをたてて非表示にするだけ)
+/**TAG
+ *	clpartbg - 特殊背景レイヤーの消去
+ *			 id, storage指定しない場合は全消去
+ *	@param storage		画像ファイル名
+ *	@param page			ページ指定(default:back)
+ *	@param id			複数の同一画像を使用する場合に付番する識別ID
+ *	@param time			トランジション時間
+ *	@param vague		トランジションの滑らかさ
+ *	@param nowait		トランジションの終了を待つか(default:false)
+ *	@param canskip		トランジションの終了待ちをスキップできるか(default:true)
+ *	@param textoff		トランジションの前にテキストを消去するか(default:設定次第)
+ *	@param opacity		不透明度(default:255)
+ *	@param visible		表示するか(default:true)
+ *		@memo: rule, time, vague の何れかを設定すると、トランジションを実行します
+ *		@link: partbg, clpartbg, partbgopt, chgpartbg, movepartbg
+ *		@group: 特殊背景プラグイン
+ */
+kt.clpartbg = function(elm)
+{
+	elm.part = true;
+	elm.needlayer = false;
+	if(elm.page == void)
+		elm.page	= "back";
+	if(elm.page == "back" && (elm.preback || elm.preback===void) && (elm.rule != "" || elm.time != void || elm.vague != void))
+		kag.backupLayer(%[], true);
+	//消去する特殊背景を探す
+	var	layer;
+	if(elm.layer != "all" && (elm.id !== void || elm.storage !== void))
+	{
+		layer = global.partbg_object.getLayerFromElm(elm);
+		if( layer !== void )
+			layer.notuse = true;
+	}
+	if(layer == void)
+	{
+		//全削除
+		var tgt = global.partbg_object[elm.page];
+		for( var i=0; i<tgt.count; i++ )
+			tgt[i].notuse = true if tgt[i] != void;
+	}
+	return global.partbg_object.doTrans(elm);
+
+} incontextof kag;
+
+/**TAG
+ *	partbgopt - 特殊背景のパラメータ値変更
+ *	@param storage	画像ファイル名
+ *	@param page		ページ指定 (default:back)
+ *	@param id		複数の同一画像を使用する場合に付番する識別ID
+ *	@param index	前後位置
+ *	@param left		左上座標
+ *	@param top		左上座標
+ *	@param center	X軸方向の中心座標
+ *	@param vcenter	Y軸方向の中心座標
+ *	@param bottom	下端の高さ
+ *	@param afx		拡大回転中心座標
+ *	@param afy		拡大回転中心座標
+ *	@param srcleft	切り出し元座標(srcafxからの相対オフセット)
+ *	@param srctop	切り出し元座標(srcafyからの相対オフセット)
+ *	@param srcafx	切り出し元の回転拡大中心座標
+ *	@param srcafy	切り出し元の回転拡大中心座標
+ *	@param srcrotate	切り出し元の回転指定
+ *	@param srczoomx		切り出し元の拡大指定
+ *	@param srczoomy		切り出し元の拡大指定
+ *	@param srcopacity	切り出し元を描画するときの不透明度
+ *	@param bordersize	枠幅
+ *	@param bordercolor	枠境界部の塗りつぶし色指定
+ *	@param rule		トランジションするときのルール(default:crossfade)
+ *	@param time		トランジション時間
+ *	@param vague	トランジションの滑らかさ
+ *	@param nowait	トランジションの終了を待つか(default:false)
+ *	@param canskip	トランジションの終了待ちをスキップできるか(default:true)
+ *	@param textoff	トランジションの前にテキストを消去するか(default:設定次第)
+ *	@param opacity	不透明度(default:255)
+ *	@param visible	表示するか(default:true)
+ *		@memo: rule, time, vague の何れかを設定すると、トランジションを実行します
+ *		@link: partbg, clpartbg, partbgopt, chgpartbg, movepartbg
+ *		@group: 特殊背景プラグイン
+ */
+kt.partbgopt = function(elm)
+{
+	with(elm)
+	{
+		.part = true;
+		.needlayer = false;
+		if(.page == void)
+			.page	= "back";
+		var	dotrans	= (.rule != "" || .time != void || .vague != void);
+		if(.page == "back" && (.preback || .preback===void) && dotrans)
+			kag.backupLayer(%[], true);
+		//適用する特殊背景を探す
+		var lay = global.partbg_object.getLayerFromElm(elm);
+		if( lay !== void )
+			lay.setOptions(elm);
+		else
+		{
+//			dm("※対象となるpartbgが存在しないのため、全ての特殊背景を変更対象とします");
+			//全対象
+			var page = (.page !== void) ? .page : "back";
+			var tgt = global.partbg_object[page];
+			for( var i=0; i<tgt.count; i++ )
+			{
+				tgt[i].setOptions(elm);
+			}
+		}
+
+		if(dotrans)
+			return global.partbg_object.doTrans(elm);
+		else
+			return 0;
+	}
+} incontextof kag;
+
+/**TAG
+ *	chgpartbg - 特殊背景のパラメータ(主に画像)変更
+ *	@param id		複数の同一画像を使用する場合に付番する識別ID
+ *	@param storage	画像ファイル名
+ *	@param afx		拡大回転中心座標
+ *	@param afy		拡大回転中心座標
+ *	@param rotate	回転指定
+ *	@param blur		ぼかし指定
+ *	@param effect	画像効果指定
+ *	@param contrast	コントラスト指定
+ *	@param zoom		拡大率
+ *	@param textoff	トランジションの前にテキストを消去するか(default:設定次第)
+ *	@param rule		トランジションするときのルール(default:crossfade)
+ *	@param time		トランジション時間
+ *	@param vague	トランジションの滑らかさ
+ *	@param nowait	トランジションの終了を待つか(default:false)
+ *	@param canskip	トランジションの終了待ちをスキップできるか(default:true)
+ *	@param textoff	トランジションの前にテキストを消去するか(default:設定次第)
+ *		@group: レイヤ操作
+ */
+kt.chgpartbg = function(elm)
+{
+	with(elm)
+	{
+		.part	= true;
+		.needlayer	= false;
+		if(.page == void)
+			.page	= "back";
+		var	dotrans	= (.rule != "" || .time != void || .vague != void);
+		if(.page == "back" && (.preback || .preback===void) && dotrans)
+			kag.backupLayer(%[], true);
+
+		//	id の指定があるなら、探す
+		var	layer;
+		if(.id !== void)
+			layer	= global.partbg_object.getLayerFromElm(elm);
+
+		if(layer == void)
+		{
+			//	指定のページにpartbgが一つしか存在しないなら、それを対象とする
+			var	layers	= global.partbg_object[.page];
+			if(layers.count == 1)
+				layer	= layers[0];
+
+			//	一つもないなら、例外発生
+			else if(layers.count == 0)
+			{
+@if(DEBUG)
+				throw new Exception("chgpartbgの対象となるpartbgが存在しません。");
+@endif
+				return 0;
+			}
+
+			//	複数あるなら、名前の近いものを対象とする
+			else
+			{
+				var	maxlen = -1, no;
+				for(var i=0; i<layers.count; i++)
+				{
+					var	st	= layers[i].storage;
+					if(st == "")
+						continue;
+					var	len	= 0;
+					for(; len<st.length; len++)
+						if(st[len] != .storage[len])	break;
+					if(len > maxlen)
+					{
+						maxlen	= len;
+						no		= i;
+					}
+					else if(len == maxlen)
+					{
+						if(layers[no].visible)
+						{
+							if(layers[i].visible)
+							{
+@if(DEBUG)
+								throw new Exception("chgpartbgの対象となるpartbgが複数見つかりました。");
+@endif
+								return 0;
+							}
+						}
+						else if(layers[i].visible)
+							no	= i;	//	見えている方を優先
+					}
+				}
+				if(maxlen < 1)
+				{
+@if(DEBUG)
+					throw new Exception("chgpartbgの対象となるpartbgが存在しません。");
+@endif
+					return 0;
+				}
+				layer	= layers[no];
+			}
+		}
+		layer.setOptions(elm);
+
+		if(dotrans)
+			return global.partbg_object.doTrans(elm);
+		else
+			return 0;
+	}
+} incontextof kag;
+
+/**TAG
+ *	movepartbg - 特殊背景レイヤーを移動する
+ *				トランジションの場合はデフォルトで終了を待つ、moveの場合はデフォルトで待たない
+ *	@param storage	画像ファイル名
+ *	@param page		ページ指定 (default:back)
+ *	@param id		複数の同一画像を使用する場合に付番する識別ID
+ *	@param index	前後位置
+ *	@param center	X軸方向の中心座標
+ *	@param vcenter	Y軸方向の中心座標
+ *	@param afx		拡大回転中心座標
+ *	@param afy		拡大回転中心座標
+ *	@param srcleft	切り出し元座標(srcafxからの相対オフセット)
+ *	@param srctop	切り出し元座標(srcafyからの相対オフセット)
+ *	@param opacity	不透明度(default:255)
+ *	@param time		移動時間
+ *	@param accel	移動加速度(減速-5～0=等速～+5増速)
+ *	@param textoff	移動の前にテキストを消去するか(default:設定次第)
+ *	@param texton	移動の前にテキストを消去しないか(default:設定次第)
+ *		@memo: rule, time, vague の何れかを設定すると、トランジションを実行します
+ *		@link: partbg, clpartbg, partbgopt, chgpartbg, movepartbg
+ *		@group: 特殊背景プラグイン
+ */
+kt.movepartbg = function(elm)
+{
+	with(elm)
+	{
+		//	準備
+		var	dotrans	= .rule != "";
+		.page	= dotrans ? "back" : "fore" if .page === void;	//	トランジションするならデフォルトは back
+		if(.page == "back" && (.preback || .preback===void) && .rule != "")
+			kag.backupLayer(%[], true);
+
+		if( .ispart === void && .part === void )
+		{
+			.ispart = true;
+		}
+		var	layer	= global.partbg_object.getLayerFromElm(elm);
+		if(layer === void)
+		{
+//			dm(getDebugStringFromElm(elm,"movepartbg: elm="));
+@if(DEBUG)
+			throw new Exception("対象となる特殊背景("+(.storage != "" ? "storage="+.storage : (.layer !== void ? "layer="+.layer : "no arg"))+"/"+.page+")が存在しません。");
+@endif
+			return 0;
+		}
+		if(.pos !== void)
+		{//	位置指定
+			.pos	= correctPosName[.pos];
+			.center	= kag.scPositionX[.pos];	//	pos に対応する座標
+//				.bottom	= this[.page].base.height;	//	画面下端
+			layer.Anim_loadParams.pos	= .pos if layer.Anim_loadParams != void;
+		}
+		if(.center !== void)
+			.left	= layer.center2left(.center);
+		if(.vcenter !== void)
+			.top	= layer.center2top(.vcenter);
+
+		//	移動
+		if(dotrans)
+		{//	トランジションで移動
+			//	画像を所定の位置へ移動させ
+			layer.left		= .left if .left !== void;
+			layer.top		= .top if .top !== void;
+			layer.opacity	= .opacity if .opacity !== void;
+			layer.srcleft	= .srcleft if .srcleft !== void;
+			layer.srctop	= .srctop if .srctop !== void;
+			return doTrans(elm);	//	トランジション実行
+		}
+		else if(.time !== void || .accel !== void)
+		{//	move で移動
+			.time	= .time === void ? 800 : +.time;
+			.accel	= .accel === void ? 0 : +.accel;
+
+			//	action で move する
+			var	accel	= 0;
+			if(.accel == 0)		accel	= 0;
+			else if(.accel > 4)	accel	= 14;
+			else if(.accel > 3)	accel	= 10;
+			else if(.accel > 2)	accel	= 6;
+			else if(.accel > 1)	accel	= 2;
+			else if(.accel < -4)accel	= 15;
+			else if(.accel < -3)accel	= 11;
+			else if(.accel < -2)accel	= 7;
+			else if(.accel < -1)accel	= 3;
+
+			//	変化のあるもののみactionに追加する
+			var	names	= [ "center", "vcenter", "opacity", "srcleft", "srctop" ];
+			var	props	= [];
+			var	keys	= [[0, accel, "l"], [.time, accel, void]];
+			for(var i=0; i<names.count; i++)
+			{
+				var	prop	= names[i];
+				var	value	= +elm[prop];
+				if(value !== void)
+				{
+					var	initval	= elm["init"+prop] !== void ? elm["init"+prop] : layer[prop];
+					if(value != initval)
+					{
+						props.add(prop);
+						keys[0].add(initval);
+						keys[1].add(value);
+					}
+				}
+			}
+
+			var	mp	= %[
+				tagname:"action",
+				target:layer,
+				ispart:true,
+				module:MixedKeyFrameActionModule,
+				startTime:System.getTickCount(),	//	必ず指定が必要(前回のmoveが継続してしまうので)
+				acttype:"move",
+				noinit:true,
+				textoff:.textoff,
+				texton:.texton,
+				props:props,
+				keys:keys,
+			];
+			kag.tagHandlers.action(mp);
+			if(.both)
+			{
+				//	both=表裏両面で同じ処理を実行
+				.page	= .page == "back" ? "fore" : "back";
+				.both	= void;
+				.initcenter	= layer.center;
+				.initvcenter= layer.vcenter;
+				.initopacity= layer.opacity;
+				.initsrcleft= layer.srcleft;
+				.initsrctop	= layer.srctop;
+				return kt.movepartbg(elm);
+			}
+			if(.wait != void && .nowait===0)
+				return kag.tagHandlers.wact(mp);
+			else
+				return 0;
+		}
+		else
+		{//	即座に指定の位置へ移動
+			layer.left		= .left if .left !== void;
+			layer.top		= .top if .top !== void;
+			layer.opacity	= .opacity if .opacity !== void;
+			layer.srcleft	= .srcleft if .srcleft !== void;
+			layer.srctop	= .srctop if .srctop !== void;
+		}
+	}
+	return 0;
+
+} incontextof kag;
+
+/**TAG
+ *	partbgact - 特殊背景用のアクション短縮形
+ *	@param page			ページ(default:fore)
+ *	@param id			複数の同一画像を使用する場合に付番する識別ID
+ *	@param bgleft		〃　の表示位置
+ *	@param bgtop		〃　の表示位置
+ *	@param layer		レイヤー番号
+ *	@param target		レイヤーオブジェクトもしくはレイヤーオブジェクトを示すTJS式
+ *	@param storage		画像ファイル名
+ *	@param bgstorage	同時に読み込む画面全体の背景画像ファイル名
+ *	@param xblur		横方向のブラー
+ *	@param yblur		縦方向のブラー
+ *	@param blur			縦横のブラーを同量で設定する
+ *	@param action		アクション構造を示すTJS式
+ *	@param module		アクションの種類を示すモジュール
+ *	@param time			アクションの時間
+ *	@param delay		アクション開始の遅延時間
+ *	@param hide			アクション終了後、対象を非表示にするか(default:false)
+ *	@param keys			propsと併せてKeyFrameActionで使用するキー値の列挙
+ *	@param props		keysと併せてKeyFrameActionで使用するプロパティ名の列挙
+ *	@param noinit		規定プロパティ値に初期化をするか
+ *	@param texton		メッセージウィンドウを残したアクション指定
+ *	@param textoff		textonの逆
+ *	@param init			初期化指定
+ *	@param startTime	開始時刻
+ *	@param usecurrent	初期値に現在のオブジェクト状態をそのまま使う
+ *	@param acttype		特定の動作をするアクションで個別に振る判別名称
+ *	@param ispart		単体のactionから呼ばれる場合に=1として呼び出す
+ *	@param needlayer	新規に表示する場合に生成を行うか
+ *
+ *		@link action
+ *		@group:	レイヤ操作(アクション)
+ */
+kt.partbgact	= function(mp)
+{
+	//	texton,textoff の指定ににより、実行する前にメッセージレイヤーを隠す(すでに隠れているなら void を返す)
+	var	ret	= hidebeforeexecute(mp);
+	if(ret !== void)
+		return ret;
+
+	mp.ispart	= true;
+	tagHandlers.bg4partbg(mp);
+	return tagHandlers.action(mp);
+} incontextof kag;
+
+/**TAG
+ *	bindpartbg - 特殊背景と内部レイヤーとの関係を固定または変更する
+ *	@param page		ページ(default:fore)
+ *	@param id		複数の同一画像を使用する場合に付番する識別ID
+ *	@param storage	画像ファイル名
+ *	@param enabled	内部の移動(srcleft,srctop)にあわせて内部のレイヤーを移動させる
+ *	@param rb		座標系の基準を右下にする(width,height を大きくしたとき、内部レイヤーが右下へ移動する)
+ *		@memo:	特殊背景の動きに合わせて内部レイヤーを動かし、更に内部レイヤーを独立した動きに
+ *				したい場合には本タグをenabled=0として個別に動かす事
+ *		@group: 特殊背景プラグイン
+ */
+kt.bindpartbg	= function(elm)
+{
+	with(elm)
+	{
+		.ispart	= true;
+		var	partbg	= global.partbg_object.getLayerFromElm(elm);
+		if(partbg != void)
+		{
+			partbg.bindChildren		= .enabled if .enabled !== void;
+			partbg.bindChildrenRB	= .rb if .rb !== void;
+		}
+		else
+			dm("対象となる partbg が見つかりませんでした");
+	}
+	return 0;
+} incontextof kag;
+
+/**TAG
+ *	settimerate(PartBg) - アクションの時間経過率を変更する.
+ *	partbg 用に修正
+ *	@param partbgstorage partbgの画像を指定
+ *		@group:	レイヤ操作(アクション)
+ */
+kt.partbg_overrided_settimerate	= kt.settimerate;
+kt.settimerate	= function(elm)
+{
+	if(elm.partbgstorage !== void)
+	{
+		elm.ispart	= true;
+		elm.storage	= elm.partbgstorage;
+	}
+	return tagHandlers.partbg_overrided_settimerate(elm);
+} incontextof kag;
+
+/*
+ *	partbg の内部に前景レイヤーを入れるための措置
+ */
+kt.partbg_overrided_fg	= kt.fg;
+kt.fg	= function(elm)
+{
+	//	partbg, partbgid の指定がある場合は、事前に backlay を行わない
+	elm.preback	= false if elm.partbg != void || elm.partbgid !== void;
+	return tagHandlers.partbg_overrided_fg(elm);
+} incontextof kag;
+
+@if(1)	//	本当はオミットすべきだが、問題が出ているところ(6-2.ks)だけ修正する
+kt.partbg_overrided_clfg	= kt.clfg;
+kt.clfg	= function(elm)
+{
+	elm.preback	= false if elm.partbg != void || elm.partbgid !== void;
+	return tagHandlers.partbg_overrided_clfg(elm);
+} incontextof kag;
+
+kt.partbg_overrided_chgfg	= kt.chgfg;
+kt.chgfg	= function(elm)
+{
+	elm.preback	= false if elm.partbg != void || elm.partbgid !== void;
+	return tagHandlers.partbg_overrided_chgfg(elm);
+} incontextof kag;
+
+kt.partbg_overrided_movefg	= kt.movefg;
+kt.movefg	= function(elm)
+{
+	elm.preback	= false if elm.partbg != void || elm.partbgid !== void;
+	return tagHandlers.partbg_overrided_movefg(elm);
+} incontextof kag;
+@endif
+
+@if(DEBUG)
+var	partbgNeutralColor	= 0xFFFFFF00;
+@endif
+@if(!DEBUG)
+var	partbgNeutralColor	= 0xFF000000;
+@endif
+var	partbgAlphaEquation	= 20;
+
+//**********************************************************
+//	PartBgLayer 特殊背景機能をもつ前景レイヤーの定義
+//**********************************************************
+class PartBgLayer extends BasicCharacterLayer
+{
+	var idx = 0;		//特殊背景プラグインが管理している配列番号
+
+	//bordersizeメンバ追加、特殊背景の場合のグラデーション枠部幅
+	var _bordersize = defaultPartBgBorderSize;
+	var _bordercolor = defaultPartBgBorderColor;	//	同上
+	//特殊背景用転送元画像の切り出し位置情報
+	var _srcleft = defaultPartBgSrcLeft;
+	var _srctop = defaultPartBgSrcTop;
+	//特殊背景用転送時拡大縮小回転指定
+	var _srczoomx = defaultPartBgSrcZoomx;
+	var _srczoomy = defaultPartBgSrcZoomy;
+	var _srcrotate = defaultPartBgSrcRotate;
+	var	_srcopacity = defaultPartBgSrcOpacity;
+	var _srcafn_offx = defaultPartBgSrcAfx;
+	var _srcafn_offy = defaultPartBgSrcAfy;
+	var __act_srcx = 0;
+	var __act_srcy = 0;
+
+	var _srcwidth = 32;
+	var _srcheight = 32;
+
+	var _extractWidth = 0;		//回転拡大後のイメージを展開した場合の実サイズ
+	var _extractHeight = 0;
+
+	var ispart = true;
+	var part = true;
+	var _notuse = true;
+
+	var _eaf;		//Easy Affine Transform
+	var _ieaf;		//Invert Easy Affine Transform
+
+	var	layers	= [];
+	var	isDrawBorder	= false;	//	_image に枠が描かれているか(zoomx!=100 とかのときも)
+
+	function PartBgLayer(win, par, name, id)
+	{
+		super.BasicCharacterLayer(...);
+		with(this)
+		{
+			.name = name;
+			._srcafn_offx = AFFINEOFFSET_CENTER;
+			._srcafn_offy = AFFINEOFFSET_CENTER;
+			.__act_srcx = 0;
+			.__act_srcy = 0;
+			.neutralColor	= partbgNeutralColor;
+			screenSizeLayer = false;
+			addImage(, true) if _orgimage == this;	//	スクリーンサイズではないが、_orgimage は使用する
+		}
+		_eaf	= new EasyAffineTransform();
+		_ieaf	= new EasyAffineTransform();
+	}
+
+	function finalize()
+	{
+		for(var i=0; i<layers.count; i++)
+			invalidate layers[i] if layers[i] != void;
+		for(var i=0; i<borders.count; i++)
+			invalidate borders[i] if borders[i] != void;
+		invalidate _ieaf if _ieaf != void;
+		invalidate _eaf if _eaf != void;
+		_eaf = _ieaf = void;
+		super.finalize();
+	}
+/*
+	property name
+	{
+		setter(v)
+		{
+			dmt("name " + super.name + "→" + v);
+			super.name = v;
+		}
+		getter
+		{
+			return super.name;
+		}
+	}
+*/
+	//	内部レイヤーを探す
+	function findLayer(elm)
+	{
+		with(elm)
+		{
+			//	文字列の異なる部分長さを取得
+			var	getDifferLength	= function(a, b)
+			{
+				var	len	= a.length;
+				for(var i=0; i<len; i++)
+				{
+					if(a[i] != b[i])
+						return len - i;
+				}
+				return 0;
+			};
+			var	choiced;
+			var	stlen	= .storage != void ? .storage.length : 10000;
+			var	slen	= stlen;
+//			dm("target.storage = "+.storage+", id = "+.id);
+			for(var i=0; i<layers.count; i++)
+			{
+				var	layer	= layers[i];
+				if(layer == void || !layer.using)
+					continue;
+
+				//	id が指定されていて、idが同じ
+//				dm("layers["+i+"].storage = "+layer.storage+" / .id = "+layer.layerID);
+				if(.id !== void && layer.layerID == .id)
+				{
+					if(choiced != void)
+					{
+@if(DEBUG)
+						dm("0: "+choiced.name, choiced.using, choiced.layerID, choiced.storage);
+						dm("1: "+.name, .using, .layerID, .storage);
+						throw new Exception("id="+.id+" に対応するpartbg内レイヤーが複数見つかりました。");
+@endif
+						return void;
+					}
+					choiced	= layer;
+					slen	= 0;
+				}
+
+				else
+				{
+					//	ファイル名が全く同じ
+//					dm("layer.storage == .storage: "+(layer.storage == .storage));
+					if(layer.storage != void && layer.storage == .storage)
+					{
+						if(choiced != void && slen == 0)
+						{
+@if(DEBUG)
+							dm("0: "+choiced.name, choiced.using, choiced.layerID, choiced.storage);
+							dm("1: "+.name, .using, .layerID, .storage);
+							throw new Exception("id="+.id+" / storage="+.storage+" に対応するpartbg内レイヤーが複数見つかりました。");
+@endif
+							return void;
+						}
+						choiced	= layer;
+						slen	= 0;
+					}
+					else if(layer.storage != void && .storage != void)
+					{
+						//	ファイル名が異なる
+						var	len	= getDifferLength(.storage, layer.storage);
+						if(slen > len)
+						{//	異なる部分の長さが短い
+							choiced	= layer;
+							slen	= len;
+						}
+					}
+				}
+			}
+//			dm("slen = "+slen+" / stlen = "+stlen+" / choiced = "+choiced);
+			if(slen < stlen)
+				return choiced;	//	id が同じ / storage が同じ / storage がもっとも似ているもの
+			else
+				return void;	//	idもstorageも異なり、storage が一部も似てない場合
+		}
+	}
+
+	//	内部レイヤーを追加
+	function addLayer()
+	{
+		//	使われていないものがあれば再利用
+		for(var i=0; i<layers.count; i++)
+		{
+			if(!layers[i].using)
+			{
+				layers[i].using	= true;
+				return layers[i];
+			}
+		}
+
+		//	なければ、新しく作成する
+		var	layer	= new CharacterLayer4partbg(window, this, "partbg内レイヤ" + layers.count, layers.count);
+		layer.using	= true;
+		layers.add(layer);
+		var	blayer	= new CharacterLayer4partbg(window, comp, layer.name, layer.id);
+		blayer.using= false;
+		comp.layers.add(blayer);
+		layer.setCompLayer(blayer);
+		blayer.setCompLayer(layer);
+
+		return layer;
+	}
+
+	//	内部レイヤーを解放
+	function freeLayer(elm)
+	{
+		if(elm != void)
+		{
+			var	layer	= findLayer(elm);
+			layer.freeImage() if layer != void;
+		}
+		else
+		{
+			for(var i=0; i<layers.count; i++)
+				layers[i].freeImage() if layers[i] != void;
+		}
+	}
+
+	//	内部レイヤーをクリア
+	function clearLayers()
+	{
+		for(var i=0; i<layers.count; i++)
+			invalidate layers[i] if layers[i] != void;
+		layers.clear();
+	}
+
+	function updateLayers()
+	{
+		for(var i=0; i<layers.count; i++)
+			layers[i].calcAffine() if layers[i] != void;
+	}
+
+	function calcAffine(frombase=false)
+	{
+		super.calcAffine();
+		updateLayers() if frombase;	//	baseレイヤーからの calcAffine 指令なら、layers も行う
+	}
+
+	var	isSemiTransparentImage;	//	半透明な画像を読み込んでいるか？
+	function loadImages(elm)
+	{
+		if( elm === void ) return;
+
+		// elm に記述されている内容に従ってこのレイヤに画像を読み込む
+		clearProvinceActions();
+		loadedProvinceImage = "";
+
+		//特殊背景の転送元切り出し情報を獲得
+		srcleft = +elm.srcleft if elm.srcleft !== void;
+		srctop = +elm.srctop if elm.srctop !== void;
+		srczoomx = +elm.srczoomx if elm.srczoomx !== void;
+		srczoomy = +elm.srczoomy if elm.srczoomy !== void;
+		srcrotate = +elm.srcrotate if elm.srcrotate !== void;
+		srcopacity = +elm.srcopacity if elm.srcopacity !== void;
+		srcafx = elm.srcafx if elm.srcafx !== void;
+		srcafy = elm.srcafy if elm.srcafy !== void;
+		//dm("loadImages srcafx=" + srcafx + " srcafy=" + srcafy);
+
+		//	extend_loadImages が setSizeToImageSize を実行するため、指定されている大きさが維持されない
+		//	→	サイズを記憶しておき、読み込み後復帰させる
+		var	w = width, h = height;
+		extend_loadImages(...);
+		AfterloadImage(elm);
+		setSize(w, h);
+
+		//	半透明の画像を読み込んだか記憶する
+		//		四隅のいずれもが不透明なとき以外は、半透明画像と判断する
+		with(_orgimage)
+			isSemiTransparentImage	= .getMaskPixel(0, 0) < 255 || .getMaskPixel(.imageWidth-1, 0) < 255 ||
+				.getMaskPixel(0, .imageHeight-1) < 255 || .getMaskPixel(.imageWidth-1, .imageHeight-1) < 255;
+
+		//環境光
+		if( elm.storage !== void && elm.storage != "" )
+		{
+			//	読み込んだ画像に対応する環境光の効果を取得
+			var	st	= Storages.chopStorageExt(Storages.extractStorageName(elm.storage));
+			var	ce	= BG2EnvList[st];	//	背景画像名が登録されていればそれで
+			if(ce === void && regBGKeyword.test(st))		//	登録されていなければ
+				ce	= BG2EnvList[regBGKeyword.matches[1]];	//	()の中の文字列で対応を探す
+
+			childEffect = ce;
+
+			//背景の小画面に更新を通知する childEffect:背景自身に無い場合は特殊背景をサーチ / _childEffect:背景自身の環境光
+			if( parent.childEffect != parent._childEffect )
+			{
+				for(var i=0; i<parent.children.count; i++)
+					parent.children[i].update() if parent.children[i] instanceof "BasicCharacterLayer";
+			}
+
+			//	画像を読み込んだ事を記録
+			sf.displayedPictures	= %[] if sf.displayedPictures == void;
+			sf.displayedPictures[st.toLowerCase()]++;
+		}
+
+		//	前景画像なら透明にする
+		neutralColor	= /^[a-z]/.test(Storages.extractStorageName(elm.storage)) ? partbgNeutralColor : 0x00000000;
+		isDrawBorder	= false;
+
+		if( ! inInit && ( elm.visible === void || elm.visible ))
+			visible = true;
+
+//		fillRect( 0, 0, width, height, 0 );	//	消去は不要(消去するなら、isDrawBorder=trueにする必要あり)
+		//サイズが指定されている場合には強制的に変更
+		if( elm.width !== void && width != elm.width)
+		{
+			//dm("loadImages: _image.width=" + _image.width );
+			width = elm.width;
+			if( Anim_loadParams !== void ){
+				Anim_loadParams.width = width;
+			}
+		}
+		if( elm.height !== void && height != elm.height)
+		{
+			//dm("loadImages: _image.height=" + _image.height );
+			height = elm.height;
+			if( Anim_loadParams !== void ){
+				Anim_loadParams.height = height;
+			}
+		}
+
+		if(elm !== void)
+		{
+			if(elm.mapimage !== void) super.loadProvinceImage(elm.mapimage); // 領域画像を読む
+			if(elm.mapaction !== void)
+			{
+				internalLoadProvinceActions(elm.mapaction); // 領域アクションを読む
+			}
+			else
+			{
+				var name;
+				var storage = Storages.getPlacedPath(
+					name = (Storages.chopStorageExt(elm.storage) + ".ma")); // 拡張子が .ma のファイル
+				if(storage != '')
+					loadProvinceActions(name);
+			}
+		}
+	}
+
+	var _childEffect;
+	property childEffect{
+		setter(v)	{	if( _childEffect != v )	_childEffect = v;	}
+		getter		{	return _childEffect;	}
+	}
+
+	var reloaded = false;
+	function onPaint(force=false)
+	{
+//		dm(name+".onPaint(): notuse = "+notuse+" / "+super.opacity+" > 0 && ("+isFore+" || "+useTrans+" || "+window.baseTransCount+")");
+		if(notuse)
+			return;
+		if((super.opacity > 0 && (isFore || useTrans || window.baseTransCount)) || force)
+		{
+@if(CHECKNEEDPERFORMANCE)
+			global.checkneedperformance.countOnPaint(this);
+@endif
+//			dm(name+": "+storage+", "+srcleft+", "+srctop+", "+srcafx+", "+srcafy+", "+srcrotate+", "+srczoomx+", "+srczoomy+", "+srcopacity+", "+bordercolor);
+			var	elm	= %[];
+			(Dictionary.assign incontextof elm)(Anim_loadParams) if Anim_loadParams != void;
+			if(!isSimpleState)
+			{
+				reloaded = false;
+				extraBackFrame(force);
+			}
+			else
+			{
+				//	_imageをオリジナルに戻す(描画された枠を取り除く)
+				if(isDrawBorder)
+				{
+					isDrawBorder	= false;
+				}
+			}
+			applyColorCorrection_in_onPaint(this, elm);	//	_image に対する画像処理(単色、コントラスト、ブラー、揺らぎ、ノイズ等)
+			global.AnimationLayerOriginal.onPaint();
+			AffineLayer_onPaint();	//AffineLayerにてオーバーライドされている内容の機能移植(Affine計算系)
+		}
+		else
+			update();
+	}
+
+	function forcePaint()
+	{
+		super.forcePaint(...);
+		for(var i=0; i<layers.count; i++)
+			layers[i].forcePaint() if layers[i] != void && layers[i].using;
+	}
+
+	function cancelUpdate()
+	{
+		super.cancelUpdate();
+		for(var i=0; i<layers.count; i++)
+			layers[i].cancelUpdate() if layers[i] != void;
+	}
+
+	//	partbg 自体が拡大したり、傾いていない
+	property isSimpleState	{ getter { return zoomx == 100 && zoomy == 100 && rotate == 0; } }
+
+	property islr	{ getter { return width >= window.scWidth; } }
+	property isud	{ getter { return height >= window.scHeight; } }
+
+	function freeimage()
+	{
+		super.freeimage();
+		freeBorders(0);
+	}
+
+	var	borders	= [];	//	別レイヤーとなる枠
+	function getBorder(index, w, h, c, par=parent)
+	{
+		if(borders[index] == void)
+			borders[index]	= new global.Layer(window, par);
+		with(borders[index])
+		{
+			.name		= name+"("+storage+") の枠";
+			if(w !== void)
+			{
+				.parent		= par;
+				if(w >= 1 && h >= 1 && (.width !== w || .height !== h || .color != c))
+				{
+					setAlphaImageColor(bordercolor);
+					.setImageSize(w, h);
+					.setSizeToImageSize();
+					.clearEdge(1);
+					.color	= c;
+				}
+			}
+			.absolute	= .parent != this ? absolute + 1 : 1000000;
+			.opacity	= .parent != this ? opacity : 255;
+			.hitThreshold	= 256;
+			.visible	= true;
+		}
+		return borders[index];
+	}
+
+	function freeBorders(st)
+	{
+		while(borders.count > st)
+		{
+			invalidate borders[st] if borders[st] != void;
+			borders.erase(st);
+		}
+	}
+
+	function clearEdge(size)
+	{
+		with(global.KAGLayer)
+		{
+			if(!islr)
+			{
+				if(!isud)
+					.clearEdge(size, .imageWidth, .imageHeight);
+				else
+				{
+					.fillRect(0, 0, size, .imageHeight, 0);
+					.fillRect(.imageWidth-size, 0, size, .imageHeight, 0);
+				}
+			}
+			else if(!isud)
+			{
+				.fillRect(0, 0, .imageWidth, size, 0);
+				.fillRect(0, .imageHeight-size, .imageWidth, size, 0);
+			}
+		}
+	}
+
+	function AffineLayer_onPaint(mx, my)
+	{
+		//	partbg 自体が拡大されていたり傾いていたら、
+		if(!isSimpleState)
+		{
+			freeBorders(0);
+			super.AffineLayer_onPaint(...);
+		}
+
+		//	シンプルなpartbgの描画を行う
+		else
+		{
+			if(_doAffine)
+			{
+				with(global.KAGLayer)
+				{
+					var	lastface	= face;
+					var	l	= 0, t = 0;
+					var	w	= width + 1, h = height + 1;
+					var	iw	= w, ih = h;
+
+					//	1ピクセル以下の誤差
+					var	dl	= left - int left;
+					var	dt	= top - int top;
+//					dm(left+", "+top+" = "+int(left)+", "+int(top)+" / "+dl+", "+dt);
+
+					loadAlphaImage();
+					iw	+= screen_plus_alpha * 2 if islr;
+					ih	+= screen_plus_alpha * 2 if isud;
+//					dm(name+".setSize: "+w+", "+h);
+					.setImageSize(iw, ih);
+					.setSize(w, h);
+
+@if(DEBUG && GREEN_TRANSPARENT_AREA)
+					//	画像がない部分がわかるよう、デバッグ時は色を入れておく
+					.fillRect(0, 0, iw, ih, 0xff00ff00) if srcopacity == 255;
+@endif
+
+					//	partbg のサイズより枠のサイズが大きくならないようにする
+					var	maxbordersize;
+					var	last = bordersize;
+					if(!islr)
+					{
+						if(!isud)
+							maxbordersize	= Math.min(width, height) * 0.5;
+						else
+							maxbordersize	= width * 0.5;
+					}
+					else
+						maxbordersize	= height * 0.5;
+					bordersize	= Math.min(bordersize, maxbordersize);
+					callOnPaint	= false;	//	bordersize 内の calcAffine で update が実行されるが、直後に描画するため不要となるので
+
+					var	bs	= int bordersize;
+					var	bs2	= bs * 2;
+					if(bordercolor !== void)
+					{
+						//	クリッピングと表示位置調整
+						if(!islr)
+						{
+							if(!isud)
+								.setClip(bs, bs, .imageWidth-bs2, .imageHeight-bs2);
+							else
+							{
+								t	-= screen_plus_alpha;
+								.setClip(bs, 0, .imageWidth-bs2, .imageHeight);
+							}
+						}
+						else if(!isud)
+						{
+							l	-= screen_plus_alpha;
+							.setClip(0, bs, .imageWidth, .imageHeight-bs2);
+						}
+						else
+						{
+							l	-= screen_plus_alpha;
+							t	-= screen_plus_alpha;
+						}
+
+						//	内部の転送
+						drawInner(l-dl, t-dt);
+						.setClip();
+
+						//	drawInner するとき、dl, dt がわずかでもあると表示にズレが発生してしまうので、このタイミングで補正する
+						dl	= int(dl * 100) * 0.01;		//	0.003程度になると誤差の影響で隙間が発生するため、最小値を 0.01 に設定
+						dt	= int(dt * 100) * 0.01;		//	同様に0.995を超えると隙間が発生するので、切り捨てる
+
+						//	枠ありで内部にレイヤーを表示しているときは、枠を内と外の別レイヤーで表示する
+						//	内部を半透明描画しているときは共通の別レイヤーで枠を表示する
+						var lcount = 0;
+						for( var i=0; i<layers.count; i++ )
+							if(layers[i].using)
+								lcount++;
+						//dm("layers.count = " + layers.count + " using=" + lcount);
+						if(lcount > 0 || srcopacity != 255)
+						{
+							//	枠の作成
+							if(bordersize > 0)
+								createBorder(dl, dt);
+							else
+								freeBorders(0);
+
+							//	枠の外側部分は透明にする
+							clearEdge(bs);
+						}
+						else
+						{
+							freeBorders(0);
+
+							.face	= dfBoth;
+							setAlphaImageColor(bordercolor);
+							drawFrame(dl, dt);	//	枠を描画
+							.face	= lastface;
+							clearEdge(1);	//	周囲1ピクセルは綺麗にする(透明にならないことが右端・下端で発生するため)
+						}
+
+					}
+					else
+					{
+						freeBorders(0);
+
+						l	-= screen_plus_alpha if islr;
+						t	-= screen_plus_alpha if isud;
+						drawInner(l-dl, t-dt);		//	内部の転送
+						.face	= dfMask;
+						drawOuterMask(l-dl, t-dt);	//	外側のマスクを描画
+						.face	= lastface;
+						clearEdge(1);	//	周囲1ピクセルは綺麗にする(透明にならないことが右端・下端で発生するため)
+					}
+					if(bordersize != last)
+					{
+						bordersize	= last;
+						callOnPaint	= false;	//	bordersize 内の calcAffine で update が実行されるが、直後に描画するため不要となるので
+					}
+				}
+				_doAffine	= false;
+
+@if(RECORD_LAYER_STATE)
+				var	layer;
+				if(layerstates[layerstateno] != void)
+					layer	= layerstates[layerstateno];
+				else
+					layerstates.add(layer = new global.Layer(window, window.primaryLayer));
+				layerstateno++;
+				layer.setImageSize(realImageWidth, realImageHeight);
+				layer.assignImages(this);
+@endif
+			}
+			if(_doOffset)
+			{
+				doOffset();
+				_doOffset	= false;
+			}
+		}
+	}
+//	var	lastRealLeft, lastRealTop, lastpoint, lastrealtick;
+
+	function doOffset(mx, my)
+	{
+		if(borders.count > 0)
+		{
+			//	枠レイヤーの位置を調整
+			var	l	= mx + int left, t = my + int top;
+			var	bs	= bordersize;
+			var	bs2	= bs << 1;
+			if(!islr)
+			{
+				if(!isud)
+				{
+					l	+= _act_x, t += _act_y;
+					with(getBorder(0))	.setPos(l, t);
+					with(getBorder(1))	.setPos(l, t+bs);
+					with(getBorder(5))	.setPos(l+width-.width+1, t+bs);
+					with(getBorder(7))	.setPos(l, t+height-.height+1);
+
+					with(getBorder(2))	.setPos(bs, bs2+1);
+					with(getBorder(3))	.setPos(bs, bs);
+					with(getBorder(4))	.setPos(width-bs2+1, bs2+1);
+					with(getBorder(6))	.setPos(bs, height-bs2);
+				}
+				else
+				{
+					l	+= _act_x;
+					t	= 0;
+					getBorder(0).setPos(l, t);
+					getBorder(1).setPos(bs, 0);
+					getBorder(2).setPos(width - bs2, 0);
+					with(getBorder(3))	.setPos(l + width - .width + 1, t);
+				}
+			}
+			else if(!isud)
+			{
+				l	= 0;
+				t	+= _act_y;
+				getBorder(0).setPos(l, t);
+				getBorder(1).setPos(0, bs);
+				getBorder(2).setPos(0, height - bs2);
+				with(getBorder(3))	.setPos(l, t + height - .height + 1);
+			}
+		}
+		mx	-= screen_plus_alpha if islr;
+		my	-= screen_plus_alpha if isud;
+		var	pos	= calcAct(mx, my);
+		with(global.KAGLayer)
+		{
+			if(!islr)
+			{
+				if(!isud)
+				{
+					.setPos(int left + pos[0], int top + pos[1]);
+					.setImagePos(0, 0);
+				}
+				else
+				{
+					.setPos(int left + pos[0], 0);
+					.setImagePos(0, Math.max(Math.min(pos[1], 0), .height - .imageHeight));
+				}
+			}
+			else if(!isud)
+			{
+				.setPos(0, int top + pos[1]);
+				.setImagePos(Math.max(Math.min(pos[0], 0), .width - .imageWidth), 0);
+			}
+			else
+			{
+				.setPos(0, 0);
+				.setImagePos(
+					Math.max(Math.min(pos[0], 0), .width - .imageWidth),
+					Math.max(Math.min(pos[1], 0), .height - .imageHeight)
+				);
+			}
+		}
+	}
+
+	//	内部の転送(AffineLayer_onPaint と同じような処理)
+	//	※	_orgimage からだと、各種効果が掛かっていない状態になる
+	//		→	何とか調整して、_imageからコピーできるように(_imageをAnimationLayerと同じレベルに戻す作業)
+	function drawInner(l=0, t=0)
+	{
+		if(_eaf == void || _ieaf == void)
+			return;
+
+		if(storage != "")
+		{
+			var	eaf	= getCurrentEAF();
+			var	offx= l + srcleft + +__act_srcx + affineSource.margin;
+			var	offy= t + srctop  + +__act_srcy + affineSource.margin;
+//			dm("drawInner("+l+", "+t+") = "+offx+", "+offy+"("+(offx-lastoffx)+", "+(offy-lastoffy)+") / "+srcleft+", "+srctop);
+//			dm("********** "+name+".drawInner: "+l+", "+t+", offx="+offx+", offy="+offy);
+			var	tw	= affineSource.imageWidth;
+			var	th	= affineSource.imageHeight;
+			var	extPos	= getTransformedImageRect(eaf, tw, th);
+//			dm("offx = "+l+" + "+srcleft+" + "+__act_srcx+" / offy = "+l+" + "+srctop+" + "+__act_srcy);
+			for(var i=0; i<4; i++)
+			{
+				extPos[i][0]	-= offx;
+				extPos[i][1]	-= offy;
+			}
+//			dm("********** "+extPos[0][0]+", "+extPos[0][1]+" - "+extPos[1][0]+", "+extPos[1][1]+" - "+extPos[2][0]+", "+extPos[2][1]+" - "+extPos[3][0]+", "+extPos[3][1]);
+			try
+			{
+				if(srcopacity < 255 && !needOpaqueDraw)
+				{
+					with(global.KAGLayer)
+					{
+						var	lastface = .face, lastha = .holdAlpha;
+						.face		= dfOpaque;
+						.holdAlpha	= false;
+						.operateAffine(affineSource, 0, 0, tw, th, false,
+							extPos[0][0], extPos[0][1], extPos[1][0], extPos[1][1], extPos[2][0], extPos[2][1],
+							omOpaque, srcopacity, stFastLinear|stRefNoClip);
+						.face		= lastface;
+						.holdAlpha	= lastha;
+					}
+				}
+				else
+				{
+					global.KAGLayer.affineCopy(affineSource, 0, 0, tw, th, false,
+						extPos[0][0], extPos[0][1], extPos[1][0], extPos[1][1], extPos[2][0], extPos[2][1],
+						stFastLinear|stRefNoClip,
+@if(DEBUG && GREEN_TRANSPARENT_AREA)
+						false
+@endif
+@if(!DEBUG || !GREEN_TRANSPARENT_AREA)
+						true
+@endif
+						);
+					needOpaqueDraw	= false;
+				}
+			}
+			catch(e)
+			{
+				dm("extraAffineFrame/affine copy error: "+e.message);
+			}
+		}
+		else
+		{
+			with(global.KAGLayer)
+				.fillRect(0, 0, .imageWidth, .imageHeight, 0xFFFFFFFF);
+		}
+	}
+
+	//	alphaimage の色替え
+	function setAlphaImageColor(color)
+	{
+		if(color !== void)
+		{
+			with(alphaimage)
+			{
+				if(.neutralColor !== color)
+					.holdAlpha = true, .face = dfOpaque, .fillRect(0, 0, .width, .height, color), .neutralColor = color;
+			}
+			with(alphaimageInv)
+			{
+				if(.neutralColor !== color)
+					.holdAlpha = true, .face = dfOpaque, .fillRect(0, 0, .width, .height, color), .neutralColor = color;
+			}
+		}
+	}
+
+	function getGradationSupport()
+	{
+		if(_gradationsupportlayer == void)
+		{
+			_gradationsupportlayer	= new global.Layer(window, window.primaryLayer);
+			_gradationsupportlayer.name	= "gradation support";
+		}
+		return _gradationsupportlayer;
+	}
+
+	function drawFrame(l, t)
+	{
+		var	ai	= alphaimage;
+		var	aii	= alphaimageInv;
+		var	bs	= int bordersize;
+		var	bs2	= bs << 1;
+		var	hw	= ai.width >> 1;
+		var	hh	= ai.height >> 1;
+		var	ac	= partbgAlphaEquation;
+		with(global.KAGLayer)
+		{
+//			.fillRect(0, 0, .imageWidth, .imageHeight, 0xFF0080FF);
+			var	w	= int(width * 100) * 0.01, h	= int(height * 100) * 0.01;
+			var	sw	= w - bs + l, sh = h - bs + t;
+			var	sw2	= sw - bs, sh2 = sh - bs;
+			var	lbs = l + bs, tbs = t + bs;
+			var	lbs2 = lbs + bs, tbs2 = tbs + bs;
+			if(!islr)
+			{
+				if(!isud)
+				{//	全方向に枠
+					.affineCopy(ai, 0,  0,  hw, hh,  false, l,   t,   lbs, t,   l,   tbs, stFastLinear);	//	左上
+					.affineCopy(ai, hw, 0,  1,  hh,  false, lbs, t,   sw,  t,   lbs, tbs, stFastLinear);	//	上
+					.affineCopy(ai, hw, 0,  hw, hh,  false, sw,  t,   l+w, t,   sw,  tbs, stFastLinear);	//	右上
+					.affineCopy(ai, 0,  hh, hw, 1,   false, l,   tbs, lbs, tbs, l,   sh,  stFastLinear);	//	左
+
+					.affinePile(aii, 0,  0,  hw, hh, false, lbs,  tbs,  lbs2,  tbs,  lbs,  tbs2,, stFastLinear);	//	左上
+					.affinePile(aii, hw, 0,  1,  hh, false, lbs2, tbs,  sw2,   tbs,  lbs2, tbs2,, stFastLinear);	//	上
+					.affinePile(aii, hw, 0,  hw, hh, false, sw2,  tbs,  sw,    tbs,  sw2,  tbs2,, stFastLinear);	//	右上
+					.affinePile(aii, 0,  hh, hw, 1,  false, lbs,  tbs2, lbs2,  tbs2, lbs,  sh2, , stFastLinear);	//	左
+					.affinePile(aii, hw, hh, hw, 1,  false, sw2,  tbs2, sw,    tbs2, sw2,  sh2, , stFastLinear);	//	右
+					.affinePile(aii, 0,  hh, hw, hh, false, lbs,  sh2,  lbs2,  sh2,  lbs,  sh,  , stFastLinear);	//	左下
+					.affinePile(aii, hw, hh, 1,  hh, false, lbs2, sh2,  sw2,   sh2,  lbs2, sh,  , stFastLinear);	//	下
+					.affinePile(aii, hw, hh, hw, hh, false, sw2,  sh2,  sw,    sh2,  sw2,  sh,  , stFastLinear);	//	右下
+
+					.affineCopy(ai, hw, hh, hw, 1,   false, sw,  tbs, l+w, tbs, sw,  sh,  stFastLinear);	//	右
+					.affineCopy(ai, 0,  hh, hw, hh,  false, l,   sh,  lbs, sh,  l,   t+h, stFastLinear);	//	左下
+					.affineCopy(ai, hw, hh, 1,  hh,  false, lbs, sh,  sw,  sh,  lbs, t+h, stFastLinear);	//	下
+					.affineCopy(ai, hw, hh, hw, hh,  false, sw,  sh,  l+w, sh,  sw,  t+h, stFastLinear);	//	右下
+				}
+				else
+				{//	左右に枠
+					var	ih	= .imageHeight;
+					.affineCopy(ai, 0,  hh, hw, 1,  false, l,   t, lbs, t, l,   ih,  stFastLinear);		//	左
+					var	layer	= getGradationSupport();
+					layer.setSize(bs2 + 1, 1);
+					layer.affineCopy(aii, 0, hh, aii.width, 1, false, l, 0, lbs2, 0, l, 1, stFastLinear);
+					var	rbs	= w - bs - bs + 2;
+					for(var i=0; i<bs; i++)
+					{
+						.colorRect(lbs+i, 0, 1, ih, bordercolor, layer.getMaskPixel(i, 0));
+						.colorRect(rbs+i, 0, 1, ih, bordercolor, layer.getMaskPixel(bs+i, 0));
+					}
+//					.affinePile(aii, 0,  hh, hw, 1, false, lbs,  t, lbs2,  t, lbs,  ih, , stFastLinear);//	左
+//					.affinePile(aii, hw, hh, hw, 1, false, sw2,  t, sw,    t, sw2,  ih, , stFastLinear);//	右
+					.affineCopy(ai, hw, hh, hw, 1,  false, sw,  t, l+w, t, sw,  ih,  stFastLinear);		//	右
+				}
+			}
+			else if(!isud)
+			{//	上下に枠
+				var	iw	= .imageWidth;
+				.affineCopy(ai, hw, 0,  1,  hh,  false, l, t,   iw,  t,   l, tbs, stFastLinear);		//	上
+				var	layer	= getGradationSupport();
+				layer.setSize(1, bs2 + 1);
+				layer.affineCopy(aii, hw, 0, 1, aii.height, false, 0, t, 1, t, 0, tbs2, stFastLinear);
+				var	bbs	= h - bs - bs + 2;
+				for(var i=0; i<bs; i++)
+				{
+					.colorRect(0, tbs+i, iw, 1, bordercolor, layer.getMaskPixel(0, i));
+					.colorRect(0, bbs+i, iw, 1, bordercolor, layer.getMaskPixel(0, bs+i));
+				}
+//				.affinePile(aii, hw, 0,  1,  hh, false, l, tbs,  iw,   tbs,  l, tbs2, , stFastLinear);	//	上
+//				.affinePile(aii, hw, hh, 1,  hh, false, l, sh2,  iw,   sh2,  l, sh,   , stFastLinear);	//	下
+				.affineCopy(ai, hw, hh, 1,  hh,  false, l, sh,  iw,  sh,  l, t+h, stFastLinear);		//	下
+			}
+		}
+	}
+
+	function createBorder(l, t)
+	{
+		var	bs	= int bordersize;
+		var	bs2	= bs << 1;
+		var	ai	= alphaimage;
+		var	aii	= alphaimageInv;
+		var	hw	= ai.width >> 1;
+		var	hh	= ai.height >> 1;
+		if(!islr)
+		{
+			if(!isud)
+			{//	上下左右に枠
+				var	lbs	= l + bs, tbs	= t + bs;
+				var	lbs2= lbs + bs, tbs2= tbs + bs;
+				var	w	= width, h = height;
+				var	sw	= l + w - bs - 1;
+				var	sh	= t + h - bs - 1;
+				with(getBorder(0, w+1, bs, bordercolor))
+				{
+					.affineCopy(ai,  0,  0,  hw, hh, false, l,           t, lbs,         t, l,           .height, stFastLinear);
+					.affineCopy(ai,  hw, 0,  1,  hh, false, lbs,         t, l+.width-bs, t, lbs,         .height, stFastLinear);
+					.affineCopy(ai,  hw, 0,  hw, hh, false, l+.width-bs, t, l+.width,    t, l+.width-bs, .height, stFastLinear);
+				}
+				with(getBorder(1, bs, h-bs2+1, bordercolor))
+				{
+					.affineCopy(ai, 0,  hh, hw, 1,  false, l, 0, lbs, 0, l, .height, stFastLinear);
+				}
+				with(getBorder(2, bs+1, h-bs2*2-1, bordercolor, this))
+				{
+					.affineCopy(ai, hw, hh, hw, 1, false, 0, 0, lbs, 0, 0, .height, stFastLinear);
+				}
+				with(getBorder(3, w-bs2+1, bs+1, bordercolor, this))
+				{
+					.affineCopy(aii, 0,  0,  hw, hh, false, 0,           0, lbs,         0, 0,           .height, stFastLinear);
+					.affineCopy(aii, hw, 0,  1,  hh, false, lbs,         0, l+.width-bs, 0, lbs,         tbs,     stFastLinear);
+					.affineCopy(aii, hw, 0,  hw, hh, false, l+.width-bs, 0, .width,      0, l+.width-bs, .height, stFastLinear);
+				}
+				with(getBorder(4, bs, h-bs2*2-1, bordercolor, this))
+				{
+					.affineCopy(ai, 0, hh, hw, 1, false, l, 0, .width, 0, l, .height, stFastLinear);
+				}
+				with(getBorder(5, bs, h-bs2+1, bordercolor))
+				{
+					.affineCopy(ai,  hw, hh, hw, 1,  false, 0, 0, lbs, 0, 0, .height, stFastLinear);
+				}
+				with(getBorder(6, w-bs2+1, bs+1, bordercolor, this))
+				{
+					.affineCopy(aii, 0,  hh, hw, hh, false, 0,           0,   lbs,         0,   0,           .height, stFastLinear);
+					.affineCopy(aii, hw, hh, 1,  hh, false, lbs,         t,   l+.width-bs, t,   lbs,         .height, stFastLinear);
+					.affineCopy(aii, hw, hh, hw, hh, false, l+.width-bs, 0,   .width,      0,   l+.width-bs, .height, stFastLinear);
+				}
+				with(getBorder(7, w+1, bs, bordercolor))
+				{
+					.affineCopy(ai,  0,  hh, hw, hh, false, l,           0, lbs,         0, l,           tbs, stFastLinear);
+					.affineCopy(ai,  hw, hh, 1,  hh, false, lbs,         0, l+.width-bs, 0, lbs,         tbs, stFastLinear);
+					.affineCopy(ai,  hw, hh, hw, hh, false, l+.width-bs, 0, l+.width,    0, l+.width-bs, tbs, stFastLinear);
+				}
+				freeBorders(8);
+			}
+			else
+			{//	左右に枠
+				with(getBorder(0, bs, height, bordercolor))
+					.affineCopy(ai,  0, hh, hw, 1, false, l, 0, .width, 0, l, height, stFastLinear);
+				with(getBorder(1, bs+1, height, bordercolor, this))
+					.affineCopy(ai, hw, hh, hw, 1, false, 0, 0, l+bs,   0, 0, height, stFastLinear);
+				with(getBorder(2, bs+1, height, bordercolor, this))
+					.affineCopy(ai,  0, hh, hw, 1, false, l, 0, .width, 0, l, height, stFastLinear);
+				with(getBorder(3, bs, height, bordercolor))
+					.affineCopy(ai, hw, hh, hw, 1, false, 0, 0, l+bs,   0, 0, height, stFastLinear);
+				freeBorders(4);
+			}
+		}
+		else if(!isud)
+		{//	上下に枠
+			with(getBorder(0, width, bs, bordercolor))
+				.affineCopy(ai, hw,  0, 1, hh, false, 0, t, width, t, 0, .height, stFastLinear);
+			with(getBorder(1, width, bs+1, bordercolor, this))
+				.affineCopy(ai, hw, hh, 1, hh, false, 0, 0, width, 0, 0, bs+t,    stFastLinear);
+			with(getBorder(2, width, bs+1, bordercolor, this))
+				.affineCopy(ai, hw,  0, 1, hh, false, 0, t, width, t, 0, .height, stFastLinear);
+			with(getBorder(3, width, bs, bordercolor))
+				.affineCopy(ai, hw, hh, 1, hh, false, 0, 0, width, 0, 0, bs+t,    stFastLinear);
+			freeBorders(4);
+		}
+		else
+			freeBorders(0);	//	枠が必要ない
+	}
+
+	//	外側のマスクを描画
+	function drawOuterMask(l, t)
+	{
+		var	bs	= int bordersize;
+		var	sw	= width - bs;
+		var	sh	= height - bs;
+		var	ac	= partbgAlphaEquation;
+		with(global.KAGLayer)
+		{
+			.face	= dfMask if .face != dfMask;
+			if(!islr)
+			{
+				if(!isud)
+				{//	全方向 → bordersize に丁度合う alphaimage が存在するときのみ
+					var	bs2	= bs * 2, i;
+					var	ai	= alphaimage;
+					if(ai.width != bs2)
+					{
+						//	丁度良いサイズがなければ、作成する
+						ai	= new global.Layer(window, this);
+						ai.neutralColor	= 0x000000;
+						var	sz	= Math.max(bs2, 1);
+						ai.setImageSize(sz, sz);
+						ai.setSizeToImageSize();
+						var	src	= alphaimage;
+						ai.stretchCopy(0, 0, sz, sz, src, 0, 0, src.width, src.height, stFastLinear);
+					}
+					//	四隅はコピーで、四辺は塗りつぶしでマスクを描画
+//	※	alphaimage と線形の不透明度変化では変化率が違うようなので、不自然になってしまう
+					var	hw	= ai.width >> 1;
+					var	hh	= ai.height >> 1;
+					.copyRect(0,  0,  ai, 0,  0,  hw, hh);	//	左上
+					//	上
+					var	w		= sw - bs;
+					for(var t=0; t<bs; t++)
+						.fillRect(bs, t, w, 1, ai.getMaskPixel(hw, t));
+					.copyRect(sw, 0,  ai, hw, 0,  hw, hh);	//	右上
+					//	左
+					var	h		= sh - bs;
+					for(var l=0; l<bs; l++)
+						.fillRect(l, bs, 1, h, ai.getMaskPixel(l, hh));
+					//	右
+					for(var l=sw; l<width; l++)
+						.fillRect(l, bs, 1, h, ai.getMaskPixel(hw+l-sw, hh));
+					.copyRect(0,  sh, ai, 0,  hh, hw, hh);	//	左下
+					//	下
+					for(var t=sh; t<height; t++)
+						.fillRect(bs, t, w, 1, ai.getMaskPixel(hw, hh+t-sh));
+					.copyRect(sw, sh, ai, hw, hh, hw, hh);	//	右下
+					if(bordersize > 0 && isSemiTransparentImage)
+					{//	半透明な画像を枠ありで描画するなら、内部を不透明にしないと整合性が取れないので
+//						dm(".fillRect("+bs, bs, int(sw)-bs, int(sh)-bs+", 255);");
+						.fillRect(bs, bs, int(sw)-bs, int(sh)-bs, 255);
+					}
+
+					if(ai != alphaimage)
+						invalidate ai;
+				}
+				else if(bs > 0)
+				{//	上下のみ → fillRect の繰り返しで描画する
+					global.equations	= new Equations() if global.equations == void;
+					var	r	= width - l - bs + 1;
+					for(; l<bs; l+=1.0,r+=1.0)
+					{
+						var	alpha	= int(equations.calc(ac, l, 0, 255, bs));
+						.fillRect(l, 0, 1, .imageHeight, alpha);
+						.fillRect(r, 0, 1, .imageHeight, 255 - alpha);
+					}
+				}
+			}
+			else if(!isud && bs > 0)
+			{//	左右のみ
+				global.equations	= new Equations() if global.equations == void;
+				var	b	= height - t - bs + 1;
+				for(; t<bs; t+=1.0,b+=1.0)
+				{
+					var	alpha	= int(equations.calc(ac, t, 0, 255, bs));
+					.fillRect(0, t, .imageWidth, 1, alpha);
+					.fillRect(0, b, .imageWidth, 1, 255 - alpha);
+				}
+			}
+		}
+	}
+
+	//保持値のクリア
+	var	lastValues	= %[];
+	function lastValueClear()
+	{
+		(Dictionary.clear incontextof lastValues)();
+		for(var i=0; i<PartBgKeys.count; i++)
+			lastValues[PartBgKeys[i]]	= PartBgKeysInit[i];
+	}
+
+	//特殊背景としての動作
+	function extraBackFrame(forceUpdate=false)
+	{
+		//dm("extraBackFrame");
+		var isUpdate = false;
+
+		//前回値が未定義の場合は比較して再描画対象となる値に初期化
+		if( typeof this.lastValues == "undefined" ){
+			forceUpdate = true;
+			lastValueClear();
+		}
+
+		//前回値との比較
+		with( lastValues ){
+			// width, height, bordersize が違う場合＝枠生成, blur がかかると枠のグラデまで壊すので再生成が必要
+			if( .width != width || .height != height || .left != left || .top != top ||
+				.parentWidth != parent.width || .parentHeight != parent.height ||
+				.parentLeft != parent.left || .parentTop != parent.top ||
+				.zoomx != _zoomx || .zoomy != _zoomy || .afx != afx || .afy != afy ||
+				.rotate != _rotate || .parentRotate != parent._rotate ||
+				.bordersize != bordersize || .bordercolor != bordercolor ||
+				.blur != .blur || forceUpdate )
+			{
+@if(DEBUG)
+@if(PARTBGLAYER_ACTION_VERVOSE)
+				dm("width chg") if .width != width;
+				dm("height chg")if .height != height;
+				dm("left chg") if .left != left;
+				dm("top chg") if .top != top;
+				dm("parentWidth chg") if .parentWidth != parent.width;
+				dm("parentHeight chg") if .parentHeight != parent.height;
+				dm("parentLeft chg") if .parentLeft != parent.left;
+				dm("parentTop chg") if .parentTop != parent.top;
+				dm("zoomx chg") if .zoomx != _zoomx;
+				dm("zoomy chg") if .zoomy != _zoomy;
+				dm("afx chg") if .afx != afx;
+				dm("afy chg") if .afy != afy;
+				dm("rotate chg") if .rotate != _rotate;
+				dm("parentRotate chg") if.parentRotate != parent._rotate;
+				dm("bordersize chg") if .bordersize != bordersize;
+				dm("bordercolor chg") if  .bordercolor != bordercolor;
+				dm("blur chg") if .blur != blur;
+				dm("force") if forceUpdate;
+				//dm(" extraUpdateFrame bordersize=" + bordersize);
+@endif
+@endif
+				extraUpdateFrame();
+				isUpdate = true;
+			}
+
+			//エフェクト効果付きの場合はAnimationLayer.applyColorCorrection_in_onPaintにてイメージを待避から
+			//読み直しをするため、コピー転送をしなおしておく必要がある
+			var chk = isExistCollect();
+
+			//コピー転送が必要な場合
+			if( .srctop != srctop || .srcleft != srcleft ||
+				.__act_srcx != __act_srcx || .__act_srcy != __act_srcy ||
+				.srczoomx != srczoomx || .srczoomy != srczoomy || .srcrotate != srcrotate ||
+				.srcopacity != srcopacity ||
+				.srcafx != srcafx || .srcafy != srcafy ||
+				isUpdate || chk )
+			{
+				//dm("extraBackFrame: isUpdate="+isUpdate+" chk="+chk);
+				isUpdate = true;
+
+				var ret = reloadFromOriginalImage();
+
+//				if( .effect != effect || (effect !== void && effect != "") || ret )
+				if( chk || ret )
+				{
+					//効果が変更になっている場合には次回の描画で再度効果の反映を実施
+					_proceedingEffect = _proceedingContrast = _proceedingBlur = _proceedingNoise = _proceedingHaze = void;
+				}
+
+				//前回値保存
+				.effect = effect;
+				.width = width;							.height = height;
+				.left = left;							.top = top;
+				.parentWidth = parent.width;			.parentHeight = parent.height;
+				.parentLeft = parent.left;				.parentTop = parent.top;
+				.zoomx = _zoomx;	.zoomy = _zoomy;	.afx = afx;		.afy = afy;
+				.rotate = (_rotate!=0)?1:0;				.parentRotate = (parent._rotate!=0)?1:0;
+				.bordersize = bordersize;				.bordercolor = bordercolor;
+				.srcleft = srcleft;						.srctop = srctop;
+				.__act_srcx = __act_srcx;				.__act_srcy = __act_srcy;
+				.srczoomx = srczoomx;					.srczoomy = srczoomy;
+				.srcrotate = srcrotate;
+				.srcopacity = srcopacity;
+				.srcafx = srcafx;						.srcafy = srcafy;
+				_doAffine = true;
+				_doOffset = true;
+			}
+
+			if( isUpdate ){
+				calcAffine();
+			}
+		}
+	}
+
+	//待避イメージからの復元処理オーバーライド
+	function reloadFromOriginalImage()
+	{
+		var ret = 0;
+		if( reloaded ) return ret;	//既に別の処理で転送済みの場合は二度実行しない
+		if(isSimpleState)
+		{
+			//super.reloadFromOriginalImage();
+			isDrawBorder	= false;
+			ret	= 0;
+		}
+		else if(srczoomx == 100 && srczoomy == 100 && srcrotate == 0)
+		{
+			// srcheight, srcwidth が width, height と同じ場合＝領域コピー転送
+			extraCopyFrame();
+			ret = 0;
+//			dm("  reloadFromOriginalImage.extraCopyFrame srcrotate=" + srcrotate);
+		}
+		else
+		{
+			// ズーム・回転が必要な場合＝アフィン変換コピー転送
+			extraAffineFrame();
+			ret = 1;
+//			dm("  reloadFromOriginalImage.extraAffineFrame srcrotate=" + srcrotate);
+		}
+		reloaded = true;
+
+		return ret;
+	}
+
+	//特殊背景枠の再生成
+	function extraUpdateFrame()
+	{
+		//複数回演算がある数値の保持
+		var bs = int(bordersize);
+		var halfW = (alphaimage.width>>1);
+		var halfH = (alphaimage.height>>1);
+		var subW = int(width)-bs;
+		var subH = int(height)-bs;
+		var isRot = (_rotate || parent._rotate);
+
+		//上下左右辺をグラデーション処理(グラデ画像の中心線[外周～中心まで]を拡大コピー)
+		//フレーム端が画面端に等しい場合は４隅が描画されないため端まで４辺を描画してしまう
+
+		with(global.Layer)
+		{
+			.face = dfAlpha;
+			.fillRect( 0, 0, .width, .height, 0x00000000 );
+		}
+		with(affineSource)
+		{
+			.face = dfAlpha;
+			.fillRect( 0, 0, .width, .height, 0x00000000 );
+			if( height < window.scHeight && width < window.scWidth || isRot )
+			{
+				.stretchCopy( bs, 0, subW-bs, bs, alphaimage, halfW, 0, 1, halfH, stCubic );	//上
+				//拡大／回転時に下辺の１ラインにゴミが乗る事があるためクリアしておく
+				.fillRect( .width, 0, 1, .height+1, 0 );
+				.stretchCopy( bs, subH, subW-bs, bs, alphaimage, halfW, halfH, 1, halfH, stCubic );	//下
+				.stretchCopy( 0, bs, bs, subH-bs, alphaimage, 0, halfH, halfW, 1, stCubic );	//左
+				//拡大／回転時に右辺の１ラインにゴミが乗る事があるためクリアしておく
+				.fillRect( 0, .height, .width+1, 1, 0 );
+				.stretchCopy( subW, bs, bs, subH-bs, alphaimage, halfW, halfH, halfW, 1, stCubic );	//右
+
+				.stretchCopy( 0, 0, bs, bs, alphaimage, 0, 0, halfW, halfH, stCubic );		//左上
+				.stretchCopy( subW, 0, bs, bs, alphaimage, halfW, 0, halfW, halfH, stCubic );	//右上
+				.stretchCopy( 0, subH, bs, bs, alphaimage, 0, halfH, halfW, halfH, stCubic );	//左下
+				.stretchCopy( subW, subH, bs, bs, alphaimage, halfW, halfH, halfW, halfH, stCubic );	//右下
+
+				//枠部内側のα塗りつぶし
+				.face = dfMask;
+				.fillRect( bs-0.5, bs-0.5, .width-bs*2+1, .height-bs*2+1, 255 );
+				//dm("四角枠 height=" + height + " window.scHeight=" + window.scHeight + " isRot=" + isRot);
+			}
+			else
+			{
+				if( height >= window.scHeight && width >= window.scWidth )
+				{
+					//枠部内側のα塗りつぶし
+					.face = dfMask;
+					.fillRect( -0.5, -0.5, .width+1, .height+1, 255 );
+				}
+				else
+				{
+					//上下のみ
+					if( width >= window.scWidth )
+					{
+						.stretchCopy( 0, 0, .width, bs, alphaimage, halfW, 0, 1, halfH, stCubic );
+						.stretchCopy( 0, subH, .width, bs, alphaimage, halfW, halfH, 1, halfH, stCubic );
+						//枠部内側のα塗りつぶし
+						.face = dfMask;
+						.fillRect( -0.5, bs-0.5, .width+1, .height-bs*2+1, 255 );
+					}
+					//左右のみ
+					if( height >= window.scHeight )
+					{
+						.stretchCopy( 0, 0, bs, .height, alphaimage, 0, halfH, halfW, 1, stCubic );
+						.stretchCopy( subW, 0, bs, .height, alphaimage, halfW, halfH, halfW, 1, stCubic );
+						//枠部内側のα塗りつぶし
+						.face = dfMask;
+						.fillRect( bs-0.5, -0.5, .width-bs*2+1, .height+1, 255 );
+						//dm("両端枠");
+					}
+				}
+			}
+			isDrawBorder	= true;
+		}
+	}
+
+	//枠端の境界を描画する
+	function drawBorderMaskColor(offx, offy, limitX, limitY)
+	{
+		var color;
+		if( typeof bordercolor == "Integer" )
+			color = int(bordercolor);
+		else if( typeof bordercolor == "String" )
+			color = int(bordercolor!);
+
+		//マスク部の生成（アルファ成分を保護したまま描画色だけを更新する
+		var	aii	= alphaimageInv;
+		with(aii)
+		{
+			.holdAlpha = true;
+			.face = dfOpaque;
+			.fillRect(0,0,.width,.height,color);
+		}
+
+		with(affineSource)
+		{
+			//複数回演算がある数値の保持
+			var bs = int(bordersize);
+			var halfW = (alphaimage.width>>1);
+			var halfH = (alphaimage.height>>1);
+			var subW = int(.width)-bs;
+			var subH = int(.height)-bs;
+			var halfW2 = (aii.width>>1);
+			var halfH2 = (aii.height>>1);
+			var subW2 = int(.width)-bs*2;
+			var subH2 = int(.height)-bs*2;
+
+			var isRot = rotate;
+			var il = offx;
+			var it = offy;
+
+			if( height < limitY && width < limitX || isRot )
+			{
+				.face = dfOpaque;
+				.fillRect( il+bs, it, subW-bs, bs+1, color );
+				.fillRect( il+bs, it+subH-1, subW-bs, bs+1, color );
+				.fillRect( il, it+bs, bs+1, subH-bs, color );
+				.fillRect( il+subW-1, it+bs, bs+1, subH-bs, color );
+				.fillRect( il, it, bs+1, bs+1, color );
+				.fillRect( il+subW-1, it, bs+1, bs+1, color );
+				.fillRect( il, it+subH-1, bs+1, bs+1, color );
+				.fillRect( il+subW-1, it+subH-1, bs+1, bs+1, color );
+
+				.face = dfAlpha;
+				.stretchPile( il+bs*2, it+bs, subW2-bs*2, bs, aii, halfW2, 0, 1, halfH2,,stCubic );
+				.stretchPile( il+bs*2, it+subH2, subW2-bs*2, bs, aii, halfW2, halfH2, 1, halfH2,,stCubic );
+				.stretchPile( il+bs, it+bs*2, bs, subH2-bs*2, aii, 0, halfH2, halfW2, 1,,stCubic );
+				.stretchPile( il+subW2, it+bs*2, bs, subH2-bs*2, aii, halfW2, halfH2, halfW2, 1,,stCubic );
+				.stretchPile( il+bs, it+bs, bs, bs, aii, 0, 0, halfW2, halfH2,,stCubic );
+				.stretchPile( il+subW2, it+bs, bs, bs, aii, halfW2, 0, halfW2, halfH2,,stCubic );
+				.stretchPile( il+bs, it+subH2, bs, bs, aii, 0, halfH2, halfW2, halfH2,,stCubic );
+				.stretchPile( il+subW2, it+subH2, bs, bs, aii, halfW2, halfH2, halfW2, halfH2,,stCubic );
+			}
+			else
+			{
+				if( height >= limitY && width >= limitX )
+				{
+					//なにもしない
+				}
+				else
+				{
+					//上下のみ
+					if( width >= limitX )
+					{
+						.face = dfOpaque;
+						.fillRect( il, it, .width, bs, color );
+						.fillRect( il, it+subH, .width, bs, color );
+
+						.face = dfAlpha;
+						.stretchPile( il, it+bs, .width, bs, aii, halfW2, 0, 1, halfH2,,stCubic );
+						.stretchPile( il, it+subH2, .width, bs, aii, halfW2, halfH2, 1, halfH2,,stCubic );
+					}
+					//左右のみ
+					if( height >= limitY )
+					{
+						.face = dfOpaque;
+						.fillRect( il, it, bs, .height, color );
+						.fillRect( il+subW, it, bs, .height, color );
+
+						.face = dfAlpha;
+						.stretchPile( il+bs, it, bs, .height, aii, 0, halfH2, halfW2, 1,,stCubic );
+						.stretchPile( il+subW2, it, bs, .height, aii, halfW2, halfH2, halfW2, 1,,stCubic );
+					}
+				}
+			}
+			.update();
+			isDrawBorder	= true;
+		}
+	}
+
+
+
+	//特殊背景画像の単純転送
+	function extraCopyFrame()
+	{
+		//dm("extraCopyFrame called");
+		//メイン画像のみをコピー
+		with(affineSource)
+		{
+			.face = dfOpaque;
+			.holdAlpha = true;
+			var srcl = srcafx + +_srcleft + +__act_srcx - width / 2.0;
+			var srct = srcafy + +_srctop + +__act_srcy - height / 2.0;
+			.operateRect( 0, 0, _orgimage, srcl, srct, _orgimage.width - srcl, _orgimage.height - srct, omOpaque, 255 );
+
+			//枠部の境界描画
+			if( bordercolor !== void && bordersize > 0 )
+			{
+				drawBorderMaskColor(0,0,window.scWidth,window.scHeight);
+			}
+
+			.face = dfAlpha;
+			face = dfAlpha;
+		}
+	}
+
+
+	//回転・拡大縮小後の元イメージ情報を獲得する
+	// param　eaf：変換用のEasyAffineTransformオブジェクト
+	//		　tw：変換元矩形幅
+	//		　th：変換元矩形高さ
+	//		　offx：変換元左上Ｘ座標
+	//		　offy：変換元左上Ｙ座標
+	// 復帰値　各値の座標(２次元配列)
+	//		　[0]～[3]：矩形(左上・右上・左下・右下)
+	//		　[4]変換後矩形の最小値
+	//		　[5]変換後矩形の最大値
+	function getTransformedImageRect( eaf, tw, th, offx=0, offy=0 )
+	{
+		var extPos = [];
+		extPos[0] = eaf.calc(offx,offy);		//LT
+		extPos[1] = eaf.calc(offx+tw,offy);		//RT
+		extPos[2] = eaf.calc(offx,offy+th);		//LB
+		extPos[3] = eaf.calc(offx+tw,offy+th);	//RB
+/*		dm("extPos[0] = "+extPos[0][0]+", "+extPos[0][1]);
+		dm("extPos[1] = "+extPos[1][0]+", "+extPos[1][1]);
+		dm("extPos[2] = "+extPos[2][0]+", "+extPos[2][1]);
+		dm("extPos[3] = "+extPos[3][0]+", "+extPos[3][1]);
+*/
+		var max = [];
+		var min = [];
+		// 拡大回転後、新たに決定する矩形の最大値と最小値を取得
+		for (var i=0; i<extPos.count; i++) {
+			if ( max[0] === void || extPos[i][0]>max[0] ) { max[0] = extPos[i][0]; }
+			if ( max[1] === void || extPos[i][1]>max[1] ) { max[1] = extPos[i][1]; }
+			if ( min[0] === void || extPos[i][0]<min[0] ) { min[0] = extPos[i][0]; }
+			if ( min[1] === void || extPos[i][1]<min[1] ) { min[1] = extPos[i][1]; }
+		}
+		extPos[4] = min;
+		extPos[5] = max;
+
+		return extPos;
+	}
+
+	//特殊背景画像のアフィン転送
+	function extraAffineFrame()
+	{
+		if( _eaf === void || _ieaf === void )
+			return;
+
+		with(affineSource)
+		{
+			.face = dfOpaque;
+			.holdAlpha = true;
+
+			if( storage !== void && storage != "" )
+			{
+@if(0)
+				//拡大回転コピー転送
+				var eaf = getCurrentEAF();
+				var ieaf = getInvertEAF();
+
+				var offx = srcafx + srcleft + +__act_srcx - width / 2.0;
+				var offy = srcafy + srctop + +__act_srcy - height / 2.0;
+
+				var tw = _orgimage.width;
+				var th = _orgimage.height;
+
+				//切り取り矩形を逆変形(復帰値：LT,RT,LB,RB,min,max)
+				var orgPos = getTransformedImageRect(ieaf, width, height, offx, offy);
+				var orgW = orgPos[5][0] - orgPos[4][0];
+				var orgH = orgPos[5][1] - orgPos[4][1];
+
+				//コピー元の矩形を含む新矩形からコピー(復帰値：LT,RT,LB,RB,min,max)
+				var extPos = getTransformedImageRect(eaf, orgW, orgH, orgPos[4][0], orgPos[4][1]);
+				for( var i=0; i<4; i++ )
+				{
+					extPos[i][0] -= offx;	//切り出し位置
+					extPos[i][1] -= offy;	//切り出し位置
+				}
+
+				//debug
+				for(var i=0;i<4;i++)
+				_orgimage.fillRect(orgPos[i][0]-2,orgPos[i][1]-2,5,5,0xFF0000FF);
+				_orgimage.fillRect(orgPos[4][0],orgPos[4][1],orgW,1,0xFFFF0000);
+				_orgimage.fillRect(orgPos[4][0],orgPos[4][1]+orgH,orgW,1,0xFFFF0000);
+				_orgimage.fillRect(orgPos[4][0],orgPos[4][1],1,orgH,0xFFFF0000);
+				_orgimage.fillRect(orgPos[4][0]+orgW,orgPos[4][1],1,orgH,0xFFFF0000);
+				_orgimage.saveLayerImage("_orgimage_line.bmp", "bmp24") if storage=="bg04三咲町03目抜き通り(広)(雪)-(昼)";
+				//debug
+
+				.face = dfOpaque;
+//				dm("extraAffineFrame: srcleft="+srcleft+" srctop="+srctop+" srcafx="+srcafx+" srcafy="+srcafy+" srcrotate="+srcrotate+" offx="+offx+" offy="+offy);
+				try
+				{
+				.affineCopy(_orgimage, orgPos[4][0], orgPos[4][1], orgW, orgH, false,
+							extPos[0][0],extPos[0][1],
+							extPos[1][0],extPos[1][1],
+							extPos[2][0],extPos[2][1],
+							stCubic|stRefNoClip,true);
+				}catch(e){
+					dm("ERROR: extraAffineFrame " + e.message);
+				}
+@endif
+@if(1)
+				//全体をコピーして部分的に使用する（ズーム比が大きいと affineCopy される領域が大きくて重くなる）
+				var eaf = getCurrentEAF();
+
+				var offx = srcleft + +__act_srcx;
+				var offy = srctop + +__act_srcy;
+
+				var tw = _orgimage.width;
+				var th = _orgimage.height;
+
+				var extPos = getTransformedImageRect(eaf,tw,th); //復帰値：LT,RT,LB,RB,min,max
+
+				for( var i=0; i<4; i++ )
+				{
+					extPos[i][0] -= offx;
+					extPos[i][1] -= offy;
+				}
+
+				.face = dfOpaque;
+				try
+				{
+					//	ブレンド処理
+					//	サブピクセル描画も行われるので、線形補間が効けば必要ないかも
+					if(srcopacity < 255)
+					{
+						var	lastface = .face, lastha = .holdAlpha;
+						.face		= dfOpaque;
+						.holdAlpha	= false;
+						.affineBlend(_orgimage, 0, 0, tw, th, false,
+									extPos[0][0],extPos[0][1],
+									extPos[1][0],extPos[1][1],
+									extPos[2][0],extPos[2][1],
+									srcopacity, stFastLinear|stRefNoClip);
+						.face		= lastface;
+						.holdAlpha	= lastha;
+					}
+					else
+						.affineCopy(_orgimage, 0, 0, tw, th, false,
+									extPos[0][0],extPos[0][1],
+									extPos[1][0],extPos[1][1],
+									extPos[2][0],extPos[2][1],
+									stFastLinear|stRefNoClip,true);
+				}catch(e){
+					dm("ERROR: extraAffineFrame " + e.message);
+				}
+@endif
+			}
+			else
+			{
+//				dm("extraAffineFrame storage=null→fillRrect実施");
+				.fillRect( 0, 0, .width, .height, 0xFF000000 );
+			}
+
+			//枠部の境界描画
+			if( bordercolor !== void && bordersize > 0 )
+			{
+				drawBorderMaskColor(0,0,window.scWidth,window.scHeight);
+			}
+			.face = dfAlpha;
+			face = dfAlpha;
+		}
+	}
+
+	// 0x000000 形式の文字列に整形する。数値なら文字列化する。
+	function toStringHexCode()
+	{
+		if( _bordercolor === void || _bordercolor == "" )
+			return;
+
+		var fmt = "0x%06x";
+		if( typeof _bordercolor == "Integer" )
+		{
+			_bordercolor = fmt.sprintf(_bordercolor);
+			//dm("_bordercolor num→str = " + _bordercolor);
+		}
+
+		if( typeof _bordercolor == "String" )
+		{
+			if( _bordercolor.indexOf("0x") != 0 )
+			{
+				_bordercolor = "0x" + ("000000" + _bordercolor).substr(_bordercolor.length+6);
+				//dm("_bordercolor format = " + _bordercolor);
+			}
+		}
+	}
+
+	var Radian2Degree	= 180 / Math.PI;	//	ラジアン → 角度
+	var	Degree2Radian	= Math.PI / 180;	//	角度 → ラジアン
+
+	var	lastAffineValues		= [];
+	var	lastAffineValues2		= [];
+
+	//	値が変化しているかチェック（枠自身）
+	var	affineProperties= [ "afx", "afy", "width", "height", "rotate", "storage" ];
+
+	//	値が変化しているかチェック（転送元）
+	var	affineProperties2= [ "srcleft", "srctop", "width", "height", "srcafx", "srcafy",
+							 "srczoomx", "srczoomy", "srcrotate", "srcopacity", "storage",
+							 "xblur", "yblur", "haze" ];
+
+	function isChangedValue()
+	{
+		var	changed	= false;
+		var	lv		= lastAffineValues;
+		for(var i=0; i<affineProperties.count; i++)
+		{
+			var	prop	= affineProperties[i];
+			if(lv[i] != this[prop])
+			{
+				lv[i]	= this[prop];
+				changed	= true;
+			}
+		}
+		return changed;
+	}
+
+	function isChangedSrcValue()
+	{
+		var	changed	= false;
+		var	lv		= lastAffineValues2;
+		for(var i=0; i<affineProperties2.count; i++)
+		{
+			var	prop	= affineProperties2[i];
+			if(lv[i] != this[prop])
+			{
+				lv[i]	= this[prop];
+				changed	= true;
+			}
+		}
+		return changed;
+	}
+
+	//	レイヤーの現在の状態を示す EasyAffineTransform オブジェクトを得る
+	function getCurrentEAF()
+	{
+		if( _eaf === void ) return;
+		if(isChangedSrcValue() || _eaf.matrix === void)
+		{
+			with(_eaf)
+			{
+				//	初期化
+				.initProgrammableTransformation();
+
+				//	回転中心の移動
+				var	cl = srcafx + affineSource.margin, ct = srcafy + affineSource.margin;
+				.addTransferMatrix(-cl, -ct);
+//				.disp(".addTransferMatrix(-"+cl+", -"+ct+");");
+
+				//	拡大縮小する
+				.addMagnifyMatrix(srczoomx / 100.0, srczoomy / 100.0);
+//				.disp(".addMagnifyMatrix("+srczoomx+" / 100.0, "+srczoomy+" / 100.0);");
+
+				//	回転させる
+				.addRotateMatrix(srcrotate * Degree2Radian);
+//				.disp(".addRotateMatrix("+srcrotate+" * "+Degree2Radian+");");
+
+				//	中心から戻る
+				.addTransferMatrix(cl, ct);
+//				.disp(".addTransferMatrix("+cl+", "+ct+");");
+			}
+			//dm("getCurrentEAF: updated");
+		}
+		return _eaf;
+	}
+
+	//	変化後の座標から下の座標を求める EasyAffineTransform オブジェクトを得る
+	function getInvertEAF()
+	{
+		if( _ieaf === void ) return;
+		if(isChangedSrcValue()|| _ieaf.matrix === void)
+		{
+			with(_ieaf)
+			{
+				//	初期化
+				.initProgrammableTransformation();
+
+				//	回転中心の移動
+				var	cl = srcafx + affineSource.margin, ct = srcafy + affineSource.margin;
+				.addTransferMatrix(-cl, -ct);
+
+				//	回転させる
+				.addRotateMatrix(-srcrotate * Degree2Radian);
+
+				//	拡大縮小する
+				.addMagnifyMatrix(100.0 / srczoomx, 100.0 / srczoomy);
+
+				//	中心から戻る
+				.addTransferMatrix(cl, ct);
+			}
+		}
+		return _ieaf;
+	}
+
+	property left
+	{
+		setter(v)
+		{
+@if(TLE)
+			v	= 0 if width >= window.primaryLayer.width;
+@endif
+			var	mdl = left - int left;
+			super.left = v;
+			if(mdl != v - int v)
+				calcAffine();	//	小数点以下が変化していたら、内部も描画しなおす
+			updateLayers();
+		}
+		getter		{ return super.left; }
+	}
+
+	property top
+	{
+		setter(v)
+		{
+@if(TLE)
+			v	= 0 if height >= window.primaryLayer.height;
+@endif
+			var	mdl = top - int top;
+			super.top = v;
+			if(mdl != v - int v)
+				calcAffine();	//	小数点以下が変化していたら、内部も描画しなおす
+			updateLayers();
+		}
+		getter		{ return super.top; }
+	}
+
+	property center
+	{
+		setter(v)	{ super_center = +v + basis_center; }
+		getter		{ return super_center - basis_center; }
+	}
+
+	property vcenter
+	{
+		setter(v)	{ super_vcenter	= +v + basis_vcenter; }
+		getter		{ return super_vcenter - basis_vcenter; }
+	}
+
+	property realCenterAfx	{ getter { return _orgimage.width/2; } }
+	property realCenterAfy	{ getter { return _orgimage.height/2; } }
+
+	property super_center
+	{
+		setter(v)
+		{
+			left = v - _orgimage.width * 0.5;
+			comp.super_center = v if( withback );
+		}
+		getter		{ return left + _orgimage.width * 0.5; }
+	}
+
+	property super_vcenter
+	{
+		setter(v)
+		{
+			top	= v - _orgimage.height * 0.5;
+			comp.super_vcenter = v if( withback );
+		}
+		getter		{ return top + _orgimage.height * 0.5; }
+	}
+
+	//	子レイヤーを右下座標に
+	//	→	width, height を左・上方向に拡張しても、移動しないように
+	var	bindChildrenRB	= false;
+
+	var	_width, _height;
+	property width
+	{
+		setter(v)
+		{
+//			dm(name+".width = "+width+" → "+v+" / "+Scripts.getTraceString());
+			var old = +_orgimage.width;
+			if( old != v)
+			{
+				//既にcenter値変更済みの場合は新しいwidth値に基づいて補正する
+				var	value	= v * 0.5 - old * 0.5;
+				left -= value;
+				comp.left	-= value if withback;
+			}
+@if(TLE)
+			if(v >= window.primaryLayer.width)
+			{
+				left= 0;
+				v	= window.primaryLayer.width;
+			}
+@endif
+			if(bindChildrenRB)
+			{
+				var	diff	= v - width;
+				for(var i=0; i<children.count; i++)
+				{
+					if(children[i] instanceof "AffineSourceLayer")
+						continue;
+					children[i].left	+= diff;
+				}
+			}
+//			dm(name+".width = "+width+" → "+v);
+			if(_orgimage == this)
+				_width	= v;
+			else
+				_orgimage.width = v;
+//			dm("→ "+width);
+			calcAffine();
+			if( withback )
+			{
+				comp._orgimage.width = v;
+				comp.calcAffine();
+			}
+		}
+		getter()	{ return _orgimage == this ? _width : _orgimage.width; }
+	}
+
+	property height
+	{
+		setter(v)
+		{
+//			dm("*************** "+name+".height = "+v+" / "+Scripts.getTraceString());
+			var old = +_orgimage.height;
+			if( old != v)
+			{
+				//既にvcenter値変更済みの場合は新しいheight値に基づいて補正する
+				var	value	= v * 0.5 - old * 0.5;
+				top -= value;
+				comp.top -= value if( withback );
+			}
+@if(TLE)
+			if(v >= window.primaryLayer.height)
+			{
+				top	= 0;
+				v	= window.primaryLayer.height;
+			}
+@endif
+			if(bindChildrenRB)
+			{
+				var	diff	= v - height;
+				for(var i=0; i<children.count; i++)
+				{
+					if(children[i] instanceof "AffineSourceLayer")
+						continue;
+//					var	last	= children[i].top;
+					children[i].top	+= diff;
+//					dm(children[i].name+".top = "+last+" → "+children[i].top+"("+diff+")");
+				}
+			}
+			if(_orgimage == this)
+				_height	= v;
+			else
+				_orgimage.height = v;
+			calcAffine();
+			if( withback )
+			{
+				comp._orgimage.height = v;
+				comp.calcAffine();
+			}
+		}
+		getter()	{ return _orgimage == this ? _height : _orgimage.height; }
+	}
+/*
+	function setPos(l, t, w, h)
+	{
+//		dm(name+".setPos: width = "+width+" → "+w+" / "+Scripts.getTraceString());
+		super.setPos(...);
+	}
+
+	function setSize(w, h)
+	{
+//		dm(name+".setSize: width = "+width+" → "+w+" / "+Scripts.getTraceString());
+		super.setSize(...);
+	}
+
+	function setSizeToImageSize()
+	{
+		dm("************ "+name+".setSizeToImageSize: "+width+" → "+imageWidth+", "+height+" → "+imageHeight+" / "+Scripts.getTraceString());
+		super.setSizeToImageSize();
+	}
+*/
+	//	effect プロパティにより、レイヤーにかける効果を選ぶ
+	function getLayerEffect()
+	{
+		//CharacterLayerのようにparentの背景に応じたeffectを獲得しない。
+		//自身にeffectが個別指定されている場合のみ動作する。
+		//dm("PartPgLayer getLayerEffect = " + global.AnimationLayer.getLayerEffect());
+		return global.AnimationLayer.getLayerEffect();
+	}
+
+	function setOptions(elm)
+	{
+		notuse = false;
+		super.setOptions(elm);
+		setExtendOptions(elm);
+	}
+
+	//elm指定されてきたパラメータを反映（順序が大事なものもあるので適用順番注意）
+	var setOptionParams = [
+		"storage", "name",
+		"width", "height", "left", "top", "center", "vcenter",
+		"opacity", "index", "absolute", "type",
+		"srcleft", "srctop",
+		"srcafx", "srcafy", "srczoomx", "srczoomy", "srcrotate",
+		"srcopacity",
+		"afx", "afy", "zoomx", "zoomy", "rotate",
+		"effect", "brightness", "contrast", "xblur", "yblur",
+		"bordersize", "bordercolor",
+		"quakeHMax", "quakeVMax", "quakeInterval", "quake",
+		"shakeHMax", "shakeVMax", "shakeCycle", "shake",
+		"swingMinCycle", "swingMaxCycle", "swingMinVibration", "swingMaxVibration", "swingRate", "swing",
+		"hazePower", "hazeDelta", "hazeOmega",
+//		"hazeWaves", "hazeLineWaves", "hazePowers",
+		"haze",
+		"noiseMonocro", "noise",
+		"basis",		//	基準となる、別のオブジェクト(通常はBGObjectだが、他のLayerObjectを基準とすることもできるように)
+		"notuse"
+	];
+	//実際に代入されるメンバ名
+	var setOptionAssign = %[
+		"zoomx"=>"_zoomx", "zoomy"=>"_zoomy", "rotate"=>"_rotate",
+		"srczoomx"=>"_srczoomx", "srczoomy"=>"_srczoomy", "srcrotate"=>"_srcrotate",
+		"srcopacity" => "_srcopacity",
+		"srcleft"=>"_srcleft", "srctop"=>"_srctop"
+	];
+	//代入時にキャスト不要なもの
+	var setOptionCastless = %[
+		"storage"=>1, "name"=>1,
+		"effect"=>1, "bordercolor"=>1,
+		"basis"=>1
+	];
+
+	function setExtendOptions(elm)
+	{
+		//特殊背景に対するlayopt
+//		dm("PartBg setOptions: update() called");
+		for( var i=0; i<setOptionParams.count; i++ )
+		{
+			var rec = setOptionParams[i];
+			if( rec === void || rec == "" ) continue;
+			var value = ( setOptionAssign[rec] !== void ) ? setOptionAssign[rec]: rec;
+			this[value] = (setOptionCastless[rec] === void)? +elm[rec]: elm[rec] if elm[rec] !== void;
+		}
+		with(elm)
+		{
+			if(.zoom !== void)
+				zoomx = zoomy = +.zoom;
+			if(.srczoom !== void)
+				srczoomx = srczoomy = +.srczoom;
+		}
+	}
+
+	function reset()
+	{
+		visible = false;
+		lastValueClear();
+
+		//	partbg 自体の初期値にする
+		for(var i=0; i<PartBgKeys.count; i++)
+		{
+			this[PartBgKeys[i]]	= PartBgKeysInit[i];
+//			dm(PartBgKeys[i]+" = "+this[PartBgKeys[i]]);
+		}
+	}
+
+	var	needOpaqueDraw	= true;
+	function freeImage()
+	{
+		super.freeImage(...);
+		needOpaqueDraw	= true;
+	}
+
+	function assign(src, withAction=false)
+	{
+		for( var i=0; i<setOptionParams.count; i++ )
+		{
+			var rec = setOptionParams[i];
+			if( rec === void || rec == "" ) continue;
+			var value = ( setOptionAssign[rec] !== void ) ? setOptionAssign[rec]: rec;
+			this[value] = src[value] if typeof src[value] != "undefined";
+		}
+
+		super.assign(...);
+
+		_bordersize	= src._bordersize;
+		_bordercolor = src.bordercolor;
+		_srcleft	= src._srcleft;
+		_srctop		= src._srctop;
+		_srczoomx	= src._srczoomx;
+		_srczoomy	= src._srczoomy;
+		_srcrotate	= src._srcrotate;
+		_srcopacity	= src._srcopacity;
+		_srcafn_offx = src._srcafn_offx;
+		_srcafn_offy = src._srcafn_offy;
+//		__act_srcx	= src.__act_srcx;
+//		__act_srcy	= src.__act_srcy;
+		_notuse		= src._notuse;
+
+		//名前が付け変わってしまった場合の訂正
+		var namehead = name.substr(0,1);
+		var pnamehead = parent.name.substr(0,1);
+		if( namehead !== pnamehead &&
+			(namehead == "表" || namehead == "裏") &&
+			(pnamehead == "表" || pnamehead == "裏"))
+		{
+			var newhead = (namehead == "表")?"裏":"表";
+			name = newhead + name.substr(1);
+		}
+
+		for(var i=0; i<src.layers.count; i++)
+			layers[i].assign(src.layers[i]) if layers[i] !== void && src.layers[i] !== void;
+	}
+
+	function assignComp(withAction=false)
+	{
+		assign(comp, withAction) if comp !== void;
+	}
+
+	function store()
+	{
+		if( _notuse ) return;
+		var	dic	= global.AnimationLayer.store();
+		with(dic)
+		{
+			delete .screenSizeLayer if ! .screenSizeLayer;
+			.layerID		= layerID if layerID !== void;
+			.ispart			= true;
+			._bordersize	= _bordersize if _bordersize != defaultPartBgBorderSize;
+			._bordercolor	= _bordercolor;		//voidにも意味があるのでデフォルトとは区別
+			._srcleft		= _srcleft if _srcleft != 0;
+			._srctop		= _srctop if _srctop != 0;
+			._srczoomx		= _srczoomx if _srczoomx != 100;
+			._srczoomy		= _srczoomy if _srczoomy != 100;
+			._srcrotate		= _srcrotate if _srcrotate != 0;
+			._srcopacity	= _srcopacity if _srcopacity != 255;
+			._srcafn_offx	= _srcafn_offx if _srcafn_offx != AFFINEOFFSET_CENTER;
+			._srcafn_offy	= _srcafn_offy if _srcafn_offy != AFFINEOFFSET_CENTER;
+//			.__act_srcx		= __act_srcx if __act_srcx != 0;
+//			.__act_srcy		= __act_srcy if __act_srcy != 0;
+			.loadedProvinceImage = loadedProvinceImage if loadedProvinceImage != "";
+			.loadedProvinceActions = loadedProvinceActions if loadedProvinceActions != "";
+			.autoHide = autoHide if autoHide != 0;
+
+			if( typeof this.trigger != "undefined" ){
+				.trigger = [];
+				.trigger.assignStruct(trigger);
+			}
+			if( layers.count )
+			{
+				.layers			= [];
+				var lays = 0;
+				for(var i=0; i<layers.count; i++)
+					.layers[lays++]	= layers[i].store() if layers[i].using;
+			}
+		}
+		return dic;
+	}
+
+	var inInit = false;
+	function restore(dic)
+	{
+		inInit = true;	//この期間中だけvisible=trueにさせない
+		reset();
+
+		autoHide = (dic.autoHide !== void) ? +dic.autoHide : 0;
+		dic.screenSizeLayer = 0 if dic.screenSizeLayer === void;
+		global.AnimationLayer.restore(dic);
+		var op = opacity;
+
+		with(dic)
+		{
+			_notuse		= false;		//保存されているものは notuse == false のレコードのみなので強制的に有効にする
+			storage 	= .storage;
+			layerID		= (.layerID!==void)?.layerID:void;
+			//dm(" restore 特殊背景 : " + name + " / " + layerID + " / " + storage);
+			_bordercolor = ._bordercolor;
+			_srcleft	= ._srcleft if ._srcleft !== void;
+			_srctop		= ._srctop if ._srctop !== void;
+			_srczoomx	= ._srczoomx if ._srczoomx !== void;
+			_srczoomy	= ._srczoomy if ._srczoomy !== void;
+			_srcrotate	= ._srcrotate if ._srcrotate !== void;
+			_srcopacity	= ._srcopacity if ._srcopacity !== void;
+			_srcafn_offx = ._srcafn_offx if ._srcafn_offx !== void;
+			_srcafn_offy = ._srcafn_offy if ._srcafn_offy !== void;
+//			__act_srcx	= .__act_srcx if .__act_srcx !== void;
+//			__act_srcy	= .__act_srcy if .__act_srcy !== void;
+			width 		= .width if .width !== void;
+			height 		= .height if .height !== void;
+			bordersize	= (._bordersize !== void) ? ._bordersize : defaultPartBgBorderSize;
+
+			if(.loadedProvinceImage !== void && .loadedProvinceImage !== '')
+				loadProvinceImage(.loadedProvinceImage);
+			else
+				loadedProvinceImage = "";
+
+			if(.loadedProvinceActions !== void && .loadedProvinceActions !== '')
+				loadProvinceActions(.loadedProvinceActions);
+			else
+				clearProvinceActions();
+
+			if( typeof .trigger != "undefined" )
+			{
+				trigger = [];
+				trigger.assignStruct(.trigger);
+			}
+
+			clearLayers();
+			if(.layers != void)
+			{
+				for(var i=0; i<.layers.count; i++)
+				{
+					var newlay = addLayer();
+					newlay.restore(.layers[i]);
+				}
+			}
+		}
+		inInit = false;	//初期処理終了なので描画を許可する
+		onPaint(true);
+//		extraBackFrame(true);
+		calcAffine();
+
+		//dm(" width="+width+" _image.width="+_image.width+" _orgimage.width="+_orgimage.width);
+	}
+
+	// 画像のコピー(Layerの機能をオーバライド)
+	// @param src コピー元のレイヤ
+	function assignImages(src)
+	{
+		if (src instanceof "PartBgLayer")
+		{
+//			__act_srcx = src.__act_srcx;
+//			__act_srcy = src.__act_srcy;
+			_srcafn_offx = src._srcafn_offx;
+			_srcafn_offy = src._srcafn_offy;
+		}
+		super.assignImages(...);
+	}
+
+	//clpartbgの呼び出しによって無効化状態にする
+	property notuse
+	{
+		setter(v)
+		{
+//			dm(name+".notuse = "+notuse+" → "+v+" / "+Scripts.getTraceString());
+			if(_notuse !== v)
+			{
+				_notuse = v;
+				if( _notuse )
+				{
+					visible = false;
+					storage	= "";
+					freeLayer();
+					freeBorders(0);
+				}
+				else
+					setScreenSize();
+			}
+		}
+		getter	{ return _notuse; }
+	}
+
+	property storage
+	{
+		setter(v)
+		{
+			if(storage !== v)
+			{
+				super.storage	= v;
+				needOpaqueDraw	= true;	//	画像が変更された直後は、不透明な描画が必要
+			}
+		}
+		getter	{ return super.storage; }
+	}
+
+	property absolute
+	{
+		setter(v)
+		{
+			if(absolute !== v)
+			{
+				super.absolute	= +v;
+				for(var i=0; i<borders.count; i++)
+					borders[i].absolute	= v + 1 if borders[i].parent != this;
+			}
+		}
+		getter	{ return super.absolute; }
+	}
+
+	property opacity
+	{
+		setter(v)
+		{
+			if(opacity !== v)
+			{
+				super.opacity	= +v;
+				for(var i=0; i<borders.count; i++) with(borders[i])
+					.opacity	= v if .parent != this;
+			}
+		}
+		getter	{ return super.opacity; }
+	}
+
+	property visible
+	{
+		setter(v)
+		{
+			if(visible !== v)
+			{
+				super.visible	= +v;
+				for(var i=0; i<borders.count; i++)
+					borders[i].visible	= v;
+				notuse	= false if visible;	//	表示される以上、使っているとみなす
+			}
+		}
+		getter	{ return super.visible; }
+	}
+
+	property _act_srcx
+	{
+		setter(v)
+		{
+			__act_srcx = v;
+			calcAffine();
+			if( withback )
+			{
+				comp.__act_srcx = v;
+				comp.calcAffine();
+			}
+		}
+		getter   {	return __act_srcx; }
+	}
+
+	property _act_srcy
+	{
+		setter(v)
+		{
+//			dmt(this+"._act_srcy = "+__act_srcy+" → "+v);
+			__act_srcy = v;
+			calcAffine();
+			if( withback )
+			{
+				comp.__act_srcy = v;
+				comp.calcAffine();
+			}
+		}
+		getter   {	return __act_srcy; }
+	}
+
+	//	partbg の内部の移動にあわせて、子レイヤーも移動させる
+	var	bindChildren	= false;
+
+	property srcleft
+	{
+		setter(v)
+		{
+			if(bindChildren)
+			{
+				var	diff	= v - srcleft;
+				for(var i=0; i<children.count; i++)
+					children[i].left	+= diff;
+			}
+			_srcleft = v;
+			calcAffine();
+			if( withback )
+			{
+				comp._srcleft = v;
+				comp.calcAffine();
+			}
+		}
+		getter()  {	return _srcleft;}
+	}
+
+	property srctop
+	{
+		setter(v)
+		{
+			if(bindChildren)
+			{
+				var	diff	= v - srctop;
+				for(var i=0; i<children.count; i++)
+					children[i].top	+= diff;
+			}
+			_srctop = v;
+			calcAffine();
+			if( withback )
+			{
+				comp._srctop = v;
+				comp.calcAffine();
+			}
+		}
+		getter()  {	return _srctop;	}
+	}
+
+	var	aiSize	= void;
+
+	property alphaimage		{ getter { bordersize = bordersize if aiSize === void; return _alphaimages[aiSize]; } }
+	property alphaimageInv	{ getter { bordersize = bordersize if aiSize === void; return _alphaimageInvs[aiSize]; } }
+//	var	alphaimageInv;
+	function loadAlphaImage()
+	{
+		if(alphaimage == void)
+		{
+			var	al	= new global.Layer(window, window.primaryLayer);
+			with(al)
+			{
+				.name	= "alphagradation%03d".sprintf(_alphaimageSizes[aiSize]);
+				.loadImages(.name);
+				.setSizeToImageSize();
+				.neutralColor	= 0x000000;
+			}
+			_alphaimages[aiSize]	= al;
+			var	ali	= new global.Layer(window, window.primaryLayer);
+			with(ali)
+			{
+				.name	= "alphagradation_inv%03d".sprintf(_alphaimageSizes[aiSize]);
+				.loadImages(.name);
+				.setSizeToImageSize();
+				.neutralColor	= 0x000000;
+			}
+			_alphaimageInvs[aiSize]	= ali;
+		}
+/*		if(alphaimageInv == void)
+		{
+			with(alphaimageInv = new global.Layer(window, this))
+			{
+				.name	= "invert alpha image";
+				.width	= bordersize;
+			}
+		}
+		var	bs2	= bordersize << 1;
+		if(alphaimageInv.width != bs2)
+		{
+			with(alphaimageInv)
+			{
+				var	ali	= _alphaimageInvs[aiSize];
+				.setImageSize(bs2, bs2);
+				.setSizeToImageSize();
+				.stretchCopy(0, 0, .width, .height, ali, 0, 0, ali.width, ali.height, stFastLinear);
+			}
+		}
+*/	}
+
+	property bordersize
+	{
+		setter(v)
+		{
+			//	対応するalphaimageのサイズを探す
+/*			for(aiSize=0; aiSize<_alphaimageSizes.count-1; aiSize++)
+			{
+				if(v > (_alphaimageSizes[aiSize+1] / 2))
+					break;
+			}
+*/			aiSize	= 0;	//	滑らかに描画するため、最大のサイズを常に指定する
+			_bordersize = v;
+			loadAlphaImage();
+			calcAffine();
+			if(withback)
+				comp.bordersize = v;
+		}
+		getter()  {	return _bordersize;	}
+	}
+
+	property bordercolor
+	{
+		setter(v)
+		{
+			if( v == "none" ) v = void;
+			if( v == "" ) v = void;
+			_bordercolor = v;
+			toStringHexCode();
+			calcAffine();
+			if( withback )
+			{
+				comp.bordercolor = _bordercolor;
+			}
+		}
+		getter()  {
+			return _bordercolor;
+		}
+	}
+
+	property srcrotate
+	{
+		setter(v) {	_srcrotate = v;		calcAffine();	}
+		getter()  {	return _srcrotate;	}
+	}
+
+	property srczoomx
+	{
+		setter(v)
+		{
+			_srczoomx = v;
+			calcAffine();
+			if( withback )
+			{
+				comp._srczoomx = v;
+				comp.calcAffine();
+			}
+		}
+		getter()  {	return _srczoomx;	}
+	}
+
+	property srczoomy
+	{
+		setter(v)
+		{
+			_srczoomy = v;
+			calcAffine();
+			if( withback )
+			{
+				comp._srczoomy = v;
+				comp.calcAffine();
+			}
+		}
+		getter()  {	return _srczoomy;	}
+	}
+
+	property srcopacity
+	{
+		setter(v)
+		{
+			_srcopacity	= v;
+			calcAffine();
+			if(withback)
+			{
+				comp._srcopacity	= v;
+				comp.calcAffine();
+			}
+		}
+		getter	{ return _srcopacity; }
+	}
+
+	function calcSrcAfx(v)
+	{
+		if( _orgimage === void ) return 0;
+		switch (v)
+		{
+			case AFFINEOFFSET_CENTER: 	return storageImageWidth/2;
+			case AFFINEOFFSET_LEFT:     return 0;
+			case AFFINEOFFSET_RIGHT:    return storageImageWidth;
+		}
+		return v;
+	}
+
+	function calcSrcAfy(v)
+	{
+		if( _orgimage === void ) return 0;
+		switch (v)
+		{
+			case AFFINEOFFSET_CENTER:	return storageImageHeight/2;
+			case AFFINEOFFSET_TOP:		return 0;
+			case AFFINEOFFSET_BOTTOM:	return storageImageHeight;
+		}
+		return v;
+	}
+
+	// 拡大縮小回転中心軸Ｘ(特殊背景用)
+	property srcafx
+	{
+		setter(v) {
+			if (typeof v == "String") {
+				if (v == "center" || v == "void") {
+					_srcafn_offx = AFFINEOFFSET_CENTER;
+				} else if (v == "left" || v == "top") {
+					_srcafn_offx = AFFINEOFFSET_LEFT;
+				} else if (v == "right" || v == "bottom") {
+					_srcafn_offx = AFFINEOFFSET_RIGHT;
+				} else {
+					_srcafn_offx = (int)v;
+				}
+			} else if (typeof v == "void") {
+				_srcafn_offx = AFFINEOFFSET_CENTER;
+			} else {
+				_srcafn_offx = (int)v;
+			}
+			calcAffine();
+			if( withback )
+			{
+				comp._srcafn_offx = _srcafn_offx;
+				comp.calcAffine();
+			}
+			//dm("setter srcafx: v=" + v + " srcafx=" + srcafx + " srcafy=" + srcafy);
+			//dm(Scripts.getTraceString());
+		}
+		getter() {
+			return calcSrcAfx(_srcafn_offx);
+		}
+	}
+
+	// 拡大縮小回転中心軸Ｙ(特殊背景用)
+	property srcafy
+	{
+		setter(v) {
+			if (typeof v == "String") {
+				if (v == "center" || v == "void") {
+					_srcafn_offy = AFFINEOFFSET_CENTER;
+				} else if (v == "left" || v == "top") {
+					_srcafn_offy = AFFINEOFFSET_LEFT;
+				} else if (v == "right" || v == "bottom") {
+					_srcafn_offy = AFFINEOFFSET_RIGHT;
+				} else {
+					_srcafn_offy = (int)v;
+				}
+			} else if (typeof v == "void") {
+				_srcafn_offy = AFFINEOFFSET_CENTER;
+			} else {
+				_srcafn_offy = (int)v;
+			}
+			calcAffine();
+			if( withback )
+			{
+				comp._srcafn_offy = _srcafn_offy;
+				comp.calcAffine();
+			}
+			//dm("setter srcafy: v=" + v + " srcafx=" + srcafx + " srcafy=" + srcafy);
+			//dm(Scripts.getTraceString());
+		}
+		getter() {
+			return calcSrcAfy(_srcafn_offy);
+		}
+	}
+
+	function setActionSrcOffset(x,y)
+	{
+		this.__act_srcx = x;
+		this.__act_srcy = y;
+		extraBackFrame;
+	}
+
+	function calcLayersOffset()
+	{
+		for(var i=0; i<layers.count; i++)
+			layers[i].calcOffset();
+	}
+
+	function setHorizontalMargin(m)
+	{
+		if(m !== maxHorizontalMargin)
+		{
+			super.setHorizontalMargin(...);
+
+			//	各レイヤーに対しても
+			for(var i=0; i<layers.count; i++)
+				layers[i].setHorizontalMargin(...);
+		}
+	}
+
+	function setVerticalMargin(m)
+	{
+		if(m !== maxVerticalMargin)
+		{
+			super.setVerticalMargin(...);
+
+			//	各レイヤーに対しても
+			for(var i=0; i<layers.count; i++)
+				layers[i].setVerticalMargin(...);
+		}
+	}
+
+	property _act_x
+	{
+		setter(v)
+		{
+			if(_act_x != v)
+			{
+//				dm(name+"._act_x = "+_act_x+" → "+v);
+				super._act_x	= v;
+				calcLayersOffset();
+			}
+		}
+		getter	{ return super._act_x; }
+	}
+
+	property _act_y
+	{
+		setter(v)
+		{
+			if(_act_y != v)
+			{
+				super._act_y	= v;
+				calcLayersOffset();
+			}
+		}
+		getter	{ return super._act_y; }
+	}
+
+	property _act_bothx
+	{
+		setter(v){
+			_act_x = v;
+			_act_srcx = v / srczoomx * zoomx;
+			if( withback )
+			{
+				comp._act_x = _act_x;
+				comp._act_srcx = _act_srcx;
+			}
+		}
+		getter{	return _act_x;	}
+	}
+
+	property _act_bothy
+	{
+		setter(v){
+			_act_y = v;
+			_act_srcy = v / srczoomy * zoomy;
+			if( withback )
+			{
+				comp._act_y = _act_y;
+				comp._act_srcy = _act_srcy;
+			}
+		}
+		getter{	return _act_y;	}
+	}
+
+	//	本来はグローバルだが、モードによって変化するのでプロパティとした
+	//	quakeMode, shakeMode は、動作中に変更させると停止が出来なくなる
+	var quakeMode = 0;		//0:枠内のsrcを動かす  1:枠ごと動かす 2:枠だけ動かす
+	property _quake_h_prop
+	{
+		getter
+		{
+			switch(quakeMode)
+			{
+			case 0:	return "_act_srcx";
+			case 1:	return "_act_x";
+			case 2:	return "_act_bothx";
+			}
+			return global._quake_h_prop;
+		}
+	}
+	property _quake_v_prop
+	{
+		getter
+		{
+			switch(quakeMode)
+			{
+			case 0:	return "_act_srcy";
+			case 1:	return "_act_y";
+			case 2:	return "_act_bothy";
+			}
+			return global._quake_h_prop;
+		}
+	}
+
+	var shakeMode = 0;		//0:枠内のsrcを動かす  1:枠ごと動かす 2:枠だけ動かす
+	property _shake_h_prop
+	{
+		getter
+		{
+			switch(shakeMode)
+			{
+			case 0:	return "_act_srcx";
+			case 1:	return "_act_x";
+			case 2:	return "_act_bothx";
+			}
+			return global._shake_h_prop;
+		}
+	}
+	property _shake_v_prop
+	{
+		getter
+		{
+			switch(shakeMode)
+			{
+			case 0:	return "_act_srcy";
+			case 1:	return "_act_y";
+			case 2:	return "_act_bothy";
+			}
+			return global._shake_h_prop;
+		}
+	}
+
+	var relMode = 0;		//0:枠内のsrcを動かす  1:枠ごと動かす 2:枠だけ動かす
+	property _rel_h_prop
+	{
+		getter
+		{
+			switch(relMode)
+			{
+			case 0:	return "_act_srcx";
+			case 1:	return "_act_x";
+			case 2:	return "_act_bothx";
+			}
+			return global._rel_h_prop;
+		}
+	}
+	property _rel_v_prop
+	{
+		getter
+		{
+			switch(relMode)
+			{
+			case 0:	return "_act_srcy";
+			case 1:	return "_act_y";
+			case 2:	return "_act_bothy";
+			}
+			return global._rel_h_prop;
+		}
+	}
+
+@if(PARTBGLAYER_ACTION_VERVOSE==1)
+	function dmv(msg)
+	{
+		dm("★" + msg);
+	}
+@endif
+@if(PARTBGLAYER_ACTION_VERVOSE==0)
+	function dmv{return;}
+@endif
+@if(0)
+	//	表示テスト用
+	function onKeyDown(key, shift)
+	{
+		if((shift & ssCtrl) == ssCtrl)
+		{
+			switch(key)
+			{
+			case VK_LEFT:	width -= 0.1; calcAffine();	break;
+			case VK_RIGHT:	width += 0.1; calcAffine();	break;
+			case VK_UP:		height -= 0.1; calcAffine();	break;
+			case VK_DOWN:	height += 0.1; calcAffine();	break;
+			}
+		}
+		else
+		{
+			switch(key)
+			{
+			case VK_LEFT:	center -= 0.1; calcAffine();	break;
+			case VK_RIGHT:	center += 0.1; calcAffine();	break;
+			case VK_UP:		vcenter -= 0.1; calcAffine();	break;
+			case VK_DOWN:	vcenter += 0.1; calcAffine();	break;
+			}
+		}
+	}
+@endif
+}
+
+//	partbg 内部で使用する CharacterLayer
+class CharacterLayer4partbg extends CharacterLayer
+{
+	var	using;
+
+	function CharacterLayer4partbg()
+	{
+		super.CharacterLayer(...);
+//		type	= ltPsNormal;
+	}
+
+	function clearImage()
+	{
+		super.clearImage(...);
+		using	= false;
+	}
+
+	function assign(src)
+	{
+		super.assign(src);
+//		dm(parent.name+"."+name+".assign: "+src.width+" → "+width);
+		using	= src.using;
+	}
+
+	function restore(dic)
+	{
+		super.restore(dic);
+		with(dic)
+		{
+			using 	= true;
+		}
+	}
+
+	//	スクリーン位置のズレを補正
+	function setScreenSize()
+	{
+//		dm(name+".parent = "+parent.name+"("+parent.width+", "+parent.height+") / ("+parent.realWidth+", "+parent.realHeight+")");
+		super.setScreenSize(parent.width, parent.height);
+	}
+
+	function calcDrawPos(mx, my)
+	{
+		var	pos	= super.calcDrawPos(...);
+		pos[0]	+= parent.left - int parent.left;
+		pos[1]	+= parent.top - int parent.top;
+		return pos;
+	}
+
+	function calcAct(mx, my)
+	{
+		mx	+= parent._act_x if parent.islr;
+		my	+= parent._act_y if parent.isud;
+		return super.calcAct(mx, my);
+	}
+
+	function applyColorCorrection_in_onPaint()
+	{
+		setScreenSize() if screenSizeLayer;
+		super.applyColorCorrection_in_onPaint(...);
+	}
+}
+
+@if(DEBUG==1)
+kag.listPart = function()
+{
+	if( global.partbg_object === void ) return;
+
+	var params = ["storage","\r\n",
+				  "width","height","left","top","rotate","zoom","visible","\r\n",
+				  "afx","afy","opacity","absolute", "bordersize","\r\n",
+				  "srcleft","srctop","srcrotate","srczoomx","srcopacity","srcafx","srcafy"
+				 ];
+	var o = global.partbg_object;
+	var pages = ["fore","back"];
+	var tmp = [];
+	var str = [];
+	for( var j=0; j<pages.count; j++ )
+	{
+		for( var i=0; i<o[pages[j]].count; i++ )
+		{
+			var tgt = o[pages[j]][i];
+			if( tgt !== void && ! tgt.notuse )
+			{
+				str.add(pages[j] + "[idx" + i + "]");
+				tmp.add(tgt);
+			}
+		}
+	}
+	for( var i=0; i<tmp.count; i++ )
+	{
+		if( tmp[i] === void ) continue;
+
+		var param = "";
+		for( var j=0; j<params.count; j++ )
+		{
+			if( params[j] === void ) continue;
+			if( params[j] == "\r\n" )
+			{
+				param += "\r\n                         ";
+				continue;
+			}
+			param += " " + params[j] + "=" + tmp[i][params[j]] if typeof tmp[i][params[j]]!="undefined";
+		}
+		dm("part  "+str[i]+param );
+	}
+} incontextof kag;
+kag.listpart = kag.listPart;
+@endif //DEBUG
+
+@endif	/* !IS_TLE */
+@endif	/* __PARTBG_PLUGIN_DEFINED__==0 */
+

@@ -1,0 +1,962 @@
+/*----------------------------------------------------------------------------/
+/	ツール用のウィンドウ
+/----------------------------------------------------------------------------*/
+@if(__TOOL_WINDOW_DEFINED__!=1)
+@set(__TOOL_WINDOW_DEFINED__=1)
+
+var	dm	= Debug.message;
+
+Storages.addAutoPath("tool/");
+
+class ToolWindow extends Window
+{
+	var	lrmargin	= 4;
+	var	tbmargin	= 12;
+	var	lineSpacing	= 2;
+	var	hollowHeight= 12;
+	var	upperspacing = 2, lowerspacing = 3;
+
+	var	buttonSpacing	= 32;
+
+	var	forms	= [];
+	var	formRow	= 0;
+
+	var	minWidth	= 320, minHeight = 120;
+
+	var	images	= %[];
+
+	var	lastLeft, lastTop;
+
+	function ToolWindow()
+	{
+		super.Window(...);
+		innerSunken	= false;
+
+		add(new Layer(this, null));
+		with(primaryLayer)
+		{
+			.setSize(320, 120);
+			setInnerSize(.width, .height);
+			this.bgcolor	= 0xFF000000 | System.toActualColor(clBtnFace);
+			this.textcolor	= System.toActualColor(clBtnText);
+			.fillRect(0, 0, .width, .height, bgcolor);
+			this.messageWidth	= 320;
+			this.messageHeight	= 90;
+		}
+		setPos((System.desktopWidth - width) \ 2, (System.desktopHeight - height) \ 2);
+		lastLeft	= left;
+		lastTop		= top;
+	}
+
+	function finalize()
+	{
+		invalidate xmlhttp if typeof this.xmlhttp != "undefined";
+		invalidate httptimer if typeof this.httptimer != "undefined";
+		clearForms();
+		var	keys	= [];
+		keys.assign(images);
+		for(var i=0; i<keys.count; i+=2)
+			invalidate keys[i+1];
+		invalidate images;
+		super.finalize();
+	}
+
+	function getImage(storage)
+	{
+		storage	= Storages.extractStorageName(Storages.chopStorageExt(storage));
+		if(!images[storage])
+		{
+			var	exts	= [ ".png", ".tlg", ".jpg", ".bmp" ];
+			for(var i=0; i<exts.count; i++)
+			{
+				if(Storages.isExistentStorage(storage + exts[i]))
+				{
+					with(images[storage] = new Layer(this, primaryLayer))
+					{
+						.loadImages(storage + exts[i]);
+						.setSizeToImageSize();
+					}
+					break;
+				}
+			}
+		}
+		return images[storage];
+	}
+
+	function getForm(classname)
+	{
+		var	form;
+		for(var i=0; i<pools.count; i++)
+		{
+			if(pools[i] instanceof classname)
+			{
+				form	= pools[i];
+				pools.erase(i);
+				return form;
+			}
+		}
+		add(form = new global[classname](this, primaryLayer));
+		return form;
+	}
+
+	function addForm(form)
+	{
+		if(formRow === void)
+			forms.add(form);
+		else
+		{
+			forms[formRow]	= [] if forms[formRow] == void;
+			forms[formRow].add(form);
+		}
+	}
+
+	function findForm(name)
+	{
+		var	list	= formRow === void ? [ forms ] : forms;
+		for(var i=0; i<list.count; i++)
+		{
+			var	items	= list[i];
+			if(items == void)
+				continue;
+			for(var i=0; i<items.count; i++)
+			{
+				if(items[i].name == name)
+					return items[i];
+			}
+		}
+		return void;
+	}
+
+	//	フォーム行の改行
+	function lf(cnt=1)
+	{
+		forms	= [ forms.count == 0 ? void : forms ] if formRow === void;
+		formRow	+= cnt;
+	}
+
+	//	改行するメッセージ
+	function addMessage(msg, name)
+	{
+		var	msgform	= getForm("TextForm");
+		msgform.message	= msg;
+		msgform.name	= name if name != void;
+		addForm(msgform);
+		lf();
+		return msgform;
+	}
+
+	//	改行しないメッセージ
+	function addText(text, name)
+	{
+		var	msgform	= getForm("TextForm");
+		msgform.message	= text;
+		msgform.name	= name if name != void;
+		addForm(msgform);
+		return msgform;
+	}
+
+	//	ボタン
+	function addButton(label, func, args, w=88, h=21)
+	{
+		var	btn		= getForm("ButtonForm");
+		btn.label	= label;
+		btn.name	= label if label != "";
+		btn.func	= func;
+		btn.args	= args;
+		btn.spacing	= buttonSpacing;
+		btn.setSize(w, h);
+		addForm(btn);
+		return btn;
+	}
+
+	//	キャンセルして閉じるボタンを追加
+	function addCancelClose(label="キャンセル")
+	{
+		addButton(label, delayClose);
+	}
+
+	function asyncCall(func, args*)
+	{
+		this.asynclist	= [] if typeof this.asynclist == "undefined" || this.asynclist == void;
+		asynclist.add([func, args]);
+		with(this.async = new AsyncTrigger(doAsync, ""))
+		{
+			.mode	= atmAtIdle;
+			.cached	= true;
+			.trigger();
+		}
+	}
+
+	function findCall(func, args*)
+	{
+		this.asynclist	= [] if typeof this.asynclist == "undefined" || this.asynclist == void;
+		for(var i=0; i<asynclist.count; i++)
+		{
+			var	item	= asynclist[i];
+			if(item[0] != func || item[1].count != args.count)
+				continue;
+			var	same	= true;
+			for(var i=0; i<args.count; i++)
+			{
+				if(args[i] != item[1][0])
+				{
+					same	= false;
+					break;
+				}
+			}
+			if(same)
+				return i;
+		}
+		return void;
+	}
+
+	function asyncCallOnce(func, args*)
+	{
+		var	no	= findCall(...);
+		asyncCall(...) if no === void;
+	}
+
+	function doAsync()
+	{
+		//	delayClose されたとき、async,asynclist が途中で無効化されるので、先回りして処理する
+		if(async isvalid)
+			invalidate async, delete this.async;
+		var	list	= [];
+		list.assign(asynclist);
+		if(asynclist isvalid)
+			invalidate asynclist, delete this.asynclist;
+		while(list.count > 0)
+		{
+			var	data	= list[0];
+			list.erase(0);
+			if(data[0])
+			{
+				if(data[1])
+					data[0](data[1]*);
+				else
+					data[0]();
+			}
+		}
+	}
+
+	//	close をすぐに呼び出すと例外が発生するので、すべての処理が終了した後 close する
+	function delayClose()
+	{
+		asyncCall(close);
+	}
+
+	//	チェックボックス
+	function addCheckBox(label, target="", value=true, state=0)
+	{
+		var	chkbox	= getForm("CheckBoxForm");
+		chkbox.label= label;
+		chkbox.name	= label if label != "";
+		chkbox.target	= target;
+		chkbox.value	= value;
+		chkbox.state	= state;
+		addForm(chkbox);
+		return chkbox;
+	}
+
+	//	入力フォーム
+	function addInput(name, text, w=88, h=21)
+	{
+		var	input	= getForm("InputForm");
+		input.name	= name;
+		input.text	= string text;
+		input.setSize(w, h);
+		addForm(input);
+		return input;
+	}
+
+	//	画像フォーム
+	function addImage(storage, name)
+	{
+		var	image	= getForm("ImageForm");
+		image.name	= name if name != void;
+		image.loadImages(storage) if storage != "";
+		addForm(image);
+		return image;
+	}
+
+	//	描画
+	function drawForms()
+	{
+		//	表示するのに必要なサイズを調べる
+		var	fws = [], fhs = [];		//	各行のフォームサイズ
+		var	maxw = 0, totalh = 0;	//	全てのフォームを表示するのに必要なサイズ
+		var	list= formRow === void ? [ forms ] : forms;
+		for(var i=0; i<list.count; i++)
+		{
+			var	items	= list[i];
+			var	w = 0, h = 0;
+			if(items == void)
+				h	= hollowHeight;		//	何も無い行
+			else
+			{
+				for(var i=0; i<items.count; i++)
+				{
+					var	item	= items[i];
+					//	描画済みでなければ、強制描画する
+					if(item.callOnPaint)
+					{
+						item.onPaint();
+						item.callOnPaint	= false;
+					}
+					w	+= item.width + item.spacing;
+					h	= item.height if item.height > h;
+				}
+				w	-= items[items.count-1].spacing;	//	最後のアイテムの spacing は不要
+				maxw	= w if maxw < w;
+			}
+			totalh	+= h + lineSpacing;
+			fws.add(w);
+			fhs.add(h);
+		}
+		maxw	+= lrmargin * 2;
+		totalh	+= tbmargin * 2 - lineSpacing;
+
+		//	ウィンドウサイズを決定する
+		setInnerSize(Math.max(maxw, minWidth), Math.max(totalh, minHeight));
+		with(primaryLayer)
+		{
+			.setSize(innerWidth, innerHeight);
+			.fillRect(0, 0, .width, .height, bgcolor);
+		}
+		if(left == lastLeft && top == lastTop)
+		{
+			setPos((System.desktopWidth - width) \ 2, (System.desktopHeight - height) \ 2);
+			lastLeft	= left;
+			lastTop		= top;
+		}
+
+		//	フォームを配置
+		var	t	= tbmargin;
+		for(var i=0; i<list.count; i++)
+		{
+//			dm("form["+i+"] = "+t);
+			var	items	= list[i];
+			var	rh		= fhs[i];
+			if(items != void)
+			{
+				var	l	= (innerWidth - fws[i]) \ 2;
+				for(var i=0; i<items.count; i++)
+				{
+					with(items[i])
+					{
+						.setPos(l, t + (rh - .height) \ 2);
+						.state		= 0;
+						.visible	= true;
+						l	+= .width + .spacing;
+					}
+				}
+			}
+			t	+= rh + lineSpacing;
+		}
+	}
+
+	var	pools	= [];
+	function clearForms()
+	{
+		var	list= formRow === void ? [ forms ] : forms;
+		for(var i=0; i<list.count; i++)
+		{
+			var	items	= list[i];
+			if(items == void)
+				continue;
+			for(var i=0; i<items.count; i++)
+			{
+				if(items[i] != void)
+				{
+					pools.add(items[i]);
+					items[i].initialize();
+					items[i].visible	= false;
+				}
+			}
+			items.clear();
+		}
+		list.clear();
+		formRow	= void;
+	}
+
+	//	Web接続 ---------------------------------------------------------------
+
+	//	urlを開く
+	function openURL(method="GET", url, loadfunc, errmsg, noconnectfunc)
+	{
+		this.loadfunc	= loadfunc;
+		this.errmsg		= errmsg == void ? "エラーが発生しました。\n終了します。" : errmsg;
+		this.noconnectfunc= noconnectfunc;
+		this.method		= method;
+		if(typeof this.xmlhttp == "undefined")
+		{
+			add(this.httptimer = new Timer(onHTTPTimeout, ""));
+			httptimer.interval	= 16;
+
+			add(this.xmlhttp = new WIN32OLE("MSXML2.XMLHTTP"));
+		}
+		xmlhttp.Open(method, url, true);
+		httptimer.enabled	= true;
+		this.opentick	= System.getTickCount();
+		xmlhttp.Send;
+	}
+
+	//	読み込みが完了しているかのチェック
+	function onHTTPTimeout()
+	{
+		if(xmlhttp.ReadyState == 4)
+		{
+			httptimer.enabled	= false;	//	とりあえず停止させる
+
+			//	ヘッダを解析
+			var	headers	= %[];
+			{
+				var	lines	= xmlhttp.GetAllResponseHeaders.split(/\n/);
+				for(var i=0; i<lines.count; i++)
+				{
+					var	tmp	= lines[i].split(/: /);
+					headers[tmp[0]]	= tmp[1] if tmp[0] != "";
+				}
+			}
+
+			//	ステータスで分岐
+			var	status	= xmlhttp.Status;
+			if(status >= 200 && status < 300)
+				loadfunc() if loadfunc != void;
+			else if(status >= 300 && status < 400)
+			{
+				//	リダイレクトで Location に指定される場所を開く
+				xmlhttp.Open(method, headers.Location, loadfunc, errorfunc);
+				httptimer.enabled	= true;
+				xmlhttp.Send;
+			}
+			else if(status == 12007)
+				//	接続できない
+				noconnectfunc() if noconnectfunc != void;
+			else
+				onError();
+		}
+	}
+
+	//	返ってきたテキストを取得
+	function getResponseText()
+	{
+		return xmlhttp.ResponseText.split(/\r\n/);
+	}
+
+	//	返ってきたファイルを指定のファイル名で保存し、MD5を返す
+	function getResponseFile(fn)
+	{
+		return Base64.decode(xmlhttp.ResponseText, fn);
+	}
+
+	function onError()
+	{
+		if(typeof errmsg == "String")
+		{
+			clearForms();
+			lf(upperspacing);
+			addMessage(errmsg);
+			lf(lowerspacing);
+			addButton("OK", delayClose);
+		}
+		else if(errmsg != void)
+			errmsg();
+	}
+}
+
+class FormLayer extends Layer
+{
+	var	spacing	= 2;
+
+	function FormLayer()
+	{
+		super.Layer(...);
+	}
+
+	function initialize()
+	{
+	}
+
+	property bgcolor		{ getter { return 0xFF000000 | System.toActualColor(clBtnFace); } }
+	property textcolor		{ getter { return System.toActualColor(clBtnText); } }
+	property lightcolor		{ getter { return 0xFF000000 | System.toActualColor(clBtnHighlight); } }
+	property shadowcolor	{ getter { return 0xFF000000 | System.toActualColor(clBtnShadow); } }
+	property darkshadowcolor{ getter { return 0xFF000000 | System.toActualColor(cl3DDkShadow); } }
+}
+
+class TextForm extends FormLayer
+{
+	var	lineSpacing	= 2;
+
+	function TextForm()
+	{
+		super.FormLayer(...);
+		focusable	= false;
+	}
+
+	var	_message;
+	property message
+	{
+		setter(v)	{ _message = v; update(); }
+		getter		{ return _message; }
+	}
+
+	function onPaint()
+	{
+		var	msg	= message.split(/\n/);
+
+		var	mfw, tfh;
+		for(var i=0; i<msg.count; i++)
+		{
+			var	fw	= font.getTextWidth(msg[i]);
+			mfw	= fw if mfw < fw;
+		}
+		var	fh	= font.getTextHeight(msg[0]);
+		tfh	= (fh + lineSpacing) * msg.count - lineSpacing;
+		setSize(mfw, tfh);
+		fillRect(0, 0, width, height, 0);
+
+		var	l = 0, t = 0;
+		var	textcolor	= window.textcolor;
+		for(var i=0; i<msg.count; i++)
+		{
+			drawText(l, t, msg[i], textcolor,, false);
+			t	+= fh + lineSpacing;
+		}
+	}
+}
+
+var	BF_waitTime		= 300;	//	リピート初回
+var	BF_repeatTime	= 50;	//	リピート間隔
+
+class ButtonForm extends FormLayer
+{
+	var	repeat	= false;
+	var	repeatTimer;
+
+	function ButtonForm()
+	{
+		super.FormLayer(...);
+		focusable	= true;
+	}
+
+	function finalize()
+	{
+		stopRepeat();
+		invalidate repeatTimer if repeatTimer != void;
+		super.finalize();
+	}
+
+	property state
+	{
+		setter(v)	{ v = v < 0 ? 0 : (v > 3 ? 3 : v); imageLeft = -width * v; }
+		getter		{ return -imageLeft \ width; }
+	}
+
+	function setSize(w, h)
+	{
+		super.setSize(w, h);
+		setImageSize(w * 3, h);
+		update();
+	}
+
+	var	_label;
+	property label
+	{
+		setter(v)	{ _label = v; update(); }
+		getter		{ return _label; }
+	}
+
+	var	func, args;
+
+	function onPaint()
+	{
+		var	bw = font.getTextWidth(label) + 16, bh = font.getTextHeight(label) + 4;
+		setSize(Math.max(bw, width), Math.max(bh, height));
+		fillRect(0, 0, imageWidth, imageHeight, bgcolor);
+
+		drawBtn(0, 0, width, height, lightcolor, darkshadowcolor, shadowcolor);
+		drawSelectBtn(width, 0, width, height, lightcolor, darkshadowcolor, shadowcolor);
+		drawSelectBtn(width*2, 0, width, height, shadowcolor, shadowcolor,, 1);
+	}
+
+	function drawBtn(l, t, w, h, ltcolor, rbcolor, rrbbcolor)
+	{
+		drawBtnFrame(...);
+		drawLabel(l, t, w, h);
+	}
+
+	function drawSelectBtn(l, t, w, h, ltcolor, rbcolor, rrbbcolor, labeloffset=0)
+	{
+		var	fc	= 0xFF000000 | textcolor;
+		drawBtnFrame(l, t, w, h, fc, fc);
+		drawBtnFrame(l+1, t+1, w-2, h-2, ltcolor, rbcolor, rrbbcolor);
+		drawLabel(l+labeloffset, t+labeloffset, w, h);
+	}
+
+	function drawLabel(l, t, w, h)
+	{
+		var	fw	= font.getTextWidth(label);
+		var	fh	= font.getTextHeight(label);
+		l	+= (w - fw) \ 2;
+		t	+= (h - fh) \ 2;
+		drawText(l, t, label, textcolor,, false);
+	}
+
+	function drawBtnFrame(l, t, w, h, ltcolor, rbcolor, rrbbcolor)
+	{
+		fillRect(l,     t,     w-1, 1,   ltcolor);
+		fillRect(l,     t+1,   1,   h-2, ltcolor);
+		fillRect(l+w-1, t,     1,   h-1, rbcolor);
+		fillRect(l,     t+h-1, w,   1,   rbcolor);
+		if(rrbbcolor !== void)
+		{
+			fillRect(l+1,   t+h-2, w-2, 1,   rrbbcolor);
+			fillRect(l+w-2, t+1,   1,   h-3, rrbbcolor);
+		}
+	}
+
+	function isOutRect(x, y)
+	{
+		return x < 0 || y < 0 || x >= width || y >= height;
+	}
+
+	var	lastbutton;
+	function onMouseDown(x, y, button)
+	{
+		if(button == mbLeft)
+		{
+			focus();
+			state	= 2;
+			lastbutton	= button;
+			startRepeat() if repeat;
+		}
+	}
+
+	function onMouseMove(x, y)
+	{
+		if(lastbutton === mbLeft)
+		{
+			if(isOutRect(x, y))
+				state	= 1;
+			else
+				state	= 2;
+		}
+	}
+
+	function press()
+	{
+		if(func != void)
+		{
+			if(args != void)
+				func(this, args*);
+			else
+				func(this);
+		}
+		else
+			window.onButtonDown(this) if typeof window.onButtonDown != "undefined";
+	}
+
+	function onMouseUp(x, y, button)
+	{
+		if(button == mbLeft)
+		{
+			state	= 1;
+			lastbutton	= void;
+			stopRepeat();
+			press() if !isOutRect(x, y) && (!repeat || repeatTimer.interval == BF_waitTime);
+		}
+	}
+
+	function onFocus()
+	{
+		state	= 1;
+	}
+
+	function onBlur()
+	{
+		state	= 0;
+	}
+
+	function onKeyDown(key, shift)
+	{
+		if(key == VK_RETURN || key == VK_SPACE)
+			state	= 2;
+		else
+			super.onKeyDown(key, shift, true);
+	}
+
+	function onKeyUp(key, shift)
+	{
+		if(key == VK_RETURN || key == VK_SPACE)
+		{
+			press();
+			state	= 1;
+		}
+		else
+			super.onKeyUp(key, shift, true);
+	}
+
+	function startRepeat()
+	{
+		if(repeatTimer == void)
+			repeatTimer	= new Timer(onRepeat, "");
+		repeatTimer.interval	= BF_waitTime;	//	初回時間
+		repeatTimer.enabled		= true;
+	}
+
+	function onRepeat()
+	{
+		repeatTimer.interval	= BF_repeatTime;	//	リピート間隔
+		press();
+	}
+
+	function stopRepeat()
+	{
+		if(repeatTimer != void)
+			repeatTimer.enabled	= false;
+	}
+}
+
+class CheckBoxForm extends FormLayer
+{
+	function CheckBoxForm()
+	{
+		super.FormLayer(...);
+		focusable	= true;
+	}
+
+	var	_state, drawcheck;
+	property state
+	{
+		setter(v)	{ if((v & 1) !== state) { _state = v & 1; drawcheck = true; update(); } }
+		getter		{ return _state; }
+	}
+
+	var	_value;
+	property value
+	{
+		setter(v)	{ _value = v; }
+		getter		{ return state ? _value : void; }
+	}
+
+	function drawall()
+	{
+		drawlabel = drawcheck = true;
+		update();
+	}
+
+	var	_label, drawlabel;
+	property label
+	{
+		setter(v)	{ if(v !== label) { _label = v; drawall(); } }
+		getter		{ return _label; }
+	}
+/*
+	var	_alignleft;
+	property alignleft
+	{
+		setter(v)	{ if(v !== alignleft) { _alignleft = v; drawall(); } }
+		getter		{ return _alignleft; }
+	}
+*/
+	function onPaint()
+	{
+		var	chkimg	= window.getImage("tw_checkbox");
+		var	cw	= chkimg.width \ 2;
+		if(drawlabel)
+		{
+			var	fw = font.getTextWidth(label), fh = font.getTextHeight(label);
+			var	tl	= cw + 4;
+			setImageSize(fw + tl, Math.max(fh, chkimg.height));
+			setSizeToImageSize();
+			fillRect(0, 0, width, height, bgcolor);
+			drawText(tl, (height - fh) \ 2, label, textcolor,, false);
+			drawlabel	= false;
+		}
+		if(drawcheck)
+		{
+			var	lt	= (height - chkimg.height) \ 2;
+			copyRect(0, lt, chkimg, state * cw, 0, cw, chkimg.height);
+			drawcheck	= false;
+		}
+	}
+
+	function onClick()
+	{
+		state	= !state;
+		window.onCheckBoxDown(this) if typeof window.onCheckBoxDown != "undefined";
+	}
+}
+
+Scripts.execStorage("override/KAGLayer.tjs");
+Scripts.execStorage("system/EditLayer.tjs");
+Scripts.execStorage("override/EditLayer.override.tjs");
+//	半角英数字の大文字のみにするデータ
+var	hankaku_ascii_upper	= [
+	[ 'A',	'Z' ],
+	[ '0',	'9' ],
+	[ 'a',	'z',	'A' ],
+	[ 'ａ',	'ｚ',	'A' ],
+	[ 'Ａ',	'Ｚ',	'A' ],
+	[ '０',	'９',	'0' ]
+];
+//	半角数字のみにするデータ
+var	hankaku_number	= [
+	[ '0',	'9' ],
+	[ '０',	'９',	'0' ],
+	[ '-',	'-'],
+];
+class InputForm extends EditLayerWithUndo
+{
+	var	spacing	= 2;
+	var	maxLength;
+
+	var	onInputText;
+	var	onMaxInput;
+
+	function InputForm()
+	{
+		super.EditLayerWithUndo(...);
+	}
+
+	function setSize(w, h)
+	{
+		super.setSize(...);
+		font.height	= h - 8;
+	}
+
+	var	_Edit_text	= "";
+	property Edit_text
+	{
+		setter(v)
+		{
+			if(onInputText != void)
+			{
+				var	nv	= onInputText(v);
+				//	カーソル位置の補正
+				if(v.length != nv.length)
+					Edit_selStart--, showCaret();
+				v	= nv;
+			}
+			if(Edit_text !== v)
+			{
+				if(maxLength !== void && v.length > maxLength)
+					return;
+				_Edit_text	= v;
+				if(onMaxInput != void && maxLength !== void && Edit_text.length == maxLength)
+					onMaxInput(this);
+			}
+		}
+		getter	{ return _Edit_text; }
+	}
+
+	function initialize()
+	{
+		maxLength	= void;
+		onInputText	= void;
+		onMaxInput	= void;
+	}
+
+	property bgcolor		{ getter { return 0xFF000000 | System.toActualColor(clBtnFace); } }
+	property textcolor		{ getter { return System.toActualColor(clBtnText); } }
+	property lightcolor		{ getter { return 0xFF000000 | System.toActualColor(clBtnHighlight); } }
+	property shadowcolor	{ getter { return 0xFF000000 | System.toActualColor(clBtnShadow); } }
+	property darkshadowcolor{ getter { return 0xFF000000 | System.toActualColor(cl3DDkShadow); } }
+
+	function onPaint()
+	{
+		super.onPaint(...);
+
+		fillRect(0, 0, width-1, 1, shadowcolor);
+		fillRect(0, 1, 1, height-1, shadowcolor);
+		fillRect(1, 1, width-3, 1, darkshadowcolor);
+		fillRect(1, 2, 1, height-3, darkshadowcolor);
+		fillRect(1, height-2, width-2, 1, bgcolor);
+		fillRect(width-2, 1, 1, height-3, bgcolor);
+		fillRect(0, height-1, width, 1, lightcolor);
+		fillRect(width-1, 0, 1, height-1, lightcolor);
+	}
+
+	var	__cnvdata;
+	property convertData
+	{
+		setter(v)
+		{
+			if(v != void)
+			{
+				onInputText	= convertInput;
+				__cnvdata		= v;
+			}
+			else
+				onInputText	= void;
+		}
+	}
+
+	function convertInput(text)
+	{
+		for(var i=0; i<text.length; i++)
+		{
+			var	ch	= #(text[i]);
+			var	found	= false;
+			for(var j=0; j<__cnvdata.count; j++)
+			{
+				var	cnd	= __cnvdata[j];
+				if(#(cnd[0]) <= ch && ch <= #(cnd[1]))
+				{
+					if(cnd[2] != void)
+						text	= text.substr(0, i) + $(ch - #(cnd[0]) + #(cnd[2])) + text.substr(i + 1);
+					found	= true;
+					break;
+				}
+			}
+			if(!found)
+			{
+				text	= text.substr(0, i) + text.substr(i + 1);
+				i--;
+			}
+		}
+		return text;
+	}
+}
+
+class ImageForm extends FormLayer
+{
+	function ImageForm()
+	{
+		super.FormLayer(...);
+	}
+}
+
+//	設定保持機能
+var	toolSettings	= %[];
+var	toolSettingFmt	= System.dataPath+"%s.settings";
+function loadSettings(name)
+{
+	var	settings	= toolSettings[name];
+	if(settings == void)
+	{
+		var	fn	= toolSettingFmt.sprintf(name);
+		if(Storages.isExistentStorage(fn))
+			settings	= Scripts.evalStorage(fn);
+		else
+			settings	= %[];
+		toolSettings[name]	= settings;
+	}
+	return settings;
+}
+global.getSettings	= global.loadSettings;
+
+function saveSettings(name)
+{
+	var	settings	= toolSettings[name];
+	if(settings != void)
+	{
+		(Dictionary.saveStruct incontextof settings)(toolSettingFmt.sprintf(name));
+		return true;
+	}
+	return false;
+}
+
+@endif

@@ -1,0 +1,1829 @@
+@if(__CGMENU_DEFINED__==0)
+@set(__CGMENU_DEFINED__=1)
+
+@set(CGMENU_NOCHECK_DISPLAYED=0)			//	テスト用に、表示されたかどうかをチェックしない
+@set(CGMENU_CENTERING_CHAPTER_BUTTONS=1)	//	章の表示をセンタリングする
+@set(CGMENU_ALL_CHAPTER=0)					//	すべて見えるようにする
+@set(CGMENU_VISIBLE_EVERY_CHAPTER=1)		//	進行している章毎にギャラリーを開いていく
+@set(CGMENU_KEEP_EXPANSION=1)				//	画像を移動しても拡大/縮小の状態を維持する
+
+/*
+ *	CGメニュー
+ */
+var	cgPresetPage	= %[background:1, event:0];	//	ボタンに対応するページ
+var	cgAAThreshold	= 0.7;	//	AreaAverageに切り替える閾値(これ以上縮小するなら、AreaAverageを使う)
+var	cgColCount		= 4;	//	行に表示できる数
+var	cgRowCount		= 4;	//	行数
+var	cgMaxCount		= cgColCount * cgRowCount;	//	画面中に表示できる最大数
+var	cgChapterCount	= 14;	//	章の数
+var	cgThumbWidth	= 170;
+var	cgThumbHeight	= 99;
+var	cgSwitchingTime	= 60;
+//	サムネイルの設定
+function setCGMenuTimeline(name2pos, creates, actions, novisible=false)
+{
+	var	ignore	= %["cgページスライダー" => 1];
+	tf.thumbnailPos	= [] if tf.thumbnailPos == void;
+	for(var i=0; i<cgMaxCount; i++)
+	{
+		var	name	= "cgサムネイル"+(i+1);
+		var	target	= creates[name2pos[name]];
+//		setCreateProp(target, "storage", "");	//	storage はリセット
+		setCreateProp(target, "width", cgThumbWidth);	//	サイズは設定する
+		setCreateProp(target, "height", cgThumbHeight);
+//		setCreateProp(target, "itemMode", imLessarButton);	//	イベントのみ発生
+		setCreateProp(target, "hitThreshold", 64);
+//		setCreateProp(target, "mouseEnter", "moveCGCursor("+i+")");
+//		setCreateProp(target, "mouseUp", "openCGImage("+i+")");
+		clearCreateProp(target, "visible") if novisible;
+		setCreateProp(target, "orgstorage", "");	//	現在表示しているサムネイルの元画像ファイル名
+
+		setCreateProp(target, "no", i);
+		setCreateProp(target, "cno", void);			//	画像の番号
+		setCreateProp(target, "dno", void);			//	(画像の中の)差分番号
+		setCreateProp(target, "checkincursor", false);	//	ボタン内で onMouseUp が発生したときだけ処理するかどうか
+		setCreateProp(target, "cascade", false);
+
+		if(tf.thumbnailPos[i] == void)
+		{
+			var	props	= ["center", "vcenter"];
+			var	pos	= getActionLast(actions[name2pos[name]], props);
+			if(pos[0] === void)
+				pos	= getCreateProp(target, props);
+			tf.thumbnailPos[i]	= pos;
+		}
+	}
+	tf.thumbnailScroll	= tf.thumbnailPos[cgColCount][1] - tf.thumbnailPos[0][1] if tf.thumbnailScroll === void;	//	スクロール量
+
+	var	target	= creates[name2pos["cgサムネイルカーソル"]];
+	var	curbtn	= [ "cgサムネイルカーソル" ];
+	setCreateProp(target, "opacity", 1);
+	setCreateProp(target, "visible", true);
+	setCreateProp(target, "no", void);
+	setCreateProp(target, "itemMode", imLessarButton);
+//	setCreateProp(target, "focusable", true);
+	setCreateProp(target, "keyDown", "CGMenuCursorKeyDown(this)");
+	setCreateProp(target, "hitThreshold", 256);
+	setCreateProp(target, "mouseEnter", "playEnterSE();hover();opacity=255 if opacity==128");
+	setCreateProp(target, "mouseLeave", "opacity=128 if opacity==255");
+	target	= creates[name2pos["cgページ上"]];
+	setCreateProp(target, "mouseDown", novisible ? ";" : "onMouseDownCGScrollButton(this, -1)");
+	setCreateProp(target, "mouseUp", novisible ? ";" : "stopRepeat();release();");
+	setCreateProp(target, "leftItems", curbtn);
+	setCreateProp(target, "upItems", curbtn);
+	target	= creates[name2pos["cgページ下"]];
+	setCreateProp(target, "mouseDown", novisible ? ";" : "onMouseDownCGScrollButton(this, 1)");
+	setCreateProp(target, "mouseUp", novisible ? ";" : "stopRepeat();release();");
+	setCreateProp(target, "leftItems", curbtn);
+	target	= creates[name2pos["cgページバー"]];
+	setCreateProp(target, "itemMode", imLessarButton);
+	setCreateProp(target, "mouseDown", novisible ? ";" : "find(\"cgページスライダー\").pos=parent.cursorY-vcenter");
+	setCreateProp(target, "focusable", false);
+	setCreateProp(creates[name2pos["cgback"]], "pressse", "");
+	setCreateProp(creates[name2pos["cgイベントボタン"]], "on", cgMenuPageNo == 0);
+	setCreateProp(creates[name2pos["cg背景ボタン"]], "on", cgMenuPageNo == 1);
+
+	//	未踏の章は表示せず、中央にセンタリングする
+@if(CGMENU_CENTERING_CHAPTER_BUTTONS)
+	var	t	= getCreateProp(creates[name2pos["1章"]], "vcenter");
+	var	b	= getCreateProp(creates[name2pos["13章"]], "vcenter");
+	var	bb	= getCreateProp(creates[name2pos[cgChapterCount+"章"]], "vcenter");
+	var	itv	= (bb - t) \ (cgChapterCount - 1);
+	var	h	= itv * (sf.chapterInt - 1);
+	var	vc	= t + (b - t - h) \ 2;
+@endif
+	var	i;
+	for(i=1; i<=sf.chapterInt; i++)
+	{
+		var	create	= creates[name2pos[i+"章"]];
+@if(CGMENU_CENTERING_CHAPTER_BUTTONS)
+		setCreateProp(create, "vcenter", vc);
+		vc	+= itv;
+@endif
+		if(novisible)
+		{
+			var	item	= Menu_object.find(i+"章");
+			setCreateProp(create, "opacity", item.opacity) if item != void;
+		}
+		else if(!cgDiffMode)
+			setActionLast(actions[name2pos[i+"章"]], "opacity", CGisInChapter(i) ? 255 : 128);
+		else if(cgChapters[i] !== void && cgChapters[i+1] !== void && tf.cg_no >= cgChapters[i] && tf.cg_no < cgChapters[i+1])
+		{
+			setActionLast(actions[name2pos[i+"章"]], "opacity", 255);
+			setCreateProp(create, "on", true);
+		}
+		else
+			setActionLast(actions[name2pos[i+"章"]], "opacity", 128);
+		setCreateProp(create, "rightItems", [ "cgサムネイルカーソル" ]);
+		setCreateProp(create, "opacity", cgMenuPageNo == 0 ? 255 : 1);
+	}
+	for(; i<=cgChapterCount; i++)
+		ignore[i+"章"]	= true;
+
+	//	閉じるときはopacityを変化させない(トランジションするので)
+	if(novisible)
+	{
+		for(var i=0; i<actions.count; i++)
+			removeActionData(actions[i], "opacity") if actions[i] != void;
+	}
+
+	return ignore;
+}
+//	作成後の処理
+function afterCGMenuTimeline(page="fore", slidervisible=false)
+{
+	//	スライダーを作成、アクション設定
+	var	mtm	= 600;
+	var	layer	= Menu_object.addMenuItem(%["class" => "SliderMenuItemLayer", page:page, name:"cgページスライダー",
+		storage:"cg_ページ移動カーソル", center:914, vcenter:289, range:297, viewarea:"0/0/35/41", itemMode:imButton,
+		opacity:slidervisible ? 255 : 0, absolute:1109600, visible:1, ibv:0, leftItems:["cgサムネイルカーソル"],
+		vertical:true, min:0, max:cgMaxLine, target:cgLine, targetprop:"value"
+	]);
+	layer.ssact(mtm, "opacity", 255) if !slidervisible;
+	layer.onKeyDown	= function(key, shift)
+	{
+		var	keys	= %[VK_DOWN => 1, VK_RIGHT => 1, VK_UP => 1, VK_LEFT => 1];
+		if(!keys[key])
+			return global.MenuItemLayer.onKeyDown(...);
+
+		var	mv;
+		if(key == (vertical ? VK_DOWN : VK_RIGHT))
+			mv	= (invert ? -step : step) * (shift & ssCtrl ? 4 : 1);
+		else if(key == (vertical ? VK_UP : VK_LEFT))
+			mv	= (invert ? step : -step) * (shift & ssCtrl ? 4 : 1);
+
+		if((mv > 0 && value < max) || (mv < 0 && value > min))
+		{
+			value	+= mv;
+			press();
+			executeString(keydown) if typeof this.keydown != "undefined";	//elm経由で渡されるのでイベント名は全て小文字で
+			updateCursor	= true;
+		}
+		else
+			return global.MenuItemLayer.onKeyDown(...);	//	上下両端からさらにスクロールしようとしたら、ボタンへフォーカスを移動させる
+	};
+
+	if(cgDiffMode && getCGDiffCount() > 0)
+	{
+		cgLine.notify	= false;	//	一時的に変更を描画しないように
+		Menu_object.setProps("cgページスライダー", ["max", getCGDiffLine(), "value", tf.cg_diffline], page);
+		cgLine.notify	= true;
+		CGupdateCurrentPage(,page);
+		changeStateCGCategory(false, page);
+	}
+	else
+	{
+		delete tf.cg_diffline;
+		if(tf.cg_no !== void)
+		{
+			var	lno	= tf.cg_no \ cgColCount;	//	現在の画像が配置されているライン
+			if(cgLine.value > lno || cgLine.value <= lno - 4)
+			{
+				cgLine.notify	= false;	//	一時的に変更を描画しないように
+				Menu_object.setProps("cgページスライダー", ["max", cgMaxLine, "value", lno], page);
+				cgLine.notify	= true;
+			}
+		}
+		CGupdateCurrentPage(, page);
+	}
+}
+//	スクロール用のボタンを押下した時の処理
+function onMouseDownCGScrollButton(button, step)
+{
+	Menu_object.setProp("cgページスライダー", "updateCursor", false);
+	cgLine.value += step;
+	cgLine.pushedButton	= true;
+	Menu_object.execMethod('cgページスライダー', "updatePos");
+	button.startRepeat(400, 100, function(step) {
+		cgLine.value += step;
+		cgLine.pushedButton	= true;
+		Menu_object.execMethod('cgページスライダー', "updatePos");
+	}, step);
+}
+property cgDiffMode	{ getter { return tf.cg_diffline !== void; } }
+//	スライダーによってラインを変更させるためのインタフェース
+class CGLineManager
+{
+	function CGLineManager() {}
+	var	notify	= true;
+	var	pushedButton	= false;	//	ボタンが押されてスクロールした
+	property value
+	{
+		setter(v)
+		{
+			if(cgDiffMode)
+			{
+				v	= Math.min(getCGDiffLine(), Math.max(0, int v));
+				if(tf.cg_diffline !== v)
+				{
+					if(notify)
+					{
+						tf.cg_nextline	= v;
+						asyncCaller.callOnce(CGscrollLine);	//	スクロール描画はまとめて行う
+					}
+					else
+						tf.cg_diffline	= v;
+				}
+			}
+			else
+			{
+				v	= int Math.min(cgMaxLine, Math.max(0, v));
+//				dmt("cgLine.value = "+cgLine.value+" → "+v);
+				if(sf.cgMenuLineNos[cgMenuPageNo] !== v)
+				{
+					if(notify)
+					{
+						tf.cg_nextline	= v;
+						asyncCaller.callOnce(CGscrollLine);	//	スクロール描画はまとめて行う
+					}
+					else
+						sf.cgMenuLineNos[cgMenuPageNo]	= v;
+				}
+			}
+			notify	= true;
+		}
+		getter	{ return cgDiffMode ? tf.cg_diffline : sf.cgMenuLineNos[cgMenuPageNo]; }
+	}
+}
+//	章が入っているラインが表示されているか
+function CGisInChapter(chapter)
+{
+	var	tno	= cgPageTopNo;
+	var	bno= tno + cgMaxCount - 1;
+	var	st	= cgChapters[chapter];
+	var	ed	= cgChapters[chapter+1];
+//	dm("CGisInChapter("+chapter+"): "+st+" ～ "+ed);
+	if(st === void || ed === void)
+		return false;
+	ed--;
+	return (st <= tno && tno <= ed) || (st <= bno && bno <= ed) || (st >= tno && ed <= bno);
+}
+function CGupdateChapters(page="fore")
+{
+	if(cgDiffMode)
+	{
+		//	選択されている画像の章のみ濃くする
+		for(var i=1; i<=sf.chapterInt; i++)
+		{
+			var	item= Menu_object.find(i+"章");
+			item.opacity	= cgChapters[i] !== void && cgChapters[i+1] !== void && tf.cg_no >= cgChapters[i] && tf.cg_no < cgChapters[i+1] ? 255 : 128 if item != void;
+		}
+	}
+	else
+	{
+		//	章のサムネイルを含むかどうかで章の表示の濃くする
+		for(var i=1; i<=sf.chapterInt; i++)
+		{
+			var	item	= Menu_object.find(i+"章", page);
+			if(item == void)
+				break;
+			item.opacity	= CGisInChapter(i) ? 255 : 128;
+		}
+	}
+}
+//	CGメニューを開く
+var	cgThumbnailBase, cgThumbnailLoader;
+var	cgPageDatas;	//	読み込んだ配置データ
+var	cgPageMaxCount;	//	表示可能な数
+var	cgChapters;		//	画像番号と章との対応
+var	cgImage2Chapter;//	画像がどの章で表示されるものか
+var	cgAllCleared;	//	すべてクリアしているか？
+//	現在のページデータ(イベント=0, 背景=1)
+property cgCurrentPage	{ getter { return cgPageDatas[cgMenuPageNo]; } }
+//	現在のページデータの最大数
+property cgCurrentMax	{ getter { return cgPageMaxCount[cgMenuPageNo]; } }
+//	現在のページの指定可能な最大ライン(5ラインなら0～1, 6ラインなら0～2まで指定可能/表示ラインが4ラインなので)
+property cgMaxLine
+{
+	getter
+	{
+		if(cgDiffMode)
+			return getCGDiffLine();
+		else
+			return Math.max(0, (cgCurrentMax - cgMaxCount + cgColCount - 1) \ cgColCount);
+	}
+}
+//	現在の先頭の番号
+property cgPageTopNo	{ getter { return cgLine.value * cgColCount; } };
+//	現在のページ
+property cgMenuPageNo
+{
+	setter(v)
+	{
+		if(sf.cgMenuPageNo !== v)
+		{
+			sf.cgMenuPageNo	= v;
+			delete tf.cg_diffline if cgDiffMode;
+			var	item	= Menu_object.find("cgページスライダー");
+			if(item != void)
+			{
+				cgLine.notify	= false;	//	一時的に変更を描画しないように
+				item.max	= cgMaxLine;
+				item.value	= sf.cgMenuLineNos[sf.cgMenuPageNo];
+				cgLine.notify	= true;
+			}
+			CGupdateCurrentPage(true);
+
+			//	章ボタンを表す/隠す
+			for(var i=1; i<=sf.chapterInt; i++)
+				Menu_object.setProp(i+"章", "visible", v == 0);
+
+			//	ボタン状態を変える
+			Menu_object.setProp("cgイベントボタン", "on", v == 0);
+			Menu_object.setProp("cg背景ボタン", "on", v == 1);
+		}
+	}
+	getter	{ return sf.cgMenuPageNo; }
+}
+var	cgLine;
+function openCGMenu(page="fore")
+{
+	if(tf.cg_opened)
+		return;
+	tf.cg_opened	= true;
+	sf.cgMenuPageNo	= +sf.cgMenuPageNo;
+	sf.cgMenuLineNos= [] if sf.cgMenuLineNos == void;
+	sf.displayedPictures	= %[] if sf.displayedPictures == void;
+	tf.cg_image	= 0;
+
+	sf.chapter	= 1 if sf.chapter == void;
+//	sf.chapter	= tf.chapter if sf.chapter < tf.chapter;	//	main.gc で sf.chapter を設定するようにしたので
+@if(DEBUG)
+@if(CGMENU_ALL_CHAPTER)
+	sf.chapter	= cgChapterCount;
+@endif
+@endif
+	sf.chapterInt	= int(sf.chapter);
+
+	cgThumbnailBase	= new Layer(kag, kag[page].base);
+	cgThumbnailBase.loadImages("cg_サムネイルウィンドウ");
+	cgThumbnailLoader	= new Layer(kag, kag[page].base);
+	cgLine	= new CGLineManager();
+
+	var	data	= Scripts.evalStorage("gallery.txt");
+	cgPageDatas	= data.list;
+	sf.cgMenuPageNo	= int(Math.max(0, Math.min(cgPageDatas.count - 1, cgMenuPageNo)));
+	cgChapters	= data.chapters;
+	cgChapters[1]					= 0;
+	cgChapters[cgChapterCount+1]	= cgPageDatas[0].count;
+	cgImage2Chapter	= data.img2chp != void ? data.img2chp : %[];
+
+	//	全クリアしているか
+	cgAllCleared= isAllCleared;
+
+	//	subchapters による、表示範囲の管理
+	if(data.subchapters != void && !cgAllCleared)
+	{
+		var	scs		= data.subchapters;
+//		global.scs	= scs;
+		var	page	= cgPageDatas[0];
+		var	subchapterFlags	= [
+			[ "1-5", [ "1.5-1", "1.5-2", "1.5-3", "1.5-4" ] ],
+			[ "2-5" ],
+			[ "3-1" ],
+			[ "4-4" ],
+			[ "5a-12" ],//, "5b-16" ],
+			[ "6-9" ],
+			[ "7-8", "7-ex" ],
+			[ "8-6", "8.5", "8-ex" ],
+			[ "9-8" ],
+			[ "a-8" ],
+			[ "b-9" ],
+			[ "c-15" ],
+			[ "d-9" ],
+			[ "sp1", "wik_fin", [ "nz1", "nz2", "nz3", "nz4", "nz5", "nz6" ] ]
+		];
+		var	cut	= 0, no = 0;
+		for(var i=0; i<sf.chapterInt; i++)
+		{
+			var	cno	= i+1;
+//			dm("chapter."+cno+": "+scs[cno], subchapterFlags[i].count);
+			if(scs[cno] != void)
+			{
+				var	scf	= subchapterFlags[i];
+				for(var i=1; i<scf.count; i++)
+				{
+					//	全て既読かどうか
+					var	f	= scf[i];
+					var	readed	= true;
+					if(f instanceof "Array")
+					{
+						for(var i=0; i<f.count; i++)
+							readed	&= sf.trail[f[i]] > 0;
+					}
+					else
+						readed	&= sf.trail[f] > 0;
+//					dm(cno, i+"("+f+"): readed = "+readed);
+
+					//	既読でなければその範囲を削除し、cgChapters, subchapters も補正する
+					if(!readed)
+					{
+						var	st		= scs[cno][i];
+						var	delcnt	= cgChapters[cno+1] - st;
+						if(delcnt > 0)
+						{
+//							dm("del: "+st+"～"+cgChapters[cno+1]+" / cnt = "+delcnt);
+							for(var j=st; j<cgChapters[cno+1]; j++)
+								page.erase(st);
+							for(var i=cno+1; i<cgChapters.count; i++)
+							{
+								cgChapters[i]	-= delcnt;
+								if(scs[i] != void)
+								{
+									for(var j=1; j<scs[i].count; j++)
+										scs[i][j]	-= delcnt;
+								}
+							}
+						}
+						break;
+					}
+				}
+			}
+//			dm(cno+1, cgChapters[cno+1]);
+			cut	= cgChapters[cno+1];
+		}
+//		for(var i=1; i<cgChapters.count; i++)	dm(i+": "+cgChapters[i]);
+		//	未表示も出さないので、削除
+//		dm("cut = "+cut, "page.count = "+page.count);
+		if(cut != void)
+		{
+			for(var i=page.count-1; i>=cut; i--)
+				page.erase(i);
+		}
+	}
+
+	cgPageMaxCount	= [ sf.chapterInt + 1 < cgChapterCount ? cgChapters[sf.chapterInt + 1] - 1 : cgPageDatas[0].count,
+		cgPageDatas[1].count ];
+
+	with(Menu_object)
+	{
+		.setClick(, "CGMenuClose()");
+
+		Scripts.execStorage("cgmode.ttd");
+		var	tdata	= __get_cgmode_timelinedata(5);
+		var	name2pos= tdata[0], creates = tdata[1], actions = tdata[2];
+		var	ignore	= setCGMenuTimeline(name2pos, creates, actions);
+		muteAllMenuItem(tdata, false);	//	効果音ON(素早くメニュー間の移動を行うと、レイヤーが残っていて再利用される可能性があるので)
+
+		//	開くときだけキー関連の設定を行う
+		var	none	= [ void ];
+		var	dwnbtn	= [ "cgページ下" ];
+/*		var	pgslider= [ "cgページスライダー" ];
+		for(var i=1; i<=cgColCount; i++)
+			setCreateProp(creates[name2pos["cgサムネイル"+i]], "upItems", none);
+		for(var i=1; i<=cgMaxCount-cgColCount+1; i+=cgColCount)
+		{
+			setCreateProp(creates[name2pos["cgサムネイル"+i]], "leftItems", none);
+			setCreateProp(creates[name2pos["cgサムネイル"+(i+3)]], "rightItems", pgslider);
+		}
+*/		if(cgMenuPageNo == 1)
+		{//	BackGroundCGでは章ボタンを表示しない
+			for(var i=1; i<=sf.chapterInt; i++)
+				setCreateProp(creates[name2pos[i+"章"]], "visible", 0);
+		}
+		var	evbtn	= [ "cgイベントボタン" ];
+		var	bgbtn	= [ "cg背景ボタン" ];
+		var	curbtn	= [ "cgサムネイルカーソル" ];
+
+		var	backbtn	= [ "cgback" ];
+		var	dirname	= [ "leftItems", "upItems", "rightItems", "downItems" ];
+		var	diriteminfo	= [
+/*			[ "cgサムネイル1", , , , [ "cgサムネイル5" ] ],
+			[ "cgサムネイル5", , [ "cgサムネイル1" ], , [ "cgサムネイル9" ] ],
+			[ "cgサムネイル9", , [ "cgサムネイル5" ], , [ "cgサムネイル13" ] ],
+			[ "cgサムネイル13", , [ "cgサムネイル9" ], , evbtn ],
+			[ "cgサムネイル14", , , , evbtn ],
+			[ "cgサムネイル15", , , , bgbtn ],
+			[ "cgサムネイル16", , , , bgbtn ],
+*/			[ "cgイベントボタン", , curbtn, , none ],
+			[ "cg背景ボタン", , curbtn, backbtn, none ],
+			[ "cgback", bgbtn, dwnbtn, , none ],
+		];
+		for(var i=0; i<diriteminfo.count; i++)
+		{
+			var	info	= diriteminfo[i];
+			if(info == void)
+				continue;
+			var	trg		= creates[name2pos[info[0]]];
+			for(var i=1; i<5; i++)
+				setCreateProp(trg, dirname[i-1], info[i]) if info[i] != void;
+		}
+
+		.playTimeline(page, creates, actions, %[absolute:1100000], ignore, false, true);
+		afterCGMenuTimeline(page);
+		.reservedFocus	= .find("cgサムネイルカーソル", page);
+	}
+
+	CGsetKeyHook();	//	kagのキーボードフックを占有
+
+	//	マウスホイールも
+	kag.addHook("mouseWheel", onCGMenuMouseWheel);
+}
+//	CGメニューを閉じる
+function closeCGMenu()
+{
+	if(!tf.cg_opened)
+		return;
+	delete tf.cg_opened;
+	delete tf.cg_image;
+	delete tf.cg_no;
+	invalidate cgPageDatas if cgPageDatas != void;
+	invalidate cgChapters if cgChapters != void;
+
+	//	まだエクストラメニューからのトランジション中なら、トランジションを停止する
+	kag.fore.base.stopTransition();
+
+	//	ランチャーを閉じる
+	closeCGLauncher();
+
+	invalidate cgThumbnailBase if cgThumbnailBase != void;
+	invalidate cgThumbnailLoader if cgThumbnailLoader != void;
+	invalidate cgLine if cgLine != void;
+	cgThumbnailBase = cgThumbnailLoader = cgLine	= void;
+	if(tf.cg_cascadeimage != void)
+	{
+		invalidate tf.cg_cascadeimage;
+		delete tf.cg_cascadeimage;
+	}
+	for(var i=0; i<cgImageLayers.count; i++)
+	{
+		invalidate cgImageLayers[i] if cgImageLayers[i] != void;
+		cgImageLayers[i]	= void;
+	}
+
+	CGresetKeyHook();	//	キーボードフックを復帰
+	kag.removeHook("mouseWheel", onCGMenuMouseWheel);	//	ホイールも
+
+	with(Menu_object)
+	{
+		.playSE(closese);
+		.resetClick();
+
+		var	tdata	= __get_cgmode_timelinedata(10);
+		var	name2pos= tdata[0], creates = tdata[1], actions = tdata[2];
+		var	ignore	= setCGMenuTimeline(name2pos, creates, actions, true);
+		ignore["cgサムネイルカーソル"]	= 1;
+		muteAllMenuItem(tdata);		//	すべて効果音mute
+		.playTimeline("fore", creates, actions, %[absolute:1100000], ignore, true);
+	}
+	returnExtraMenu();	//	EXTRAメニューへ戻る
+}
+function CGsetKeyHook()
+{
+	kag.keyDownHook.insert(0, CGonKeyDown);	//	kag.preProcessKeys で keyDownHook が直接指定されているので
+	Menu_object.keyDownCallback	= CGonKeyDown;
+}
+function CGresetKeyHook()
+{
+	kag.keyDownHook.erase(0);
+	delete Menu_object.keyDownCallback;
+}
+//	画像が表示済みかどうか
+function isDisplayedPicture(storage)
+{
+	//	全クリアしていたら、問答無用で見れる
+	if(cgAllCleared)
+		return true;
+@if(DEBUG)
+@if(CGMENU_NOCHECK_DISPLAYED)
+	return true;
+@endif
+@endif
+@if(CGMENU_VISIBLE_EVERY_CHAPTER)
+	if(cgMenuPageNo == 0)
+	{//	Event CG ギャラリーでは、章毎にギャラリーの画像を開いていく
+		return (storage != "" && cgImage2Chapter[storage] != void && cgImage2Chapter[storage] < sf.chapter) ||
+			sf.trail["sp1"];
+	}
+	else
+	//	Background ギャラリーでは、表示された背景を返す
+@endif
+		return (storage != "" && sf.displayedPictures[storage]);
+}
+//	サムネイルカーソルを調整
+function adjustCGCursor(no, page="fore", dofocus=true)
+{
+//	dm("adjustCGCursor("+no, page, dofocus+"): "+kag.inputDevice, cgPageTopNo, cgLine.value);
+	if(kag.inputDevice == "mouse")
+	{
+		var	items	= Menu_object.getMenuItems(page);
+		var	regexp	= /^cgサムネイル([0-9]+)$/;
+		for(var i=0; i<items.count; i++)
+		{
+			var	item	= items[i];
+			if(item == void || !(item isvalid))
+				continue;
+			if(regexp.test(item.name) && item.inCursor())
+			{
+				no	= regexp.matches[1] - 1;
+				break;
+			}
+		}
+	}
+	else
+		no	-= cgPageTopNo;
+
+//	dm("adjustCGCursor → moveCGCursor("+no, page, dofocus+")");
+	moveCGCursor(no, page, dofocus);
+}
+//	サムネイルカーソルの移動
+function moveCGCursor(no, page="fore", dofocus=true)
+{
+	if(no === void)
+		return;
+	if(page == "fore" && (tf.cg_image_opened || !tf.cg_opened))
+		return;
+//	dmt("moveCGCursor("+no, page, dofocus+")");
+	if(typeof no == "Object")
+		no	= no.dno === void ? no.cno - cgPageTopNo : (no.dno - tf.cg_diffline * cgColCount);
+	var	thumbnail	= Menu_object.find("cgサムネイル"+(no+1), page);
+	if(thumbnail == void)	return;
+	var	cur	= Menu_object.find("cgサムネイルカーソル", page);
+	if(cur == void)	return;
+	with(cur)
+	{
+		var	chg	= .no != no;
+		.no		= no;
+		var	pos	= tf.thumbnailPos[no];
+		.center	= pos[0] - 2;
+		.vcenter= pos[1] - 3;
+//		.visible= thumbnail.visible;
+		.opacity= thumbnail.visible ? (cur == kag.focusedLayer ? 255 : 128) : 1;
+		if(dofocus)
+		{
+			.focus();
+			.hover();
+			.playEnterSE() if chg;
+		}
+	}
+
+	//	指しているサムネイルに対応する章を on にする
+	if(!cgDiffMode)
+	{
+		no	+= cgPageTopNo;
+		for(var i=1; i<=sf.chapterInt; i++)
+		{
+			var	item= Menu_object.find(i+"章");
+			item.on	= cgChapters[i] !== void && cgChapters[i+1] !== void && no >= cgChapters[i] && no < cgChapters[i+1] if item != void;
+		}
+	}
+	return thumbnail;
+}
+//	すべてのサムネイルからカーソルが外れた
+function outofthumbnails(page="fore")
+{
+	Menu_object.setProps("cgサムネイルカーソル", ["visible", false, "no", void], page);
+	for(var i=1; i<=sf.chapterInt; i++)
+	{//	カーソルがあってないなら、章表示は off
+		var	item= Menu_object.find(i+"章");
+		item.on	= false if item != void;
+	}
+}
+//	指定のレイヤーが半透明かどうか
+function CGisSemiTransparent(layer)
+{
+	//	四隅のいずれかが半透明なら、半透明
+	var	limit	= 250;
+	with(layer)
+		return .getMaskPixel(0,0) < limit || .getMaskPixel(.width-1,0) < limit ||
+			.getMaskPixel(0, .height-1) < limit || .getMaskPixel(.width-1, .height-1) < limit;
+}
+//	サムネイルの更新
+function updateCGThumbnail(thumb, fn, cascade=false)
+{
+	if(thumb == void)
+		return;
+//	dm("updateCGThumbnail("+(thumb != void ? thumb.name : "void")+", "+fn+", "+cascade+"): "+isDisplayedPicture(fn));
+	with(thumb)
+	{
+		var	l = 2, t = 1, w = 162, h = 91;	//	サムネイルの描画位置
+		var	r = l + w, b = t + h;
+		var	marginColor	= 0xFF000000;
+		if(fn == void)
+			.visible	= false;
+		else if(.orgstorage != fn || .cascade != cascade)
+		{
+			.visible	= true;
+//			dm(.width+", "+.height+" / "+.imageWidth+", "+.imageHeight);
+//			dm(thumb.cno+"/"+thumb.dno+" = "+fn+"("+isDisplayedPicture(fn)+")");
+			if(isDisplayedPicture(fn))
+			{
+				var	tfn	= "t_" + fn;
+				if(Storages.isExistentStorage(tfn+".tlg"))
+					cgThumbnailLoader.loadImages(tfn);
+				else
+					cgThumbnailLoader.fillRect(0, 0, cgThumbnailLoader.width, cgThumbnailLoader.height, 0xffffffff);
+				cgThumbnailLoader.setSizeToImageSize();
+				var	ol = l, ot = t, tw = cgThumbnailLoader.width, th = cgThumbnailLoader.height;
+				if(CGisSemiTransparent(cgThumbnailLoader))	//	微妙に半透明な画像があるので、250未満は枠を白にするようにした
+				{
+					.fillRect(0, 0, w, h, 0xffffffff);
+					.operateRect((w - tw) * 0.5, (h - th) * 0.5, cgThumbnailLoader, 0, 0, tw, th);
+				}
+				else if(tw < w)
+				{
+					var	tl	= (w - tw) \ 2;
+					if(th < h)
+					{//	上下左右に余白
+						var	tt	= (h - th) \ 2;
+						.fillRect(l, t, w, tt, marginColor);
+						t	+= tt;
+						.fillRect(l, t, tl, th, marginColor);
+						var	tmp	= l + tl;
+						.copyRect(tmp, t, cgThumbnailLoader, 0, 0, tw, th);
+						tmp	+= tw;
+						.fillRect(tmp, t, w - tmp + ol, th, marginColor);
+						t	+= th;
+						.fillRect(l, t, w, h - t + ot, marginColor);
+					}
+					else
+					{//	左右に余白
+						.fillRect(l, t, tl, h, marginColor);
+						l	+= tl;
+						.copyRect(l, t, cgThumbnailLoader, 0, 0, tw, th);
+						l	+= tw;
+						.fillRect(l, t, w - l + ol, h, marginColor);
+					}
+				}
+				else if(th < h)
+				{//	上下に余白
+					var	tt	= (h - th) \ 2;
+					.fillRect(l, t, w, tt, marginColor);
+					t	+= tt;
+					.copyRect(l, t, cgThumbnailLoader, 0, 0, tw, th);
+					t	+= th;
+					.fillRect(l, t, w, h - t + ot, marginColor);
+				}
+				else
+					.copyRect(l, t, cgThumbnailLoader, 0, 0, w, h);	//	ちょうどええ
+				if(cascade)
+				{//	中に差分画像がある
+					if(tf.cg_cascadeimage == void)
+					{
+						with(tf.cg_cascadeimage = new global.Layer(kag, kag.fore.base))
+						{
+							.loadImages("cg_cascade");
+							.setSizeToImageSize();
+						}
+					}
+					var	icon	= tf.cg_cascadeimage;
+					.operateRect(r - icon.width, b - icon.height, icon, 0, 0, icon.width, icon.height);
+				}
+			}
+			else
+				.copyRect(0, 0, cgThumbnailBase, 0, 0, .width, .height);
+		}
+		.orgstorage	= fn;
+		.cascade	= cascade;
+	}
+}
+function CGgetNewThumbnailLayer(idx, cno, dno, page="fore")
+{
+	var	newitem	= Menu_object.getLayerFromElm(%[page:page, name:"cgサムネイル"+(idx+1), menuitem:-2]);
+	with(newitem)
+	{
+		.no		= idx;
+		.cno	= cno;
+		.dno	= dno;
+		.orgstorage	= "";
+		.storage	= "cg_サムネイルウィンドウ";
+		.checkincursor	= false;
+		.cascade		= false;
+//		.itemMode	= imLessarButton;
+		.hitThreshold	= 32;
+		.absolute	= 1107700 + idx * 100;
+		.mouseDown	= "CGMenuThumbnailMouseDown(this,x,y)";
+		.mouseMove	= "CGMenuThumbnailMouseMove(this,x,y)";
+		.mouseDown	= "CGMenuThumbnailMouseUp(this,x,y)";
+		.mouseEnter	= "CGMenuThumbnailMouseEnter(this)";
+//		.keyDown	= "CGMenuThumbnailKeyDown(this)";
+		updateCGThumbnail(newitem, getCGStorage(cno, dno, true), dno === void && getCGDiffCount(cno) > 0);
+	}
+	return newitem;
+}
+//	ページ変更
+function CGupdateCurrentPage(animate=false, page="fore")
+{
+//	dm("CGupdateCurrentPage(): no = "+cgPageTopNo+", "+cgDiffMode);
+//	dm("-".repeat(80));
+	var	pgtopno	= cgPageTopNo;
+	var	mv		= 40;
+	var	time	= cgSwitchingTime;
+	mv	*= -1 if animate < 0;
+
+	Menu_object.finishVanish(page);	//	消える途中のサムネイルが存在したら、即座に消す
+	for(var i=0; i<cgMaxCount; i++)
+	{
+		var	no	= i + pgtopno, cno, dno;
+		if(cgDiffMode)
+			cno	= tf.cg_no, dno	= no;
+		else
+			cno	= no, dno = void;
+//		dm(i+": "+cno+", "+dno);
+
+		var	item	= Menu_object.find("cgサムネイル"+(i+1), page);
+		if(item != void)
+		{
+			if(animate)
+			{
+				//	現在のサムネイルは隠す
+				with(item)
+				{
+					.stopAction();
+					.ssact(time, "vcenter", .vcenter - mv);
+					.vanish(time);
+				}
+			}
+			else
+			{
+				item.cno	= cno;
+				item.dno	= dno;
+				updateCGThumbnail(item, getCGStorage(cno, dno, true), dno === void && getCGDiffCount(no) > 0);	//	書き換えるだけ
+			}
+		}
+		if(item == void || animate)
+		{
+			//	新しいサムネイルレイヤーを用意し、出現させる
+			with(CGgetNewThumbnailLayer(i, cno, dno, page))
+			{
+				var	pos		= tf.thumbnailPos[i];
+				.center		= pos[0];
+				.vcenter	= pos[1] + mv;
+				.opacity	= 1;
+				.ssact(time, "vcenter", pos[1]);
+				.ssact(time, "opacity", 255);
+			}
+		}
+	}
+//	outofthumbnails(page) if !cur;
+	var	item	= Menu_object.find("cgサムネイルカーソル");
+	moveCGCursor(item.no, page, false) if item != void && item.no !== void;
+	CGupdateChapters(page);
+}
+//	ラインスクロール
+function CGscrollLine()
+{
+	if(!tf.cg_opened)
+		return;
+
+	//	tf.cg_nextline にスクロール先の番号が入っているので、現在の値と比べてスクロールする
+	var	scrcnt	= tf.cg_nextline - (cgDiffMode ? tf.cg_diffline : sf.cgMenuLineNos[cgMenuPageNo]);
+	if(cgDiffMode)
+		tf.cg_diffline	= tf.cg_nextline;
+	else
+		sf.cgMenuLineNos[cgMenuPageNo]	= tf.cg_nextline;
+	var	slider	= Menu_object.find("cgページスライダー");
+	if(slider != void)
+		slider.updatePos();	//	スライダーを更新
+
+	if(Math.abs(scrcnt) >= cgRowCount || tf.cg_image_opened)
+	{
+		CGupdateCurrentPage(scrcnt);
+		return;
+	}
+//	dm("CGscrollLine("+scrcnt+")");
+//	dm("-".repeat(80));
+
+	var	pgtopno	= cgPageTopNo;
+	var	mv	= tf.thumbnailScroll * scrcnt;
+	var	time= cgSwitchingTime;
+
+	Menu_object.finishVanish();	//	消える途中のサムネイルが存在したら、即座に消す
+
+	//	既存のサムネイルを処理
+	var	mvc	= scrcnt * cgColCount;
+	var	items	= [];
+	for(var i=0; i<cgMaxCount; i++)
+		items[i]	= Menu_object.find("cgサムネイル"+(i+1));
+	for(var i=0; i<cgMaxCount; i++)
+	{
+		var	item	= items[i];
+		if(item != void) with(item)
+		{
+			var	to	= i - mvc;
+			if(to >= 0 && to < cgMaxCount)
+			{
+				//	スクロールさせる
+				var	pos	= tf.thumbnailPos[to];
+//				dm(i+": "+to+" = scroll: "+.storage+" / "+.vcenter+" → "+pos[1]);
+				.stopAction();
+				.no		= to;
+				.absolute	= 1107700 + to * 100;
+				.ssact(time, "vcenter", pos[1]);
+				.name	= "cgサムネイル"+(to + 1);
+			}
+			else
+			{
+				//	隠す
+//				dm(i+": "+to+" = vanish: "+.storage);
+				.stopAction();
+				.ssact(time, "vcenter", .vcenter - mv);
+				.vanish(time);
+			}
+		}
+	}
+	var	st, ed;
+	if(scrcnt > 0)
+		st	= cgMaxCount - mvc, ed	= cgMaxCount;
+	else
+		st	= 0, ed	= -mvc;
+	var	cno, dno;
+	for(var i=st; i<ed; i++)
+	{
+		//	新しいサムネイルを出現させる
+//		dm("new: "+i);
+		var	no	= i + pgtopno;
+		if(cgDiffMode)
+			cno	= tf.cg_no, dno	= no;
+		else
+			cno	= no, dno = void;
+		var	pos	= tf.thumbnailPos[i];
+		with(CGgetNewThumbnailLayer(i, cno, dno))
+		{
+			.center	= pos[0];
+			.vcenter= pos[1] + mv;
+			.opacity= 1;
+			.stopAction();
+			.ssact(time, "vcenter", pos[1]);
+			.ssact(time, "opacity", 255);
+		}
+	}
+	var	item	= Menu_object.find("cgサムネイルカーソル");
+	if(item != void)
+	{
+		var	no	= item.no;
+		while(getCGStorageByPos(no) == "" && no >= 0 && no < cgMaxCount)
+			no	+= scrcnt > 0 ? -cgColCount : cgColCount;
+		if(no < 0 || no >= cgMaxCount)
+		{
+			do
+				no	+= scrcnt > 0 ? cgColCount : - cgColCount;
+			while(getCGStorageByPos(no) == "" && no >= 0 && no < cgMaxCount);
+		}
+		moveCGCursor(no,, !slider.updateCursor & !cgLine.pushedButton);
+	}
+	cgLine.pushedButton	= false;
+	slider.playEnterSE();
+	CGupdateChapters();
+
+	return slider == void || !slider.focused;
+
+/*	var	items	= Menu_object.getMenuItems();
+	for(var i=0; i<items.count; i++)
+		dm(i+": "+items[i].name) if items[i] != void && items[i].name.substr(0, 7) == "cgサムネイル";
+	dm("-".repeat(80));
+*/}
+//	種類ボタンの表示変更
+function changeStateCGCategory(visible, page="fore")
+{
+	with(Menu_object)
+	{
+		.setProp("cg背景ボタン", "visible", visible, page);
+//		.setProp("cgイメージボタン", "visible", visible, page);	//	不要になった
+		.setProp("cgイベントボタン", "visible", visible, page);
+	}
+}
+//	差分ページを表示
+function dispDiffCGPage(no)
+{
+	if(cgDiffMode)
+		return;
+	tf.cg_diffline	= 0;
+	tf.cg_no			= no;
+	Menu_object.setProp("cgページスライダー", "max", getCGDiffLine());
+	CGupdateCurrentPage(true);
+	changeStateCGCategory(false);
+}
+//	差分ページから元に戻す
+function revertNormalCGPage(no)
+{
+	if(!cgDiffMode)
+		return;
+	delete tf.cg_diffline;
+	changeStateCGCategory(true);
+	Menu_object.setProp("cgページスライダー", "max", cgMaxLine);
+
+//	dm("revertNormalCGPage("+(no === void ? "void" : no)+") => "+tf.cg_no);
+	if(no === void)
+	{
+		var	lno	= tf.cg_no \ cgColCount;
+		//	表示していた差分ページに対応する画像が画面内に入るよう位置を調整
+//		dm(cgLine.value, lno);
+		if(cgLine.value > lno)
+			sf.cgMenuLineNos[cgMenuPageNo]	= lno;
+		else if(cgLine.value + cgRowCount >= lno)
+		{
+			var	val	= lno - cgRowCount + 1;
+			sf.cgMenuLineNos[cgMenuPageNo]	= val < 0 ? 0 : val;	//	0 以下にならないように
+		}
+//		dm("→ "+cgLine.value);
+		//	→	cgLine.value に入れようとすると無用な補正が働く為、直接設定する
+		CGupdateCurrentPage(true);
+		adjustCGCursor(tf.cg_no);	//	カーソル位置を合わせる
+	}
+	else
+	{
+		var	nl	= no \ cgColCount;
+		cgLine.notify	= false;	//	一時的に変更を描画しないように
+		if(cgLine.value > nl || cgLine.value <= nl - 4)
+			Menu_object.setProp("cgページスライダー", "value", nl);
+		cgLine.notify	= true;
+		CGupdateCurrentPage(true);
+		adjustCGCursor(tf.cg_no = no);	//	カーソル位置を合わせる
+	}
+	Menu_object.playSE(closese);
+}
+//	ホイールでページ/画像切り替え
+function onCGMenuMouseWheel(shift, delta, x, y)
+{
+	if(!tf.cg_image_opened)
+	{
+		var	slider	= Menu_object.find('cgページスライダー');
+		slider.value	-= delta < 0 ? -1 : 1 if slider != void;
+	}
+	else if(!tf.cg_nolauncher)	//	クリップした画像から開いたときはスクロールしない
+	{
+		moveCGImage(delta > 0 ? -1 : 1);
+	}
+}
+//	ボタンでページ切り替え
+function goPresetPage(name)
+{
+	if(!tf.cg_opened)
+		return;
+	cgMenuPageNo	= cgPresetPage[name] if cgPresetPage[name] !== void;
+}
+//	画像を表示
+var	cgImageLayers	= [void, void];
+function openCGImage(no, diffno=0, nolauncher=false)
+{
+	//	画像を準備
+	if(tf.cg_image_opened || tf.cg_image === void || !tf.cg_opened)
+		return;
+	tf.cg_no = no, tf.cg_diffno = diffno if !nolauncher;
+	var	fn	= getCGStorage(no, diffno);
+//	dm("openCGImage("+no, diffno, nolauncher+"): "+fn);
+	if(!isDisplayedPicture(fn))
+		return;
+	tf.cg_image_opened	= true;
+	tf.cg_nolauncher	= nolauncher;
+	for(var i=0; i<2; i++)
+		cgImageLayers[i]	= new CGImageLayer(kag, kag.back.base) if cgImageLayers[i] == void;
+
+	//	表示初回カーソルの状態を戻す
+	cgImageLayers[0].cursor = kag.cursorDefault;
+	cgImageLayers[1].cursor = kag.cursorDefault;
+	cgImageLayers[tf.cg_image].loadImages(fn, getCGPos(no));
+	with(cgImageLayers[(tf.cg_image+1)&1])
+	{
+		.visible	= false;
+		.absolute	= cgImageLayers[tf.cg_image].absolute - 1;
+	}
+
+	//	メニューは、裏に移動したら消えるように
+	Menu_object.doInvalidateByInvisible("fore");
+
+	//	右クリック(というかESCキー)を設定
+	Menu_object.setClick(, "closeCGImage()");
+
+	//	フォーカスを解除しておく
+	if(kag.focusedLayer != void && kag.focusedLayer != null) with(kag.focusedLayer)
+	{
+		.focusable	= false;
+		.focusable	= true;
+	}
+
+	//	トランジション
+	with(kag.fore.base)
+	{
+		.stopTransition();
+		.beginTransition(%[time:300, method:"crossfade"]);
+	}
+}
+//	番号に対応する画像ファイル名を取得
+function getCGStorage(no, diffno, groupdisplayed=false)
+{
+//	dm("getCGStorage("+no+", "+diffno+", "+groupdisplayed+")");
+	var	data	= cgCurrentPage[int no];
+	if(typeof data == "Object")
+	{
+		if(diffno === void)
+		{
+			if(groupdisplayed && !isDisplayedPicture(data[0]))
+			{//	差分の中で、何れか既に表示されたものを出す場合
+				for(var i=3; i<data.count; i++)
+				{
+					if(isDisplayedPicture(data[i]))
+						return data[i];
+				}
+			}
+			return data[0];
+		}
+		else if(diffno < 0 || diffno + 2 >= data.count)
+			return void;
+		return data[diffno == 0 ? 0 : (diffno + 2)];
+	}
+	else
+		return data;
+}
+//	表示位置に対応する画像ファイル名
+function getCGStorageByPos(no, line=cgLine.value)
+{
+	if(cgDiffMode)
+		return getCGStorage(tf.cg_no, no + line * cgColCount);
+	else
+		return getCGStorage(no + line * cgColCount);
+}
+//	指定の画像に設定された差分画像の数
+function getCGDiffCount(no=tf.cg_no)
+{
+	var	data	= cgCurrentPage[no];
+	if(typeof data == "Object" && data.count > 3)
+		return data.count - 2;
+	else
+		return 0;
+}
+//	指定の画像に設定された差分画像のライン数
+function getCGDiffLine(no=tf.cg_no)
+{
+	return Math.max(0, (getCGDiffCount(no) - cgMaxCount + cgColCount - 1) \ cgColCount);
+}
+//	指定の画像に設定された表示位置
+function getCGPos(no)
+{
+	var	data	= cgCurrentPage[no];
+	return (typeof data == "Object" ? [ data[1], data[2] ] : void);
+}
+function CGmoveChapter(item)
+{
+	if(item == void)
+		return;
+	var	no	= int(item.name.substr(0, item.name.length - 1));
+	if(!cgDiffMode)
+	{
+		var	slider	= Menu_object.find("cgページスライダー");
+		slider.value	= cgChapters[no] \ cgColCount;
+	}
+	else
+		revertNormalCGPage(cgChapters[no]);
+	asyncCaller.call(postMoveChapter, cgChapters[no]);
+}
+function postMoveChapter(no)
+{
+	moveCGCursor(no - cgPageTopNo);
+}
+//	表示中の画像移動
+function moveCGImage(mv)	//	mv は 1/-1 のみ
+{
+@if(!CGMENU_KEEP_EXPANSION)
+	//	拡大状態で移動になったら状態を戻す
+	if(cgImageLayers[tf.cg_image].lastmagnify == 1)
+		CGswitchMagnify();
+	//	移動になったらカーソルの状態を戻す
+	cgImageLayers[tf.cg_image].cursor = kag.cursorDefault;
+@endif
+	//	画像を移動
+	var	storage, lastcgno = tf.cg_no;
+	do
+	{
+//		dm(tf.cg_no+", "+mv+": "+tf.cg_diffno+" < "+getCGDiffCount(tf.cg_no));
+		if((mv > 0 && tf.cg_diffno < getCGDiffCount(tf.cg_no)) || (mv < 0 && tf.cg_diffno > 0))
+			tf.cg_diffno	+= mv;
+		else
+		{
+			tf.cg_no	+= mv;
+			if(tf.cg_no < 0)
+				tf.cg_no	= cgCurrentPage.count - 1;
+			else if(tf.cg_no >= cgCurrentPage.count)
+				tf.cg_no	= 0;
+			tf.cg_diffno	= mv > 0 ? 0 : getCGDiffCount(tf.cg_no);
+		}
+		storage	= getCGStorage(tf.cg_no, tf.cg_diffno);
+	}
+	while(storage == void || !isDisplayedPicture(storage));
+
+	tf.cg_diffline	= getCGDiffCount(tf.cg_no) > 0 ? tf.cg_diffno \ cgColCount : void;
+
+	//	もう一方に画像を準備
+	var	last	= tf.cg_image;
+	tf.cg_image	= (tf.cg_image + 1) & 1;
+	cgImageLayers[tf.cg_image].loadImages(storage, getCGPos(tf.cg_no),
+@if(CGMENU_KEEP_EXPANSION)
+		cgImageLayers[last].lastmagnify == 1 ? 1 : void,	//	拡大/縮小状態を維持する
+		lastcgno == tf.cg_no ? [ -cgImageLayers[last].imageLeft, -cgImageLayers[last].imageTop ] : void	//	差分なら現在の位置を伝える
+@endif
+	);
+
+/*	//	トランジション(以前は width,height が同じなら行けたが、今は imageWidth,imageHeight が同じでないとダメ？
+	with(cgImageLayers[last])
+	{
+		cgImageLayers[tf.cg_image].stopTransition();
+		.stopTransition();
+		.beginTransition("crossfade", false, cgImageLayers[tf.cg_image], %[time:300]);
+	}
+*/	with(cgImageLayers[tf.cg_image])
+	{
+		cgImageLayers[last].stopAction();
+		.opacity	= 0;
+		.visible	= true;
+		.absolute <-> cgImageLayers[last].absolute;
+		.ssact(300, "opacity", 255);
+	}
+}
+//	キーボードでの画像移動
+function CGonKeyDown(key, shift)
+{
+	if(tf.cg_image_opened)
+	{
+		switch(key)
+		{
+		case VK_LEFT:	moveCGImage(-1);	return true;
+		case VK_RIGHT:	moveCGImage(1);		return true;
+		case VK_TAB:	CGswitchMagnify();	return true;
+		case VK_RETURN:
+		case VK_Z:
+		case VK_SPACE:
+			if(!tf.cg_launcher)
+				openCGLauncher();
+			return true;
+		}
+	}
+	else
+	{
+		var	slider	= Menu_object.find('cgページスライダー');
+		switch(key)
+		{
+		case VK_PRIOR:	cgLine.value--;	slider.updatePos() if slider != void;	return true;
+		case VK_NEXT:	cgLine.value++;	slider.updatePos() if slider != void;	return true;
+		}
+	}
+	return false;
+}
+//	拡大縮小切り替え
+function CGswitchMagnify()
+{
+	with(cgImageLayers[tf.cg_image])
+	{
+		.draw(.lastmagnify == 1 ? void : 1);
+		var	item	= Menu_object.find("cg_magnify");
+		item.storage	= "cg_view_画像"+(.lastmagnify != 1 ? "拡大" : "縮小") if item != void;
+		.cursor = (.lastmagnify == 1 ? kag.cursorDraggable : kag.cursorDefault);
+	}
+}
+//	画像を閉じる
+function closeCGImage()
+{
+	if(!tf.cg_image_opened)
+		return;
+	delete tf.cg_nolauncher;
+	kag.fore.base.stopTransition();	//	トランジションを停止
+
+	//	画像を隠す
+	cgImageLayers[(tf.cg_image + 1) & 1].visible	= false;
+
+	//	カーソルを元に戻す
+	cgImageLayers[0].cursor	= kag.cursorDefault;
+	cgImageLayers[1].cursor	= kag.cursorDefault;
+
+	//	ランチャーを閉じる
+	closeCGLauncher();
+
+	Menu_object.resetClick();
+
+	if(!tf.cg_opened)
+		return;
+
+	//	CGメニューを再構成
+	var	tdata	= __get_cgmode_timelinedata(5);
+	var	name2pos= tdata[0], creates = tdata[1], actions = tdata[2];
+	var	ignore	= setCGMenuTimeline(name2pos, creates, actions);
+	if(cgMenuPageNo == 1)
+	{//	BackGroundCGでは章ボタンを表示しない
+		for(var i=1; i<=sf.chapterInt; i++)
+			setCreateProp(creates[name2pos[i+"章"]], "visible", 0);
+	}
+	Menu_object.lastTimeline("back", creates, actions, %[absolute:1100000], ignore);
+	afterCGMenuTimeline("back", true);
+	adjustCGCursor(cgDiffMode ? tf.cg_diffno : tf.cg_no, "back");
+	Menu_object.reservedFocus	= Menu_object.find("cgサムネイルカーソル", "back");	//	誰かがフォーカスを得るときに譲ってもらう
+//	dm("reservedFocus = "+Menu_object.reservedFocus);
+
+	//	トランジション
+	kag.fore.base.beginTransition(%[time:300, method:"crossfade"]);
+
+	delete tf.cg_image_opened;
+}
+
+class CGImageLayer extends Layer
+{
+	var	loader;
+	var	storage;
+	var	pos;
+
+	function CGImageLayer(win, par)
+	{
+		super.Layer(win, par);
+		name		= "cg image";
+		absolute	= 1200000;
+		setSize(win.scWidth, win.scHeight);
+		setPos(0, 0);
+		hitThreshold= 0;
+		face		= dfOpaque;
+		holdAlpha	= false;
+		type		= ltOpaque;
+		visible		= false;
+	}
+
+	function finalize()
+	{
+		invalidate loader if loader != void;
+		super.finalize();
+	}
+
+	function loadImages(storage, pos, magnify=void, lastpos=void)
+	{
+		if(loader == void)
+			loader	= new global.Layer(window, this);
+//		dm("CGImageLayer.loadImages("+this.storage+" → "+storage, pos+")");
+		if(this.storage != storage)
+		{
+			var	exts	= [ ".tlg", ".png", ".jpg" ];
+			var	loaded	= false;
+			for(var i=0; i<exts.count; i++)
+			{
+				if(Storages.isExistentStorage(storage+exts[i]))
+				{
+//					dm(storage+exts[i]+" = "+Storages.getPlacedPath(storage+exts[i]));
+					loader.loadImages(this.storage = storage);
+					//	半透明部分がある場合は、背景を白にする
+					if(loader.getMaskPixel(0, 0) < 255)
+					{
+						var	layer	= new global.Layer(window, this);
+						layer.setImageSize(loader.imageWidth, loader.imageHeight);
+						layer.fillRect(0, 0, layer.imageWidth, layer.imageHeight, 0xffffffff);
+						layer.operateRect(0, 0, loader, 0, 0, loader.imageWidth, loader.imageHeight);
+						layer <-> loader;
+						invalidate layer;
+					}
+					loaded	= true;
+					break;
+				}
+			}
+			if(!loaded) with(loader)
+			{
+				.setSize(1024, 576);
+@if(DEBUG)
+				.fillRect(0, 0, .width, .height, 0xffff0000);
+				var	text	= "Image not found: "+storage;
+				.font.height	= 24;
+				var	fw	= .font.getTextWidth(text), fh = .font.getTextHeight(text);
+				.drawText((.width-fw)*0.5, (.height-fh)*0.5, text, 0xffffff);
+@endif
+@if(!DEBUG)
+				.fillRect(0, 0, .width, .height, 0xff000000);
+@endif
+			}
+			loader.setSizeToImageSize();
+		}
+		this.pos	= pos;
+
+		lastmagnify	= void;
+		draw(magnify, lastpos);
+
+		visible	= true;
+	}
+
+	function copyImage(l, t, iw, ih, magnify)
+	{
+		if(magnify == 1.0)
+			copyRect(l, t, loader, 0, 0, loader.width, loader.height);
+		else if(magnify > cgAAThreshold)
+			operateStretch(l, t, iw, ih, loader, 0, 0, loader.width, loader.height, omOpaque,, stFastLinear);
+		else
+			stretchCopyAA(l, t, iw, ih, loader, 0, 0, loader.width, loader.height);
+	}
+
+	var	lastmagnify;
+	function draw(magnify=void, lastpos=void)
+	{
+		//	縮小率の計算
+		var	mag;
+		var	mw	= width / loader.width;
+		var	mh	= height / loader.height;
+		var	mm	= Math.min(mw, mh);
+		if(magnify == void)
+			mag	= mm;
+		else
+			mag	= Math.max(mm, Math.min(1.0, magnify));
+
+		//	直前と同じなら、再描画しない
+		if(lastmagnify === mag)
+			return;
+		lastmagnify	= mag if magnify != void || mag != 1;
+
+//		dm("draw(%4.3f, [ %s, %s ]) pos = %s, %s".sprintf(mag, lastpos!=void?lastpos[0]:"void", lastpos!=void?lastpos[1]:"void", pos!=void?pos[0]:"void", pos!=void?pos[1]:"void"));
+		var	iw	= int(loader.width * mag);
+		var	ih	= int(loader.height * mag);
+		setImageSize(Math.max(width, iw), Math.max(height, ih));
+		var	pixel	= loader.getMainPixel(0, 0);
+		var	bezelColor	= loader.getMainPixel(0, 0) == 0xffffff ? 0xffffffff : 0xFF000000;
+		var	l	= (width - iw) \ 2;
+		var	t	= (height - ih) \ 2;
+		if(l < 0)
+		{
+			if(t < 0)
+			{
+				copyImage(0, 0, iw, ih, mag);
+				setImagePos(l, t);
+			}
+			else
+			{//	上下に帯
+				fillRect(0, 0, imageWidth, t, bezelColor);
+				copyImage(0, t, iw, ih, mag);
+				t	+= ih;
+				fillRect(0, t, imageWidth, imageHeight - t, bezelColor);
+				setImagePos(l, 0);
+			}
+		}
+		else if(t < 0)
+		{//	左右に帯
+			fillRect(0, 0, l, imageHeight, bezelColor);
+			copyImage(l, 0, iw, ih, mag);
+			l	+= iw;
+			fillRect(l, 0, imageWidth - l, imageHeight, bezelColor);
+			setImagePos(0, t);
+		}
+		else
+		{//	額縁
+			fillRect(0, 0, imageWidth, t, bezelColor);
+			fillRect(0, t, l, ih, bezelColor);
+			copyImage(l, t, iw, ih, mag);
+			l	+= iw;
+			fillRect(l, t, imageWidth - l, ih, bezelColor);
+			t	+= ih;
+			fillRect(0, t, imageWidth, imageHeight - t, bezelColor);
+			setImagePos(0, 0);
+		}
+		var	pos	= lastpos != void ? lastpos : this.pos;
+		if(pos != void)
+		{
+			if(pos[0] !== void)
+			{
+				l	= -pos[0] * (mag - mw) / (1 - mw);
+				l	= Math.max(width - iw, l);
+			}
+			if(pos[1] !== void)
+			{
+				t	= -pos[1] * (mag - mh) / (1 - mh);
+				t	= Math.max(height - ih, t);
+			}
+		}
+		setImagePos(Math.min(l, 0), Math.min(t, 0));
+	}
+
+	var	lastx, lasty, isdragging;
+	var	mv;
+	function onMouseDown(x, y, button, shift)
+	{
+		if(button === mbLeft)
+		{
+			lastx	= x;
+			lasty	= y;
+			mv		= 0;
+			isdragging	= true;
+		}
+		else if(button == mbMiddle)
+			CGswitchMagnify();
+	}
+
+	function move(x, y)
+	{
+		setImagePos(Math.min(0, Math.max(width - imageWidth, imageLeft + x)),
+			Math.min(0, Math.max(height - imageHeight, imageTop + y)));
+	}
+
+	function onMouseMove(x, y)
+	{
+		if(isdragging)
+		{
+			var	mx	= x - lastx, my = y - lasty;
+			move(mx, my);
+			mv	+= Math.abs(mx) + Math.abs(my);
+			lastx	= x;
+			lasty	= y;
+		}
+	}
+
+	function onMouseUp(x, y, button, shift)
+	{
+		if(button === mbLeft)
+		{
+			isdragging	= false;
+			if(mv == 0)
+			{
+				if(tf.cg_launcher)
+					closeCGLauncher();
+				else
+					openCGLauncher();
+			}
+		}
+		else if(button == mbRight)
+		{
+			closeCGImage();
+		}
+	}
+
+	//	シンプルなアクション(メニューのmouse～から呼び出すためのもの)
+	function ssact(time, prop, value, delay=0, accel=0)
+	{
+		var	elm	= %[time:time, start:this[prop], value:value];
+		if(time === void)
+		{
+			elm.handler	= SetAction;	//	値を指定の時間後に設定
+			elm.time	= delay;
+		}
+		else
+		{//	キーフレームで処理
+			elm.props	= prop;
+			elm.keys	= [ [delay, this[prop], accel, "l"], [time + delay, value, 0, "n"] ];
+			elm.module	= KeyFrameActionModule;
+			window.beginAction(this, elm);
+			return;
+		}
+		window.beginAction(this, %[prop => elm]);
+	}
+
+	function stopAction()
+	{
+		window.stopAction(this);
+	}
+}
+//	ランチャーを開く
+function openCGLauncher()
+{
+	if(tf.cg_launcher || !tf.cg_opened || !tf.cg_image_opened)	//	画像を開いているときだけランチャーを開ける
+		return;
+	if(tf.cg_nolauncher)	//	クリップした画像を開いたときは、前後に移動しない
+		return;
+	tf.cg_launcher	= true;
+
+	var	tdata	= __get_cgmode_timelinedata(8);
+	if(cgImageLayers[tf.cg_image].lastmagnify == 1)
+		setCreateProp(tdata[1][tdata[0]["cg_magnify"]], "storage", "cg_view_画像縮小");
+	Menu_object.playTimeline(kag.transCount > 0 ? "back" : "fore", tdata[1], tdata[2], %[absolute:1300000],,, true);
+
+	CGresetKeyHook();
+}
+//	ランチャーを閉じる
+function closeCGLauncher()
+{
+	if(!tf.cg_launcher)
+		return;
+	delete tf.cg_launcher;
+
+	var	tdata	= __get_cgmode_timelinedata(9);
+	var	name2pos= tdata[0], creates = tdata[1], actions = tdata[2];
+	setCreateProp(creates[name2pos["cg_close"]], "mouseUp", "");
+	setCreateProp(creates[name2pos["cg_next"]], "mouseUp", "");
+	setCreateProp(creates[name2pos["cg_back"]], "mouseUp", "");
+	setCreateProp(creates[name2pos["cg_prev"]], "mouseUp", "");
+	var	item	= creates[name2pos["cg_magnify"]];
+	setCreateProp(item, "mouseUp", "");
+	clearCreateProp(item, "storage");
+	Menu_object.playTimeline("fore", tdata[1], tdata[2], %[absolute:1300000],, true);
+
+	CGsetKeyHook();
+}
+//	サムネイル上の操作
+function CGMenuThumbnailMouseDown(thumb, x, y)
+{
+}
+function CGMenuThumbnailMouseMove(thumb, x, y)
+{
+}
+var	cgExchgAccel	= 3;
+function CGMenuThumbnailMouseUp(thumb, x, y)
+{
+	if(!tf.cg_opened || !thumb.visible)
+		return;
+	if(x >= 0 && x < thumb.width && y >= 0 && y < thumb.height)
+	{
+		if(!isDisplayedPicture(thumb.orgstorage))
+			return;
+		if(thumb.dno !== void)
+			openCGImage(thumb.cno, thumb.dno);	//	開く
+		else if(getCGDiffCount(thumb.cno) > 0)
+		{
+			dispDiffCGPage(thumb.cno);	//	差分リストを開く
+			var	data	= cgCurrentPage[thumb.cno];
+			for(var i=3; i<data.count; i++)
+			{
+				if(isDisplayedPicture(data[i]))
+				{
+					moveCGCursor(i-3);		//	カーソルは表示されたことのある画像の先頭へ
+					break;
+				}
+			}
+		}
+		else
+			openCGImage(thumb.cno);	//	開く
+		thumb.playPressSE();
+	}
+}
+function CGMenuThumbnailMouseEnter(thumb)
+{
+	if(!tf.cg_opened)
+		return;
+	if(kag.inputDevice == "keyboard")
+		return;	//	上下のボタンを押した結果スクロールした場合に、カーソルが別の場所へ移動してしまうので
+	with(thumb)
+	{
+		if(.dno === void)
+			moveCGCursor(.cno - cgPageTopNo);
+		else
+			moveCGCursor(.dno - tf.cg_diffline * cgColCount);
+//		.playEnterSE();
+	}
+}
+function CGMenuThumbnailKeyDown(thumb)
+{
+	switch(thumb.key)
+	{
+	case VK_UP:
+		var	lastname	= thumb.name;
+		if(thumb.no < cgColCount)
+			Menu_object.setProp("cgページスライダー", "value", cgLine.value-1);
+		var	nno	= thumb.no-cgColCount+1;
+		Menu_object.execMethod(nno < 0 ? lastname : "cgサムネイル"+nno, "focus");
+		thumb.result	= true;
+		break;
+	case VK_DOWN:
+		if(thumb.no >= cgMaxCount - cgColCount)
+		{
+			if(cgLine.value < cgMaxLine)
+			{
+				Menu_object.setProp("cgページスライダー", "value", cgLine.value+1);
+				Menu_object.execMethod("cgサムネイル"+(thumb.no+cgColCount+1), "focus");
+			}
+			else if(thumb.no >= cgMaxCount - (cgColCount >> 1))
+				Menu_object.execMethod("cg背景ボタン", "focus");
+			else
+				Menu_object.execMethod("cgイベントボタン", "focus");
+			thumb.result	= true;
+		}
+		else if(Menu_object.execMethod("cgサムネイル"+(thumb.no+cgColCount+1), "focus") != void)
+			thumb.result	= true;
+		break;
+	}
+}
+function CGMenuFindHeightDir(no, dir, cursor)
+{
+	var	col	= cgColCount * dir;
+	no	+= col;
+	var	st;
+	do
+	{
+		st	= getCGStorageByPos(no);
+		if(st != void)
+			break;
+		no	+= col;
+	}
+	while(no >= 0 && no < cgMaxCount);
+	if(no < 0 || no >= cgMaxCount)
+	{
+		var	lno	= cgLine.value;
+		do
+		{
+			no	-= col;
+			lno	+= dir;
+		}
+		while(no < 0 || no >= cgMaxCount);
+		do
+		{
+			st	= getCGStorageByPos(no, lno);
+			if(st != void)
+				break;
+			lno	+= dir;
+		}
+		while(lno >= 0 && lno < cgMaxLine);
+		if(st == void)
+		{
+			no	-= col;
+			st	= getCGStorageByPos(no);
+		}
+		cgLine.value	= lno;
+		var	slider	= Menu_object.find("cgページスライダー");
+		if(slider != void)
+		{
+			slider.updateCursor	= false;
+			slider.updatePos();
+		}
+	}
+	moveCGCursor(no);
+	return st;
+}
+function CGMenuFocusCursorNeighbor(cursor, dir)
+{
+	var	item	= cursor.searchNeighborItem(dir);
+	if(item != void)
+		item.focus();
+}
+function CGMenuCursorKeyDown(cursor)
+{
+	switch(cursor.key)
+	{
+	case VK_UP:
+		CGMenuFindHeightDir(cursor.no, -1, cursor);
+		cursor.result	= true;
+		return;
+
+	case VK_DOWN:
+		if(cursor.no >= cgMaxCount - cgColCount && cgLine.value == cgMaxLine)
+		{
+			if(cursor.no % cgColCount >= 2)
+				Menu_object.execMethod("cg背景ボタン", "focus");
+			else
+				Menu_object.execMethod("cgイベントボタン", "focus");
+		}
+		else
+		{
+			var	lastst	= getCGStorageByPos(cursor.no);
+			var	newst	= CGMenuFindHeightDir(cursor.no, 1, cursor);
+			if(newst == lastst && !cgDiffMode)
+			{
+				if(cursor.no % cgColCount >= 2)
+					Menu_object.execMethod("cg背景ボタン", "focus");
+				else
+					Menu_object.execMethod("cgイベントボタン", "focus");
+			}
+		}
+		cursor.result	= true;
+		return;
+
+	case VK_LEFT:
+		if(cursor.no % cgColCount == 0)
+			CGMenuFocusCursorNeighbor(cursor, 0);
+		else
+		{
+			var	no	= cursor.no - 1;
+			var	i	= no % cgColCount;
+			for(; i>=0 && getCGStorageByPos(no) == void; i--)
+				no--;
+			if(i >= 0)
+				moveCGCursor(no);
+			else
+				CGMenuFocusCursorNeighbor(cursor, 0);
+		}
+		cursor.result	= true;
+		return;
+
+	case VK_RIGHT:
+		if(cursor.no % cgColCount == cgColCount - 1)
+			CGMenuFocusCursorNeighbor(cursor, 2);
+		else
+		{
+			var	no	= cursor.no + 1;
+			var	i	= no % cgColCount;
+			for(; i<cgColCount && getCGStorageByPos(no) == void; i++)
+				no++;
+			if(i < cgColCount)
+				moveCGCursor(no);
+			else
+				CGMenuFocusCursorNeighbor(cursor, 2);
+		}
+		cursor.result	= true;
+		return;
+
+	case VK_RETURN:
+	case VK_SPACE:
+		CGMenuThumbnailMouseUp(Menu_object.find("cgサムネイル"+(cursor.no+1)), 1, 1);
+		cursor.result	= true;
+		return;
+
+	case VK_ESCAPE:
+	case VK_BACK:
+	case VK_DELETE:
+		CGMenuClose();
+		cursor.result	= true;
+		return;
+	}
+	return (global.BasicCharacterLayer.onKeyDown incontextof cursor)(cursor.key, cursor.shift, true);
+}
+//	back や右クリックされた時の処理
+function CGMenuClose()
+{
+//	dmt("CGMenuClose");
+	if(tf.cg_image_opened)
+		closeCGImage();
+	else if(cgDiffMode)
+		revertNormalCGPage();
+	else
+		closeCGMenu();
+}
+
+function CGdno2diffno(dno)
+{
+	return dno == 0 ? 0 : dno + 2;
+}
+
+@endif
