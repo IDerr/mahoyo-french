@@ -12,7 +12,7 @@
 
 - Traduction    : Naoyrig
 - Relecture     : Naoyrig, Caster
-- Hacking       : IDerr
+- Partie technique       : IDerr
 - Remerciements : Nodamin, Atlas, N-harmonia, Elfy, Yokathaking, Shipanda
 
 ## Avancement de la traduction
