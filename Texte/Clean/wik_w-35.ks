@@ -44,7 +44,6 @@
 *page8|
 「L'humain qui le mange. Il y avait plusieurs coupables―――!」
 　Dans ce cas, il y avait deux Sweets Hearts.
-;犯人と別人Ａは別人、に強調//
 　L'exécuteur et l'individu A étaient deux personnes différentes...!
 *page9|
 　L'individu A qui avait utilisé le Ploy.
@@ -53,7 +52,6 @@
 　J'avais vu juste, mais ce n'était pas la bonne réponse.
 　C'était sans aucun doute pour cette raison que j'étais toujours vivante.
 *page10|
-;画面。空模様がますますやばくなる。ごおー、と拘束で時間が流れている、とかいいかもね//
 「Attends―――Attends, attends, attends, attends...!
 　La solution est claire, maintenant, il ne me reste plus qu'à répondre à cette question...!」
 　Je...

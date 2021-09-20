@@ -1,6 +1,4 @@
 ﻿*page0|
-;画面・ウエイトの後、朝の日射し
-;画面・洋館ロビー・朝//
 　Lorsque j'ouvris les yeux, j'étais allongée sur le parquet.
 *page1|
 「Hein... Qu'est-ce que je fais là ?」
@@ -32,9 +30,7 @@
 “C'est vrai~”
 　Un son énergique retentit comme pour m'encourager.
 　Une fissure apparut à la surface de l'œuf.
-;SEカシッ、と陶器にヒビが入るような音。スイーツハーツ、割れて霧散する//[l]
 　Il se brisa subitement,
-;画面・一瞬だけフラッシュ。スイーツハーツの記憶、すべて消去//
 　et il disparut en emportant tout, même mes souvenirs.
 *page8|
 「Tiens―――? J'ai l'impression qu'il s'est passé quelque chose, mais quoi donc...」
@@ -56,7 +52,6 @@
 　Il nous restait peu de temps avant la fin du lycée.
 　Je devais, à ma façon, sans avoir de regret, affronter cette ultime saison avant la fin du lycée qui se terminerait en un clin d'œil si je n'y prêtais pas attention.
 *page12|
-;画面・ロビーの上の方にゆっくりパンさせていく//
 「Ouah, si c'est pas Kojika ?! T'as aussi été invitée ?!
 　Tu connais Alice ?!」
 「Évidemment. Ça devait forcément arriver, en étant amie avec Aozaki. [wait canskip=0 time=400][chgfg storage=金鹿私服02(全)|k type=13 zoom=60 partbgid=pb2 time=400]Bref, calme-toi un peu, Housuke. Tu n'as vraiment pas changé depuis que tu es gamin.」
