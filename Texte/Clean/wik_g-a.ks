@@ -35,10 +35,10 @@
 　Même si j'avais conclu à la possibilité qu'une explosion de poussière se soit produite dans la chambre, je n'étais pas arrivée à la question essentielle consistant à me demander dans quel but on l'aurait provoquée.
 *page9|
 「Je vois. C'est donc ce que cache cette explosion de poussière.」
-　“Hum”, acquiesça Housuke, face à cette hypothèse vraisemblable.
+　“Hum”, acquiesça Hōsuke, face à cette hypothèse vraisemblable.
 「Et, pardon, mais qu'est-ce que ça change ?」
 「Pour commencer, on peut déterminer l'emplacement de l'arme du crime.
-　Soujyuro, il y a de la farine de blé dans la cuisine ?」
+　Sōjūrō, il y a de la farine de blé dans la cuisine ?」
 「Je suis en train de chercher... Non.
 　On en avait en stock, mais le sac a disparu.」
 *page10|
@@ -73,7 +73,7 @@
 「Hein...?」
 *page18|
 「D'où tu sors ça ? C'est trop drôle ! Ça ne te ressemble pas du tout !
-　Soujyuro, Alice se moque de toi ! Connais-tu seulement le sens de cette phra―――[se storage=se12058 volume=100 loop=0][playstop time=100 nowait=1][wait canskip=0 time=200][bg time=20 rule=crossfade storage=red  noclear=0][stopaction][clall][se storage=se10035 volume=100 loop=0][se storage=se12070 volume=100 loop=0][fgact page=back props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-visible keys=(0,0,l,im15l喀血,508,312,2000,,50,50,1)(100,,,,479,329,,,100,100,)(300,,n,,,,,255,150,150,) storage=im15l喀血][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-xblur,-visible keys=(0,3,l,リデル01(全)|k,673,1294,1200,,80,80,5,1)(400,7,,リデル01(全)|k2,622,,,-10.57,,,2,) storage=リデル01(全)|k][fgact page=back props=-storage,center,vcenter,zoomx,zoomy,-xblur,-yblur,-visible keys=(0,3,l,bg01l久遠寺邸03居間-(夜隣明)奥扉開,871,331,134.514,134.514,2,1,1)(400,0,,,820,,,,,,) storage=bg01l久遠寺邸03居間-(夜隣明)奥扉開][shock vmax=15 hmax=5 time=200 count=2][bg time=100 rule=crossfade storage=white  noclear=1]Kof ?!」
+　Sōjūrō, Alice se moque de toi ! Connais-tu seulement le sens de cette phra―――[se storage=se12058 volume=100 loop=0][playstop time=100 nowait=1][wait canskip=0 time=200][bg time=20 rule=crossfade storage=red  noclear=0][stopaction][clall][se storage=se10035 volume=100 loop=0][se storage=se12070 volume=100 loop=0][fgact page=back props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-visible keys=(0,0,l,im15l喀血,508,312,2000,,50,50,1)(100,,,,479,329,,,100,100,)(300,,n,,,,,255,150,150,) storage=im15l喀血][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-xblur,-visible keys=(0,3,l,リデル01(全)|k,673,1294,1200,,80,80,5,1)(400,7,,リデル01(全)|k2,622,,,-10.57,,,2,) storage=リデル01(全)|k][fgact page=back props=-storage,center,vcenter,zoomx,zoomy,-xblur,-yblur,-visible keys=(0,3,l,bg01l久遠寺邸03居間-(夜隣明)奥扉開,871,331,134.514,134.514,2,1,1)(400,0,,,820,,,,,,) storage=bg01l久遠寺邸03居間-(夜隣明)奥扉開][shock vmax=15 hmax=5 time=200 count=2][bg time=100 rule=crossfade storage=white  noclear=1]Kof ?!」
 *page19|
 「Quoi ? Elle a subitement vomi du sang et s'est effondréeーーーーー?!」
 　J'accourus vers la fille en rose gisant au sol.
@@ -102,7 +102,7 @@
 *page24|
 「Sérieux, c'est flippant de dire ce genre de truc !
 　Alice, tu es drôlement douée pour les blagues, hahahahaha !」
-「Ho... HousukeeeーーーーHein ?!」
+「Ho... HōsukeeeーーーーHein ?!」
 *page25|
 「...... On dirait que c'est sérieux.」
 「Grâce à Kinomi, je comprends mieux les règles.
@@ -163,7 +163,7 @@
 「Comme je le pensais, cette fille est du genre immortel... Incroyable.」
 　Bien que stupéfait, Tsukiji accepta sans broncher le spectacle horrifique offert par cette fille en rose.
 *page40|
-「... Hé, Tsukiji. Tu ne trouves pas ça étrange ? Des personnes sont mortes, tu sais ? [l][chgfg storage=金鹿私服01(大)|m4 time=300]Housuke s'est transformé en confettis et il n'y a même pas de corps ! C'est quoi cette histoire de rire synonyme de mort ? Peut-être que je rêve depuis le début en fait ?」
+「... Hé, Tsukiji. Tu ne trouves pas ça étrange ? Des personnes sont mortes, tu sais ? [l][chgfg storage=金鹿私服01(大)|m4 time=300]Hōsuke s'est transformé en confettis et il n'y a même pas de corps ! C'est quoi cette histoire de rire synonyme de mort ? Peut-être que je rêve depuis le début en fait ?」
 *page41|
 「Calme-toi, je ne veux pas y croire moi-même, mais c'est la réalité.
 　Comme l'a dit Kuonji, cette résidence est devenue un monde avec ses propres règles, et Riddell les a enfreintes, mais s'y est opposée par la force brute.
@@ -171,7 +171,7 @@
 *page42|
 「Sauf que je connais pas les détails. Quand on pénètre dans leur monde, on se retrouve mêlé à leurs histoires. Après les avoir observés à la frontière de leur monde, j'en ai conclu que ces deux-là sont authentiques. Pour le moment, habitue-toi à cette idée.」
 *page43|
-「Je ne peux pas ! Housuke est mort, tu te rends compte ?!」
+「Je ne peux pas ! Hōsuke est mort, tu te rends compte ?!」
 「Kumari. Il est encore trop tôt pour pleurer la mort de Kinomi.[r]
 　Tokkii et lui sont considérés comme des joueurs éliminés et ont simplement été retirés de la partie. Dans la réalité, il sont seulement “portés disparus”.
 　Si quelqu'un termine la partie, tout ce qui s'est passé pendant la partie sera annulé et ils reviendront parmi nous.」

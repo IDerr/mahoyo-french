@@ -21,7 +21,7 @@
 「Que tout le monde se calme. Ceci est une scène de crime ! Je flaire l'odeur du crime.」
 「Je dirais plutôt que ça sent la farine de blé, non ?」
 *page4|
-　Effrayé, Housuke s'était retranché au premier étage.
+　Effrayé, Hōsuke s'était retranché au premier étage.
 　Chacun de nous observa la scène à tour de rôle.
 *page5|
 「Faites bien attention à ne toucher à rien sur les lieux du crime.
@@ -29,7 +29,7 @@
 　Ma petite Al, je peux contacter la police ? Merci. Sur ce, je vais t'emprunter le téléphone du vestibule.」
 *page6|
 　Nous suivîmes les directives qu'avait données Ritsuka avec vigueur et formâmes des binômes.
-　Comme Housuke s'était enfui, je me retrouvai avec Tsukiji.
+　Comme Hōsuke s'était enfui, je me retrouvai avec Tsukiji.
 *page7|
 「―――La cause de sa mort est plutôt surprenante.
 　Une explosion ? Qu'est-ce que le meurtrier avait derrière la tête ?」
@@ -83,7 +83,7 @@
 　Nous pourrons très bien contacter la police après avoir mis au clair cette affaire.」
 *page19|
 　Tout le monde se rangea à l'avis du prêtre.
-　Je retire ce que j'ai dit. Housuke marmonna : “C'est quoi cette histoire ? Une caméra cachée ?” et refusait de voir la réalité en face.
+　Je retire ce que j'ai dit. Hōsuke marmonna : “C'est quoi cette histoire ? Une caméra cachée ?” et refusait de voir la réalité en face.
 *page20|
 「..................」
 　Je ressentis un frisson et, sans raison particulière, dirigeai mon regard vers l'entrée.

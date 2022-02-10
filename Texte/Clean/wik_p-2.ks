@@ -2,7 +2,7 @@
 　Je songeai qu'il était préférable d'attendre le retour du trio dans le manoir.
 *page1|
 「Bon, eh ben, on y va. Si on ne trouve rien d'ici vingt minutes, on reviendra ici.」
-「C'est un plan judicieux. Allons-y, Soujyuro.」
+「C'est un plan judicieux. Allons-y, Sōjūrō.」
 　D'habitude, Shizuki ne s'approchait pas de père Eiri, mais cette nuit, il faisait une exception.
 　Il ne le lâcha pas et courut de façon à protéger ses arrières.
 *page2|

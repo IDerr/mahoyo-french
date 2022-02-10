@@ -40,23 +40,23 @@
 「Oh, Kojika est aussi avec vous.
 　Je me demandais pourquoi la présidente n'était pas là ce matin. Elle était allée vous chercher, hein ?」
 *page10|
-「Hé ! Pourquoi Housuke est là ?」
-「Soujyuro a voulu qu'on l'invite. Il répétait qu'il ferait plaisir à tout le monde aujourd'hui.
+「Hé ! Pourquoi Hōsuke est là ?」
+「Sōjūrō a voulu qu'on l'invite. Il répétait qu'il ferait plaisir à tout le monde aujourd'hui.
 　Bah, le choix n'est pas vraiment pertinent, mais ça aurait pu être pire, tu ne crois pas ? Kinomi est doué pour mettre de l'ambiance.」
 *page11|
 「Oh ! Compte sur moi ! J'ai appris plein de nouvelles histoires pour ne pas trahir vos attentes ! Avec toutes les histoires de fantômes et tous les mimes que j'ai en réserve, je risque pas d'être à court !」
 *page12|
 「Une oie aurait amplement suffi à le remplacer pour mettre de l'ambiance.[r]
 　Je ne comprends vraiment pas Shizuki.
-　Housuke, ne fais pas l'idiot et occupe-toi de mes bagages !」
+　Hōsuke, ne fais pas l'idiot et occupe-toi de mes bagages !」
 「Tu veux dire un clown, non ? Pas une oie, un clown !」
 *page13|
-　J'ignorai la plaisanterie d'Housuke et posai par terre mon sac de voyage qui contenait mes vêtements de rechange.
+　J'ignorai la plaisanterie d'Hōsuke et posai par terre mon sac de voyage qui contenait mes vêtements de rechange.
 「Ne t'avise pas de regarder à l'intérieur.」
 「Même si on me payait, je regarderais pas ! Pour tes tenues qui n'ont rien de sexy, c'est No Thanks / No Futur / No Tax.
 　...... Hé, mais ce truc pèse une tonne ! T'as un sac vachement lourd pour un physique comme le tien, dis donc !」
 *page14|
-　Housuke chargea le sac sur son épaule et fit mine de se diriger vers le couloir côté est du vestibule.
+　Hōsuke chargea le sac sur son épaule et fit mine de se diriger vers le couloir côté est du vestibule.
 　Le poids du sac n'avait rien d'étonnant. Au cas où, j'y avais mis une casserole, des couteaux de cuisine chinois, du riz et des tranches de porc.
 *page15|
 「Par là, c'est le salon. C'est dans cette pièce que se tiendra la fête.

@@ -15,7 +15,7 @@
 　Retiens bien ça, Tobimaru. Contrairement à vous autres figurants, rien n'est impossible pour moi. Il suffirait d'un mot de ma part pour qu'un missile soit lancé depuis l'autre côté de la terre !」
 「Non mais n'importe quoi, lancer un missile...」
 *page3|
-　La jeune femme, toute de rose vêtue, ne posa pas un regard sur Housuke ou moi et s'approcha de Kuonji.
+　La jeune femme, toute de rose vêtue, ne posa pas un regard sur Hōsuke ou moi et s'approcha de Kuonji.
 　Le son de ses bottes résonnait ostensiblement. Comme des bottes militaires provocatrices.
 *page4|
 「La sorcière considérée comme la star numéro un de l'Association, accaparée et sollicitée par tous, qui a dépassé pour la première fois les cent millions de ventes, a spécialement affrété son hélicoptère personnel pour te rendre visite.
@@ -120,7 +120,7 @@
 「...... Depuis midi, il y a à peu près cinq heures, aucun d'entre nous n'a vu Tokkii......?」
 *page32|
 　Personne ne répondit.
-　...... Tout le monde semblait éprouver une sorte de pressentiment. Même la fille en rose et Housuke évitaient de faire des remarques sans intérêt.
+　...... Tout le monde semblait éprouver une sorte de pressentiment. Même la fille en rose et Hōsuke évitaient de faire des remarques sans intérêt.
 *page33|
 『Hmm, c'est quoi c'tte ambiance ? Un karaoké ? On va commencer un karaoké ? Je suis doué pour Teddy Boy Blues, vous savez ? Vous pourriez me laisser une chanson de Flicky aussi ?』
 　Le seul à élever la voix était le rouge-gorge penchant étrangement la tête sur la table.

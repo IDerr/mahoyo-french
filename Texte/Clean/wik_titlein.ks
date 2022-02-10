@@ -42,7 +42,7 @@
 　Aozaki semblait sincèrement surprise. Manifestement, elle n'était pas au courant.
 　Elle n'avait pas l'air de jouer la comédie.
 *page12|
-「Qu... Cette écriture, c'est celle de Soujyuro...... J'aurais dû me douter qu'il ferait encore preuve d'une honnêteté bizarre......」
+「Qu... Cette écriture, c'est celle de Sōjūrō...... J'aurais dû me douter qu'il ferait encore preuve d'une honnêteté bizarre......」
 *page13|
 「Ha ha ha, c'est une attention admirable !
 　Vois-tu, Aozaki, j'ai toujours su que Shizuki était un élève qui saurait sûrement... enfin, peut-être... montrer ce qu'il vaut, s'il en avait l'occasion.

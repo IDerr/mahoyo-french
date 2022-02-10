@@ -9,7 +9,7 @@
 「Agis donc à ta guise.
 　On a déjà un cadavre sur les bras, alors un de plus ne fera pas une grande différence.」
 *page3|
-　Aozaki, Tsukiji, Housuke et moi formions un groupe de quatre.
+　Aozaki, Tsukiji, Hōsuke et moi formions un groupe de quatre.
 　Nous appellerons provisoirement cette bande le groupe de l'école.
 *page4|
 「Père Eiri, à propos du cadavre de tout à l'heure―――」
@@ -20,7 +20,7 @@
 　Le groupe de l'église était formé de trois personnes.
 　Il avait l'air solidement uni, mais le consensus semblait quelque peu fragile.
 *page6|
-「Dis donc, Soujyuro ! Tu n'apportes ni thé ni scone ?
+「Dis donc, Sōjūrō ! Tu n'apportes ni thé ni scone ?
 　La star vous rend visite, et non seulement l'accueil est déplorable, mais je me retrouve en plus embarquée dans une affaire de meurtre ? Je crois que ce qu'on appelle la courtoisie vous fait défaut.」
 「Attends un peu, veux-tu ?
 　Une personne vient de mourir, alors demander du thé et des pâtisseries, c'est bien plus impoli, tu ne crois pas ?」
@@ -30,7 +30,7 @@
 「Une deuxième... Aozaki......」
 　Les doigts de la star devaient mordre dans sa carotide, car les yeux de Shizuki étaient révulsés.
 *page8|
-「Fufufu. Toi, la rose. Tu n'as pas l'air d'avoir bon goût, mais si tu ne lâches pas Soujyuro, je gobe ta tête tout rond☆」
+「Fufufu. Toi, la rose. Tu n'as pas l'air d'avoir bon goût, mais si tu ne lâches pas Sōjūrō, je gobe ta tête tout rond☆」
 「Comment ? Essaie donc pour voir ! [chgfg storage=リデル02(全)|d2 quakeHMax=2 quakeVMax=0 zoom=80 time=400 textoff=0]Pff, je connais déjà ton point faible. Tu veux encore te faire prendre à ton propre jeu et te retrouver avec la taille d'une souris ?」
 *page9|
 「Oh ? Tu pensais réellement que j'étais sérieux à ce moment-là ? Ton jugement laisse franchement à désirer.
@@ -55,7 +55,7 @@
 　Ceci est bel et bien une affaire de meurtre ! Et le coupable est parmi nous ! [wait canskip=0 time=200][chgfg storage=律架02a(全)|d zoom=80 time=400 textoff=0]Du moins, ça serait bien !」
 *page14|
 「Hein ?! C'est ce genre de truc qui est en train de nous arriver ?!」
-「Tout à fait, Housuke. C'est là-dedans qu'on est embarqués !
+「Tout à fait, Hōsuke. C'est là-dedans qu'on est embarqués !
 　La moindre négligence te vaudra un coup de poignard dans le dos !
 　Allez ! Qui veut nous faire part de ses hypothèses ?」
 *page15|
@@ -85,9 +85,9 @@
 　Je me souviens de m'être battu avec lui pour être à côté d'Alice à midi, alors je suis sûr de moi.
 　Mais attendez...... Je me souviens ! Le vieux a murmuré un truc du genre “c'est l'heure” après avoir regardé l'horloge, puis il a quitté le salon.」
 *page22|
-　Malgré les apparences, Housuke avait une excellente mémoire.
+　Malgré les apparences, Hōsuke avait une excellente mémoire.
 　Même si elle n'était effective qu'en dehors des études, dans des domaines relativement inutiles.
-　Finalement, il fut admis que Housuke était la dernière personne à avoir vu M. Tokitsu.
+　Finalement, il fut admis que Hōsuke était la dernière personne à avoir vu M. Tokitsu.
 *page23|
 「Donc...... M. Tokitsu a disparu peu après midi. Nous voilà dans une impasse. Pratiquement personne n'a d'alibi à partir de cette heure-là.」
 *page24|

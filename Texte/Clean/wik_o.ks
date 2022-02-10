@@ -25,20 +25,20 @@
 「Et moi à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=220 id=pb1 textoff=0]Kumari, [wact canskip=0]celle qui restait à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=423 time=400 accel=0 storage=black center=220 id=pb2 textoff=0]monsieur Yamashiro et [wact canskip=0]une autre à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Celle-Dont-Je-Ne-Peux-Vraiment-Pas- Prononcer-Le-Nom.」[wact canskip=0]
 *page6|
 「Je vois, le compte est bon.
-　Au fait Soujyuro, tu ferais mieux d'avouer avant de te faire gronder, non ?[r]
+　Au fait Sōjūrō, tu ferais mieux d'avouer avant de te faire gronder, non ?[r]
 　J'ai déjà vaguement compris, mais à qui, as-tu bien pu, envoyer une invitation ?」
 *page7|
 「... C'est que, ce n'est pas correct de la tenir à l'écart.」
-「C'est Touko, c'est ça ? C'est toi qui as invitéé Touko à la fête, hein ?!」
+「C'est Tōko, c'est ça ? C'est toi qui as invitéé Tōko à la fête, hein ?!」
 　Aozaki attrapa le col de Shizuki et le secoua dans tous les sens.
 「Deux Riddell... Il y a deux Riddell...」
 *page8|
-「Tu as envoyé une invitation à Touko... Pourtant, elle n'est pas censée pouvoir entrer dans la ville de Misaki.」
-「Hm ? Pour ce qui est de la malédiction, Touko m'a dit qu'elle a réglé le problème depuis un moment déjà. Elle a parlé de changement de concept. Il paraît que si on ne peut pas retirer une malédiction jetée sur le corps physique, il suffit de ne pas utiliser ce dernier, ou quelque chose dans ces eaux-là.」
+「Tu as envoyé une invitation à Tōko... Pourtant, elle n'est pas censée pouvoir entrer dans la ville de Misaki.」
+「Hm ? Pour ce qui est de la malédiction, Tōko m'a dit qu'elle a réglé le problème depuis un moment déjà. Elle a parlé de changement de concept. Il paraît que si on ne peut pas retirer une malédiction jetée sur le corps physique, il suffit de ne pas utiliser ce dernier, ou quelque chose dans ces eaux-là.」
 *page9|
 「C'est quoi ce raisonnement ?[r]
 　... Comme d'habitude, il lui manque une case, à ma frangine.」
-「... Quoi qu'il en soit, étant donné que Touko a reçu une invitation, il est fort possible qu'elle soit venue.」
+「... Quoi qu'il en soit, étant donné que Tōko a reçu une invitation, il est fort possible qu'elle soit venue.」
 *page10|
 「Oui. Et je voudrais que vous vous rappeliez du moment où on a découvert que la ligne du téléphone avait été coupée.
 　À ce moment-là, le parquet du vestibule était couvert de flaques d'eau.
@@ -55,13 +55,13 @@
 　J'ignorais qu'Aozaki avait une grande sœur, mais ce n'était pas le moment de me renseigner à ce propos.
 　Au vu de l'atmosphère tendue que tout le monde dégageait, cette grande sœur était hostile envers toutes les personnes ici présentes.
 *page13|
-「Aozaki Touko. Certes, elle est renseignée sur les Ploy et connaît le manoir Kuonji.
+「Aozaki Tōko. Certes, elle est renseignée sur les Ploy et connaît le manoir Kuonji.
 　Et avant tout, elle a une forte envie de nous tuer―――tout particulièrement Aoko. Même en ce qui concerne le mobile qui nous échappait jusqu'à présent, elle est le candidat parfait.」
 *page14|
-「En effet. Si Touko est le coupable, s'enfermer dans nos chambres n'est pas une bonne idée. Peu importent les mesures que nous prendrions, elle entrerait de force.」
+「En effet. Si Tōko est le coupable, s'enfermer dans nos chambres n'est pas une bonne idée. Peu importent les mesures que nous prendrions, elle entrerait de force.」
 *page15|
 「Oui, elle en serait bien capable. Elle adore les films d'horreur...! Hum. C'est bien dommage qu'on ait affaire à un scénario horrifique maintenant, mais d'abord, nous devons veiller à notre sécurité.」
-「Séparons-nous et fouillons le manoir. Nous devons nous assurer que Touko est effectivement là.」
+「Séparons-nous et fouillons le manoir. Nous devons nous assurer que Tōko est effectivement là.」
 *page16|
 「Hein ? Ah, oui, c'est vrai.
 　... Al... Alors, je vais chercher du côté de ma chambre.」
@@ -74,7 +74,7 @@
 　La nervosité et la fatigue avaient rendu mes paupières lourdes.
 　Les aiguilles de l'horloge pointaient maintenant vers minuit.
 *page18|
-「Je vais faire du thé. Soujyuro, où je peux en trouver ?」
+「Je vais faire du thé. Sōjūrō, où je peux en trouver ?」
 「Tu devrais trouver une théière encore chaude sur la table de la véranda.」
 「OK. Je vais la chercher.」
 　C'était sûrement dans l'intention de se changer les idées.
@@ -102,7 +102,7 @@
 *page23|
 「Kuma ? Qu'est-ce qui se passe ? Tu es blême !」
 「De... Dehors, dehors, il y avait quelqu'un !」
-「Je vais voir. Soujyuro, Tobimaru, je vous confie Kojika.」
+「Je vais voir. Sōjūrō, Tobimaru, je vous confie Kojika.」
 *page24|
 　Aozaki disparut en trottinant vers les ténèbres conduisant au salon.
 　Alarmés par l'agitation, père Eiri et sœur Yuika descendaient du premier étage tandis que Kuonji arrivait depuis le rez-de-chaussée de l'aile ouest.
@@ -113,7 +113,7 @@
 　Aozaki revint aussitôt que Ritsuka eut expliqué la situation.
 「Il n'y avait rien d'anormal. Les fenêtres de la véranda ne sont pas brisées et rien n'indique que quelqu'un est entré.」
 *page27|
-「De notre côté non plus, il n'y avait rien à signaler. Touko ne semble pas se trouver dans le bâtiment. Dans ce cas...」
+「De notre côté non plus, il n'y avait rien à signaler. Tōko ne semble pas se trouver dans le bâtiment. Dans ce cas...」
 「On ne peut penser qu'à la silhouette que vous avez repérée à l'extérieur. S'il n'y a rien d'anormal à l'intérieur, alors il ne reste plus qu'à vérifier les alentours de la demeure.」
 *page28|
 「Très bien, partons voir ce qu'il en est à l'extérieur.
@@ -126,7 +126,7 @@
 「Ne t'en fais pas, je peux me débrouiller toute seule.
 　Et toi alors, ça va aller ? Tu n'es pas armé, pas vrai ?」
 *page31|
-「Dans ce cas... Soujyuro, veux-tu m'accompagner ?[r]
+「Dans ce cas... Sōjūrō, veux-tu m'accompagner ?[r]
 　Tu sais travailler en équipe.」
 　Shizuki accepta d'un air grave la proposition de père Eiri.
 　Je―――

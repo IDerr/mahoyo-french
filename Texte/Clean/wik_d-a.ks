@@ -1,7 +1,7 @@
 ﻿*page1|
 「Ça caille ! Il ne fait pas encore plus froid qu'à l'extérieur ?」
 「Si. Allons donc dans le salon.」
-「Je suis d'accord, mais... [l][chgfg storage=律架02a(大)|b quakeHMax=5 quakeVMax=5 quakeInterval=10 time=400]Bah, j'imagine que Soujyuro a son propre labeur à finir. Je pensais l'attendre, mais c'est peut-être une attention inutile.」
+「Je suis d'accord, mais... [l][chgfg storage=律架02a(大)|b quakeHMax=5 quakeVMax=5 quakeInterval=10 time=400]Bah, j'imagine que Sōjūrō a son propre labeur à finir. Je pensais l'attendre, mais c'est peut-être une attention inutile.」
 *page2|
 「? Shizuki est dehors ?」
 「Oui. Il arrachait des mauvaises herbes du côté du sentier. Il faisait ça avec tellement d'entrain qu'on aurait cru qu'il construisait un héliport.」
@@ -17,7 +17,7 @@
 　La fête n'avait pas encore commencé.
 　En jetant un coup d'œil au salon et à la véranda,
 　on réalisait qu'un nombre non négligeable de personnes étaient absorbées dans leurs conversations.
-　Dans le salon, le jeu de cartes d'Housuke agitait la foule bien plus que prévu.
+　Dans le salon, le jeu de cartes d'Hōsuke agitait la foule bien plus que prévu.
 　Il prenait même la tournure d'une querelle.
 *page6|
 　Apparemment, c'était un jeu de simulation d'entrepreneur version fantaisie, créé en Allemagne, du nom de “M. Fantôche passe”.

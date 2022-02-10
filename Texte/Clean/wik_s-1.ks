@@ -1,5 +1,5 @@
 ﻿*page0|
-　Je pensai qu'Aozaki Touko était la toute première victime.
+　Je pensai qu'Aozaki Tōko était la toute première victime.
 *page1|
 「Oui, sinon les actions d'Aozaki ne seraient pas logiques.
 　Aozaki faisait des courses en ville dans la matinée. On peut en conclure que sa frangine a été tuée pendant qu'elle n'était pas dans sa chambre... donc avant qu'elle n'y revienne pour se reposer après vous avoir ramenés ici.」

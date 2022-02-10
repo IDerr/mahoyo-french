@@ -1,7 +1,7 @@
 ﻿*page0|
 　Je décidai d'aller voir ma chambre en tout premier lieu.
 *page1|
-「Housuke, rends-moi mon sac en fait. Je vais d'abord aller dans ma chambre. Aozaki, où se trouve-t-elle ?」
+「Hōsuke, rends-moi mon sac en fait. Je vais d'abord aller dans ma chambre. Aozaki, où se trouve-t-elle ?」
 「C'est la deuxième porte au premier étage de l'aile est.
 　Elle n'est pas fermée. La clef est posée sur le bureau de la chambre. Tu peux t'en servir pour fermer ta chambre si tu veux.」
 *page2|

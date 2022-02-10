@@ -20,7 +20,7 @@
 *page5|
 「Oh, tu es drôlement calme. Tu tiendras jusqu'au matin à ce rythme.
 　Ce qui est arrivé à Eiri et Yuika est regrettable, mais dans un certain sens, je me sens rassurée. On se connaît tous bien, alors nous n'avons pas à nous soupçonner.
-　Si seulement on pouvait trouver Touko...」
+　Si seulement on pouvait trouver Tōko...」
 「Non, ce sera inutile. La partie est terminée.
 　Tu t'es bien jouée de nous jusqu'à présent, ma petite Ako.」
 *page6|
@@ -48,7 +48,7 @@
 　Nous l'observions fixement et en silence.
 *page12|
 「Ah, euh, je veux dire... [wait canskip=0 time=400][chgfg storage=青子私服a01b(大)|q time=400]Té hé☆」
-「Soujyuro, où est la chambre d'Aozaki ?」
+「Sōjūrō, où est la chambre d'Aozaki ?」
 「Au fond du premier étage de l'aile est.」
 *page13|
 　Escortés par Ritsuka, nous nous rendîmes dans la chambre d'Aozaki.
@@ -68,7 +68,7 @@
 　les murs étaient couverts de posters étranges.
 *page17|
 「De... De l'alcoolisme aigu...!」
-「Voilà la preuve irréfutable. Ma petite Ako, la petite Touko avait beau être une épine dans le pied pour toi, l'abandonner dans un état aussi pitoyable est cruel...!
+「Voilà la preuve irréfutable. Ma petite Ako, la petite Tōko avait beau être une épine dans le pied pour toi, l'abandonner dans un état aussi pitoyable est cruel...!
 　Elle disait être fan de rock progressif, mais en réalité, elle préférait l'enka... [wait canskip=0 time=1000][chgfg storage=律架01b(中)|i6 time=300]En plus, elle avait même son propre micro...」
 *page18|
 「Aaah, elle me fout trop la honte... C'est pour ça que je ne voulais pas vous la montrer !」
@@ -88,7 +88,7 @@
 　Alors, je pensais me taire et attraper le coupable de mes propres mains...」
 *page23|
 「Vraiment ? N'est-ce pas plutôt parce qu'en laissant planer l'existence d'un treizième invité, tu pouvais agir à ta guise ?
-　Le fait est que Beo, Eiri et Yui ont été disqualifiés en cherchant la petite Touko.」
+　Le fait est que Beo, Eiri et Yui ont été disqualifiés en cherchant la petite Tōko.」
 「Mais ils se sont simplement auto-éliminés et...」
 *page24|
 「Désolé, Aozaki, mais d'après les explications de Kuonji, ce Sweets Hearts ne sait pas lui-même qu'il est le coupable.

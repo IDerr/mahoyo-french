@@ -24,7 +24,7 @@
 　L'homme qui avait fait cette erreur idiote,
 　avait envoyé une lettre à trois personnes.
 *page5|
-　L'une d'entre nous, Aozaki Touko, avait peut-être à peu près deviné la situation. Mais on l'avait fait rire avec une blague qui avait dépassé son imagination, et elle avait ainsi été éliminée.
+　L'une d'entre nous, Aozaki Tōko, avait peut-être à peu près deviné la situation. Mais on l'avait fait rire avec une blague qui avait dépassé son imagination, et elle avait ainsi été éliminée.
 *page6|
 　La seconde personne était M. Yamashiro.
 　Ce dernier avait dit ceci :
@@ -38,11 +38,11 @@
 *page8|
 　Et enfin, la dernière personne, moi―――
 　J'étais convaincue que cette fête devait avoir lieu le premier jour des congés.
-　D'après mes explications ci-dessus, ceux qui avaient la possibilité d'activer le Ploy parmi ces personnages étaient seulement moi, Kumari Kojika, et Shizuki Soujyuro.
+　D'après mes explications ci-dessus, ceux qui avaient la possibilité d'activer le Ploy parmi ces personnages étaient seulement moi, Kumari Kojika, et Shizuki Sōjūrō.
 *page9|
-　Je ne pouvais qu'imaginer comment Shizuki Soujyuro avait accueilli Kumari Kojika, arrivée un jour trop tôt.
+　Je ne pouvais qu'imaginer comment Shizuki Sōjūrō avait accueilli Kumari Kojika, arrivée un jour trop tôt.
 　Il n'était certainement pas saugrenu de penser qu'il avait offert des pâtisseries et du thé à une camarade de classe s'étant déplacée inutilement par sa faute.
-　Le problème était de savoir où Shizuki Soujyuro avait trouvé ces pâtisseries.
+　Le problème était de savoir où Shizuki Sōjūrō avait trouvé ces pâtisseries.
 *page10|
 「Ah zut. Tu as compris.
 　Encore un peu et je gagnais. Pourtant, ce petit se débrouillait mieux que je l'avais prévu.」

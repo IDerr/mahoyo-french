@@ -42,7 +42,7 @@
 *page11|
 「Moi... Eh bien, la tempête ne fait qu'empirer, alors je pense qu'il serait préférable que tout le monde retourne dans sa chambre. Si on s'enferme à clef et on dort, personne ne pourra nous faire rire.」
 「Hééé, c'est d'un ennui !
-　Soujyuro, observons un peu la situation ! Tu n'es pas intrigué par la façon dont mourrait Aoko ?」
+　Sōjūrō, observons un peu la situation ! Tu n'es pas intrigué par la façon dont mourrait Aoko ?」
 「Beo, même si c'est une blague, il ne fa―――[wait canskip=0 time=200][chgfg storage=草十郎私服01b(大)|首輪j time=300]Hum ?」
 *page12|
 「!」

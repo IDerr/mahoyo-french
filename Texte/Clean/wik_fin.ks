@@ -54,7 +54,7 @@
 *page12|
 「Ouah, si c'est pas Kojika ?! T'as aussi été invitée ?!
 　Tu connais Alice ?!」
-「Évidemment. Ça devait forcément arriver, en étant amie avec Aozaki. [wait canskip=0 time=400][chgfg storage=金鹿私服02(全)|k type=13 zoom=60 partbgid=pb2 time=400]Bref, calme-toi un peu, Housuke. Tu n'as vraiment pas changé depuis que tu es gamin.」
+「Évidemment. Ça devait forcément arriver, en étant amie avec Aozaki. [wait canskip=0 time=400][chgfg storage=金鹿私服02(全)|k type=13 zoom=60 partbgid=pb2 time=400]Bref, calme-toi un peu, Hōsuke. Tu n'as vraiment pas changé depuis que tu es gamin.」
 *page13|
 「Oooh. On voit que vous êtes amis d'enfance. Vous vous entendez bien.
 　Continue comme ça et discipline Kinomi, Kumari. Pour le bien des gens autour de lui, et surtout pour le sien.」

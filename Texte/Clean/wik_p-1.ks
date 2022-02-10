@@ -26,9 +26,9 @@
 *page7|
 「Tobimaru, je te confie Yuika et Alice. Si on ne trouve rien d'ici vingt minutes, on reviendra ici.
 　Eiri, en sortant, fais le tour en passant par le côté droit. Nous, on passera par la gauche.」
-「C'est un plan judicieux. Allons-y, Soujyuro.」
+「C'est un plan judicieux. Allons-y, Sōjūrō.」
 *page8|
-「Soujyuro.」
+「Sōjūrō.」
 「Ne t'inquiète pas pour moi, mais plutôt pour Kumari.
 　Kumari, il y aura peut-être des branches qui volent, alors garde la tête baissée. Aozaki fait preuve, mais seulement dans ce genre de moment, d'une étrange efficacité, alors si ça arrive, soutiens-la.」
 「Qu'est-ce que ça veut dire, ça ?」

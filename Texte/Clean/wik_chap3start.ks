@@ -152,7 +152,7 @@
 　J'ai quitté les lieux plusieurs fois pour aller aux toilettes, mais je n'ai pas croisé une seule fois Tokkii.」
 *page39|
 「Moi aussi, je dois le faire ? Je veux bien, mais c'est pas bien différent de ce qu'ont fait les autres, vous savez ?
-　Voyons, comme on était au début des trois jours de congé, hier, j'ai passé la nuit chez Tobi. Comme Housuke était aussi avec nous, c'était affreusement bruyant.
+　Voyons, comme on était au début des trois jours de congé, hier, j'ai passé la nuit chez Tobi. Comme Hōsuke était aussi avec nous, c'était affreusement bruyant.
 　Et donc, le matin, nous nous sommes rendus tous les trois au parc où nous avons rejoint le grand-père, et il nous a conduits jusqu'au portail en Rolls Royce.
 　À 10 heures, j'ai dit bonjour à Alice, et ensuite, je n'ai rien fait !」
 *page40|

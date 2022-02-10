@@ -12,7 +12,7 @@
 「Aozaki, pourrais-tu d'abord nous guider jusqu'au salon ? Il fait plutôt froid dans ce vestibule.」
 「Oui, mais je ne peux pas abandonner une invitée...」
 「C'est bon, ne t'en fais pas. Je reviens tout de suite.
-　Housuke, rends-moi mes affaires. Finalement, je vais les porter moi-même.」
+　Hōsuke, rends-moi mes affaires. Finalement, je vais les porter moi-même.」
 *page4|
 　Je me dirigeai vers la sortie après avoir refusé l'offre d'Aozaki.
 　Une fois à l'extérieur, je jetai un coup d'œil à la forêt autour du manoir.

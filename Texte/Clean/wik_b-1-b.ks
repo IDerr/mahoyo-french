@@ -82,14 +82,14 @@
 　La véranda et le salon étant reliés, on pouvait observer une pièce depuis l'autre.
 *page19|
 　Kuonji sirotait avec élégance une tasse de thé, assise sur le sofa du salon.
-　Deux personnes s'agitaient devant elle : [movefg opacity=255 vcenter=387 time=400 accel=-2 storage=木乃実私服01(大)|c2 center=466 textoff=0]Housuke, et également, [l][movefg opacity=255 vcenter=356 time=700 accel=-2 storage=山城01(大)|b2 center=182][wact canskip=0]à mon plus grand étonnement, le professeur Yamashiro.
+　Deux personnes s'agitaient devant elle : [movefg opacity=255 vcenter=387 time=400 accel=-2 storage=木乃実私服01(大)|c2 center=466 textoff=0]Hōsuke, et également, [l][movefg opacity=255 vcenter=356 time=700 accel=-2 storage=山城01(大)|b2 center=182][wact canskip=0]à mon plus grand étonnement, le professeur Yamashiro.
 *page20|
 「Oh ! Les arbres que j'ai aperçus brièvement dans l'arrière-cour étaient des Oak ? En français, on appelle ça des chênes... Hum, ils sont différents de ceux dont je me rappelle.
 　Ce doit être une espèce particulière. Les espèces anglaises et japonaises ont des apparences bien distinctes, et puis, il y en a plus de quatre cents.」
 *page21|
 「Ouah ! Comme d'habitude, ce type ne parle que de ce qui l'intéresse. Alice, ce professeur est un barbare sans aucune délicatesse que je te conseille d'ignorer.
 　Et si nous parlions plutôt de tes plans pour les vacances de Noël ?
-　J'imagine que tu es plutôt mal à l'aise sur des skis. Le fidèle Kinomi Housuke serait ravi de te donner des cours particuliers, seul à seule~」
+　J'imagine que tu es plutôt mal à l'aise sur des skis. Le fidèle Kinomi Hōsuke serait ravi de te donner des cours particuliers, seul à seule~」
 *page22|
 「On ne s'ennuie vraiment pas avec vous.
 　J'ai tout compris. Vous êtes comme des piverts domestiques.」
@@ -135,7 +135,7 @@
 *page33|
 「Pourquoi pas ? Je crois que je vais aller faire une sieste dans ma chambre.」
 「Ouais, te prive pas. Si je me souviens bien, ta chambre est...」
-「Dis, Tobi. Tu ne sais pas où est Soujyuro ?」
+「Dis, Tobi. Tu ne sais pas où est Sōjūrō ?」
 「Il n'est pas allé faire des courses ?
 　Il m'a dit qu'il n'y avait pas assez de boissons.」
 *page34|
@@ -147,12 +147,12 @@
 　Je ne faisais qu'imiter Tsukiji, Aozaki et Shizuki qui l'appellaient ainsi.
 　Il était bizarrement attaché à Shizuki.
 *page36|
-『Soujyuro, je veux aller au parc d'attractions pendant les prochaines vacances.』
-『Soujyuro, tu n'as pas faim ? Mangeons un morceau !』
-『Soujyuro, je ne sais pas trop pourquoi, mais je voudrais que tu me caresses la tête !』
+『Sōjūrō, je veux aller au parc d'attractions pendant les prochaines vacances.』
+『Sōjūrō, tu n'as pas faim ? Mangeons un morceau !』
+『Sōjūrō, je ne sais pas trop pourquoi, mais je voudrais que tu me caresses la tête !』
 *page37|
 　À la moindre occasion, il se frottait à lui comme un chat.
-　Shizuki était peut-être du genre à attirer les enfants ? Mais l'entendre répéter “Soujyuro, Soujyuro” à tout bout de champ était éreintant.
+　Shizuki était peut-être du genre à attirer les enfants ? Mais l'entendre répéter “Sōjūrō, Sōjūrō” à tout bout de champ était éreintant.
 *page38|
 　Bref, j'entrepris de me rendre dans la chambre d'ami.
 「Kumari, tu sais où est ta chambre ?」
