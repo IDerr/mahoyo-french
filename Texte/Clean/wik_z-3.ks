@@ -1,5 +1,4 @@
 ﻿*page0|
-;画面・雲がピタリと止まる。
 「―――C'est moi.」
 　Oui.
 　Cette situation, où tout se passait comme je le voulais, prouvait plus que tout autre chose que j'étais Sweets Hearts.
@@ -25,7 +24,7 @@
 　L'homme qui avait fait cette erreur idiote,
 　avait envoyé une lettre à trois personnes.
 *page5|
-　L'une d'entre nous, Aozaki Touko, avait peut-être à peu près deviné la situation. Mais on l'avait fait rire avec une blague qui avait dépassé son imagination, et elle avait ainsi été éliminée.
+　L'une d'entre nous, Aozaki Tōko, avait peut-être à peu près deviné la situation. Mais on l'avait fait rire avec une blague qui avait dépassé son imagination, et elle avait ainsi été éliminée.
 *page6|
 　La seconde personne était M. Yamashiro.
 　Ce dernier avait dit ceci :
@@ -39,14 +38,13 @@
 *page8|
 　Et enfin, la dernière personne, moi―――
 　J'étais convaincue que cette fête devait avoir lieu le premier jour des congés.
-　D'après mes explications ci-dessus, ceux qui avaient la possibilité d'activer le Ploy parmi ces personnages étaient seulement moi, Kumari Kojika, et Shizuki Soujyuro.
+　D'après mes explications ci-dessus, ceux qui avaient la possibilité d'activer le Ploy parmi ces personnages étaient seulement moi, Kumari Kojika, et Shizuki Sōjūrō.
 *page9|
-　Je ne pouvais qu'imaginer comment Shizuki Soujyuro avait accueilli Kumari Kojika, arrivée un jour trop tôt.
+　Je ne pouvais qu'imaginer comment Shizuki Sōjūrō avait accueilli Kumari Kojika, arrivée un jour trop tôt.
 　Il n'était certainement pas saugrenu de penser qu'il avait offert des pâtisseries et du thé à une camarade de classe s'étant déplacée inutilement par sa faute.
-　Le problème était de savoir où Shizuki Soujyuro avait trouvé ces pâtisseries.
+　Le problème était de savoir où Shizuki Sōjūrō avait trouvé ces pâtisseries.
 *page10|
 「Ah zut. Tu as compris.
-;立ち絵・金鹿。スイーツver.
 　Encore un peu et je gagnais. Pourtant, ce petit se débrouillait mieux que je l'avais prévu.」
 　Puis,
 　l'être à l'apparence de Shizuki qui m'avait poursuivie depuis le manoir apparut devant moi avec mon apparence.
@@ -67,15 +65,12 @@
 「Je parle de ce que Kumari Kojika souhaitait et des soucis qu'elle avait en tête lorsqu'elle m'a mangé.
 　Je ne veux pas que ça se finisse. Je voudrais que cet instant, cette vie ambiguë comme ce doux œuf à la coque continue. C'est bien ce qu'elle a pensé, non ?」
 *page15|
-;聞いている金鹿が不機嫌になっていく//
 「Pourquoi le lycée ne dure que trois ans ?
 　Pourquoi ai-je gaspillé mon temps ?
 　Pourquoi n'ai-je pas pu être honnête ?
 　Celui qui peut réaliser tous tes vœux, [se storage=seex37 volume=80 loop=0]c'est moi, l'œuf des prières shinto, le Ploy Kickshaw réservé aux filles en pleine puberté, Sweets Hearts. Alors ? Convaincue ?」
 *page16|
-;スイーツ金鹿。はしゃぐ
 「Convaincue ? Mon œil ! Assez de belles paroles ! Je ne veux même pas savoir ce qu'il s'est passé.
-;金鹿まじ厭そうな顔
 　On a assez parlé. On reset sans temps mort.
 　C'en est fini de toi.」
 *page17|
@@ -83,7 +78,5 @@
 　Et puis, d'abord,
 「Disparais. Le coupable est Shizuki. L'utilisateur, c'est moi, Kumari Kojika.」
 「Hein, pas possible ?! C'est pas un choix digne d'une filleーー?!」
-;スイーツ金鹿消える
-;画面、ブツリと画面が切れるように黒画面に。久万梨も意識を失ったから。//
 　Tsukiji est mort, alors tu peux oublier tes histoires de vœux.
 *page18|
