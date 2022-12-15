@@ -24,7 +24,8 @@
 　Si bien que je préférai l'empêcher de parler ainsi que de réfléchir au “Qui ?”, “Quand ?” et “Comment ?”.
 *page6|
 「――――[wait canskip=0 time=300]Nous sommes [wait canskip=0 time=400]un [wait canskip=0 time=400]martien.」
-「Ce n'est pas le problème. [l]Ça suffit, parle sérieusement, idiot.
+「Ce n'est pas le problème. [l]
+Ça suffit, parle sérieusement, idiot.
 　J'ai rigolé, alors je vais bientôt mourir. Dis-moi au moins, avant que je meure, pourquoi tu as fait tout ça.」
 *page7|
 「Désolé, mais je ne peux pas l'expliquer.
