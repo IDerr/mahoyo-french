@@ -44,7 +44,8 @@
 *page10|
 　Il avait donc été ligoté et tué par explosion, à l'insu de tout le monde...?
 「Mais, pourquoi...」
-「Oui. Pourquoi employer une méthode aussi indirecte ? [l][chgfg storage=鳶丸私服b01(全)|d2 zoom=70 time=400]Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes télécommandées ou à retardement, on peut mettre à profit le délai avant l'explosion. Les deux types de bombes offrent de nombreuses manières de se créer un alibi.」
+「Oui. Pourquoi employer une méthode aussi indirecte ? [l]
+[chgfg storage=鳶丸私服b01(全)|d2 zoom=70 time=400]Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes télécommandées ou à retardement, on peut mettre à profit le délai avant l'explosion. Les deux types de bombes offrent de nombreuses manières de se créer un alibi.」
 *page11|
 　...... J'éprouvai une certaine surprise.
 　Même face à un cadavre, Tsukiji ne flanchait pas.
