@@ -11,7 +11,8 @@
 　Il était censé faire beau pendant les congés, mais si c'est ce que nous réserve le deuxième jour, je dois en conclure que nous n'avons pas de chance.」
 「Je me le demande. On pourrait aussi supposer que le problème vient des gens réunis ici...... Cela dit, je serais bien incapable d'affirmer que le malheur ne vient pas de vous, père Eiri.」
 *page3|
-「Chut ! Tu peux penser ce genre de chose, mais tu ne dois pas le dire tout haut, Yui. [l][chgfg storage=律架02b(中)|b time=400]Ah, tu as rentré le linge ? Et le futon, tu ne l'as pas laissé dehors ?」
+「Chut ! Tu peux penser ce genre de chose, mais tu ne dois pas le dire tout haut, Yui. [l]
+[chgfg storage=律架02b(中)|b time=400]Ah, tu as rentré le linge ? Et le futon, tu ne l'as pas laissé dehors ?」
 「Tu n'as pas d'inquiétude à avoir. Lorsque j'ai appris qui serait présent aujourd'hui, j'ai décidé de tout rentrer. J'avais un mauvais pressentiment.」
 *page4|
 「............」
@@ -22,9 +23,13 @@
 「Je ne me rappelle pas vous avoir invités, mais puisque vous êtes là, je n'ai plus vraiment le choix. Veuillez me suivre.
 　Je n'avais prévu qu'une chaise pour Ritsuka, mais je vais en chercher d'autres.」
 *page6|
-「Ne vous inquiétez pas pour nous. Contrairement à ma sœur, père Eiri et moi partirons très vite. [l][chgfg storage=唯架シスター02(全) zoomx=-60 zoomy=60 time=400]De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitement ce rôle si nécessaire.」
+「Ne vous inquiétez pas pour nous. Contrairement à ma sœur, père Eiri et moi partirons très vite. [l]
+[chgfg storage=唯架シスター02(全) zoomx=-60 zoomy=60 time=400]De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitement ce rôle si nécessaire.」
 *page7|
-「Yui, c'est horrible ! [wait canskip=0 time=400][fgact page=fore props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,l,律架02b(中)|i,550,461,1100,-8,1)(100,,,,,457,~,~,)(150,,,,,461,,,)(200,,,,554,457,~,~,)(250,,n,,550,461,,,) loop=0 storage=律架02b(中)|i textoff=0]Tu sais pourquoi ? Eh bien, parce que tu veux vraiment faire de moi une chaise humaine et parce que l'écart de force entre toi et moi est injuste ! [l]...... Je trouve que tu manques de respect envers ta grande sœur !」
+「Yui, c'est horrible ! 
+[wait canskip=0 time=400][fgact page=fore props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,l,律架02b(中)|i,550,461,1100,-8,1)(100,,,,,457,~,~,)(150,,,,,461,,,)(200,,,,554,457,~,~,)(250,,n,,550,461,,,) loop=0 storage=律架02b(中)|i textoff=0]
+Tu sais pourquoi ? Eh bien, parce que tu veux vraiment faire de moi une chaise humaine et parce que l'écart de force entre toi et moi est injuste ! [l]
+...... Je trouve que tu manques de respect envers ta grande sœur !」
 *page8|
 　Comme il serait fatigant d'entrer dans les détails, nous appellerons ces gens le groupe de l'église.
 　Père Eiri et sœur Yuika se dirigèrent vers le salon, Kuonji à leur tête.

@@ -67,13 +67,15 @@
 「Hé, Tobimaru ! Pourquoi as-tu menti ? C'est pas l'anniversaire d'Alice aujourd'hui !」
 *page17|
 「Pourtant, la lettre d'invitation précisait bien qu'une fête d'anniversaire aurait lieu au manoir Kuonji et qu'on était invités à y prendre part.」
-「Aucun doute là-dessus. La présidente m'a aussi donné une lettre d'invitation contre deux mille yens. [l][chgfg storage=木乃実私服02a(大)|e3 time=300]Au fait, je suis tout de même pas le seul à avoir dû payer, hein ?」
+「Aucun doute là-dessus. La présidente m'a aussi donné une lettre d'invitation contre deux mille yens. [l]
+[chgfg storage=木乃実私服02a(大)|e3 time=300]Au fait, je suis tout de même pas le seul à avoir dû payer, hein ?」
 *page18|
 「Ha ha ha ha. Où que l'on se trouve, les ignorants sont toujours les plus bienheureux, apparemment. D'après mes souvenirs, la lettre mentionnait bien une fête d'anniversaire au manoir Kuonji.」
 「Mais ce n'est pas l'anniversaire de la petite Al, alors ?」
 *page19|
 「...... Je me demande d'où vient ce malentendu.
-　Certes, nous fêtons un anniversaire, mais c'est celui de Tokkii, pas le mien. [l]Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu de la fête.」
+　Certes, nous fêtons un anniversaire, mais c'est celui de Tokkii, pas le mien. [l]
+Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu de la fête.」
 *page20|
 　Je lus de nouveau la lettre d'invitation.
 　“Nous organisons une fête d'anniversaire au manoir Kuonji et je serais heureux que tu y participes.”
@@ -96,7 +98,8 @@
 *page25|
 『Hahaha, j'reconnais bien là notre Riddell. La soudaineté de tes éruptions émotionnelles est toujours aussi intense ! T'es pas embarrassée de dire des choses comme “regardez la vraie moi” ? Non, tu l'es pas, hein ? Trop fort ! Je l'savais ! Riddell, le métier de star te convient mieux que celui de Mage !』
 *page26|
-「Je sais, pardon. De toute façon, je ne suis qu'un être à jamais lésé et qui croit avoir le rôle principal alors que je ne vaux pas mieux qu'un clochard. Je suis un clown. [l][chgfg storage=リデル01(全)|e2 zoomx=-200 zoomy=200 time=600 textoff=0]Je le sais bien, alors fiche-moi la paix, Robin. Je te couperai en petits morceaux plus tard pour te servir en pâture aux chiens.」
+「Je sais, pardon. De toute façon, je ne suis qu'un être à jamais lésé et qui croit avoir le rôle principal alors que je ne vaux pas mieux qu'un clochard. Je suis un clown. [l]
+[chgfg storage=リデル01(全)|e2 zoomx=-200 zoomy=200 time=600 textoff=0]Je le sais bien, alors fiche-moi la paix, Robin. Je te couperai en petits morceaux plus tard pour te servir en pâture aux chiens.」
 　...... Elle avait l'air de parler avec l'oiseau.
 　“Cette star est vraiment timbrée.”
 *page27|
@@ -107,7 +110,8 @@
 「...... Ahem.
 　Puisqu'il en est question, Mlle Kuonji, où est M. Tokitsu Yurihiko, l'invité d'honneur ?
 　Nous n'avons pas encore eu l'opportunité de le saluer.」
-「Maintenant que vous le faites remarquer, c'est vrai. [l][chgfg storage=有珠私服01a(全) zoom=75 time=300]Aoko, où est Tokkii ?」
+「Maintenant que vous le faites remarquer, c'est vrai. [l]
+[chgfg storage=有珠私服01a(全) zoom=75 time=300]Aoko, où est Tokkii ?」
 *page29|
 「Hein ? Il n'est pas là ? C'est pourtant lui qui est en charge des préparatifs du dîner. Il s'est même vanté d'avoir fait appel à un groupe de cuisiniers hors pair et qu'on pouvait être tranquilles.」
 *page30|

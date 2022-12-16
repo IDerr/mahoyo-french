@@ -6,8 +6,12 @@
 　Nous ignorions si le treizième invité, la sœur d'Aozaki, était vraiment là.
 　Si ce mystère n'était pas résolu, nous ne pourrions pas retourner dans nos chambres en toute tranquillité.
 *page2|
-「Déjà, déplaçons la statue de Yuika dans un coin de la pièce. [l][fgact page=fore props=-storage,center,vcenter,-visible keys=(0,0,l,草十郎私服04(中)|h,487,527,1)(350,,,,505,,)(650,,,,491,,)(1300,,n,草十郎私服04(中)|c2,498,,) storage=草十郎私服04(中)|h exchg=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,l,唯架シスター石化02(中),639,544,1300,,1)(350,,,,,,,,)(650,,,,625,,,2.426,)(1300,,n,,632,,,0,) storage=唯架シスター石化02(中)][wait canskip=0 time=450][se storage=se06002 volume=100 loop=0][wact canskip=0][wact canskip=0]Tiens ? C'est lourd. Vous êtes vraiment lourde, Yuika. [l][chgfg storage=草十郎私服04(中)|c time=300]Tobimaru, aide-moi.」
-「OK, je prends le derrière... [l][chgfg storage=鳶丸私服b01(中)|d2 time=300]Hum, comme son apparence le laisse penser, elle a de belles formes.
+「Déjà, déplaçons la statue de Yuika dans un coin de la pièce. [l]
+[fgact page=fore props=-storage,center,vcenter,-visible keys=(0,0,l,草十郎私服04(中)|h,487,527,1)(350,,,,505,,)(650,,,,491,,)(1300,,n,草十郎私服04(中)|c2,498,,) storage=草十郎私服04(中)|h exchg=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,l,唯架シスター石化02(中),639,544,1300,,1)(350,,,,,,,,)(650,,,,625,,,2.426,)(1300,,n,,632,,,0,) storage=唯架シスター石化02(中)][wait canskip=0 time=450][se storage=se06002 volume=100 loop=0][wact canskip=0][wact canskip=0]
+Tiens ? C'est lourd. Vous êtes vraiment lourde, Yuika. [l]
+[chgfg storage=草十郎私服04(中)|c time=300]Tobimaru, aide-moi.」
+「OK, je prends le derrière... [l]
+[chgfg storage=鳶丸私服b01(中)|d2 time=300]Hum, comme son apparence le laisse penser, elle a de belles formes.
 　Il doit y avoir des tas de types qui vont à l'église juste pour voir cette sœur.」
 *page3|
 　Malgré la situation, Shizuki et Tsukiji s'entendaient à merveille.[sestop time=1500 nowait=1 storage=se06009a]
@@ -109,7 +113,8 @@
 *page29|
 「Il y a la cave. Une petite pièce reliée directement à un escalier étroit que l'on pourrait trouver dans une de ces pensions des montagnes enneigées.
 　Aoko passera la nuit là-bas.」
-「Spur ! [wact canskip=0][fgact page=fore props=-storage,center,vcenter,absolute,quakeHMax,quakeVMax,quakeInterval,-quake,-visible keys=(0,0,l,青子私服a06a(大)|f,194,395,1100,2,1,15,1,1)(1000,,n,,,,,0,0,1,0,) storage=青子私服a06a(大)|f]Le nom de cette pension, ça serait pas Spur, Alice ?!」
+「Spur ! [wact canskip=0][fgact page=fore props=-storage,center,vcenter,absolute,quakeHMax,quakeVMax,quakeInterval,-quake,-visible keys=(0,0,l,青子私服a06a(大)|f,194,395,1100,2,1,15,1,1)(1000,,n,,,,,0,0,1,0,) storage=青子私服a06a(大)|f]
+Le nom de cette pension, ça serait pas Spur, Alice ?!」
 *page30|
 「Aozaki. Même si tu n'es pas Sweets Hearts, tu seras en sécurité, enfermée là-bas. C'est aussi notre dernière assurance, alors résigne-toi et sois notre sacrifice.」
 「Ggh... On peut voir les choses comme ça, c'est vrai.

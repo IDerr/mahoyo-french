@@ -32,7 +32,8 @@
 「Non, mais c'est la règle de la majorité, j'ai pas le choix. Le plus gros défaut de la démocratie, c'est qu'elle met de côté les problèmes, sans les résoudre.
 　Enfin bref, cette décision est irrévocable. S'il t'arrive quelque chose, appelle à l'aide. Comme je suis aussi au premier étage, je pourrai te rejoindre rapidement.」
 *page8|
-「Aaah, si j'avais su, je n'aurais pas annulé mon concert. [l][chgfg storage=リデル01(大)|a2 time=300]Alice, dépêche-toi de me mener à ma chambre. Naturellement, je ne parle pas d'une chambre d'invité, mais de la tienne.
+「Aaah, si j'avais su, je n'aurais pas annulé mon concert. [l]
+[chgfg storage=リデル01(大)|a2 time=300]Alice, dépêche-toi de me mener à ma chambre. Naturellement, je ne parle pas d'une chambre d'invité, mais de la tienne.
 　Je ne peux pas m'attendre à une suite royale ici, n'est-ce pas ? Donc je vais faire un compromis exceptionnel avec la chambre du propriétaire.」
 *page9|
 「Je serai dans ma chambre. Que personne ne s'en approche jusqu'au matin !」

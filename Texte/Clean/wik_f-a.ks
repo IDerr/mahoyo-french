@@ -16,7 +16,9 @@
 「Je sais. Il s'agit incontestablement d'un meurtre.
 　Mais compte tenu de l'endroit où nous nous trouvons, nous ne pouvons nous permettre d'appeler bêtement la police.」
 *page5|
-「...... Fufu...... Fufufufu............ Enfin......... Voilà six ans que la petite Ako appelle ça un passe-temps lugubre...... [l][wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0][se storage=seex24 volume=80 loop=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,-effect,-visible keys=(0,0,l,white,512,288,1400,224,none,1)(150,,,,,,,100,,)(300,,n,,,,,0,,) storage=white][fgact page=fore props=-storage,center,vcenter,absolute,zoomx,zoomy,-visible keys=(0,0,l,律架02b(全)|e2,271,963,1300,70,70,1)(100,3,,,,941,~,~,~,)(300,0,n,,,963,,,,) storage=律架02b(全)|e2]La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
+「...... Fufu...... Fufufufu............ Enfin......... Voilà six ans que la petite Ako appelle ça un passe-temps lugubre...... [l]
+[wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0][se storage=seex24 volume=80 loop=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,-effect,-visible keys=(0,0,l,white,512,288,1400,224,none,1)(150,,,,,,,100,,)(300,,n,,,,,0,,) storage=white][fgact page=fore props=-storage,center,vcenter,absolute,zoomx,zoomy,-visible keys=(0,0,l,律架02b(全)|e2,271,963,1300,70,70,1)(100,3,,,,941,~,~,~,)(300,0,n,,,963,,,,) storage=律架02b(全)|e2]
+La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 　Le groupe de l'église était formé de trois personnes.
 　Il avait l'air solidement uni, mais le consensus semblait quelque peu fragile.
 *page6|

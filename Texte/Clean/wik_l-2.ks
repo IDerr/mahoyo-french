@@ -33,7 +33,9 @@
 *page9|
 　La fille en rose s'écria avec force et se rendit dans le couloir.
 *page10|
-『Allô. Papa ? C'est moi. Envoie tout de suite l'hélico jusqu'à Shiroinozuka du vieux quartier de Misaki. Oui, ce quartier-là. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?! Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu la dernière fois ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
+『Allô. Papa ? C'est moi. Envoie tout de suite l'hélico jusqu'à Shiroinozuka du vieux quartier de Misaki. Oui, ce quartier-là. [l]
+[chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?! Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu la dernière fois ! Ce n'était qu'un match nul ! [l]
+[chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
 *page11|
 『Quoi ? C'est impossible avec l'hélico de l'agence ? La tempête est si forte qu'il ne peut pas s'approcher ? Crétin ! Je suis déjà au courant !
 　Je t'ordonne malgré tout de le faire voler jusqu'ici comme un missile...!
@@ -96,7 +98,8 @@
 『Quoi ? L'entreprise va devoir en endosser la responsabilité ?! Les forces spéciales sont en train de s'introduire sur le toit de l'immeuble de l'entrepriseーー?!』
 　Une sorte de cri nous parvenait depuis le couloir.
 *page28|
-『Calme-toi, tu ne dois pas résister ! Négocie tout de suite avec leur chef par radio ! Un dédommagement ? Si on n'achète pas tout le projet, ils te tuent ? Tu es déjà retenu prisonnier ? Aaah, c'est pas vrai, que fait Kai ?! Alors ? Combien ? Ggh ! D'où sort ce montant ? Il n'y aurait pas deux zéros en trop ?! Je ne peux pas payer, c'est impossible ! Je ne peux pas payer une telle somme sur-le-champ ! [l][clall][fg storage=律架02b(全)|b center=543 vcenter=1026 index=1200 zoom=70][fg storage=唯架シスター01b(大)|b center=829 vcenter=355 index=1100][fg storage=詠梨01a(大)|b center=215 vcenter=292 index=1100][bg rule=crossfade time=500 storage=bg01久遠寺邸03居間-(夜隣明)奥扉開 left=-48 top=-48 noclear=1]Attends un peu, euh... Hum, oui, ça pourrait le faire.』
+『Calme-toi, tu ne dois pas résister ! Négocie tout de suite avec leur chef par radio ! Un dédommagement ? Si on n'achète pas tout le projet, ils te tuent ? Tu es déjà retenu prisonnier ? Aaah, c'est pas vrai, que fait Kai ?! Alors ? Combien ? Ggh ! D'où sort ce montant ? Il n'y aurait pas deux zéros en trop ?! Je ne peux pas payer, c'est impossible ! Je ne peux pas payer une telle somme sur-le-champ ! [l]
+[clall][fg storage=律架02b(全)|b center=543 vcenter=1026 index=1200 zoom=70][fg storage=唯架シスター01b(大)|b center=829 vcenter=355 index=1100][fg storage=詠梨01a(大)|b center=215 vcenter=292 index=1100][bg rule=crossfade time=500 storage=bg01久遠寺邸03居間-(夜隣明)奥扉開 left=-48 top=-48 noclear=1]Attends un peu, euh... Hum, oui, ça pourrait le faire.』
 *page29|
 『Si je prolonge la tournée de cette année, et si je vends mes actions et l'île de Tahiti, ça devrait suffire. Très bien, accord conclu, achète ! L'industrie de la défense ne fait pas partie de nos secteurs d'activités, mais pour le moment, ta sécurité est ma priorité maximale !』
 *page30|

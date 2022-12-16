@@ -1,7 +1,8 @@
 ﻿*page1|
 「Ça caille ! Il ne fait pas encore plus froid qu'à l'extérieur ?」
 「Si. Allons donc dans le salon.」
-「Je suis d'accord, mais... [l][chgfg storage=律架02a(大)|b quakeHMax=5 quakeVMax=5 quakeInterval=10 time=400]Bah, j'imagine que Sōjūrō a son propre labeur à finir. Je pensais l'attendre, mais c'est peut-être une attention inutile.」
+「Je suis d'accord, mais... [l]
+[chgfg storage=律架02a(大)|b quakeHMax=5 quakeVMax=5 quakeInterval=10 time=400]Bah, j'imagine que Sōjūrō a son propre labeur à finir. Je pensais l'attendre, mais c'est peut-être une attention inutile.」
 *page2|
 「? Shizuki est dehors ?」
 「Oui. Il arrachait des mauvaises herbes du côté du sentier. Il faisait ça avec tellement d'entrain qu'on aurait cru qu'il construisait un héliport.」
@@ -27,7 +28,8 @@
 「C'est surprenant. Je ne pensais pas que nous serions autorisés à nous promener librement dans le bâtiment jusqu'au début de la fête. Que nous vaut ce changement d'attitude, Alice ?」
 「...... Il n'y a rien de tel. D'ailleurs, les portes des pièces où il est dangereux d'entrer ont été changées en mur. J'ai dû prendre cette mesure spécialement pour aujourd'hui, mais de cette façon, nous n'aurons pas à déplorer de victimes.」
 *page8|
-「? Changées en mur ? Comment ça ? [l][chgfg storage=木乃実私服01(遠)|c type=13 time=400]Et puis, des victimes ? Tu aimes exagérer, Alice~! C'est sûr que c'est un grand manoir, mais personne n'est assez bête pour s'y perdre, tu sais ?」
+「? Changées en mur ? Comment ça ? [l]
+[chgfg storage=木乃実私服01(遠)|c type=13 time=400]Et puis, des victimes ? Tu aimes exagérer, Alice~! C'est sûr que c'est un grand manoir, mais personne n'est assez bête pour s'y perdre, tu sais ?」
 *page9|
 「Tu as même eu la gentillesse de nous préparer des chambres d'ami. On avait prévu de rentrer quand il ferait nuit, mais ta sollicitude nous va droit au cœur~♪
 　Yui, puisqu'on y est, tu ne veux pas te changer ?

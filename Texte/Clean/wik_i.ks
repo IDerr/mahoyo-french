@@ -10,7 +10,8 @@
 「Pour moi, c'est pareil qu'Aozaki, mais je vais quand même donner mon témoignage au cas où.
 　[chgfg storage=金鹿私服02(全)|a2 zoom=80 time=300]À une heure, j'ai rejoint Aozaki et M. Yamashiro, et nous sommes arrivés au manoir Kuonji à deux heures passées.
 　J'ai pris une pause dans ma chambre de trois heures et demie à quatre heures.
-　Je me souviens que le groupe du prêtre est arrivé dans le vestibule à quatre heures. [l][chgfg storage=金鹿私服01(全)|k3 zoom=80 time=300]... Ensuite... Ah oui ! Pendant ma sieste, j'ai eu l'impression d'entendre le rire de quelqu'un, mais c'est peut-être mon imagination, alors ne vous y fiez pas trop pour l'enquête. Ça ne ferait que prêter à confusion.」
+　Je me souviens que le groupe du prêtre est arrivé dans le vestibule à quatre heures. [l]
+[chgfg storage=金鹿私服01(全)|k3 zoom=80 time=300]... Ensuite... Ah oui ! Pendant ma sieste, j'ai eu l'impression d'entendre le rire de quelqu'un, mais c'est peut-être mon imagination, alors ne vous y fiez pas trop pour l'enquête. Ça ne ferait que prêter à confusion.」
 *page3|
 　Je...
 *page4|

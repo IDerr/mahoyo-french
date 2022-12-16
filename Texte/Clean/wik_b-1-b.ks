@@ -82,7 +82,8 @@
 　La véranda et le salon étant reliés, on pouvait observer une pièce depuis l'autre.
 *page19|
 　Kuonji sirotait avec élégance une tasse de thé, assise sur le sofa du salon.
-　Deux personnes s'agitaient devant elle : [movefg opacity=255 vcenter=387 time=400 accel=-2 storage=木乃実私服01(大)|c2 center=466 textoff=0]Hōsuke, et également, [l][movefg opacity=255 vcenter=356 time=700 accel=-2 storage=山城01(大)|b2 center=182][wact canskip=0]à mon plus grand étonnement, le professeur Yamashiro.
+　Deux personnes s'agitaient devant elle : [movefg opacity=255 vcenter=387 time=400 accel=-2 storage=木乃実私服01(大)|c2 center=466 textoff=0]Hōsuke, et également, [l]
+[movefg opacity=255 vcenter=356 time=700 accel=-2 storage=山城01(大)|b2 center=182][wact canskip=0]à mon plus grand étonnement, le professeur Yamashiro.
 *page20|
 「Oh ! Les arbres que j'ai aperçus brièvement dans l'arrière-cour étaient des Oak ? En français, on appelle ça des chênes... Hum, ils sont différents de ceux dont je me rappelle.
 　Ce doit être une espèce particulière. Les espèces anglaises et japonaises ont des apparences bien distinctes, et puis, il y en a plus de quatre cents.」
@@ -112,7 +113,8 @@
 *page27|
 「Je suis de repos. J'ai pris mes jours de congé pour ces trois jours de vacances consécutifs. Et puis, j'ai économisé la somme prévue.」
 *page28|
-「Ah bon ? C'est cool. La fusée d'évasion de Misaki en est donc au stade du compte à rebours. [l]Je ne te verrai bientôt plus à la supérette le matin, du coup.[r]
+「Ah bon ? C'est cool. La fusée d'évasion de Misaki en est donc au stade du compte à rebours. [l]
+Je ne te verrai bientôt plus à la supérette le matin, du coup.[r]
 　Hum ? Maintenant que j'y pense, c'était pas toi qui m'avais arrosé au moment où j'allais fumer une cigarette ?」
 *page29|
 　C'était une vieille histoire.
