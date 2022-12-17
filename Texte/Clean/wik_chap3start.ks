@@ -134,7 +134,7 @@
 「Détaillons nos actions de la journée. Si quelque chose ne correspond pas à nos souvenirs, faites-en la remarque sans la moindre pitié.
 　Allez, je commence.」
 *page35|
-　Si l'auteur de la proposition, en l'occurence Tsukiji, commençait, personne ne pouvait émettre d'objection.
+　Si l'auteur de la proposition, en l'occurrence Tsukiji, commençait, personne ne pouvait émettre d'objection.
 　Demander une pause maintenant aurait suscité des soupçons.
 *page36|
 「Je suis arrivé à la résidence Kuonji avec Beo, Kinomi et le vieux Tokitsu à 10 heures du matin.
