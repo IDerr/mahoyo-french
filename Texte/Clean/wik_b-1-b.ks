@@ -146,7 +146,7 @@ Je ne te verrai bientôt plus à la supérette le matin, du coup.[r]
 *page35|
 　Présentons-le de nouveau, cet enfant blond s'appelle Beo.
 　Je ne connaissais pas son nom complet. Il ne s'était même jamais présenté.
-　Je ne faisais qu'imiter Tsukiji, Aozaki et Shizuki qui l'appellaient ainsi.
+　Je ne faisais qu'imiter Tsukiji, Aozaki et Shizuki qui l'appelaient ainsi.
 　Il était bizarrement attaché à Shizuki.
 *page36|
 『Sōjūrō, je veux aller au parc d'attractions pendant les prochaines vacances.』
