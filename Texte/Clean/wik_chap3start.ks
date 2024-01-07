@@ -18,7 +18,7 @@
 　Aozaki retenait désespérément son rire.
 *page5|
 　Je n'étais pas en reste, puisque je retenais moi aussi le rire qui montait dans ma gorge de toutes mes forces.
-　En effet, l'apparence du professeur Yamashiro dans son sommeil éternel, l'air satisfait entouré de fleurs, m'évoquait davantage le concours de chant télévisé du nouvel an que des funérailles austères, même si l'idée était quelque peu irrespectueuse.
+　En effet, l'apparence du professeur Yamashiro dans son sommeil éternel, l'air satisfait entouré de fleurs, m'évoquait davantage le concours de chant télévisé du Nouvel An que des funérailles austères, même si l'idée était quelque peu irrespectueuse.
 *page6|
 「Oh mon Dieu ! Moi qui le prenais pour une personne avec la tête sur les épaules.
 　Je me demande quel genre de vie voulait avoir M. Yamashiro.」
