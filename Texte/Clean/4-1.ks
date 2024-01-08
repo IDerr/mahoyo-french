@@ -69,10 +69,10 @@
 　Leur connaissance des lieux est pourtant parfaite, non ?」
 「Ça, c'est valable uniquement la journée. Durant les vols de nuit, il y a beaucoup de danger.」
 　“Ils ne servent à rien quand on a besoin d'eux”, soupira Aoko.
-　La fille en noir observa d'un air mécontent sa colocataire.
 *page20|
 「...... Et toi ? Ce matin, tu semblais confiante.」
-「Demain, on aura considérablement réduit le nombre de suspects. Ce midi, j'ai demandé à Tobimaru d'enquêter sur l'adresse et l'emploi du temps des élèves.
+「Hum ? Ah, de mon côté, tout se passe comme prévu.
+　Demain, on aura considérablement réduit le nombre de suspects. Ce midi, j'ai demandé à Tobimaru d'enquêter sur l'adresse et l'emploi du temps des élèves.
 　Il n'y a pas tant de gens que ça qui rôdent à cette heure-ci dans le parc, et on peut facilement en déduire qui pouvait y être.」
 *page21|
 「Ce sera vraiment aussi simple ?」
