@@ -60,7 +60,7 @@
 *page17|
 「Attends, toi là. Pourquoi essaies-tu tout de suite de te ranger du côté du plus fort ?」[l][wact canskip=0][wact canskip=0][wact canskip=0][r]
 「Eh bien, c'est qu'elle a parlé d'un ange du salut.」
-「Oublie ça, Sōjūrō. Si cette fille est un ange du salut, alors Aozaki est une déesse de la guérison. Elle se gourre complètement de métaphore.」
+「Oublie ça, Sōjūrō. Si cette fille est un ange du salut, alors Aozaki est une déesse de la guérison. Elle se goure complètement de métaphore.」
 *page18|
 「... Hum. Kumari, tu vas faire quoi ?[r]
 　Tobimaru et les autres ont donné leur avis, mais qu'en penses-tu, toi ?」

@@ -39,7 +39,7 @@
 *page11|
 「Mais si, nous sommes là pour passer du bon temps. Même moi, je suis venu les mains vides, mais sœur Yuika, elle......
 　Pourquoi avez-vous acquis ce caractère aiguisé comme un couteau, toujours sur le qui-vive ?」
-「Je suis contrainte de l'être pour pallier à votre manque de sérieux !」
+「Je suis contrainte de l'être pour pallier votre manque de sérieux !」
 *page12|
 　L'aiguille de l'horloge pointa vers les six heures.
 　La nuit était tombée à l'extérieur.

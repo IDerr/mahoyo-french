@@ -68,7 +68,7 @@
 　Les... Les choses prenaient une tournure inattendue...!
 　Entre le coup du grenier et les évènements actuels, la situation ne pouvait pas être pire, mais elle se mouvait aussi dans une direction imprévue.
 *page18|
-「Hmm, si je ne peux pas être avec Sōjūrō, alors je préfère rester seul. [chgfg storage=ベオ02c(大)|f time=300 textoff=0]De toute façon, c'est qu'un jeu.」
+「Hmm, si je ne peux pas être avec Sōjūrō, alors je préfère rester tout seul. [chgfg storage=ベオ02c(大)|f time=300 textoff=0]De toute façon, c'est qu'un jeu.」
 「Aaah, dommage. Dans ce cas, je vais me joindre à M. Yamashiro...
 　Tiens ?」
 　Tout le monde se regarda.
