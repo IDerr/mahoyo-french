@@ -26,7 +26,7 @@
 　Bien évidemment,
 　ce fameux territoire démoniaque était le château de Kitsy Land Mistery Tour.
 *page6|
-　Au total, 5% des visiteurs avaient demandé de l'aide aux employés.
+　Au total, 5 % des visiteurs avaient demandé de l'aide aux employés.
 　Le bâtiment, qu'on avait bâti sur le modèle des châteaux occidentaux, faisait cent mètres de profondeur et était en outre divisé en trois étages.
 *page7|
 　Le labyrinthe, comprenant un étage supérieur et un sous-sol, était un énorme complexe complètement recouvert de miroirs et d'où il fallait, même pour un expert, au moins trente minutes pour s'échapper.
