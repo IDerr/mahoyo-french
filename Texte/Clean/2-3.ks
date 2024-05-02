@@ -63,7 +63,7 @@ mais si même un type comme toi commence à raconter des bêtises, en qui pourra
 「C'est donc ce que tu penses. Dans ce cas, ça me convient.」
 　Sōjūrō accepta calmement les propos de Tobimaru, que n'importe qui à part lui aurait trouvés insultants.
 *page14|
-「Même moi, j'ai pensé que c'était un genre de [ruby char="Kamikakushi" text="disparition mystérieuse"].
+「Même moi, j'ai pensé que c'était un genre de disparition mystérieuse.
 　Mais peut-être qu'en ville, c'était quelque chose de possible. C'est ça que je voulais vérifier.」
 　Sōjūrō avala sa dernière boulette de riz après avoir exprimé sa satisfaction et plia son tissu d'emballage.
 *page15|
