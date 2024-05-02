@@ -199,7 +199,7 @@
 　...... L'arme fut tirée en plein dans le cœur d'Aoko.
 *page48|
 　Seulement, juste avant l'impact,
-「Attention !」
+「Attention.」
 　alors qu'Aoko crut entendre une voix qui ne semblait pas se rendre compte du danger, son corps fut tiré sur le côté.
 *page49|
 　Le bras allongé balaya encore le vide.

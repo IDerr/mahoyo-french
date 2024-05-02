@@ -65,7 +65,7 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 　L'élément imaginaire qu'est le prana est comme un mirage, échappant aux règles de l'univers uniquement au moment de son ignition.
 　L'univers n'accepte pas de donner forme à quelque chose qui n'existe pas dans ce monde―――qu'une chimère transgresse la réalité.
 *page15|
-『...... Même si on dit ça, à la base, [ruby char="l'élément" text="Éther"] imaginaire peut tout faire, donc en gros, les principes de base sont eux-mêmes une illusion, si je me souviens bien.
+『...... Même si on dit ça, à la base, [ruby char="l'élément imaginaire" text="Éther"] imaginaire peut tout faire, donc en gros, les principes de base sont eux-mêmes une illusion, si je me souviens bien.
 　Les choses qui sont composées uniquement de prana sont considérées comme des illusions et disparaissent rapidement...... Pour une Barrière idéale, il faut tout d'abord faire pousser un mur d'épines ou autre, et ensuite, utiliser le prana pour le faire grandir et le renforcer instantanément.
 　Pour résumer, le prana est un carburant que l'on utilise à sa guise, et simultanément, c'est l'étincelle qui déclenche le phénomène―――』
 *page16|

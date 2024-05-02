@@ -351,7 +351,7 @@ Dans le sens où c'était une nuisance pour les autres.
 「Si ! Tu es l'employé de chez Uotatsu, non ? Rien que cette semaine, j'y suis allée plusieurs fois.[r]
 　Je suis―――euh, [wait time=1000 canskip=0][chgfg storage=律架02a(近)|c time=300 textoff=0]voyons voir, je m'appelle Hanasawa, et toi ?」
 *page91|
-　Tout en lançant un coup d'œil au pot de fleurs sous elle au milieu de sa phrase, Mlle [ruby char="Hanasawa" text="fleur"] sourit de façon candide.
+　Tout en lançant un coup d'œil au pot de [ruby char="fleurs" text="hana"] sous elle au milieu de sa phrase, Mlle Hanasawa sourit de façon candide.
 　Sōjūrō se présenta comme à son habitude, peu sûr de lui.
 *page92|
 「Sōjūrō...... Oui, c'est un beau nom, qui donne une impression d'ancienneté.
