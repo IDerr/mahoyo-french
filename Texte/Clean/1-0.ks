@@ -32,7 +32,7 @@
 *page7|
 　Sous le capot, trois chats s'étaient roulés en boule comme pour se réchauffer.
 　La mère n'avait plus rien au-dessus du cou.
-　L'un des deux chatons avait été en trop grande partie entraîné dans la courroie et ne bougeait plus. Il était probablement mort sur le coup.
+　L'un des deux chatons avait été en trop grande partie entraîné par la courroie et ne bougeait plus. Il était probablement mort sur le coup.
 *page8|
 　Le chaton restant avait la moitié du museau rouge de sang et, comme un chien errant trempé par la pluie, respirait en sifflant.
 　Le chaton se raccrochait de toutes ses forces à la poitrine du cadavre... non, à la moitié de morceau de viande qu'était devenue sa mère, alors qu'il ne lui restait sûrement plus que quelques minutes à vivre.

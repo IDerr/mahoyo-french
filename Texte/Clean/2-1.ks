@@ -102,7 +102,7 @@
 *page24|
 「Allez, Shizuki, mange toi aussi. Il y a encore plein d'ouvre-boîtes.」
 「Non, je me rappelle vous avoir dit hier que je ne voulais pas de vos paniers-repas empoisonnés.
-　Et puis, plus de la moitié de ces boîtes de conserve dépassent la date de péremption.」
+　Et puis, la date de péremption de plus de la moitié de ces boîtes de conserve est passée.」
 「Ben quoi alors ! T'es trop sérieux !」
 　s'exclamèrent-ils à l'unisson.
 　Ils cherchaient sans doute à faire un camarade-victime de plus.

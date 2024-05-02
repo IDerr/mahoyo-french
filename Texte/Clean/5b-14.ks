@@ -128,7 +128,7 @@
 　―――Cependant...
 *page28|
 　Un rideau bleu intercepta la lumière.
-　L'éther, élément imaginaire dont la flamme atteignait la température de 3 000°C, retourna instantanément au néant......!
+　L'éther, élément imaginaire dont la flamme atteignait une température d'environ 3 000°C, retourna instantanément au néant......!
 *page29|
 「Ah, ―――!!!!!!」
 　Sous le contrecoup de l'énorme sort qui se répercutait en elle, tout le sang de son corps était en ébullition.
