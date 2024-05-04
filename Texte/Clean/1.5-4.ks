@@ -196,7 +196,7 @@ Oh, mais dis-moi Aozaki, tu es devenue bien gentille. Ou alors, c'est qu'il sera
 　Je me demande quel est le système derrière tout ça, avait réfléchi sérieusement Sōjūrō.
 　Le geste de baisser la tête était en général l'apanage des philosophes, mais en fin de compte,
 “Comme je le craignais, à partir de la deuxième fois, on nous demande de l'argent ?”
-　C'était une problématique purement pécuniaire.
+　c'était une problématique purement pécuniaire.
 *page53|
 「...... Normalement, dans cette église, ils n'emploient cette manière d'agir qu'avec des enfants.」
 　Il devait vraiment ressembler à un agneau égaré, soupira Aoko.
