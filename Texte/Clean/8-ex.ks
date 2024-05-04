@@ -123,7 +123,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 　Même si le combat avec l'ennemi s'intensifiait, comme elle avait décidé de mener une double vie, c'était bien le genre d'Aoko de prendre plaisir autant à l'une qu'à l'autre.
 *page30|
 「Au fait, Aozaki. Qu'est-ce qu'on fait pour le pari de tout à l'heure ?」
-「Ma foi, je ne suis quand même pas un monstre, alors je me contenterai de 10% de nos économies à l'échéance du pari. J'éviterai de tout te pomper jusqu'à la moelle.」
+「Ma foi, je ne suis quand même pas un monstre, alors je me contenterai de 10 % de nos économies à l'échéance du pari. J'éviterai de tout te pomper jusqu'à la moelle.」
 　Évidemment,
 　la mesquinerie restait la base de sa personnalité.
 *page31|
@@ -267,7 +267,7 @@ Ou plutôt qui se grattait la tête.[r]
 　Sōjūrō fronça les sourcils d'un air sévère,
 　peut-être par considération envers une certaine personne sans défense, ou bien par dépit d'avoir été distrait par elle.
 *page66|
-「C'est bon comme ça, je te dis, c'est parfait ! Puisqu'un lycéen est composé à 60% de désir sexuel !
+「C'est bon comme ça, je te dis, c'est parfait ! Puisqu'un lycéen est composé à 60 % de désir sexuel !
 　Bon, maintenant que c'est décidé, allons donc draguer sans attendre ! La qualité de la prise dépend des visages présents !」
 *page67|
 　Dans une bonne humeur étonnante, Kinomi accompagna Sōjūrō en direction de la gare en l'étreignant par l'épaule.

@@ -47,10 +47,10 @@
 「............ Je n'en attendais pas moins de toi. Il faut le faire pour l'avoir remarqué. Mais là-dessus, je ne me laisserai pas faire.」
 　dit Aoko en se préparant et en fixant Alice.
 *page12|
-「Je n'ai pas dit que je te prendrai tout...... Voyons. Que dis-tu de garder 30% ?」
+「Je n'ai pas dit que je te prendrai tout...... Voyons. Que dis-tu de garder 30 % ?」
 　Imperturbable face à Aoko entrée en position de combat, Alice l'entravait rien qu'avec son regard.
 *page13|
-「Hm. Je passe de 100 à 30%. Je ne peux pas vraiment te laisser faire sans rien dire.」
+「Hm. Je passe de 100 à 30 %. Je ne peux pas vraiment te laisser faire sans rien dire.」
 「Viser trop haut pourrait te coûter la vie, Aoko.」
 　Gardant une posture digne, Alice restait immobile.
 *page14|
@@ -63,7 +63,7 @@
 「............ Radine.」
 　Aoko reconnut la défaite d'un claquement de langue.
 *page16|
-「C'est vexant, mais je veux bien conclure le marché avec 60% pour toi et 40% pour moi.」
+「C'est vexant, mais je veux bien conclure le marché avec 60 % pour toi et 40 % pour moi.」
 　Lorsqu'Aoko proposa ce compromis d'un air chagriné, Alice acquiesça, satisfaite.
 *page17|
 「Très bien. Après tout, je suis peut-être la propriétaire, mais c'est toi qui l'as invité ici. Par contre, en échange, tu devras t'occuper de récupérer le loyer.」

@@ -40,7 +40,7 @@
 　je veux te voir en privé......」
 *page13|
 　La richesse du langage humain est incroyable, hein.[r]
-　Honnêtement, c't'à 90% impossible d'savoir ce que moi [r]　ou mon interlocuteur voulons exprimer.
+　Honnêtement, c't'à 90 % impossible d'savoir ce que moi [r]　ou mon interlocuteur voulons exprimer.
 *page14|
 　Oui.[r]
 　Moi aussi, je partage cet avis.
@@ -124,7 +124,7 @@ compatible avec les humains comme toi sont des exceptions.
 　Mam'zelle Alice.[r]
 　Vos paroles sont merveilleuses, [r]　mais pourquoi votre visage fait peur ?
 *page41|
-　Même s'il n'a que 10% des capacités du Mage,[r]
+　Même s'il n'a que 10 % des capacités du Mage,[r]
 　c'est facile de créer un familier plus “fort” que lui.
 *page42|
 　Et si on essayait la prochaine fois, juste pour voir,[r]

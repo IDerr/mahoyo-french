@@ -29,7 +29,7 @@
 　J'ai déjà vaguement compris, mais à qui, as-tu bien pu, envoyer une invitation ?」
 *page7|
 「... C'est que, ce n'est pas correct de la tenir à l'écart.」
-「C'est Tōko, c'est ça ? C'est toi qui as invitéé Tōko à la fête, hein ?!」
+「C'est Tōko, c'est ça ? C'est toi qui as invité Tōko à la fête, hein ?!」
 　Aozaki attrapa le col de Shizuki et le secoua dans tous les sens.
 「Deux Riddell... Il y a deux Riddell...」
 *page8|

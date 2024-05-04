@@ -53,7 +53,7 @@
 *page13|
 　J'ignorai la plaisanterie d'Hōsuke et posai par terre mon sac de voyage qui contenait mes vêtements de rechange.
 「Ne t'avise pas de regarder à l'intérieur.」
-「Même si on me payait, je regarderais pas ! Pour tes tenues qui n'ont rien de sexy, c'est No Thanks / No Futur / No Tax.
+「Même si on me payait, je regarderais pas ! Pour tes tenues qui n'ont rien de sexy, c'est No Thanks / No Future / No Tax.
 　...... Hé, mais ce truc pèse une tonne ! T'as un sac vachement lourd pour un physique comme le tien, dis donc !」
 *page14|
 　Hōsuke chargea le sac sur son épaule et fit mine de se diriger vers le couloir côté est du vestibule.

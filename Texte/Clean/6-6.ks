@@ -48,7 +48,7 @@
 　―――Mais tu n'aimerais pas devenir une statue vivante, n'est-ce pas ?」
 *page12|
 「Hm.」
-　Sōjūrō était d'accord avec 80% de ce que disait Aoko, mais la dernière expression, “statue vivante”, avait un sens bien trop obscur.
+　Sōjūrō était d'accord avec 80 % de ce que disait Aoko, mais la dernière expression, “statue vivante”, avait un sens bien trop obscur.
 　Il fit travailler tant bien que mal son imagination, mais il ne put se représenter que des créatures dans le genre de Kitsy-chan.
 *page13|
 「Oui. En effet, je n'aimerais pas.」

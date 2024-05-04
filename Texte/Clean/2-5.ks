@@ -33,7 +33,7 @@
 *page8|
 「Vous êtes sûr ? Je n'ai pas encore fait le nettoyage des toilettes.」
 「C'est bon, c'est bon. Tu vois, elle est dans un angle mort de la caméra, alors pour le moment, je ne suis sûr de rien.
-　Mon Petit Sō, jusqu'à maintenant, ton taux de capture était de 100%, pas vrai ? Tu veux bien aller voir ?」
+　Mon Petit Sō, jusqu'à maintenant, ton taux de capture était de 100 %, pas vrai ? Tu veux bien aller voir ?」
 　“Dans ce cas, très bien”, répondit Sōjūrō avant de ranger son matériel de nettoyage et de se diriger vers le premier étage.
 *page9|
 　La salle de pachinko se situait dans un bâtiment classique à deux niveaux et était relativement vaste.

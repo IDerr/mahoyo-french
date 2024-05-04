@@ -107,7 +107,7 @@
 *page23|
 “Je ne peux plus bouger...... Cette grande Aria empêche toute fuite, donc si je me fais attaquer la première, je suis fichue......!”
 　Par conséquent, elle devait l'abattre avant cela.
-　Son prana était prêt à 80% et le sort fonctionnait normalement. Ensuite, il ne lui resterait plus qu'à appuyer sur la détente, mais―――
+　Son prana était prêt à 80 % et le sort fonctionnait normalement. Ensuite, il ne lui resterait plus qu'à appuyer sur la détente, mais―――
 *page24|
 　Une partie calme d'elle-même se demandait si c'était vraiment ce qu'elle voulait.
 　Une fois qu'elle aurait commencé, elle ne pourrait pas revenir en arrière.
@@ -224,7 +224,7 @@ Toutes les couches à plein régime―――!」
 　Il est vraiment... bien... plus fort......!”
 　Cette bataille avait aussi pour enjeu le prana dont le parc regorgeait.
 　Depuis le début, cet endroit était le jardin du Snark.
-　Le taux de contrôle de l'espace était de 80% pour le Snark et seulement de 20% pour Aoko.
+　Le taux de contrôle de l'espace était de 80 % pour le Snark et seulement de 20 % pour Aoko.
 *page46|
 「N-Non...... Je ne peux pas... l'arrêter......!」
 “Ah......”

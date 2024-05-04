@@ -1048,7 +1048,7 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 *page261|
 「Aozaki ? Tu ne contactes pas Tsukiji pour lui dire que le plan a changé ?」
 「Ça, c'est pour après. Pour l'instant, l'important est de se décider sur un négociateur. Tsukiji et moi ne sommes pas assez imposants pour ce rôle.
-　Et même si on a pris l'avantage, nos chances de l'emporter sont toujours de 50%.
+　Et même si on a pris l'avantage, nos chances de l'emporter sont toujours de 50 %.
 　Selon la tournure des négociations, on pourrait se faire contrer. Le représentant de l'association des victimes doit donc être un démon des plus vicieux.」
 *page262|
 「Je pensais qu'il s'agirait de toi. Je me trompais ?」[r]

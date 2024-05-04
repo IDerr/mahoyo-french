@@ -120,7 +120,7 @@
 　Cet homme avait vraiment l'habitude d'en dire trop.
 　La remarque judicieuse de Sōjūrō poussa Aoko à poser le magazine de mode et à se tourner vers lui.
 　Ses yeux bleus et clairs le dévisagèrent avec irritation.
-　En dépit du fait que la justice était à 100% de son côté, il se laissa involontairement impressionner par ce regard intense.
+　En dépit du fait que la justice était à 100 % de son côté, il se laissa involontairement impressionner par ce regard intense.
 *page28|
 「Sōjūrō. [wait canskip=0 time=400]J'ai l'impression de te l'avoir déjà dit, mais...」
 「Oui ?」

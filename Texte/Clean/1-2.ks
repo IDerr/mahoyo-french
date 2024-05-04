@@ -233,7 +233,7 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 　Désolée, mais même s'il a des circonstances atténuantes, ce n'est ni plus ni moins qu'un ennemi......!
 　C'est vraiment pas de chance pour nous deux. Bon sang, pourquoi faut-il que ça arrive pendant une période aussi chargée―――』
 *page56|
-　Son mal de tête, qui l'élançait à cause de son manque de sommeil, augmentait de 10% son agressivité.
+　Son mal de tête, qui l'élançait à cause de son manque de sommeil, augmentait de 10 % son agressivité.
 　Même si la personne derrière cette porte était aussi inoffensive qu'un mouton, tout être dérangeant son sommeil était un ennemi.
 　Au moment où son énervement fut à son paroxysme, le professeur Yamashiro ouvrit la porte de la salle de conférence.
 *page57|
@@ -312,14 +312,14 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 　Selon l'opinion générale des élèves,
 　Aozaki Aoko était toujours de mauvaise humeur.
 *page75|
-　De l'avis de 90% d'entre eux, même Aoko n'avait pas assez de temps libre pour être énervée 24 heures sur 24.
+　De l'avis de 90 % d'entre eux, même Aoko n'avait pas assez de temps libre pour être énervée 24 heures sur 24.
 　Son tempérament était simplement tel qu'elle ne cherchait jamais à se défiler,
 　et elle avait juste l'air énervée, en général subtilement et parfois franchement, par quelque chose d'invisible.
-　Et donc, 90% des élèves pensaient que ce n'était qu'une des sept histoires de fantômes infondées de l'école montées en épingle par les rumeurs.
+　Et donc, 90 % des élèves pensaient que ce n'était qu'une des sept histoires de fantômes infondées de l'école montées en épingle par les rumeurs.
 *page76|
-　Mais les 10% restants étaient dans le vrai.
+　Mais les 10 % restants étaient dans le vrai.
 　Il arrivait à Aoko de montrer une telle animosité envers des choses inoffensives qu'elle se soupçonnait d'être victime de maux de tête chroniques.
-　Ce jour-là correspondait à ces 10%.
+　Ce jour-là correspondait à ces 10 %.
 　C'était dans ces moments-là,[r]
 　que sa colère ressemblait vraiment à l'égoïsme innocent d'un enfant.
 *page77|
