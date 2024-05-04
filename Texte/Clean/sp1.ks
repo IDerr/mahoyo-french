@@ -103,7 +103,7 @@
 　―――Voyons voir, par exemple, tu pourrais entretenir une haine si intense envers une personne qu'il te faudrait supprimer cet individu pour voir ta rage s'éteindre.」
 *page26|
 　Aozaki Tōko s'était séparée sans hésiter de ses cheveux,
-　cette source de pouvoir accumulée pendant vingt ans et qu'on pouvait voir comme de véritables clones.
+　cette source de pouvoir accumulé pendant vingt ans et qu'on pouvait voir comme de véritables clones.
 　Elle était convaincue que Beo valait largement le sacrifice de ce qu'elle avait préservé avec tant de soin jusqu'à maintenant.
 *page27|
 　De même, Beo avait senti que cette humaine était un être vivant d'une rare valeur.
@@ -418,7 +418,7 @@
 　Il se retint au mieux d'énoncer ses pensées à voix haute et resta derrière son employeur, à une distance de dix mètres.
 *page101|
 　Précisons-le pour l'honneur de Tōko, elle savait parfaitement à quel point l'attention se portait sur elle.
-　Comme il y avait peu de passants à cette heure-ci, elle était sortie sans “maquillage”, mais quand les étudiants et les travailleurs se faisaient plus nombreux, elle avait pour habitude d'atténuer sa splendeur de 40% avec un accessoire gravé d'une Rune repoussoir.
+　Comme il y avait peu de passants à cette heure-ci, elle était sortie sans “maquillage”, mais quand les étudiants et les travailleurs se faisaient plus nombreux, elle avait pour habitude d'atténuer sa splendeur de 40 % avec un accessoire gravé d'une Rune repoussoir.
 *page102|
 　Aozaki Tōko procéda à quelques courses dans la rue commerçante avant de prendre le chemin du quartier résidentiel.
 　Elle visita une maison ordinaire et sans trait particulier.
@@ -534,14 +534,14 @@
 　Que ce soit une illusion ou la réalité, ils ont une histoire où ils jouent le rôle principal. C'est pas génial ?」
 *page128|
 「Hum, j'ai une petite question, si tu veux bien ? De quel genre sont ces spectacles ?
-　Amour 30%, action 30%, suspense 30%, animation 10% ?」
+　Amour 30 %, action 30 %, suspense 30 %, animation 10 % ?」
 「Ah ? En général, c'est de l'horreur. Tous les genres y sont mélangés après tout.」
 「...... Pour tout te dire, ce côté de toi me fait peur.
 　Et puis je suis une fille, alors je préfère la romance.」
 *page129|
 「Hum. Je suis bien obligée de prendre en considération l'avis d'une candidate que j'étais censée capturer.
-　Voyons, il suffit que je fasse attention à l'équilibre du monde illusoire dans lequel je plonge les prisonniers ? 80% d'horreur, ça irait ?」
-「90% d'amour ! 90% d'amour, s'il te plaît ! Et si ce n'est pas possible, 90% de policier, je te prie !」
+　Voyons, il suffit que je fasse attention à l'équilibre du monde illusoire dans lequel je plonge les prisonniers ? 80 % d'horreur, ça irait ?」
+「90 % d'amour ! 90 % d'amour, s'il te plaît ! Et si ce n'est pas possible, 90 % de policier, je te prie !」
 　Elle répondit ainsi, certaine de sa défaite si Tōko devait la prendre pour cible.
 *page130|
 「Compris. Si la situation m'y oblige, je prendrai les mesures nécessaires.」
@@ -624,7 +624,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 *page149|
 　Cependant, il aurait été injuste de lui reprocher de ne pas l'avoir deviné, puisqu'il ignorait ces informations primordiales.
 　Après tout, le prêtre n'émettait aucune hostilité.
-　Du point de vue de Beo, il avait absolument tout d'une personne ordinaire, et il n'y avait aucune moyen qu'Aozaki Tōko soit dépassée.
+　Du point de vue de Beo, il avait absolument tout d'une personne ordinaire, et il n'y avait aucun moyen qu'Aozaki Tōko soit dépassée.
 　―――Plus tard, un humain du même type — “du poison qui ne ressemble pas à du poison” — lui donnerait une rude leçon, mais c'était une autre histoire.
 *page150|
 「Comment est la situation de votre côté ? La maison de Dieu est remplie de bourreaux de travail, après tout. Tu crois qu'un de ces rapaces en quête de privilèges va venir fourrer le nez dans vos affaires ?」

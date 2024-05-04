@@ -57,7 +57,7 @@ De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus �
 *page14|
 「Le plat de viande qu'Alice nous a préparé hier soir était vraiment délicieux.
 　Je n'aurais jamais cru qu'une viande à 700 yens le gramme puisse être d'une telle qualité.
-　Et il ne faut pas oublier non plus les jus de fruits 100% pur jus des associations coopératives. J'ai bien retenu la leçon.
+　Et il ne faut pas oublier non plus les jus de fruits 100 % pur jus des associations coopératives. J'ai bien retenu la leçon.
 　Mais si on mangeait de cette façon trois jours d'affilée, qu'adviendrait-il de cette maison ?」
 *page15|
 　Pour une fois, Sōjūrō avait dit quelque chose de sensé.

@@ -39,11 +39,11 @@
 「Ça ne te regarde pas.
 　Il me semblait t'avoir déjà dit que tu n'avais pas le droit d'interférer dans nos affaires, non ?」
 　Ses paroles étaient stoïques, mais également acerbes.
-　Son côté taciturne n'avait rien de nouveau, mais aujourd'hui, elle était 60% plus énervée que d'habitude.
+　Son côté taciturne n'avait rien de nouveau, mais aujourd'hui, elle était 60 % plus énervée que d'habitude.
 *page10|
 「Bien sûr, je suis au courant. Au fait, vous n'avez pas encore mangé, pas vrai ?」
 　Sōjūrō ne prêta pas attention à sa mauvaise humeur et poursuivit. [l]
-Si la contrariété d'Aoko avait augmenté de 60%, alors la nonchalance du jeune homme s'était multipliée par deux.
+Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeune homme s'était multipliée par deux.
 　Même Aoko fléchit légèrement face à son obstination.
 *page11|
 「Qu'est-ce que tu as aujourd'hui ? Il t'est arrivé un truc bien ou quoi ?」

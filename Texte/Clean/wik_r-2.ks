@@ -31,7 +31,7 @@
 　Les moqueries de Tsukiji semblaient être des sarcasmes, mais ce n'était pas le cas.
 *page8|
 「Tu veux parler de l'individu A ?」
-「Ouais. Après tout, on ne peut pas dire que l'affaire est vraiment résolue. Même toi, tu n'es pas sûre à 100% qu'Aozaki est le coupable, pas vrai ?」
+「Ouais. Après tout, on ne peut pas dire que l'affaire est vraiment résolue. Même toi, tu n'es pas sûre à 100 % qu'Aozaki est le coupable, pas vrai ?」
 　Je pris la tasse de café et acquiesçai tout en buvant une gorgée.
 　Bah, je ne pouvais pas m'attendre à plus.
 　C'était le genre de relation qui nous liait.

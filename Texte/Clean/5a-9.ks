@@ -93,7 +93,7 @@ Et puis, qu'est-ce que tu peux faire ?」
 　Il lui expliquait ainsi que tout ce qu'il pouvait faire actuellement, c'était suivre à la lettre les instructions d'Aoko.
 　C'était comme s'il renonçait à penser par lui-même, mais même ainsi, la proposition de Sōjūrō se résumait à faire totalement confiance à Aoko après avoir reconnu son impuissance.
 *page20|
-「...... Alors, ça veut dire que tu obéiras à 100% à mes directives ?」
+「...... Alors, ça veut dire que tu obéiras à 100 % à mes directives ?」
 「C'est ça. De plus, ne crois pas que c'est pour obtenir une faveur ou pour que tu me sois redevable.
 　Comme c'est suicidaire de l'attaquer seul, mieux vaut le faire ensemble. Mais ne le prends pas pour de la bonne volonté ou de la gentillesse. On appelle bien ça conclure un marché, non ?」[r]
 　Ses yeux honnêtes disaient que c'était du troc de confiance.

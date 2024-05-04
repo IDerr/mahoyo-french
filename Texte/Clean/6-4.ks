@@ -130,7 +130,7 @@ Très bien, je voulais au moins te laisser réfléchir, mais on n'a plus le temp
 　Et puis, Alice et moi sommes les seules à vivre ici.
 　Elle a nettement moins de bon sens que moi, alors si tu ne fais pas gaffe, tu es condamné d'avance.」
 *page30|
-　Aoko était sérieuse à 100%.
+　Aoko était sérieuse à 100 %.
 　Ces paroles étaient claires comme de l'eau de roche.
 「Non, non, non, non !」
 　Évidemment, la victime Sōjūrō ne pouvait absolument pas accepter cela.

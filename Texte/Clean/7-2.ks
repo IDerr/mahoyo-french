@@ -32,7 +32,7 @@
 *page7|
 　Même si c'était parfois difficile à croire, Aoko était aussi une lycéenne. [l]Elle avait des réticences à laisser entrer un garçon de son âge dans sa chambre.
 　Mais la copie d'examen de Sōjūrō était tellement incroyable qu'elle n'avait pas eu le choix.
-　Et donc, aujourd'hui, sa mauvaise humeur s'était intensifiée de 50%. On comprenait mieux pourquoi sa veine de colère persistait sur sa tempe.
+　Et donc, aujourd'hui, sa mauvaise humeur s'était intensifiée de 50 %. On comprenait mieux pourquoi sa veine de colère persistait sur sa tempe.
 *page8|
 「Je finis d'abord mes propres révisions.
 　Toi, utilise cette table.」
