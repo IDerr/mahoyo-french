@@ -323,26 +323,26 @@ Tant pis, je vais devoir agir dans l'ombre.」
 *page78|
 　Tsukiji Tobimaru était le cinquième fils de la famille Tsukiji, dont les membres étaient d'éminents propriétaires dans la ville de Misaki.
 　À cette époque, ils étaient connus comme grands propriétaires terriens, mais leur clan s'était enrichi principalement après la guerre. Avant cela, ce n'était qu'une petite famille noble au bord de la ruine.
-　Celui qui avait remis sur pied la famille Tsukiji était Tsukiji Kimekuni, qu'elle avait accueilli en son sein en tant que gendre―――patriarche de la famille Tsukiji actuelle, et grand-père de Tobimaru.
+　Celui qui avait remis sur pied la famille Tsukiji était Tsukiji Kimikuni, qu'elle avait accueilli en son sein en tant que gendre―――patriarche de la famille Tsukiji actuelle, et grand-père de Tobimaru.
 *page79|
-　C'était cet homme, Kimekuni le bras d'acier, qui avait sauvé la famille Tsukiji alors qu'elle dépérissait, suite au déclin de son influence à cause de la guerre.
-　Les membres de la famille Tsukiji, qui dirigeaient la région en tant que représentants des temples shintô, avaient besoin des capitaux de Kimekuni,
+　C'était cet homme, Kimikuni le bras d'acier, qui avait sauvé la famille Tsukiji alors qu'elle dépérissait, suite au déclin de son influence à cause de la guerre.
+　Les membres de la famille Tsukiji, qui dirigeaient la région en tant que représentants des temples shintô, avaient besoin des capitaux de Kimikuni,
 　tandis que ce dernier avait besoin de leurs relations pour s'implanter dans la ville de Misaki.
 *page80|
 　Les deux partis s'étaient unis pour le profit, mais la famille Tsukiji avait fait une erreur de calcul : les compétences de management de l'homme qu'elle avait accueilli en son sein avec réticence pour un temps n'avaient rien d'ordinaire.
-　Kimekuni, censé se trouver au bas de l'échelle en tant que gendre, avait développé l'industrie de Misaki, et de là, créé de nombreuses compagnies à l'extérieur de la ville.
+　Kimikuni, censé se trouver au bas de l'échelle en tant que gendre, avait développé l'industrie de Misaki, et de là, créé de nombreuses compagnies à l'extérieur de la ville.
 *page81|
 　Il dirigeait l'intérieur de la ville et avait pris le contrôle de ses environs par ses propres moyens, sans l'aide des Tsukiji.
 　Avant de s'occuper de l'intérieur, il faut neutraliser les lignes de défense ennemies.
 　Il avait donc coupé les vivres à ces derniers.
-　Kimekuni avait réprimé par son pouvoir économique “la famille illustre” qu'étaient les Tsukiji.
+　Kimikuni avait réprimé par son pouvoir économique “la famille illustre” qu'étaient les Tsukiji.
 *page82|
-　En moins de dix ans, plus aucun membre de la famille Tsukiji n'était capable de s'opposer à Kimekuni.
+　En moins de dix ans, plus aucun membre de la famille Tsukiji n'était capable de s'opposer à Kimikuni.
 　Le marchand accueilli en tant que gendre était devenu le chef de famille incontesté.
 *page83|
-　D'autre part, Kimekuni avait eu de nombreux enfants.
+　D'autre part, Kimikuni avait eu de nombreux enfants.
 　En effet, l'une des conditions pour succéder au chef de famille était de ne pas laisser s'éteindre la lignée des Tsukiji.
-　Ses trois fils et sa fille s'étaient mariés avec des parents de la famille, et donc, grâce à Kimekuni, les liens déclinants unissant la famille Tsukiji avaient retrouvé un peu de leur superbe.
+　Ses trois fils et sa fille s'étaient mariés avec des parents de la famille, et donc, grâce à Kimikuni, les liens déclinants unissant la famille Tsukiji avaient retrouvé un peu de leur superbe.
 　Tobimaru était le cinquième enfant de Tsukiji Hitoyoshi, le fils aîné.
 *page84|
 　...... Cependant, sa mère n'appartenait pas à la famille Tsukiji.
@@ -350,31 +350,31 @@ Tant pis, je vais devoir agir dans l'ombre.」
 　C'était la position de Tsukiji Tobimaru dans la famille Tsukiji.
 *page85|
 　Tobimaru était né d'une relation adultère.
-　Il avait pu préserver sa dignité un minimum du fait qu'il était l'enfant d'Hitoyoshi, le fils aîné de Kimekuni. Cela dit, il était aisé d'imaginer quel genre de persécutions avait subies Tobimaru dans sa position délicate, de la part de ses parents et de ses frères et sœurs.
+　Il avait pu préserver sa dignité un minimum du fait qu'il était l'enfant d'Hitoyoshi, le fils aîné de Kimikuni. Cela dit, il était aisé d'imaginer quel genre de persécutions avait subies Tobimaru dans sa position délicate, de la part de ses parents et de ses frères et sœurs.
 *page86|
 　Durant son enfance, cet environnement lui avait rapidement forgé le caractère.
 　Sa vitesse de compréhension exceptionnelle et le détachement avec lequel il jouait son propre rôle s'étaient naturellement amplifiés par le simple fait de vivre au sein de la famille Tsukiji.
 *page87|
 　Mais ces qualités lui avaient attiré un plus gros problème :
-　Tsukiji Kimekuni.
+　Tsukiji Kimikuni.
 　Malheureusement, ce grand homme encore en activité appréciait son petit-fils, enfant d'on ne savait quelle femme, plus que ses nombreux fils―――plus que le père de Tobimaru, Hideyoshi lui-même.
 *page88|
-　Kimekuni, originaire du peuple, n'était pas vraiment d'accord avec la succession par lien du sang.
+　Kimikuni, originaire du peuple, n'était pas vraiment d'accord avec la succession par lien du sang.
 　De plus, ce personnage n'avait encore rien cédé de sa fortune personnelle à ses enfants.
 *page89|
 “Il n'y a rien de plus exécrable que le sang des Tsukiji.
 　Je n'avais même pas envie de vous avoir.”
 　Ces mots, prononcés à chaque réunion de famille, exprimaient ses véritables sentiments.
-　Tobimaru avait plu à Kimekuni après qu'ils eurent discuté au hasard d'une de ces réunions habituelles. Depuis, ce dernier jouait avec son petit-fils au jeu de go, entre autres, dès qu'il rentrait du travail.
+　Tobimaru avait plu à Kimikuni après qu'ils eurent discuté au hasard d'une de ces réunions habituelles. Depuis, ce dernier jouait avec son petit-fils au jeu de go, entre autres, dès qu'il rentrait du travail.
 *page90|
-　Toute la famille était sur les charbons ardents, dans la crainte que Kumekuni finisse par choisir Tobimaru comme successeur.
+　Toute la famille était sur les charbons ardents, dans la crainte que Kimikuni finisse par choisir Tobimaru comme successeur.
 　Ainsi, pour les enfants du grand-père, Tobimaru était passé du stade d'être sans valeur à celui de gêne grandissante.
 *page91|
-　La menace qu'il représentait engendrait à présent peur et aversion, même chez le fils aîné et père de Tobimaru, Tsukiji Hitoyoshi, qui était censé succéder à Kumekuni.
+　La menace qu'il représentait engendrait à présent peur et aversion, même chez le fils aîné et père de Tobimaru, Tsukiji Hitoyoshi, qui était censé succéder à Kimikuni.
 *page92|
 　C'est ainsi que Tobimaru en vint à être ignoré par son propre père, Hitoyoshi.
 　Actuellement, ils ne vivaient pas ensemble.
-　Devant Kumenuki, Hitoyoshi conservait de bonnes relations avec son fils, mais cela ne durerait que jusqu'au décès du chef de famille, ou jusqu'à ce que celui-ci recommande Tobimaru à la succession.
+　Devant Kimikuni, Hitoyoshi conservait de bonnes relations avec son fils, mais cela ne durerait que jusqu'au décès du chef de famille, ou jusqu'à ce que celui-ci recommande Tobimaru à la succession.
 　Après cela, ce serait la guerre.
 　En tout cas, ce serait tout sauf une histoire plaisante.
 *page93|
@@ -384,7 +384,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 *page94|
 　En apparence, leur relation était cordiale,
 　mais dans l'ombre se déroulait une guerre haineuse de succession.
-　Les choses ne différaient guère de ce qu'elles étaient avant sa rencontre avec Kumenuki.
+　Les choses ne différaient guère de ce qu'elles étaient avant sa rencontre avec Kimikuni.
 *page95|
 　Son plus grand protecteur, en l'occurrence son père, était simplement devenu son plus grand ennemi.
 　Pour Tobimaru qui n'entretenait pas de bonnes relations avec sa famille, un ennemi de plus ou de moins ne changeait plus grand-chose à l'affaire.
@@ -398,7 +398,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 *page98|
 　De base, Tobimaru était un pacifiste.
 　Il avait pour philosophie d'éviter les problèmes.
-　Ainsi, il ne comptait ni prendre sa revanche sur eux, ni répondre aux attentes de Kumekuni.
+　Ainsi, il ne comptait ni prendre sa revanche sur eux, ni répondre aux attentes de Kimikuni.
 　Les inquiétudes de son père ne reposaient que sur des illusions, ses proches s'excitaient sans aucun fondement, et Tobimaru avait fermement l'intention de rester un simple fils prodige.
 *page99|
 　Toutefois, ses frères qui avaient à peu près son âge lui vouaient une haine différente des adultes.
