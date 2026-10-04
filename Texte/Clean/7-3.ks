@@ -92,7 +92,7 @@ Tu conviens vraiment aux préférences d'Alice.
 　Dis. Ça fait un moment que ça me préoccupe, mais qu'est-ce que tu as dit à Alice dans la chambre d'ami ? Même si elle me l'a promis, c'est impossible qu'elle tolère un étranger toute une demi-journée.」
 　À ce moment-là―――
 *page22|
-　Il se rappela des deux-trois mots qu'il avait échangés avec Alice après s'être réveillé dans la chambre d'ami.
+　Il se rappela les deux-trois mots qu'il avait échangés avec Alice après s'être réveillé dans la chambre d'ami.
 　Il ne voyait pas ce que cette conversation pouvait avoir de spécial, mais ce n'était pas pour autant qu'il pouvait en parler à la légère.
 　C'était, eh bien―――
 *page23|

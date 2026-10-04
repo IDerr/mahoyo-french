@@ -75,7 +75,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 *page17|
 「Aozaki, tu vas faire quoi pendant les vacances ? Tu as prévu quelque chose ?」
 「Hmm. Je voudrais bien sortir m'amuser au moins une fois, mais je suis un peu occupée en ce moment. Je tâcherai de me trouver du temps libre au début de l'année prochaine, alors patiente jusque-là.
-　Tiens, qu'est-ce que tu dirais d'inviter Yamase et les autres de la classe B ? Si je me souviens bien, aux vacances de Noël de l'année dernière, elles étaient montées à Tokyo, non ?」
+　Tiens, que dirais-tu d'inviter Yamase et les autres de la classe B ? Si je me souviens bien, aux vacances de Noël de l'année dernière, elles étaient montées à Tokyo, non ?」
 *page18|
 「Aaah, son milieu social est différent du nôtre. Après tout, c'est une authentique jeune fille de bonne famille. Si elle apprenait quels sont tes goûts, elle te regarderait de haut, alors tu ferais mieux d'éviter.」
 *page19|
@@ -134,7 +134,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 　On dirait qu'on ne peut pas faire de base-ball dans un endroit pareil ! Allons plutôt en ville !」
 *page33|
 　Base-ball à 5, 4e match.
-　Une heure s'était écoulée depuis l'élaboration de quelques règles un peu spéciales. Il avait été décidé que les batteurs étaient éliminés si la balle qu'il renvoyait était attrapée dans le terrain, et on offrirait les conserves de haricots rouges restantes au premier qui réaliserait un home run. Les badauds s'étaient rassemblés et un mini-championnat avait débuté.
+　Une heure s'était écoulée depuis l'élaboration de quelques règles un peu spéciales. Il avait été décidé que les batteurs étaient éliminés si la balle qu'ils renvoyaient était attrapée dans le terrain, et on offrirait les conserves de haricots rouges restantes au premier qui réaliserait un home run. Les badauds s'étaient rassemblés et un mini-championnat avait débuté.
 　Kinomi Hōsuke, qui s'engourdissait à cause du retard que prenait leur match, commençait à s'ennuyer sérieusement.
 *page34|
 「Eh ben, tu es un sacré guignol. C'est pourtant toi qui as proposé de jouer au base-ball puisque personne ne voulait partir avant les autres.」
@@ -273,7 +273,7 @@ Ou plutôt qui se grattait la tête.[r]
 　Dans une bonne humeur étonnante, Kinomi accompagna Sōjūrō en direction de la gare en l'étreignant par l'épaule.
 *page68|
 「Attends un peu. Tout s'est enchaîné tellement vite que je n'ai pas eu le temps de te le dire, mais tu te trompes totalement.
-　Sōjūrō. En premier lieu, est-ce que tu sais ce que veut dire le mot draguer ?」
+　Sōjūrō. En premier lieu, est-ce que tu connais le sens du mot draguer ?」
 「??」
 *page69|
 【[ruby char="Draguer" text="Nanpa"]】
@@ -331,7 +331,7 @@ Ou plutôt qui se grattait la tête.[r]
 　Alice saisit la fraise du bout des doigts et la porta jusqu'à sa langue, comme pour l'embrasser.
 *page81|
 　Sōjūrō secoua la tête quand il réalisa qu'il fixait son air satisfait.
-　La conversation plus tôt dans la journée devait encore le tarauder, car il était devenu un peu trop sensible à la féminité que laissait entr'apercevoir ses colocataires.
+　La conversation plus tôt dans la journée devait encore le tarauder, car il était devenu un peu trop sensible à la féminité que laissaient entr'apercevoir ses colocataires.
 *page82|
 「Mais à t'écouter, on dirait que tu ne le fais pas vraiment sept fois par jour.」
 「Je n'ai le temps que pour trois fois tout au plus. Comme ma partenaire manque d'expérience, j'ai sans cesse des choses à faire.」
@@ -386,7 +386,7 @@ Ou plutôt qui se grattait la tête.[r]
 「Si vous voulez bien en parler, j'aimerais savoir, mais...... Non, après réflexion, il vaut mieux ne pas demander, mais malgré tout, j'ai envie de savoir―――」
 *page94|
 「Bon. Puisque tu y tiens, je vais t'en parler.
-　Survoler un peu le sujet ne nous attirera pas tes foudres j'espère, Alice ?」
+　Survoler un peu le sujet ne devrait pas nous attirer tes foudres, Alice ?」
 　Aoko croisa les jambes avec entrain.
 「...... Non.[r]
 　Si tu ne fais qu'aborder ce qui nous différencie, toi et moi, ça ne me gêne pas.」
@@ -579,7 +579,7 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 　Il n'y avait rien de gravé dans le marbre avec ce genre d'accord verbal.
 　Aucune des deux n'osait l'avouer, mais elles avaient clairement l'intention de sauter leur tour dès que l'occasion se présenterait.
 *page142|
-「Hors de question. Pour mener une vie honnête, il faut comprendre nos rôles. En inscrivant tout sur le tableau, on n'oubliera rien, vous comprenez ?」
+「Hors de question. Pour mener une vie honnête, il nous faut comprendre nos rôles. En inscrivant tout sur le tableau, on n'oubliera rien, vous comprenez ?」
 「Uuh―――」
 *page143|
 　Aoko grimaça face à son sourire rayonnant.

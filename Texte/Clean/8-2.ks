@@ -37,7 +37,7 @@
 　Seulement, la clôture sinistre, pesant sur l'esprit des visiteurs, repoussait toute présence humaine.
 *page9|
 　Sōjūrō l'ouvrit naturellement.
-　Il ne s'était écoulé que deux jours depuis la fin des examens semestriels ; néanmoins, il semblait déjà s'être habitué à rentrer seul par cette forêt.
+　Il ne s'était écoulé que deux jours à peine depuis la fin des examens semestriels ; néanmoins, il semblait déjà s'être habitué à rentrer seul par cette forêt.
 *page10|
 　Le chemin forestier menant des bois à la demeure zigzaguait tel un serpent.
 　En l'empruntant, il fallait environ quinze minutes pour atteindre les abords du manoir.
@@ -71,7 +71,7 @@
 　Elles ne réagirent pas non plus aux salutations de Sōjūrō.
 　Seule Alice lui lança un coup d'œil.
 *page18|
-「Alors, le Pivot de Toukawa ? Il est blanc, et puis, il devrait avoir du mal à s'en emparer, hein ?」
+「Alors, le Pivot de Toukawa ? Comme il est blanc, il devrait avoir du mal à s'en emparer, hein ?」
 「...... En effet. Pour le moment, Toukawa n'est pas endommagé, mais la situation n'est quand même guère reluisante, maintenant que le Pivot voisin de Suzuho a été détruit.[r]
 　Il devrait trouver bien plus rapidement la position des Pivots restants, à présent.」
 「Je vois. Maintenant qu'il en a trouvé un, les autres vont tomber les uns après les autres.
@@ -83,7 +83,7 @@
 *page20|
 「...... Mais je ne saisis pas.
 　Tout d'abord, il choisit pile le bon moment pour envoyer la marionnette cette nuit-là, et maintenant, il découvre en un rien de temps la cachette pourtant de premier ordre de l'un de nos Pivots... Ça veut forcément dire que ce type a établi son repaire en ville.
-　Mais alors, pourquoi la Barrière n'a repéré aucune anomalie ? Le filet de recherche ennemi des environs de Misaki n'a pas été brisé une seule fois depuis près de cent ans.」
+　Mais alors, pourquoi la Barrière n'a repéré aucune anomalie ? Ça fait pourtant près de cent ans que le filet de recherche ennemi des environs de Misaki n'a pas été pris en défaut.」
 　Alice acquiesça légèrement aux propos d'Aoko qui se mordait les ongles.
 　Elle partageait de toute évidence les mêmes inquiétudes qu'elle.
 *page21|
@@ -135,7 +135,7 @@ Mais même si c'était le cas, un tel individu ne pourrait pas cacher sa présen
 *page33|
 　Même après son départ, la conversation du duo s'était poursuivie.
 　Il allait de soi que le sujet de la discussion était le Mage ennemi qui sévissait à Misaki depuis le mois précédent,
-　et leur devoir premier, temporairement suspendu par l'affaire de Sōjūrō : les mesures à adopter face au pilleur venu dérober les terres administrées ; en d'autres termes, son élimination.
+　et leur devoir premier, temporairement suspendu par l'affaire Sōjūrō : les mesures à adopter face au pilleur venu dérober les terres administrées ; en d'autres termes, son élimination.
 *page34|
 「...... Jusqu'à maintenant, nous ne sommes tombées que sur des leurres, alors je l'avais sous-estimé, mais...... peut-être que ça faisait aussi partie de sa stratégie. [l]
 Il a profité de notre négligence pour s'emparer d'un de ses véritables objectifs.
@@ -144,7 +144,7 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 　La situation était grave.
 　Le Mage ennemi était passé des escarmouches sporadiques, auxquelles il avait eu recours jusqu'à deux jours auparavant, à une offensive des plus habiles.
 *page36|
-　Pour résumer, Aoko et Alice disposaient de deux Barrières de protection.
+　Pour résumer grossièrement, Aoko et Alice disposaient de deux Barrières de protection.
 　La première était une grande Barrière recouvrant tout le périmètre de Misaki, et qui mesurait l'activité du prana et de la Magie.
 　Indéfectible et déployée par les ancêtres Aozaki, propriétaires de ces terres administrées, elle avait pour fonction de repérer et observer les visiteurs venus de l'extérieur.
 *page37|

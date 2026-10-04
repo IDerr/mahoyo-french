@@ -34,7 +34,7 @@
 　De ce fait, même si des gens du centre-ville se rendaient dans le vieux quartier, son côté campagnard ne les étonnait pas. C'était vraiment une ville de province inachevée.
 *page9|
 　Dans ce quartier, le lycée Misaki était un établissement privé datant d'avant le développement économique.
-　Le bâtiment actuel était de la deuxième génération, et le premier construit cinquante ans auparavant se trouvait plus haut dans la montagne.
+　Le bâtiment actuel était de la deuxième génération, et celui de première génération, construit cinquante ans auparavant, se trouvait plus haut dans la montagne.
 *page10|
 　Il était éloigné, la pente y était raide,[r]
 　et avant d'arriver à destination, le chemin de l'école devenait un sentier d'animaux.[r]
@@ -134,13 +134,13 @@
 　et parallèlement à la modernisation de la ville, de vieilles rumeurs avaient été discrètement ressuscitées.
 *page34|
 　Par exemple, à la nuit tombée, alors que cette maison soi-disant abandonnée tombait en ruine depuis des années, une lumière s'y allumait.
-　Ou d'innombrables corbeaux se rassemblaient en haut de la colline et disparaissaient.
-　Ou bien, les jours où le brouillard était épais, des enfants se perdaient et disparaissaient mystérieusement.
+　Ou bien, d'innombrables corbeaux se rassemblaient en haut de la colline et disparaissaient.
+　Ou encore, les jours où le brouillard était épais, des enfants se perdaient et disparaissaient mystérieusement.
 *page35|
 　Ou encore, tard dans la nuit, des sons mystérieux, qui avaient tout l'air d'être des hurlements, parvenaient jusqu'aux quartiers résidentiels...... Pour Aoko, cette dernière rumeur était embarrassante et elle voulait y mettre un terme.
 　Il y avait aussi celle où, de temps en temps, une voiture incroyablement luxueuse remontait la pente.
 *page36|
-　Ce genre de potins se multipliaient chaque jour.
+　Ce genre de potins se multipliait chaque jour.
 　C'était dans cette atmosphère que la résidence, censée être délabrée, avait ressuscité quelques années auparavant.
 　Au milieu de la colline dont les gens ne s'approchaient jamais.
 　Des ruines dissimulées, même de jour, par la forêt sombre.

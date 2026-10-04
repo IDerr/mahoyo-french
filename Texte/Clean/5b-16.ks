@@ -152,7 +152,7 @@ Pour le moment, je te laisse la vie sauve.」
 「――――――」
 　Sōjūrō laissa échapper un gémissement en s'écroulant au sol.
 　Apparemment, après avoir reçu la malédiction du psaume quelques instants auparavant, cette dernière attaque avait été le coup de grâce.
-　Il avait l'air souffrant, le visage un peu trop déformé par la douleur pour que l'on puisse dire qu'il dormait, mais Aoko préféra quand même penser qu'il n'avait pas perdu connaissance et qu'il s'était tout simplement assoupi.
+　Il avait l'air souffrant, le visage un peu trop déformé par la douleur pour que l'on puisse dire qu'il dormait, mais Aoko préféra quand même penser qu'il n'avait pas perdu connaissance et qu'il s'était juste assoupi.
 *page35|
 「...... Bah, c'est pas grave. Ça s'est finalement terminé comme prévu.」
 　Aoko détendit ses épaules tout en regardant Sōjūrō KO. De nombreux problèmes s'étaient mis en travers de sa route, mais pour le moment, l'affaire était réglée.

@@ -1,5 +1,5 @@
 ﻿*page0|
-　On pouvait se demander sur quels critères de normalité elle se basait, mais son caractère était tout à fait normal. [l]Une personne naïve et gentille. Couleur de la personnalité : blanche. Genre : masculin. Impression générale : tête en l'air.
+　On pouvait se demander sur quels critères de normalité elle se basait, mais son caractère était tout à fait normal. [l]Une personne naïve et gentille. Couleur de la personnalité : blanche. Genre : masculin. Impression globale : tête en l'air.
 *page1|
 　Du point de vue de Sōjūrō, Aozaki Aoko était une personne débordant d'énergie et qui ne pouvait pas tenir en place.
 　Même lorsqu'elle bougeait inconsciemment, elle ne faisait aucun mouvement superflu. Elle se mouvait et s'immobilisait parfaitement.
@@ -63,7 +63,7 @@
 「C'est un secret, je te dis.」
 　Sōjūrō, ressentant une sorte d'aura meurtrière, recula vivement d'un pas.
 　Encore et encore.
-　Comme un aimant, il avait beau reculer, Aoko s'approchait inlassablement.
+　Comme un aimant, il avait beau reculer, Aoko s'approchait inexorablement.
 　Tout en souriant, la tempe tremblotante.
 *page15|
 「Je te le demande une dernière fois, d'accord ?

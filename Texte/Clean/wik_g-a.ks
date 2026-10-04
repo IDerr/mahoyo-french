@@ -1,6 +1,6 @@
 ﻿*page0|
 「Hein ? Il n'y a pas lieu de se poser la question, pourtant.
-　On lui a attaché de la dynamite sur les mains, les jambes et la tête, non ?」
+　On lui a juste attaché de la dynamite sur les mains, les jambes et la tête, non ?」
 「Oui, c'est une conclusion logique et tout à fait naturelle.
 　Après tout, le cadavre n'avait ni mains, ni jambes, ni tête.」
 「..................」
@@ -103,7 +103,7 @@
 *page24|
 「Sérieux, c'est flippant de dire ce genre de truc !
 　Alice, tu es drôlement douée pour les blagues, hahahahaha !」
-「Ho... HōsukeeeーーーーHein ?!」
+「Hō... HōsukeeeーーーーHein ?!」
 *page25|
 「...... On dirait que c'est sérieux.」
 「Grâce à Kinomi, je comprends mieux les règles.
@@ -180,7 +180,7 @@ qui va [wait canskip=0 time=400][se storage=se07020 volume=100 loop=0][se storag
 *page43|
 「Je ne peux pas ! Hōsuke est mort, tu te rends compte ?!」
 「Kumari. Il est encore trop tôt pour pleurer la mort de Kinomi.[r]
-　Tokkii et lui sont considérés comme des joueurs éliminés et ont simplement été retirés de la partie. Dans la réalité, il sont seulement “portés disparus”.
+　Tokkii et lui sont considérés comme des joueurs éliminés et ont simplement été retirés de la partie. Dans la réalité, ils sont seulement “portés disparus”.
 　Si quelqu'un termine la partie, tout ce qui s'est passé pendant la partie sera annulé et ils reviendront parmi nous.」
 *page44|
 「... Ils ne sont pas morts ? Si on termine le jeu, ils reviendront parmi nous...?」

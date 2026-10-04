@@ -63,7 +63,7 @@ Aucune raison ne l'obligeait à rester ici, mais rien ne le poussait à retourne
 　Il s'était déjà souvent posé la question.
 　Il avait beau se le répéter, ses sentiments ne faisaient que s'assombrir de plus en plus au lieu de s'éclaircir.
 　À moins que,
-　à force de se lamenter sur son immaturité, il avait fini par se raccrocher au fait qu'il trouverait un jour un peu d'espoir.......?
+　à force de se lamenter sur son immaturité, il ait fini par se raccrocher au fait qu'il trouverait un jour un peu d'espoir.......?
 *page15|
 「―――――Aaah.」
 　Dégoûté par sa propre faiblesse, Sōjūrō ferma son cahier.

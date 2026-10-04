@@ -85,7 +85,7 @@
 　En revanche, les émotions d'Alice étaient illisibles.
 　Elle ne montrait même pas si elle était en colère ou triste.
 *page18|
-「Dans quel but... agis-tu ainsi―――?」
+「Pourquoi... agis-tu ainsi―――?」
 　Une question presque inaudible.
 　Sōjūrō ne pouvait même pas dire si elle était hostile ou méfiante.
 　Dans le premier cas, cette fameuse nuit risquait de se reproduire, avec cette fois Alice pour adversaire.
@@ -106,7 +106,7 @@
 　Les yeux sans fond d'Alice exprimaient le rejet d'autrui comme à leur habitude.
 　Mais Sōjūrō ne ressentait apparemment pas du tout cette pression.
 *page23|
-「Alors, quoi......?」
+「Eh bien, alors......?」
 「Eh bien, ça a pris du temps, mais je voulais parler seul à seul avec toi.」
 　Sōjūrō avait dit ne pas pouvoir s'expliquer brièvement, et pourtant, il était allé à l'essentiel.
 *page24|
@@ -120,7 +120,7 @@
 *page26|
 　Il parla d'une voix empreinte d'une forte émotion.
 　Alice ne saisissait pas le moins du monde les arrière-pensées du garçon,
-　mais elle pouvait clairement percevoir qu'il souhaitait quelque chose d'elle.
+　mais elle pouvait clairement percevoir qu'il souhaitait quelque chose de sa part.
 　...... Seulement,
 　elle était étonnée de constater que ce n'était pas la conséquence d'une quelconque peur.
 *page27|
@@ -156,7 +156,7 @@
 「...... Il s'agit bien d'un Ploy, mais ce n'est rien d'autre qu'un poids mort qui n'a rien à voir avec moi. Simplement, il existe depuis très longtemps, et moi non plus, je ne sais trop rien sur lui.」
 「? Alors, il habite dans cette maison sans permission ?」
 *page34|
-「Ce serait impossible qu'il vive ici sans mon autorisation, tu ne crois pas ?
+「Ce serait impossible pour lui de vivre ici sans mon autorisation, tu ne crois pas ?
 　...... Robin est absolument inutile, mais malgré ça, il me vient de ma mère. Il n'arrive peut-être jamais à rien, mais je le laisse vivre ici à titre exceptionnel.」
 *page35|
 「Je vois, ça me rassure. Autrement dit, on n'est pas obligé de servir à quelque chose pour vivre ici.」
@@ -237,7 +237,7 @@ Pourquoi n'avais-tu pas l'intention de me réveiller et pourquoi ne t'attendais-
 *page50|
 「Pourquoi ? Je ne sais pas trop quoi répondre.
 　...... Eh bien, j'ai dû penser que si aucune occasion ne se présentait, alors tant pis.
-　Ton visage endormi m'a paru franchement... comment dire... troublant. J'ai pensé qu'il ne me serait pas simple de trouver une manière de devenir proche avec toi, comme avec Aozaki, mais pour une raison différente.」
+　Ton visage endormi m'a paru franchement... comment dire... troublant. J'ai pensé qu'il ne me serait pas simple de trouver une manière de devenir proche de toi, comme avec Aozaki, mais pour une raison différente.」
 *page51|
 　Incapable de l'exprimer clairement, Sōjūrō exposa les émotions qui lui étaient venues à ce moment-là,
 　sur la belle au bois dormant qui ne désirait personne alors qu'elle avait besoin de quelqu'un.

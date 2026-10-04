@@ -224,7 +224,7 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 *page47|
 　Ses vœux pour la nouvelle année.
 　Il avait déclaré la chose de façon si naturelle qu'elle l'avait momentanément pris pour un ami de longue date.
-　Il n'y avait probablement pas de mal qu'elle se sente heureuse à cette idée.
+　Il n'y avait probablement pas de mal à ce qu'elle se sente heureuse à cette idée.
 *page48|
 　Le jour où elle devrait dire adieu à ce jeune homme viendrait certainement.
 　Mais d'ici ce jour fatidique, elle ne voyait aucun problème à continuer de le voir régulièrement, comme un vieil ami.

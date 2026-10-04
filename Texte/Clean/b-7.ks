@@ -17,7 +17,7 @@
 *page4|
 「Et alors ? Ce n'est pas grave, quand même ? En cherchant bien, il doit y avoir des visages que tu connais, non ?」
 　Malgré tout, Aoko le rembarra de nouveau, encore plus froidement.
-　Le fait qu'il ait vomi en la voyant, d'après les dire d'Alice, semblait la rendre cruelle dans bien des sens.
+　Le fait qu'il ait vomi en la voyant, d'après les dires d'Alice, semblait la rendre cruelle dans bien des sens.
 *page5|
 　Cependant,
 「Non, je voulais en profiter pour te demander quelques petites choses. [l]
@@ -332,7 +332,7 @@ Tes blessures par exemple, maintenant, je peux supporter de les voir, mais hier,
 　Voilà pourquoi je suis en vie. Et Tōko attend que j'arrive afin qu'on puisse en finir une bonne fois pour toutes. Autrement, elle n'aurait aucune raison d'attendre jusqu'à maintenant, non ?
 　...... Pour reprendre tes mots, même si ça ne m'enchante guère.」
 *page77|
-　Le profil d'Aoko, qui parlait d'un air vexé, avait quelque chose d'effrayant.
+　Le visage de profil d'Aoko, qui parlait d'un air vexé, avait quelque chose d'effrayant.
 　Du point de vue de Sōjūrō, Aoko, qui acceptait le combat à mort, et Tōko, qui avait fait en sorte que cela arrive, semblaient appartenir à un monde lointain.
 *page78|
 「...... Tu veux dire que Tōko t'a laissée vivre pour te tuer ?

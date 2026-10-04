@@ -148,7 +148,7 @@
 　Il ne saignait pas. Qu'il s'en soit sorti avec un simple “aïe” était entièrement dû à la chance.
 *page35|
 　Mais son corps, têtu, refusait de bouger.
-　Il avait encore de la marge, autant physiquement que mentalement parlant.
+　Il avait encore de la marge, aussi bien physiquement que mentalement parlant.
 　La douleur n'était même pas assez forte pour l'empêcher de se lever.
 *page36|
 　C'était juste qu'en regardant le plafond après être tombé, il vit l'obscur ciel nocturne à travers une fenêtre.
@@ -184,7 +184,7 @@
 *page43|
 「...... Je vois. Ce serait effectivement logique.」
 　“Oui”, affirma-t-elle.
-　Son visage semblait exprimer un souhait un peu triste et de la résignation.
+　Son visage semblait exprimer à la fois un souhait un peu triste et de la résignation.
 　Après avoir réfléchi un instant,
 「Mais tu n'as pas besoin de le dire. [l]
 Je ne veux pas entendre ce genre de chose.」
@@ -198,7 +198,7 @@ Je ne veux pas entendre ce genre de chose.」
 「Évidemment que j'ai peur. Après tout, ça a l'air de faire mal.」
 　Devant la vive protestation de Sōjūrō, le visage d'Aoko s'assombrit, morose. [l]Même s'il était nonchalant, c'était un garçon honnête avec ses sentiments.
 *page46|
-「C'est normal que ça fasse peur. Même moi, je pense que c'est effrayant.
+「C'est normal que ça fasse peur. Même moi, je pense que c'est plutôt effrayant.
 　Mais désolée, tu vas devoir faire avec.
 　Tu peux me traiter de monstre si tu veux. Parce que j'en suis vraiment un en ce moment. [l]...... [chgfg storage=青子私服aブーツ01a(近)|s opacity=160 type=19 blur=3 id=1][chgfg textoff=0 storage=青子私服aブーツ01a(近)|s time=400 id=2 preback=0]
 De ce point de vue, je suis pareille que toi. Ma morale n'est pas normale. C'est pour ça que je peux tuer si nécessaire.」

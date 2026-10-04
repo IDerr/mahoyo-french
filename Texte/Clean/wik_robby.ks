@@ -20,7 +20,7 @@
 「Ha ha ha. Personnellement, t'entendre faire ce genre de blague me fait bien plus peur.」
 *page5|
 　Yamashiro n'avait visiblement pas pris l'avertissement d'Aozaki très au sérieux.
-　Cependant, même si je ne la connaissais que depuis trois ans, je ne me rappelais pas de l'avoir déjà vue plaisanter avec cet air.
+　Cependant, même si je ne la connaissais que depuis trois ans, je ne me rappelais pas l'avoir déjà vue plaisanter avec cet air.
 *page6|
 「Aozaki. Cette histoire, c'est vrai ?」
 「Eh bien, si on met de côté les fantômes, il arrive que des choses étranges se produisent. [wait canskip=0 time=400][chgfg storage=青子私服a02a(全)|h zoom=82 time=400 textoff=0]Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y aura pas de conséquence.」

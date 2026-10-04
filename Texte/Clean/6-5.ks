@@ -141,11 +141,11 @@
 　En levant les yeux, il pouvait distinguer leurs deux silhouettes.
 　Les deux filles, irréelles et immenses comme de gigantesques nuages, tournaient vers lui des yeux froids.
 *page33|
-　Il se rappela de la structure de la pièce, la position des meubles présents, et accepta finalement les faits avec une étonnante crédulité.
+　Il se rappela la structure de la pièce, la position des meubles présents, et accepta finalement les faits avec une étonnante crédulité.
 　Il était sur le point de ne plus savoir quoi faire devant cette situation plus incroyable encore que la parade du parc d'attractions.
 　Il se trouvait de toute évidence à l'intérieur de la fiole que Kuonji Alice avait sortie.
 *page34|
-「Tu aurais pu prévenir avant de faire ça.」
+「Tu aurais pu prévenir.」
 　Blasée par le mauvais caractère d'Alice, Aoko jeta un coup d'œil au petit récipient posé sur la table.
 「Il est dans la même situation qu'il y a deux nuits.[r]
 　Sauf que cette fois, il est réveillé.」

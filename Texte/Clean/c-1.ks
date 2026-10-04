@@ -121,7 +121,7 @@ Et puis, mon objectif se trouve au fin fond de la veine spirituelle et non pas d
 *page29|
 「Une Magicienne, hein ? C'est vrai que ça m'intéresse toujours.
 　Le Sceau Magique qui ne m'a pas été greffé et la nature de la Vraie Magie transmise dans la famille Aozaki... [l]
-Tout ceci ne m'importe plus. Je les désire, mais si j'atteins la Source, je pourrai obtenir les deux moi-même.
+Tout ceci ne m'importe plus vraiment. Je les désire, mais si j'atteins la Source, je pourrai obtenir les deux moi-même.
 　À moins que... tu ne veuilles bien dévoiler pour moi, ici et maintenant, la nature de cette Vraie Magie, Aoko.」
 *page30|
 　Malgré la nature sérieuse de sa demande, Tōko lançait un regard moqueur à Aoko.[r]
@@ -133,7 +133,7 @@ Tout ceci ne m'importe plus. Je les désire, mais si j'atteins la Source, je pou
 　Tōko en avait d'abord conclu que son usage requérait certaines conditions,
 　que la protection de son grand-père empêchait la manifestation aisée d'un miracle.
 　Cependant―――cet homme n'était pas assez vertueux pour se soucier du monde des humains.
-　Il ne serait pas exagéré d'affirmer que même si cette ville disparaissait à cause de l'activation de la Vraie Magie, cela ne lui ferait ni chaud ni froid.
+　On pouvait même affirmer que si cette ville disparaissait à cause de l'activation de la Vraie Magie, cela ne lui ferait ni chaud ni froid.
 *page32|
 　Son utilisation n'avait jamais demandé aucune condition.
 　Ce qui bloquait Aoko n'était rien d'autre qu'un traumatisme.
@@ -209,13 +209,13 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 　Cependant, elle n'avait pas bougé d'un centimètre.
 　Un cercle bleu commençait à tourner à l'endroit où elle avait disparu.
 *page46|
-　C'était un [ruby char="sort de haut niveau à quatre versets" text="Force To Force"] qui nécessitait l'activation du Sceau Magique.
+　C'était un [ruby char="sort de haut niveau à quatre versets" text="Force To Fourth"] qui nécessitait l'activation du Sceau Magique.
 　Pour Tōko qui ne disposait que de Runes à action unique―――
 　et qui ne pouvait même pas acquérir de Magie qui dépassait deux versets, rivaliser avec ce torrent de prana était chose impossible―――!
 *page47|
 「―――[ruby text="Ehwaz" char=1][eywz] !」
 　Elle traça la Rune sur le cercle.
-　Ehwaz dissipa le sort d'invisibilité qui avait dissimulé Aoko, puis Tōko ferma les yeux.
+　Eihwaz dissipa le sort d'invisibilité qui avait dissimulé Aoko, puis Tōko ferma les yeux.
 　Lorsqu'elle les rouvrirait, ses pupilles plongeraient sa cible dans l'enfer infini de son globe oculaire grâce au pouvoir de l'Œil Mystique agencé en miroirs opposés―――!
 *page48|
 「S......?!」

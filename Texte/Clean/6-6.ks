@@ -27,7 +27,7 @@
 　Si on doit te laisser vivre ici pour préserver notre secret, nous n'avons aucun moyen d'éviter les dérapages.
 　Car à partir du moment où tu vis sous le même toit que nous, tu en verras plus qu'il n'en faut. D'ailleurs, ça ne plaît probablement pas à Alice.」
 *page7|
-　Maintenant qu'elle le faisait remarquer, c'était effectivement un problème.
+　Maintenant qu'elle le faisait remarquer, c'était effectivement un problème important.
 　Dans le cas où la cible de la surveillance était assignée à résidence, elles ne pouvaient éviter d'en révéler encore plus sur leur situation personnelle.
 *page8|
 「Attends un peu. On n'en revient pas au même point, là ?」
@@ -206,12 +206,12 @@ Mais je pense que faire du feu sans outil relève du divin.」
 　Peu importe que ta mémoire soit effacée au bout du compte, certaines choses que tu pourrais voir ne nous laisseraient pas d'autre choix que de te tuer.」
 *page51|
 「...... Je vois. J'ai bien compris qu'il y avait aussi des règles à l'intérieur. Et donc, les autres choses auxquelles je dois faire attention―――」
-　Sōjūrō laissa flotter son regard, se demandant ce qu'il pouvait y avoir d'autre.
+　Sōjūrō laissa flotter son regard, se demandant ce qu'il pouvait bien y avoir d'autre.
 　La demeure est dangereuse et la Magie doit rester cachée.
 　Ces explications étaient en contradiction avec la raison pour laquelle tout ceci était arrivé. [l]D'abord, pourquoi Sōjūrō avait vu quelque chose qu'il fallait à ce point garder secret ?
 *page52|
 「Désolé, je peux t'interrompre ?
-　Les Mages sont liés à l'organisation que vous appelez l'Association, pas vrai ? Dans ce cas, pourquoi tu as été attaquée par cette marionnette ?
+　Les Mages sont liés à l'organisation que vous appelez l'Association, hein ? Dans ce cas, pourquoi as-tu été attaquée par cette marionnette ?
 　Si son propriétaire est un Mage, alors vous combattez entre alliés. Tu n'as pas oublié quelque chose dans ton explication ?」
 *page53|
 「...... Je pensais aborder ce point en dernier.

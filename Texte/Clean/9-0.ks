@@ -76,7 +76,7 @@ De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus �
 　...... Aussi, cette histoire lui parviendrait plus tard, mais un certain vice-président se plaindrait qu'à la fin de chaque mois, il était fréquemment amené à payer les repas d'une certaine présidente.
 　Mettons ça de côté pour le moment.
 *page19|
-「Au lieu de nous focaliser sur le passé, concentrons-nous sur le présent !
+「Au lieu de nous focaliser sur le passé, concentrons-nous plutôt sur le présent !
 　Où est passé le talent dont tu nous as fait la démonstration l'autre jour, Sōjūrō ?! Si je t'ai chargé du souper, c'était dans l'espoir de revoir ça !」
 　...... En fin de compte, c'était ce qui la dépitait le plus.
 　Son yaki udon avait eu un si grand succès que la mauvaise humeur d'Aoko, à peine réveillée, s'était liquéfiée au bout d'une seule bouchée.

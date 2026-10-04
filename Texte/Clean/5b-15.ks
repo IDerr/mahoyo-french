@@ -59,7 +59,7 @@
 　Au sol se trouvait Aozaki Aoko, au centre d'une lumière bleue en pleine rotation.
 *page13|
 　...... Et aussi,
-　la silhouette, que seul Sōjūrō pouvait repérer grâce sa position surélevée, s'approchait d'Aoko qui défiait la lune.
+　la silhouette, que seul Sōjūrō pouvait repérer grâce à sa position surélevée, s'approchait d'Aoko qui défiait la lune.
 *page14|
 　La partie inférieure de son corps avait disparu.
 　Elle se traînait en direction d'Aoko à la seule force de ses bras.
@@ -142,7 +142,7 @@
 　Était-ce l'effet du soi-disant charme d'Aoko......? Sōjūrō n'arrivait pas à le déterminer.
 *page31|
 　La sensation de ses doigts restait encore sur sa peau.
-　Au fond de son cœur, il se rappelait parfaitement de la confiance et des attentes qu'elle avait placées en lui.
+　Au fond de son cœur, il se rappelait parfaitement la confiance et les attentes qu'elle avait placées en lui.
 　...... Mais l'ardeur qui l'animait était différente.
 　Cette exaltation venait d'un problème plus profond.
 　Un vide à combler qu'il ne comprenait pas pour le moment, et auquel il devrait faire face un jour ou l'autre.

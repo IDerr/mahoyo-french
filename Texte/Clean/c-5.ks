@@ -127,7 +127,7 @@
 *page29|
 「C'est... absurde...」
 　Témoin de la transformation du garçon, Sōjūrō laissa échapper un murmure.
-　Le simple fait qu'il se soit transformé en bête relevait déjà du cauchemar.
+　Le simple fait qu'il se soit changé en bête relevait déjà du cauchemar.
 　Mais pour en rajouter, l'enfant avait pris une taille de deux mètres alors qu'il était initialement plus petit que lui. Il devait ne plus rien y comprendre. Sa raison l'avait peut-être même déjà quitté.
 *page30|
 「...... Ça pour une surprise.」

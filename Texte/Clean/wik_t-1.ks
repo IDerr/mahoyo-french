@@ -24,7 +24,7 @@
 「Ben, c'était une erreur de calcul. J'aime ce genre de barouf. Je veux mener une vie amusante, tu vois ?」
 「Pardon ? Quelle déception.」
 *page6|
-　Tout en disant cela sérieusement, je me rappelai du premier indice qui m'avait fait réaliser que je l'aimais.
+　Tout en disant cela sérieusement, je me rappelai le premier indice qui m'avait fait réaliser que je l'aimais.
 　Tsukiji était vraiment une personne incroyable.
 　Pourtant, il gâchait ses compétences.
 　Pour je ne savais quelle raison, il n'avait pas envie de prestige ou de s'améliorer.
@@ -34,7 +34,7 @@
 *page8|
 「... C'est un peu tard pour demander ça,
 　mais tu es plutôt acerbe en général. Alors, pourquoi est-ce que tu parles normalement avec moi ?」
-「Hm ? [wait canskip=0 time=800][chgfg storage=鳶丸私服b01(全)|a2 zoom=80 time=300]C'est parce que j'éprouve du respect pour quelqu'un comme toi qui a dû te battre tout seul pendant six ans sans jamais compter sur ses parents ou sur les profs.」
+「Hm ? [wait canskip=0 time=800][chgfg storage=鳶丸私服b01(全)|a2 zoom=80 time=300]C'est parce que j'éprouve du respect pour quelqu'un comme toi qui as dû te battre tout seul pendant six ans sans jamais compter sur ses parents ou sur les profs.」
 *page9|
 「――――――」
 「À plus. On se verra dans le vestibule demain matin.」
@@ -78,7 +78,7 @@
 「Ah oui―――Et les autres ?」
 　Je fouillai dans mon sac de voyage et regardai s'il n'y avait pas quelque chose qui pourrait servir au cas où.
 　Les outils que j'avais apportés pour faire de la cuisine chinoise pouvaient m'être utiles.
-　J'hésitai entre ma wok préférée et mes couteaux de cuisine chinois, mais je jetai finalement mon dévolu sur la casserole.
+　J'hésitai entre mon wok préféré et mes couteaux de cuisine chinois, mais je jetai finalement mon dévolu sur la casserole.
 *page19|
 　Je sortis dans le couloir.
 　L'air y était plus froid que dans la chambre.

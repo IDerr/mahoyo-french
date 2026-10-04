@@ -90,10 +90,10 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 *page21|
 『...... Il n'y a qu'à construire la cage.
 　Ce n'est pas un procédé habituel pour la chasse. Pour empêcher le gibier de s'enfuir, il faut...』
-　Elle plaça un marque-page, et se leva pour le rapporter dans sa chambre.
+　Elle plaça un marque-page et se leva pour rapporter le livre dans sa chambre.
 *page22|
 　Soudain, elle sentit un regard.
-　Ses yeux froids se reflétaient sur la fenêtre qui laissait voir la nuit dehors.
+　Ses yeux froids se reflétaient sur la fenêtre qui laissait voir la nuit au-dehors.
 　Elle accepta avec sang-froid le fait que c'était l'expression qu'elle avait présentement.
 *page23|
 　―――Elle commença à échafauder le plan pour supprimer le témoin.
@@ -170,7 +170,7 @@ Vraiment, quand on n'a rien à perdre, ça vaut le coup de demander conseil.」
 　Arrivé dans le salon à l'insu de tous,
 　un oiseau ressemblant à...... un rouge-gorge, se pavanait sur le mobilier en gazouillant.
 *page41|
-「...... Tu as raison. Comme elle a dit qu'elle se débrouillerait seule, la laisser agir serait lui faire preuve de confiance, mais―――」
+「...... Tu as raison. Comme elle a dit qu'elle se débrouillerait seule, la laisser agir serait lui faire confiance, mais―――」
 　Le bras de la fille en noir se leva.
 *page42|
 　L'oiseau chanteur descendit sur le bout des doigts qu'elle lui présentait, comme pour le laisser les embrasser.

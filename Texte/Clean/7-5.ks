@@ -1,5 +1,5 @@
 ﻿*page0|
-　Après la fin du deuxième jour d'examen, Sōjūrō rentra tout seul au manoir.
+　Après la fin du deuxième jour d'examen, Sōjūrō rentra seul au manoir.
 　En montant, la pente s'inclinait de plus en plus et la forêt se densifiait.
 　Le trajet durait plus de vingt minutes, alors pour les habitants du coin, la colline du manoir Kuonji n'était rien d'autre qu'une montagne.
 *page1|
@@ -103,7 +103,7 @@
 　Son sommeil n'avait pas changé, il était toujours aussi paisible.
 「..................」
 　Sōjūrō, muet, fronça ses sourcils d'un air sérieux.
-　Il se demanda si la laisser dormir ainsi était la bonne chose à faire. Ne connaissant pas les habitudes d'Alice, cela le tracassait.
+　Ne connaissant pas les habitudes d'Alice, il se demandait s'il pouvait la laisser dormir ainsi.
 *page22|
 「...... Non. Aozaki devrait bientôt rentrer. Et puis, ce ne sont peut-être pas mes affaires.」
 　Après mûre réflexion, Sōjūrō fit son choix et quitta la résidence.

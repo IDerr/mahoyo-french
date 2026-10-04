@@ -24,7 +24,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 　Je vois, se dit Sōjūrō en ruminant l'histoire qu'il avait écoutée le jour même.
 　Ayant entendu cette théorie de la fenêtre brisée, il ne pouvait négliger le maintien de la morale dans le manoir.
 *page6|
-　...... Ses colocataires étaient déjà suffisamment féroces, mais par-dessus tout, une intensification de la violence ne lui apporterait rien de bien. Autrement, de mauvaises rumeurs pourraient se propager à l'école.
+　...... Ses colocataires étaient déjà suffisamment féroces, mais par-dessus tout, une intensification de la violence ne lui apporterait rien de bien. Si ça arrivait, de mauvaises rumeurs pourraient se propager à l'école.
 　Pour protéger l'honneur de la présidente du conseil étudiant,
 　ainsi que pour se protéger lui-même contre de réels préjudices, Sōjūrō se dirigea vers la véranda afin de nettoyer la pièce, mais―――
 *page7|
@@ -116,7 +116,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 　Cela n'avait rien à voir avec un problème lié au travail,
 　mais récemment, l'oiseau bleu lui rentrait dedans assez souvent.
 *page29|
-「Heurté par un oiseau ? C'est ça qui te perturbe à ce point ? C'est vraiment un problème de rien du tout.
+「Heurté par un oiseau ? Vraiment, c'est rien du tout.
 　...... Mais bon, un oiseau bleu, c'est vrai que c'est rare.」
 「Non, ce n'est pas son apparence qui le rend rare......」
 　Il hésita, incapable de bien l'expliquer.
@@ -149,7 +149,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 　Il y apparaît fréquemment une grande quantité d'étourneaux. Et pourtant, on n'en voit aucun en ville.」
 *page37|
 「Évidemment. En ville, on ne voit pas d'oiseaux, et cet endroit est une montagne, alors il doit y avoir plus d'animaux, non ?
-　Par contre, tu as vraiment déménagé sur cette montagne ? C'est vrai que j'ai entendu dire que tu avais quitté ton appartement...... Mais ça doit être dur de se rendre à l'école. Pourquoi loger dans un endroit aussi éloigné ?」
+　Par contre, tu as vraiment déménagé sur cette montagne ? C'est vrai que j'ai entendu dire que tu avais quitté ton appartement...... Mais ça doit être dur de se rendre à l'école. Pourquoi loger dans un endroit aussi loin de tout ?」
 *page38|
 「C'était un peu dans le cours des choses. Et puis, ce qui est dur, ce n'est pas de se rendre à l'école. C'est la vie sur place.」
 「?」
@@ -181,7 +181,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 *page45|
 「Cela dit, leur mode de vie est incompatible avec les villes modernes. Il ne faut pas oublier que la première chose que font les humains, c'est remodeler l'environnement à leur convenance.
 　Lorsqu'ils détournent le cours d'eau d'une petite rivière pour réduire la quantité de moustiques ou recouvrent toute la ville de béton, les oiseaux ne peuvent que subir.
-　Le nombre d'insectes et les surfaces boisées diminuant en conséquence, ils se voient contraints de se réfugier sur les hauteurs. Chassés de leur lieu de naissance, ils ont migré de la forêt vers la montagne.
+　Le nombre d'insectes et les surfaces boisées ayant ainsi diminué, ils se voient contraints de se réfugier sur les hauteurs. Chassés de leur lieu de naissance, ils ont migré de la forêt vers la montagne.
 　La ville façonnée par les humains ne peut devenir une terre d'accueil pour les oiseaux.」
 *page46|
 「...... Ça suffit pour réduire autant leur nombre ?
@@ -254,9 +254,9 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 　Tu l'as appris à l'école, n'est-ce pas ? Lors de la ruée vers l'or, après la guerre de Sécession, les États-Unis d'Amérique se développèrent de façon fulgurante.
 　L'immigration depuis l'Europe de l'Ouest ne cessait de s'intensifier, et en 1870, la population des États-Unis avait dépassé les quarante millions d'habitants. Le pigeon migrateur était la proie parfaite pour remplir l'estomac et le portefeuille de ces immigrés.」
 *page62|
-「Et le plus horible dans tout ça, c'est toute l'ingéniosité dont les humains firent preuve.
-　Ils utilisèrent tous les moyens possibles et imaginables pour faire la course à la chasse des pigeons migrateurs, toujours plus vite, en plus grand nombre et plus efficacement.
-　Ils utilisaient comme leurre des pigeons dont ils avaient crevé les yeux, afin d'attirer de grands groupes d'oiseaux. Grâce à ce procédé, certains chasseurs abattaient plus de dix mille oiseaux en un jour. Mais malgré l'évidence, ils ne songèrent même pas à remettre en doute la chasse à outrance.
+「Et le plus horrible dans tout ça, c'est toute l'ingéniosité dont les humains firent preuve.
+　Ils employèrent tous les moyens possibles et imaginables pour faire la course à la chasse des pigeons migrateurs, toujours plus vite, en plus grand nombre et plus efficacement.
+　Ils utilisaient comme leurre des pigeons dont ils avaient crevé les yeux, afin d'attirer de grands groupes d'oiseaux. Grâce à ça, certains chasseurs abattaient plus de dix mille oiseaux en un jour. Mais malgré l'évidence, ils ne songèrent même pas à remettre en doute la chasse à outrance.
 　―――Il y avait pourtant un déséquilibre flagrant entre leur vitesse de reproduction et la chasse dont ils étaient victimes, quand on y réfléchissait.」
 *page63|
 　Kumari parlait avec indifférence pour s'efforcer de rester calme.
@@ -339,7 +339,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 「J'arrête, j'arrête. C'est ridicule de penser qu'il a l'air spécial juste parce qu'il est étrange.」
 　Elle se gratta la tête tout en maugréant comme s'il était question d'elle-même.
 　Pour Kumari, Sōjūrō n'était qu'un parfait étranger et il ne faisait même pas partie de sa classe.
-　Si son histoire était si passionnée, c'était parce qu'elle avait la mauvaise habitude de faire des recherches assidues sur les choses qu'elle détestait.
+　Si son histoire avait été si passionnée, c'était parce qu'elle avait la mauvaise habitude de faire des recherches assidues sur les choses qu'elle détestait.
 *page82|
 　Elle fronça ses charmants sourcils.
 　Puisqu'il travaillait à l'Ours Enragé, elle lui avait fait part de ces conseils pour éviter qu'il reste focalisé sur ses préoccupations bizarres. À moins que ce ne soit la conséquence du charme étrange que dégageait ce garçon ?
@@ -501,7 +501,7 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 「Désolé. Est-ce que je peux y aller ?」
 　Sōjūrō leva la main et tenta de s'enfuir vers sa chambre, le grenier du deuxième étage.
 *page120|
-『Att... Attendsーーー! On arrive au meilleur moment, alors pourquoi tu pars ? Tu te prends pour Scarlett O'Hara ? Tu joues l'héroïne tourmentée ?
+『Att... Attendsーーー! On arrive au meilleur moment, alors pourquoi tu t'barres ? Tu te prends pour Scarlett O'Hara ? Tu joues l'héroïne tourmentée ?
 　J'peux pas accepter ça ! Pourquoi un nouveau venu chez nous devrait, à peine arrivé, être le seul à profiter du regard de Mam'zelle Alice ? Je peux pas laisser passer ça ! Explique-moi ce mystère ! Et ne mens pas. Quand je deviens sérieux, je suis terrible !』
 *page121|
 「Quoi ?」

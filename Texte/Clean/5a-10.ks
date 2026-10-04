@@ -63,7 +63,7 @@
 　...... En d'autres termes, c'était un marathon décrivant un cercle.
 　Si la marionnette ne pouvait l'atteindre qu'avec le bras rétractable et s'il restait tout juste hors de portée, l'ennemi devrait le poursuivre inlassablement.
 　Il s'agissait d'une tâche assez simple, mais pour Sōjūrō, c'était principalement un rôle d'appât risqué.
-　Par-dessus le marché, elle avait ajouté une instruction absurde qui stipulait qu'il devrait courir à toutes jambes dès que le bâtiment tremblerait.
+　Par-dessus le marché, elle avait ajouté une instruction absurde qui stipulait qu'il devrait courir à toutes jambes dès que le bâtiment se mettrait à trembler.
 *page15|
 「...... C'est pas “assez risqué” ça, c'est très risqué.」
 　Sōjūrō sortit la tête du virage avec appréhension.
@@ -112,7 +112,7 @@
 　Elle entendait un véritable vacarme apportant le désespoir, comme si une araignée monstrueuse la poursuivait en frôlant les miroirs à toute vitesse.
 *page25|
 「............ Cet empoté. Qu'est-ce que ça veut dire ?! Je lui dis trois minutes, et il ne tient même pas dix secondes.」
-　Ce n'était même plus une question de lui faire gagner un peu de temps.
+　Il ne lui avait pas fait gagner de temps du tout.
 　Bon sang, je savais bien qu'il ferait quelque chose de pas croyable rien qu'en courant, eut-elle envie de pester.
 *page26|
 「―――C'est le bruit de pas de nombreuses jambes―――ce qui veut dire qu'elle est passée d'une paire de jambes à plusieurs.」

@@ -28,7 +28,7 @@
 *page6|
 「À bien y repenser, tu avais cette forme depuis le début.」
 　La distance jusqu'à la lune était de 380 000 kilomètres.
-　S'il était capable de pousser la similitude avec la lune à ce point, ça signifiait qu'il était à la hauteur de tous les surnoms qu'on lui avait attribués.
+　S'il était capable de pousser la similitude avec la lune jusqu'à ce point, ça signifiait qu'il était à la hauteur de tous les surnoms qu'on lui avait attribués.
 *page7|
 　Seulement, si c'était vraiment le cas, il n'aurait pas besoin de se cacher. Il pouvait montrer sa nature sans se restreindre.
 　Il cachait sa véritable nature justement parce qu'il était dans une position où on pouvait l'atteindre.
@@ -98,7 +98,7 @@
 　Considéré dans le monde de la Magie comme le plus légendaire de tous les mythes,[wait canskip=0 time=600][r]
 　un [ruby char="Mystère Absolu" text="Crown Phantasm"] sans égal et plus précieux que tout un pays.
 “Te voilà enfin―――Flat Snark......!!!!”
-　La plus grande légende jamais contée en ce monde depuis la nuit des temps !
+　La plus grande légende jamais contée depuis la nuit des temps !
 *page22|
 “...... C'est trop tôt―――C'est encore trop tôt, mais―――!”
 　Son instinct lui hurlait qu'elle ne pouvait pas se permettre d'attendre plus longtemps.
@@ -274,7 +274,7 @@ Toutes les couches à plein régime―――!」
 　C'était vrai.
 　Elle possédait un atout miraculeux.
 　Elle avait eu un jour un miracle en main, sans commune mesure avec ce bloc de glace, ce jouet, à tel point qu'il en avait l'air ridicule.
-　　　　　　　　/Cette mort pourpre venait pour tuer cette chose.
+　　　　　　　　Cette mort pourpre venait pour tuer cette chose.
 *page56|
 　Si elle l'utilisait, c'en serait fini d'elle.
 　Et même si elle ne l'utilisait pas, elle finirait écrasée par cette glace et réduite en morceaux.

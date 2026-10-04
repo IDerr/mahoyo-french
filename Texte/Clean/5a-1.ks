@@ -2,7 +2,7 @@
 　Sous un ciel nocturne nuageux, Sōjūrō regagnait son appartement, à pied comme à l'accoutumée.
 *page2|
 　Il monta les escaliers en faisant grincer le métal rouillé à chaque pas.
-　Il regarda à la dérobée la bicyclette posée contre la clôture de l'immeuble.
+　Il regarda à la dérobée la bicyclette posée contre la clôture entourant l'immeuble.
 　Je me demande si je me fatiguerais moins avec une bicyclette ? C'est pratique, mais c'est une dépense superflue, et même si je n'en ai pas, ce n'est pas la mort. Je peux attendre encore un peu, songea-t-il sérieusement.
 *page3|
 　Arrivé à la porte, il sortit sa clef, un sac en papier rempli de pommes sous le bras.

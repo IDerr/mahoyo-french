@@ -76,7 +76,7 @@
 　Sōjūrō n'avait rien sur la conscience, et pourtant, il détourna inconsciemment les yeux.
 *page18|
 「Quelque chose, comme quoi ?」
-「Tu as bien dit que tu ne te rappelais pas bien, non ? En plus, tu avais l'air d'être dans la lune. [chgfg textoff=0 storage=青子特殊03b(近)|h time=500]...... Ah je vois. Si tu te rappelais de ce qui s'est passé jusqu'à ce qu'elle retire ses lunettes, c'est qu'elle a dû te fixer avec ses Yeux Mystiques.」
+「Tu as bien dit que tu ne te rappelais pas bien, non ? En plus, tu avais l'air d'être dans la lune. [chgfg textoff=0 storage=青子特殊03b(近)|h time=500]...... Ah je vois. Si tu te rappelais ce qui s'est passé jusqu'à ce qu'elle retire ses lunettes, c'est qu'elle a dû te fixer avec ses Yeux Mystiques.」
 *page19|
 　Après avoir fait part de la conclusion à laquelle elle avait abouti au terme de son raisonnement, Aoko sombra dans le silence comme si cela ne l'intéressait plus.
 　Seul Sōjūrō se sentait perdu.
@@ -145,8 +145,8 @@ Les types de Magie comme les Runes ou la Kabale représentent chacune une matiè
 　Au contraire, la Vraie Magie n'a que des limites―――en fait, elle ne permet de faire qu'une seule chose, mais c'est normal. Après tout, ce n'est qu'un seul point lumineux exclu du fonctionnement de cet univers.」
 *page36|
 「...... D'après ce que tu me dis, je devine que la Vraie Magie est plus incroyable encore que la simple Magie. [l]
-Mais ça n'a que des limites, c'est ça ?」
-「Des limites ou plutôt, c'est une sorte d'exception, de privilège voire d'abus.
+Mais ça n'a que des limites, c'est bien ça ?」
+「Des limites ou plutôt, c'est une sorte d'exception ou de privilège, voire d'abus.
 　Elle n'est pas à multi-usage, mais du moment qu'elle rend possible ce qui est impossible pour tous, le monde des Mages la considère comme toute-puissante.」
 *page37|
 「En premier lieu, la Vraie Magie est comme une récompense pour les Mages ayant atteint le “Tourbillon de la Source”. Et même si ces Mages n'ont pas les capacités requises pour l'utiliser, le simple fait de posséder un chemin vers la Source leur permet de faire ce qu'ils veulent sur le plan de la Magie.

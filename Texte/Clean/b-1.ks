@@ -16,7 +16,7 @@
 　Alice sortit du manoir et s'engagea sur le chemin forestier en face d'elle.
 　...... Elle se conduisait vaillamment, mais la douleur transparaissait dans ses yeux.
 *page4|
-「Attends, Alice ! Si tu veux les prévenir, pourquoi ne pas leur téléphoner ?」
+「Attends, Alice ! Si tu veux les prévenir, pourquoi ne pas plutôt leur téléphoner ?」
 　Tracté par la main d'Alice, faible mais contre laquelle il ne pouvait résister, Sōjūrō se retourna vers la demeure.
 *page5|
 「Je l'ai déjà fait savoir aux gens de l'église.

@@ -213,7 +213,7 @@
 *page49|
 　Il n'était pas ignorant en ce qui concernait l'amitié,
 　mais il n'y avait pas beaucoup de gens qu'il pouvait considérer comme des amis.
-　...... Ainsi, si Sōjūrō était vraiment amoureux d'Aoko, en tant qu'ami, il ne pouvait pas faire quelque chose d'aussi grossier que le faire changer d'avis.
+　...... Ainsi, si Sōjūrō était vraiment amoureux d'Aoko, en tant qu'ami, il ne pouvait décemment pas faire quelque chose d'aussi grossier que le faire changer d'avis.
 *page50|
 「...... Bon Dieu. Mais après tout, les amoureux n'ont pas besoin de raison.」
 「Ce n'est pas vrai. J'en ai une.[r]
@@ -227,7 +227,7 @@
 「Hm.」
 　C'était apparemment un sophisme mais aussi, quelque part, un argument fondé.
 *page52|
-「...... J'ai compris. Arrêtons là cette conversation. Et puis, ce ne sont pas mes affaires de savoir quelle femme tu choisiras.」
+「...... C'est bon, j'ai compris. Arrêtons là cette conversation. Et puis, ce ne sont pas mes affaires de savoir quelle femme tu choisiras.」
 *page53|
 　Néanmoins...
 　Ici, Tobimaru se méprenait grandement sur un point.

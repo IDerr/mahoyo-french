@@ -293,7 +293,7 @@
 *page71|
 「C'est louche. Je dirais même plus, c'est très louche !
 　Une gentille Tōko, ce n'est pas Tōko !
-　Tu as pour habitude de maudire ton entourage et de te plaindre. Et puis, tu éprouves l'envie irrépressible de ruiner la vie des gens heureux, mais tu parviens à te contrôler parce que tu n'as aucune bonne raison de t'en prendre à eux... Où est donc passée la Tōko que je connais ? Celle qui évite de justesse de sombrer dans la folie par la seule force de sa raison ?」
+　Tu as pour habitude de maudire ton entourage et de te plaindre. Et puis, tu éprouves l'envie irrépressible de ruiner la vie des gens heureux, mais tu parviens à te contrôler parce que tu n'as aucune bonne raison de t'en prendre à eux... Où est passée la Tōko que je connais ? Celle qui évite de justesse de sombrer dans la folie par la seule force de sa raison ?」
 *page72|
 「Quel malpoli tu fais ! Même moi, il m'arrive d'être gentille.
 　C'est la première fois que je rentre au pays en quatre ans, tu te rends compte ?! Toi aussi, tu te sentirais nostalgique si tu étais de retour dans ton village, non ?
@@ -556,7 +556,7 @@
 　J'ai comme qui dirait incrusté un familier fait d'ombres au chambranle de ta porte. Il séjournera un certain temps dans ton ombre, alors tu ferais mieux d'éviter tout témoignage malencontreux à mon égard [heart]」
 *page133|
 「Alors je me trouvais depuis le départ dans une situation affreuse ?
-　Démon ! Brute ! Génie du Mal ! Tu devrais un peu apprendre le bon sens ! Pas étonnant que j'aie cru qu'un voleur me rendait visite chaque nuit !」
+　Démon ! Brute ! Génie du Mal ! Tu devrais un peu apprendre à faire preuve de bon sens ! Pas étonnant que j'aie cru qu'un voleur me rendait visite chaque nuit !」
 *page134|
 　Elle n'avait peut-être pas remarqué le familier d'ombres, mais manifestement, elle avait senti la présence de Tōko à l'ouvrage tard dans la nuit.
 　Tōko ne voulait pas que Ritsuka lui fasse une leçon sur le bon sens, sachant qu'elle avait fait comme si ce “voleur” n'existait pas sous prétexte que ce n'était qu'un petit criminel.
@@ -712,7 +712,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 　la plupart des êtres humains veulent juste être un peu plus heureux que la normale.」
 *page170|
 　Le saint vêtu de noir souriait innocemment.
-　Tōko se rappela alors d'une chose.
+　Tōko se rappela alors une chose.
 　Cet homme avait toujours été un démon qui ne croyait pas en l'existence du bonheur.
 *page171|
 「Allons, refoule ton animosité ou sœur Yuika risque de rappliquer.
@@ -790,7 +790,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 *page189|
 　C'est un changement de sujet un peu soudain, mais l'église d'Aida était ouverte tous les jours de l'année et avait pour principe d'accueillir n'importe qui à bras ouverts.
 　Elle était l'alliée des âmes égarées et des pauvres, et tout récemment, elle avait même commencé à organiser des cérémonies de mariage pour renflouer un peu ses caisses.
-　Elle entretenait une étroite relation avec l'assistance publique de la ville Misaki et la gestion de l'établissement se passait plutôt bien.
+　Elle entretenait une étroite relation avec l'assistance publique de la ville de Misaki et la gestion de l'établissement se passait plutôt bien.
 　Il ne subsistait qu'un seul problème.
 *page190|
 「...... Père Eiri est encore sorti.
@@ -800,7 +800,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 「Les habitants de cette ville manquent de piété !
 　Ils disent que tout travail mérite salaire... Non mais comment voient-ils la vie ? Si l'on ne vit que des journées fondées sur le désir matériel, la bourse aura beau gonfler, le cœur ne fera que s'appauvrir, lui !」
 *page192|
-　La sœur laissa échapper quelques plaintes et souleva d'une main l'escabeau.
+　La sœur laissa échapper quelques plaintes et souleva d'une seule main un escabeau.
 　Il s'agissait d'un outil bien solide utilisé pour le nettoyage des vitres de l'église ; il fallait normalement deux adultes pour le soulever, mais cela ne semblait pas être un problème pour la sœur.
 *page193|
 「Je suis inquiète quant à la recrudescence de la dépression des gens, mais on ne peut rien faire contre l'inflation. Et on parle aussi de l'instauration de nouvelles taxes sur la consommation. Je dois faire comprendre à père Eiri la splendeur des cérémonies de mariage qui permettent d'obtenir de merveilleux résultats en une journée.
@@ -877,7 +877,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 　Il avait l'impression que ce vocabulaire était de nature sacrée.
 　Cette nourriture lui avait fait l'effet d'un coup de tonnerre.
 *page210|
-　Pour Beo, le repas n'était qu'un moyen de réapprovisionnement en énergie.
+　Pour Beo, le repas n'était qu'un simple moyen de réapprovisionnement en énergie.
 　Il avait une préférence particulière pour les hamburgers, mais seulement en raison de leur texture de qualité. De toute façon, il devait absorber des nutriments ; il mangeait parce qu'il n'avait pas le choix.
 　Mais cet aliment-ci était différent. Pour lui qui se contentait en général de transformer la viande en combustible, manger ceci n'avait aucun sens.
 *page211|

@@ -37,7 +37,7 @@
 *page8|
 　Sōjūrō décrocha le combiné avec réticence.
 　Il n'entendit aucune voix au bout du fil.
-　Il allait dire quelque chose, quand, soudain, une pensée lui traversa l'esprit.
+　Il allait dire quelque chose, mais une pensée lui traversa soudainement l'esprit.
 　Devait-il dire “Allô, c'est Kuonji”,
 　ou alors “Oui, c'est Aozaki” ?
 　Il se mettait sérieusement à y réfléchir lorsqu'une voix faible et presque sur le point de s'éteindre lui parvint à travers le téléphone.

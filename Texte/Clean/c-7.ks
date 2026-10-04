@@ -33,7 +33,7 @@
 　Ne raconte pas de bêtises ! Pourquoi aurais-je besoin de suivre un apprentissage pour battre ces idiots d'ours ?』
 *page8|
 「..................」
-　Maintenant qu'elle y repensait, la formulation employée avait été curieuse.
+　Maintenant qu'elle y pensait, la formulation employée avait été curieuse.
 　Il n'aurait pu dire cette phrase que s'il était habitué aux bêtes imposantes telles que les ours,
 　et surtout, il n'avait pas nié le fait d'avoir “suivi un apprentissage”, expression dont la signification avait bien évolué à notre époque.
 *page9|

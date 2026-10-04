@@ -111,7 +111,7 @@
 「...... Tu m'as l'air assez calme.」
 「Impossible. Après tout, il ne se passe que des choses que je ne comprends pas, alors j'essaie de ne pas trop y réfléchir. [l]
 C'est juste que pour la marionnette, ce n'est pas grand-chose.」
-「Hein ? Est-ce que tu aurais déjà vu d'autres marionnettes automatiques ?!」
+「Hein ? Tu avais déjà vu d'autres marionnettes de ce genre ?!」
 「? Les marionnettes de la ville ne sont pas toutes comme ça ?」
 *page24|
 「Qu―――」

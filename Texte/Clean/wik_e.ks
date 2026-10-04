@@ -56,7 +56,7 @@
 　J'ai téléphoné à la maison de Tobimaru et on m'a dit texto que le jeune maître était allé à une fête d'anniversaire chez Mlle Kuonji.
 　Du coup, j'ai piqué une grosse colère, annulé mon live et volé jusqu'ici.」
 *page14|
-「...... Tu te rappelles de la date de mon anniversaire ?」
+「...... Tu te rappelles la date de mon anniversaire ?」
 「Évidemment ! Même si j'oublie le mien, je n'oublierai jamais le ti.........
 　Tiens ? On est encore en automne dans ce pays, non ?」
 *page15|
@@ -94,7 +94,7 @@ Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu d
 　Et quarto, le feu des projecteurs a beau m'éclairer, personne ne voit la vraie moi.」
 *page24|
 　L'aura de la fille en rose changea du tout au tout.
-　Cui cui cui, le rouge-gorge bleu se pausa avec un gazouillis adorable sur l'épaule de la fille qui grommelait.
+　Cui cui cui, le rouge-gorge bleu se posa avec un gazouillis adorable sur l'épaule de la fille qui grommelait.
 *page25|
 『Hahaha, j'reconnais bien là notre Riddell. La soudaineté de tes éruptions émotionnelles est toujours aussi intense ! T'es pas embarrassée de dire des choses comme “regardez la vraie moi” ? Non, tu l'es pas, hein ? Trop fort ! Je l'savais ! Riddell, le métier de star te convient mieux que celui de Mage !』
 *page26|

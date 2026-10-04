@@ -89,5 +89,5 @@
 「... Bah, ça n'a plus d'importance.」
 　Je n'avais plus aucun moyen de me sortir d'affaire.
 　Le vrai coupable avait gagné la partie.
-　Tout en me demandant distraitement où je m'étais trompée, je tendai l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
+　Tout en me demandant distraitement où je m'étais trompée, je tendis l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
 *page22|

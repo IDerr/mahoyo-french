@@ -16,7 +16,7 @@
 「Que dit Dumpty ?
 　...... “Laisse-moi aller jusqu'au bout de mon psaume. Je ne reverrai pas de sitôt de simple d'esprit aussi admirable que lui” ?」
 *page4|
-　Scratch Dumpty était une bombe à retardement qui chutait et explosait dès que l'objet ciblé détournait les yeux.
+　Scratch Dumpty était une bombe à retardement qui chutait et explosait dès que sa cible détournait les yeux.
 　Si celui-ci l'observait bien, il ne chuterait pas. Dans un certain sens, c'était un “Ploy Kickshaw” gentleman. Mais il n'y avait rien de plus gênant lors d'une mêlée.
 *page5|
 「...... C'est vrai. Ce n'est pas parce qu'il garde le contact visuel qu'il pourra échapper à Dumpty. Dès que le poème inscrit à la surface sera achevé, la porte s'ouvrira.

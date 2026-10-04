@@ -40,7 +40,7 @@
 　Il posa bruyamment l'enveloppe bleue sur le bureau.
 *page11|
 「Je vois.」
-　Aoko prit l'enveloppe et commença à parcourir les documents à l'intérieur.
+　Aoko saisit l'enveloppe et commença à parcourir les documents à l'intérieur.
 　À présent, elle était dans son monde et ne faisait même plus attention à Tobimaru.
 　Pour être parfaitement honnête, elle l'ignorait totalement.
 *page12|
@@ -106,7 +106,7 @@ Ou plutôt, on dirait bien qu'il n'y avait pas d'élève à proximité de cet en
 　Le ciel était encore maintenant d'un gris comme s'il allait pleurer, mais visiblement, ça ne les gênait pas.
 *page26|
 　Se faufilant à travers ce tumulte, Aoko se dirigea rapidement vers la porte principale.
-　Elle dépassa les élèves qui discutaient comme des moulins à parole.
+　Elle dépassa les élèves qui discutaient comme des moulins à paroles.
 　Leur principal sujet de conversation portait sur ce qu'ils comptaient faire après l'école.
 　Ils discutaient avec ferveur et passion de la façon la plus agréable de profiter de la moindre seconde de leur après-midi.
 *page27|
@@ -127,7 +127,7 @@ Ou plutôt, on dirait bien qu'il n'y avait pas d'élève à proximité de cet en
 　Cependant, cette académie pour filles n'avait aucun lien avec le lycée Misaki. Aussi bien physiquement que spirituellement, c'était une existence très lointaine.
 *page31|
 　La majorité d'entre elles étaient obligées de loger dans des dortoirs, et il était rare de les voir en ville.
-　Les mots “académie pour jeunes filles” sonnaient bien, mais en toute franchise, on ne voyait pas souvent l'uniforme de l'académie pour fille Reien.
+　Les mots “académie pour jeunes filles” sonnaient bien, mais en toute franchise, on ne voyait pas souvent l'uniforme de l'académie pour filles Reien.
 *page32|
 　C'était déjà suffisant pour que les garçons fassent du raffut, mais par-dessus le marché, cette fille n'était que trop ravissante.
 *page33|
@@ -160,7 +160,7 @@ Ou plutôt, on dirait bien qu'il n'y avait pas d'élève à proximité de cet en
 　Évidemment, c'était pour que l'attroupement regroupé dans l'ombre du portail l'entende.
 *page39|
 「Hein ? La présidente vient par ici ?!」
-「Hé, poussez pas ! Poussez-vous derrière ! Je veux m'enfuir dans l'école !」
+「Hé, poussez pas ! Poussez-vous derrière ! Je veux pouvoir m'enfuir dans l'école !」
 「Oui, mais...... C'est une connaissance de la présidente, non ? Elle pourrait peut-être nous la présenter......」
 「Ha ha ha. On voit bien que tu es un jeune de première année. Tu ne sais encore rien de la réalité du champ de bataille―――Enfin bon, fais de beaux rêves quand tu seras sur le point de mourir.」
 *page40|
@@ -209,7 +209,7 @@ Ou plutôt, on dirait bien qu'il n'y avait pas d'élève à proximité de cet en
 *page48|
 「De mon côté, ça n'a pas été très concluant.」
 　Aoko ne lui rapporta que les résultats de l'enquête de Tobimaru. Alice ne répondit rien.
-　La conversation prit fin ainsi. Il ne restait plus qu'à résister au vent glacial.
+　La conversation prit fin là-dessus. Il ne restait plus qu'à résister au vent glacial.
 *page49|
 　...... La surveillance silencieuse continua sans fin.
 　Les élèves arrivant au portail, bien que surpris de voir leur présidente accompagnée d'une élève de l'école pour filles Reien, poursuivaient leur chemin pour rentrer chez eux.
@@ -228,7 +228,7 @@ Ou plutôt, on dirait bien qu'il n'y avait pas d'élève à proximité de cet en
 　Il était inutile de préciser à qui appartenait cette voix qui ne contenait pas la moindre trace de malice.
 *page53|
 「―――Je vois. C'est donc bien ce que je craignais.」
-　Tournant le dos à Alice, Aoko regarda sévèrement l'élève qui s'approchait.
+　Tournant le dos à Alice, Aoko dévisagea sévèrement l'élève qui s'approchait.
 *page54|
 「Alors ? Qu'est-ce que tu veux aujourd'hui ?」
 　Même pas de bonjour.
@@ -253,7 +253,7 @@ Ou plutôt, on dirait bien qu'il n'y avait pas d'élève à proximité de cet en
 「Je vois. Comme ça, pas de gâchis.」
 *page59|
 　Devant une telle admiration, Aoko en perdit l'envie de se plaindre.
-　Mais pour elle, le fait même d'avoir cherché un club qui lui conviendrait et en parler au capitaine avait été une perte de temps.
+　Mais pour elle, le fait même d'avoir cherché un club qui lui conviendrait et d'en avoir parlé au capitaine avait été une perte de temps.
 *page60|
 「En tout cas, tu as pris soin de moi.[r]
 　C'est pour ça que je voulais te remercier.」
@@ -301,7 +301,7 @@ Ou plutôt, on dirait bien qu'il n'y avait pas d'élève à proximité de cet en
 「...... C'est bon. J'ai compris ce que tu ressentais, alors tu pourrais aller voir ailleurs si j'y suis ? Je suis un peu fatiguée, et je n'en peux plus de te parler.」
 「Tobimaru a dit ça aussi. Que tu étais bizarrement fatiguée hier et aujourd'hui. Il s'est passé quelque chose ?」
 「Oui. Mais c'est bon, ça semble réglé.[r]
-　À part ça...... Shizuki, tu en penses quoi ? Est-ce que je semble fatiguée ?」
+　À part ça...... Shizuki, tu en penses quoi, toi ? Est-ce que je semble fatiguée ?」
 *page71|
 　Pourquoi avait-elle demandé ça ?
 　Elle l'avait dit sur une impulsion,[wait canskip=0 time=400][r]
@@ -370,7 +370,7 @@ Ou plutôt, on dirait bien qu'il n'y avait pas d'élève à proximité de cet en
 *page86|
 　En termes de risque, le lion était le plus dangereux. Il y avait la possibilité qu'il contre-attaque au moment où on braquerait le fusil vers son museau.
 　C'était pour ça qu'il fallait plus de courage pour viser le lion, mais dans le même temps, toute culpabilité disparaissait.
-　Après tout, l'adversaire était une créature redoutable. Même si ce n'était qu'une excuse purement égoïste, les scrupules d'utiliser un fusil diminuaient.
+　Après tout, l'adversaire était une créature redoutable. Même si ce n'était qu'une excuse purement égoïste, cela atténuait les scrupules d'utiliser un fusil.
 *page87|
 　Et pour le chat alors ? C'était un être vivant inoffensif.
 　De toute évidence, il était moins dangereux à viser que le lion. Mais n'importe qui ressentirait un sentiment désagréable.

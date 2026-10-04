@@ -44,7 +44,7 @@ Tōko ne faisait qu'utiliser une science déjà morte en la ressuscitant à chaq
 　Les deux Mystères explosèrent en mille morceaux et convergèrent.
 　...... À la fin de cette scène digne d'un mythe,
 　le loup doré, ardent comme une flamme,
-　se tenait au milieu des restes fumants du “monstre de contes de fées”.
+　se tenait au milieu des restes encore fumants du “monstre de contes de fées”.
 *page10|
 　La suite ne pouvait même pas être qualifiée de combat.
 　Il s'agissait de se débarrasser des soldats vaincus.
@@ -53,7 +53,7 @@ Tōko ne faisait qu'utiliser une science déjà morte en la ressuscitant à chaq
 *page11|
 　Un loup doré.
 　Cette chose qui comprenait le langage humain était sans l'ombre d'un doute la Bête Démoniaque que l'on appelle loup-garou.
-　C'était le roi des monstres dont l'existence était largement falsifiée et propagée, aussi connu sous le nom de “l'Homme de la forêt” en l'Europe de l'Ouest et dont les origines remontaient plus loin que celles des “Vampires”.
+　C'était le roi des monstres dont l'existence était largement falsifiée et propagée, aussi connu sous le nom de “l'Homme de la forêt” en Europe de l'Ouest et dont les origines remontaient plus loin que celles des “Vampires”.
 　Cependant―――dans leur espèce, la fourrure d'or n'existait pas.
 *page12|
 　Selon les dires, dans la société des loups-garous, la plus grande lignée serait de couleur argentée.

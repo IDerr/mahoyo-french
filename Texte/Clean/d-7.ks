@@ -52,7 +52,7 @@ Un bref silence.
 　une fillette avec qui il avait coupé tout lien avait fait irruption dans cette grotte.
 　Le vieil homme avait machinalement réalisé le vœu né de l'ignorance et de l'innocence de la fillette.
 　C'était un Magicien, et il avait sacrifié son égo afin de prolonger son espérance de vie ; par conséquent, il exauçait n'importe quel souhait tant qu'il en était capable.
-　Et ce jour-là, tous les éléments avaient convergé vers la même conclusion.
+　Et ce jour-là, tous les éléments avaient convergé vers le même résultat.
 *page12|
 　Quand l'enfant avait pris conscience du péché provoqué par sa faute, elle avait foudroyé le vieil homme d'un regard brouillé par les larmes.
 　Tout finit par disparaître, parfois simplement et sans prévenir, à cause d'une petite erreur sans importance.

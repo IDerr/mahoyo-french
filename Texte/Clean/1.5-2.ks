@@ -1,6 +1,6 @@
 ﻿*page0|
 「Je suis rentrée ! Dis, Alice, tu es là aussi ?
-　En revenant de l'église, on m'a offert un cadeau au quartier commerçant ![r]
+　En revenant de l'église, on m'a offert un petit cadeau au quartier commerçant ![r]
 　Ça te dirait de manger des senbei d'Iseya avec moi ?!」
 *page1|
 　Une voix joyeuse retentit dans le vestibule teinté de la couleur du soleil couchant.
@@ -28,7 +28,7 @@
 「La vitre est sombre, hein.」
 「J'ai quelque chose à te dire à ce propos. Enfin, si on finit les tâches d'aujourd'hui.
 　...... Aoko, comment va ton corps ? Si tu es fatiguée, tu peux prendre du repos.」
-「Hein ? De quoi ? Tu me donnes la chair de poule. Ne t'en fais pas. C'était un jour comme un autre, et puis, tu trouves vraiment que j'ai l'air fatiguée ?」
+「Hein ? De quoi ? Tu me donnes la chair de poule. Ne t'en fais pas pour moi. C'était un jour comme un autre, et puis, tu trouves vraiment que j'ai l'air fatiguée ?」
 *page7|
 　Oui. Pour être honnête, il y avait eu de grandes turbulences malgré un vent propice durant sa journée à l'école.
 　À bien y réfléchir, au cours de ses activités scolaires, que l'on pouvait estimer habituellement paisibles d'un certain point de vue,
@@ -36,7 +36,7 @@
 　Et en y pensant sérieusement, elle était effectivement un peu surmenée, mais comme ça la fatiguerait encore plus si elle le ressassait, Aoko voulait l'éviter.
 *page8|
 「...... Ça suffit. Pourquoi je devrais me fatiguer pour un truc comme ça, alors que je viens à peine de rentrer.
-　Voyons, la leçon du jour, c'était les rudiments de la Suggestion, c'est ça ?
+　Voyons, la leçon du jour, c'était les rudiments de la Suggestion, c'est bien ça ?
 　Pas de problème, commençons tout de suite. Et puis, j'ai l'impression qu'aujourd'hui, ça va bien se passer si j'y mets de l'entrain.」
 　Même si c'était surtout pour calmer sa colère ainsi que son stress.
 *page9|
@@ -59,7 +59,7 @@
 「À ce rythme, l'été prochain, ce sera une jungle.」
 　le cadre était gâché par la vue sur le jardin qui était laissé à l'abandon par les résidentes.
 *page14|
-「Dis Alice, tu n'aurais pas un Ploy spécialisé dans le nettoyage de jardin ?」
+「Dis-moi Alice, tu n'aurais pas un Ploy spécialisé dans le nettoyage de jardin ?」
 　Aoko pénétra la première dans la véranda et saisit la théière pour se verser du thé.
 *page15|
 「À la rigueur, il y en aurait peut-être un, mais ça demanderait un peu de travail.」

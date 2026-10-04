@@ -22,7 +22,7 @@
 　Le brouillard qui s'était déployé n'était pas dû à un sort, il s'agissait d'un barrage dans lequel elle n'avait fait que déverser son prana.
 　C'était comme ériger un mur en brûlant trois bidons d'essence pour affaiblir la force des flèches volant vers eux.
 *page6|
-　Si la marionnette avait attaqué avec son bras, elle aurait très facilement percé ce mur de prana. Cependant, comme il s'agissait d'une “malédiction” sans substance réelle, elle avait pu les faire rebondir dessus.
+　Si la marionnette avait attaqué avec son bras, elle aurait très facilement percé ce mur de prana. Mais comme il s'agissait d'une “malédiction” sans substance réelle, Aoko avait pu la faire rebondir dessus.
 　Elle gaspillait énormément de prana, mais dans son état actuel, Aoko n'avait aucun autre moyen de protection.
 *page7|
 「...... Uuh.」
@@ -49,10 +49,10 @@
 　ignora Aoko qui semblait vouloir se plaindre,
 　et la posa à terre lorsqu'il fut presque arrivé au centre du premier étage.
 *page13|
-「...... Bien. Avec cette distance, on peut se reposer un peu.」
+「...... Bien. À cette distance, on peut se reposer un peu.」
 　dit Sōjūrō, essoufflé.
 　Même si elle était légère, il avait porté quelqu'un en courant, ce qui avait accéléré sa respiration.
-　Aoko avait les yeux rivés sur son visage avec un air de totale incrédulité.
+　Aoko avait les yeux rivés sur son visage et affichait un air de totale incrédulité.
 *page14|
 「...... Si tu avais encore une telle endurance, pourquoi......?」
 　Ça n'avait aucun sens.

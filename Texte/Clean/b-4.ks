@@ -22,7 +22,7 @@
 　...... Jusqu'à présent, seules deux personnes m'ont fait cette remarque, lui inclus.
 　Cela dit, ma sœur n'en pensait probablement pas moins :
 　Tu es différente de nous.
-　Pour moi, ce constat n'avait rien d'une éloge, il ne s'agissait que d'une malédiction.
+　Pour moi, ce constat n'avait rien d'un éloge, il ne s'agissait que d'une malédiction.
 *page5|
 　Malgré tous mes agissements, mes choix, mes actions tyranniques ou philanthropiques découlant de mon sens du bien et du mal,
 　on se demande encore si je fais passer ma personne avant les autres ?

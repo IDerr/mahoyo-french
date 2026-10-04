@@ -13,7 +13,7 @@
 　L'étudiant responsable de sa venue n'était visible nulle part.
 　Comme il n'était pas du genre à se faire remarquer, elle pensait qu'il se cachait dans un coin, mais ça ne semblait pas être le cas.
 *page3|
-「Yuri. Où est Shizuki, numéro de place 12 ?」
+「Arisato. Où est Shizuki, numéro de place 12 ?」
 　demanda-t-elle de façon professionnelle.
 「Hein, moi...? Euh, si tu cherches Shizuki, Son Altesse Tobimaru l'a emmené tout à l'heure.」
 　répondit l'élève interpellé, étonné qu'Aoko connaisse son nom.
@@ -78,7 +78,7 @@ mais si même un type comme toi commence à raconter des bêtises, en qui pourra
 *page17|
 　À première vue, ça ne semblait pas être une mauvaise chose que les enfants gardent leur insouciance en grandissant. Mais cela impliquerait qu'il y aurait trop peu de personnes pour développer une civilisation,
 　ou qu'il s'agirait d'un monde simple où le concept de système de connaissances n'était pas nécessaire.
-　C'était justement parce qu'il sentait que sa vie en ville comportait des choses qui n'étaient pas possibles dans sa vie précédente que, paradoxalement, il prenait cet endroit comme un lieu où tout pouvait arriver.
+　Il y avait tellement de choses dans sa vie citadine qui lui auraient semblé impossibles dans sa vie précédente que, paradoxalement, il prenait la ville pour un lieu où littéralement tout pouvait arriver.
 *page18|
 「Rassure-toi. C'est vrai qu'il y a des types dangereux, mais il n'y en a pas des comme ça, du genre magicien.」
 「Ce serait bien, pourtant.」

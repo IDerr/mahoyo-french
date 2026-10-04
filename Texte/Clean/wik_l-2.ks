@@ -39,7 +39,7 @@
 *page11|
 『Quoi ? C'est impossible avec l'hélico de l'agence ? La tempête est si forte qu'il ne peut pas s'approcher ? Crétin ! Je suis déjà au courant !
 　Je t'ordonne malgré tout de le faire voler jusqu'ici comme un missile...!
-　Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrète-le !』
+　Même si tu voulais en faire décoller un autre, aucun n'est disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrète-le !』
 *page12|
 『Aaah ! Tu n'en as pas marre de dire que c'est impossible ? Tu n'as que ce mot à la bouche ?
 　Quoi ? Comme la compagnie est en plein rétablissement, tu n'as pas de cash ? Tu dois acheter l'appareil avec l'équipage ? Parfait ! Je peux gagner largement assez pour rembourser ça ! Je te ferai un ou deux lives privés dans le palais d'un émirat ou chez un millionnaire chinois ! Et ça te fera de la monnaie, non ?』

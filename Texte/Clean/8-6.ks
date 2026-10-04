@@ -19,7 +19,7 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 　En effet, il n'avait pas quitté le salon,
 　et étrangement, la présence de Sōjūrō ne l'avait nullement incommodée.
 *page5|
-　Il n'avait pas fait attention à Alice, mais ce n'était pas comme s'il l'ignorait.
+　Il n'avait pas fait attention à Alice, mais ce n'était pas comme s'il l'avait ignorée.
 　Ils étaient tous les deux silencieux, sans être pour autant mal à l'aise.
 　Elle avait l'impression d'être seule, et pourtant, elle ressentait également le sentiment de sécurité que l'on éprouve à proximité de quelqu'un.
 *page6|
@@ -96,7 +96,7 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 *page23|
 　Son expression s'assombrissait, non pas à cause du sujet de la conversation, mais parce qu'il se sentait gêné pour Alice.
 　Si elle ne voulait pas le dire, elle n'avait pas à répondre, pensa-t-il.
-　Imperturbable face au visage de Sōjūrō, Alice continua d'un air indifférent.
+　Imperturbable face au visage de Sōjūrō, Alice continua sur un ton indifférent.
 *page24|
 「L'incident dont tu as été témoin dans ce parc était la première tentative d'Aoko. Malheureusement, l'adversaire qu'elle a tué était une marionnette.」
 　Sōjūrō acquiesça silencieusement.
@@ -199,7 +199,7 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 　Sōjūrō se retira sur ces paroles dignes de sympathie pour se diriger vers la chambre d'Aoko.
 *page48|
 　Après l'avoir accompagné du regard sans un mot, Alice avala une bouchée du yaki udon garni.
-　Elle lança un regard vers la porte du couloir, et reprit une autre bouchée après s'être assurée que personne n'était sur le point d'entrer à l'improviste.
+　Elle lança un regard en direction de la porte du couloir, et reprit une autre bouchée après s'être assurée que personne n'était sur le point d'entrer à l'improviste.
 　Après avoir répété ce cycle plusieurs fois, l'assiette couleur crème se retrouva vide, et elle crut entendre la voix coléreuse d'Aoko depuis le premier étage.
 *page49|
 　Prise d'un léger élan de compassion, Alice débarrassa son couvert et celui de Sōjūrō avec des mouvements austères.

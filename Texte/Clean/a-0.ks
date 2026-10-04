@@ -95,7 +95,7 @@
 　Ah, et mets donc ces intentions louables à contribution en passant l'aspirateur dans le couloir du premier étage.
 　Et aussi, l'éclisse en hêtre de l'arrière-cour est presque cassée, tu as vu ? Tu peux te servir de la boîte à outils, elle est restée dans ta chambre.」
 *page22|
-「Et quand tu auras fini tout ça, tu pourras aussi venir dans ma chambre ?[r]
+「Et une fois que tu auras fini tout ça, tu pourras aussi venir dans ma chambre ?[r]
 　Je vais regrouper les choses dont je n'ai plus besoin, tu les brûleras dans l'incinérateur.」
 「........................」
 　Manifestement, elle lui avait fait nettoyer l'incinérateur dans ce seul but.

@@ -17,7 +17,7 @@
 　dans une tenue noire sans fioritures.
 　Pourtant, bien qu'étant de couleur unie, sa robe ne dégageait aucune modestie, mais plutôt une élégance indescriptible.
 　Un atour de haute couture confectionné spécialement pour cette fille―――
-　C'était amplement suffisant pour que Sōjūrō trouve cette scène poétique.
+　C'était amplement suffisant pour que Sōjūrō trouve la scène poétique.
 *page4|
 　Assise, elle ne bougeait pas d'un pouce.
 「――――――」
@@ -50,7 +50,7 @@
 　Inexpressive, elle ne faisait que regarder le blessé allongé.
 *page10|
 「............」
-　Sōjūrō, étendu sur le lit, regardait la fille dans les yeux, silencieusement, sans oser tourner la tête, et sans que le moindre mot ne lui vienne à l'esprit.
+　Sōjūrō, étendu sur le lit, regardait la fille dans les yeux, silencieusement, sans oser tourner la tête vers elle, et sans que le moindre mot ne lui vienne à l'esprit.
 *page11|
 　...... De par ses traits fins, elle semblait être un peu plus jeune que lui.
 　D'un autre côté, son expression paisible la faisait paraître plus âgée.
@@ -148,7 +148,7 @@
 *page32|
 『Pourquoi ? Je n'ai rien fait.』
 　Sōjūrō bouda un peu face à la curiosité inattendue de la fille, puis se tourna vers elle.
-　Même s'il était toujours allongé sur le lit, c'était déjà une meilleure posture.
+　Même s'il était toujours allongé sur le lit, c'était déjà une position plus confortable.
 *page33|
 「Et donc, à propos de ce que je disais...」
 　Oui, il fallait d'abord qu'elle se présente et lui explique où il se trouvait, sinon la situation n'avancerait pas.

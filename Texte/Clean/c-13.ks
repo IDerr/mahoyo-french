@@ -3,7 +3,7 @@
 *page1|
 　L'Atelier qui sert de base à un Mage représente son principal et ultime atout.
 　D'innombrables sorts défensifs gardent les lieux contre d'éventuels voleurs et autres assaillants insolents.
-　L'ancienne école ne dérogeait pas à la règle ; Aozaki Tōko, l'une des dernières marionnettistes et utilisatrice de Runes, avait largement mis la main à la patte.
+　L'ancienne école ne dérogeait pas à la règle ; Aozaki Tōko, l'une des dernières marionnettistes et utilisatrice de Runes, avait largement mis la main à la pâte.
 　Cet Atelier reflétait son perfectionnisme maladif et éliminait tout intrus, humains et démons confondus.
 *page2|
 「Ces sorts foireux ne sont même pas capables de la ralentir―――!」
@@ -142,13 +142,13 @@ Comment maintiens-tu l'équilibre malgré la perte de cette énergie ?」
 　La distorsion provoquée par la Vraie Magie atteindrait un jour ou l'autre ce secteur de l'espace.
 *page29|
 「C'est... C'est le comble de la stupidité !
-　Tu comptes imposer cette dette à l'humanité qui est déjà dans une impasse, avec l'extinction de l'univers qui arrivera d'ici des milliards d'années ?! [l]
+　Tu comptes imposer cette dette à l'humanité qui est déjà dans une impasse, avec l'extinction de l'univers qui arrivera dans plusieurs centaines de milliards d'années ?! [l]
 Tu te rends compte que ça revient à placer des météorites au-dessus de notre planète ?!
 　Tu as l'intention d'écraser ce monde sous ton poids, c'est ça ?!」
 *page30|
 「Qu―――」
 　Cet exemple va trop loin, pensa Aoko en ouvrant grand les yeux.
-　Emportée dans son élan par la colère, ses jambes transpercèrent le plancher.
+　Sous la force de son élan, ses jambes transpercèrent le plancher.
 *page31|
 「Ferme-la un peu, j'y penserai le moment venu ! La prochaine fois, j'enverrai le temps emprunté dans le passé ! De cette façon, tu n'auras plus de quoi te plaindre, hein ?! [l]
 La distorsion n'écrasera que le passé, après tout !」

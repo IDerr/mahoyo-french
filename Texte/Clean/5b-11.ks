@@ -28,5 +28,5 @@
 　―――L'interlude touchait à sa fin.
 　Un nouveau scénario avait été confié aux jeunes acteurs.
 　Eh bien, quelle qu'en serait l'issue,
-　la longue nuit des magiciens semblait être entrée dans son dernier acte.
+　la longue nuit des Magiciennes semblait être entrée dans son dernier acte.
 *page9|

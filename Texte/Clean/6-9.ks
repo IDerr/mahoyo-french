@@ -32,7 +32,7 @@
 　D'une certaine façon, l'atmosphère de cet endroit lui rappelait la montagne dans laquelle il avait vécu.
 *page7|
 「...... Ah. Par contre, comment se fait-il qu'il y ait du brouillard dans la maison ?」
-　Il se rappela du spectacle dont il venait d'être témoin et qui le laissait songeur.
+　Il se rappela le spectacle dont il venait d'être témoin et qui le laissait songeur.
 　Sur le chemin menant jusqu'à sa chambre, il avait aperçu une sorte de brume dans le couloir du premier étage.
 *page8|
 　Le brouillard blanchâtre ne flottait que dans une partie du couloir et lui avait rappelé un essaim de moustiques.

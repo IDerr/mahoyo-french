@@ -106,7 +106,7 @@
 　Aoko but d'une traite son thé froid.
 　Dans le manoir Kuonji, où le chauffage était limité, cette froideur était suffisante pour réveiller quelqu'un de somnolent.
 *page23|
-「Dans cet état, que ce soit du Fortnum & Mason ou une autre grande marque ne change pas grand-chose.
+「Même dans cet état, le Fortnum & Mason n'a pas d'égal.
 　Bonsoir, Alice. Je suppose qu'un luxe occasionnel ne rime à rien sans toi.
 　Aujourd'hui, c'était soit un jour maudit, soit une punition divine―――C'est sûrement prématuré, mais je devrais peut-être faire une petite visite au temple.」
 　Aoko haussa les épaules avec le moral de quelqu'un ayant subi une défaite honorable après avoir fait tout ce qui était en son pouvoir.
@@ -133,7 +133,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 *page28|
 「...... Hm.」
 　Aujourd'hui, elle était exceptionnellement perspicace.
-　Quand Aoko avait l'air indifférente, c'était qu'en réalité, elle était énervée.
+　Quand Aoko avait cet air indifférent, ça signifiait qu'en réalité, elle était énervée.
 　Quoi qu'il en soit...
 *page29|
 「Oui. Cet étudiant transféré est vraiment très bizarre.
@@ -269,7 +269,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 　Mais je ne comprenais pas pourquoi il faisait ça, quelle que soit la manière dont j'y pensais.
 　...... Aoko, tu saurais pourquoi un chat de taille humaine distribuerait des repas de livraison à domicile comme si de rien n'était ?」
 *page61|
-　Un instant, Aoko pensa que c'était encore une des pseudo-blagues d'Alice.
+　L'espace d'un instant, Aoko pensa que c'était encore une des pseudo-blagues d'Alice.
 　Non, normalement, c'est ce qu'on penserait.
 　Mais Alice était sérieusement troublée.
 　C'était Aoko qui avait mis un zéro à son sens de l'humour, mais cette fois-ci, c'était bien trop romanesque pour mériter un zéro. Elle devait donc avoir raconté exactement ce qu'elle avait vu.
@@ -316,7 +316,7 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 　J'aurais dû me demander pourquoi tu es revenue après cinq heures, toi qui n'es dans aucun club et qui mets vingt minutes, entre le bus et la marche à pied, pour aller à l'école.」
 　Malheureusement, à ce moment-là, Aoko était à ce point dans la lune qu'elle ne s'était pas rendu compte qu'elle s'était endormie.
 *page72|
-「Aah—ah, tu es horrible ! On avait pourtant un accord. On devait acheter quelque chose pour celle qui restait seule à ces moments-là.
+「Aah—ah, tu es une horrible femme ! On avait pourtant un accord. On devait acheter quelque chose pour celle qui restait seule à ces moments-là.
 　Je t'ai bien acheté quelque chose la dernière fois que j'ai mangé à l'extérieur !」
 *page73|
 　Elle ne savait pas à quel point elle était sérieuse, mais Aoko était plutôt en colère.
