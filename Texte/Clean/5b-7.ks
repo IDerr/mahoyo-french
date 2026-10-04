@@ -21,7 +21,7 @@ Leur haine des humains leur vient de la rancœur du parc d'attractions et de la 
 「Hein ? Att... Shizuki ?!」
 *page4|
 　―――Elle resta sans voix devant sa réaction impromptue.
-　Sōjūrō, qui n'avait fait que suivre Aoko jusqu'à maintenant, lui prit la main de force et chargea de front le groupe de pains grillés―――En les chargeant, il comptait sur la force pour forcer leur barrage.
+　Sōjūrō, qui n'avait fait que suivre Aoko jusqu'à maintenant, lui prit la main de force et chargea frontalement le groupe de pains grillés―――En leur fonçant dessus, il comptait sur sa puissance physique pour forcer leur barrage.
 *page5|
 「Je-Je ne te comprends vraiment pas !
 　Pourquoi tu réagis comme ça après tout ce qu'on a ditーーーー?!」

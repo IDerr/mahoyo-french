@@ -164,7 +164,7 @@ Très bien, je voulais au moins te laisser réfléchir, mais on n'a plus le temp
 *page38|
 「...... Non, calme-toi Aoko. Dans un sens, c'est mieux comme ça, puisque la discussion avance.」
 　Aoko réajusta sa tenue.
-　En réalité, elle non plus n'avait pas l'intention de le restreindre comme dans une prison.
+　En réalité, elle ne comptait pas le restreindre comme dans une prison.
 　L'idée de lui interdire toute liberté et de l'enfermer dans la résidence allait à l'encontre de sa promesse à Sōjūrō.
 　Premièrement, plutôt que d'en arriver à de telles extrémités, il était plus rapide de le faire disparaître.
 　Pour Aoko, le “laisser vivre” impliquait de respecter un minimum le quotidien de l'humain appelé Shizuki Sōjūrō.

@@ -33,7 +33,7 @@
 　Kumari, il y aura peut-être des branches qui volent, alors garde la tête baissée. Aozaki fait preuve, mais seulement dans ce genre de moment, d'une étrange efficacité, alors si ça arrive, soutiens-la.」
 「Qu'est-ce que ça veut dire, ça ?」
 *page9|
-　J'acquiesçai à l'avertissement de Shizuki et sortit dehors avec Aozaki.
+　J'acquiesçai à l'avertissement de Shizuki et sortis dehors avec Aozaki.
 *page10|
 「...!」
 　La tempête s'avérait pire que prévu.

@@ -45,7 +45,7 @@ C'est quoi ça ? Des cours de rattrapage d'éducation physique ? Un marathon d'h
 「Ghé. Regarde, Shizuki ! Akabane et les autres, ils préparent des trucs rétro. Des patates douces grillées !
 　Mais faire dans le ringard, c'est un peu con. Oh, j'ai une idée, ça te dit de griller des seiches, plutôt ?」
 *page11|
-　Kimoni, qui n'avait pas l'intention de balayer depuis le début, essayait continuellement de rallier Sōjūrō à sa cause.
+　Kinomi, qui n'avait pas l'intention de balayer depuis le début, essayait continuellement de rallier Sōjūrō à sa cause.
 　L'équipe de nettoyage était divisée en plusieurs groupes, et eux deux devaient se charger de l'arrière du gymnase.
 　Sōjūrō était le leader, et Kinomi le simple troufion.
 *page12|
@@ -68,7 +68,7 @@ Bref, ce truc qui ressemble à un étang est complètement gelé !
 「Kinomi, je te le demande......」
 *page17|
 　À ce moment-là, Sōjūrō aperçut la Faucheuse derrière son partenaire.
-　Ce qu'il tenait dans la main n'était pas un balai en bambou, mais un râteau.
+　Et ce qu'elle tenait dans la main n'était pas un balai en bambou mais un râteau.
 *page18|
 「Très bien. Si t'es assez grand pour avoir pensé à amener des seiches, alors je me montrerai magnanime et je te permettrai d'en griller au moins une. Si tu veux, je pourrai même te préparer la sauce soja.」
 　Kinomi se raidit, surpris par la voix derrière lui.
@@ -80,7 +80,7 @@ Bref, ce truc qui ressemble à un étang est complètement gelé !
 「Nan. J'ai pas envie d'écouter les bobards d'un type qui s'est planqué près de l'incinérateur avec les filles. Te voir sous les tropiques en plein hiver, ça me refroidit grave.」
 *page20|
 　Croisant le balai et le râteau, les deux hommes s'échangeaient un sourire fier et hardi.
-　Même s'il n'y paraissait pas, ce duo s'entendait bien dans l'enceinte de l'école.
+　Même s'il n'en paraissait rien, ce duo s'entendait bien dans l'enceinte de l'école.
 *page21|
 「Tobimaru. Techniquement, il aide, alors ne l'embête pas s'il te plaît.」
 　Les deux garçons claquèrent de la langue, fortement contrariés, et rangèrent leurs armes.
@@ -106,14 +106,14 @@ Bref, ce truc qui ressemble à un étang est complètement gelé !
 *page26|
 　La protestation de Kinomi ne l'affecta évidemment pas.
 　Même si Tobimaru ne faisait rien, il détenait l'autorité absolue en tant que commandant de l'équipe de nettoyage.
-　S'il ajoutait quelque chose dans le dossier de Kinomi, celui-ci devrait prendre part à l'équipe de nettoyage le lendemain ainsi que le surlendemain.
+　S'il ajoutait quelque chose dans le dossier de Kinomi, celui-ci devrait prendre part à l'équipe de nettoyage du lendemain et celle du surlendemain.
 *page27|
 「Allez, on y va ! Je ne sais pas qui aime ça, mais pour une drôle de raison, il y a un tas de boîtes de haricots rouges en bouillie. Le responsable aurait pu être plus prévenant et amener au moins un manju chinois, mais bon. C'est pour remplacer les barres de chocolat à utiliser en cas d'accident ou quoi ?
 　...... Bon sang, je ne comprendrai jamais sa façon de penser.」
 　Je le trouve déjà assez prévenant comme ça, se dit Sōjūrō admiratif.
 *page28|
 「Hmm ? Quoi, t'y vas pas, Sōjūrō ?」
-「Non, je reste ici. Si c'est pour se réchauffer, il suffit de brûler des feuilles comme l'a dit Kinomi. Et il y aussi un étang. On n'aura aucun problème à éteindre les flammes.」
+「Non, je reste ici. Si c'est pour se réchauffer, il suffit de brûler des feuilles comme l'a dit Kinomi. Et il y a aussi un étang. On n'aura aucun problème à éteindre les flammes.」
 　Il avait répondu ainsi par considération envers Kinomi.
 　Tobimaru fronça les sourcils tandis que Kinomi tremblait légèrement.
 *page29|

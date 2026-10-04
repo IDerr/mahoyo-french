@@ -50,7 +50,7 @@
 　Sōjūrō évita de dire à voix haute qu'en fin de compte, c'était bien une arme, et il s'assit sur le coussin.
 *page12|
 「――――――」
-「Calme-toi un peu. D'habitude, tu es aussi lourd qu'un gros chien dur d'oreille. Il y a quelque chose qui te perturbe ?」
+「Calme-toi un peu. D'habitude, tu es aussi pataud qu'un gros chien dur d'oreille. Il y a quelque chose qui te perturbe ?」
 「..................」
 　Pour une fois, c'était Aoko qui ne se montrait pas très sagace,
 　mais comme Sōjūrō ne comprenait pas pourquoi il n'arrivait pas à se calmer, c'était autant vrai pour l'un que pour l'autre.
@@ -90,7 +90,7 @@
 「Eh bien, tu n'as pas tort.
 　Je ne me rappelle même plus combien de fois Alice a mis de la mescaline dans ta boisson. Et hier alors, elle a mélangé sans hésitation des baies de sorbier dans la salade.
 　...... Vraiment, à quoi est-ce qu'elle pense ?」
-　Aoko feuilletait son manuel avec un sourire forcé en se rappelant de ces évènements.
+　Aoko feuilletait son manuel avec un sourire forcé en se rappelant ces évènements.
 *page21|
 「Mescaline......?」
 「C'est un alcaloïde que l'on obtient à partir du cactus. Mais vu que c'est Alice qui l'utilise, ça ne doit pas être un simple hallucinogène. ...... Hop, pour moi, ça devrait suffire ici.」

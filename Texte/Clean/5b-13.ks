@@ -27,7 +27,7 @@
 *page6|
 　C'était une réaction tout à fait normale.
 　Parce que monter des montagnes russes à la seule force des bras relève plutôt du domaine du surnaturel que des plaisanteries.
-　La pression atmosphérique et la force du vent rendent l'avancée difficile
+　La pression atmosphérique et la force du vent rendent l'avancée difficile.
 　L'instinct supplie de s'arrêter, les membres s'engourdissent, les muscles s'affaiblissent, des pensées incohérentes fusent dans tous les sens. [l]Même quand on sait qu'on a une corde de sécurité, après seulement cinq mètres d'escalade, l'esprit se paralyse à cause de la peur.
 *page7|
 　De plus, ce malaise s'intensifie à chaque mètre.

@@ -16,7 +16,7 @@
 　CONFIRMATION DE LA PRÉSENCE DE DISTORSIONS DANS LE CONTINUUM ESPACE-TEMPS.
 　CONFIRMATION DE LA RENCONTRE AVEC UNE ENTITÉ HOSTILE DU PREMIER TYPE.
 *page4|
-　CHANGEMENT DE LA ZONE DE PERCEPTION : SUBJECTIVE→OBJECTIVE.
+　CHANGEMENT DE LA ZONE DE PERCEPTION : DE SUBJECTIVE VERS OBJECTIVE.
 　CHANGEMENT DU CIRCUIT AUTONOME VERS LA RÉSERVE D'ÉNERGIE,[wait canskip=0 time=1000][r]
 　ET DU CIRCUIT DE MESURE VERS L'ÉNERGIE PRINCIPALE.
 　CHANGEMENT DE LA CAMÉRA,[wait canskip=0 time=1000][r]
@@ -58,7 +58,7 @@
 *page13|
 　On pouvait entendre le léger bruissement du vent et le courant d'un petit cours d'eau.
 　Ici se trouvaient les ténèbres éternelles qui étouffaient la vie.
-　Sans mentionner les animaux, il ne pouvait pas s'y trouver de vie humaine.
+　On ne percevait pas le souffle du moindre animal, et encore moins celui d'un être humain.
 　Cependant...
 *page14|
 　Un habit noir incongru se trouvait là.
@@ -126,7 +126,7 @@
 　Puis,
 　de l'autre côté de la petite rivière dont l'eau ne montait pas plus haut que les chevilles, apparurent des choses qui, sans parler de la ville, ne devraient même pas exister en forêt.
 *page27|
-「Y a-t-il quelqu'un doué de raison cette fois ?」
+「Bonsoir. Pourrais-je parler à votre maître ?」
 　La jeune fille s'adressa à eux calmement.
 　Les deux hommes à la bouche fendue s'approchaient lentement, comme des escargots.
 *page28|
@@ -137,8 +137,8 @@
 　Et l'autre, ne pouvant plus se retenir, inclina son corps.
 *page29|
 「C'est encore un peu trop de responsabilité pour elle.
-　Et puis, vous avez beau avoir cette forme, vous semblez être de vrais Mages.」
-　Le vêtement noir ondula.
+　Et puis, en dépit de votre apparence, vous semblez être du même niveau que des Mages accomplis.」
+　Son vêtement noir ondula.
 　Dans la main droite de la jeune fille se trouvait un chat fait d'un verre plus profond que la nuit.
 *page30|
 “............?”
@@ -174,7 +174,7 @@
 　que les deux mains de l'homme à la bouche fendue étaient des ciseaux et qu'il avait l'âme d'un Kooni.
 　Un démon sans pitié qui découpait en deux les enfants qu'il attrapait.
 *page39|
-「Diddle.」
+「Tweedle.」
 『Laissez-nous faire, laissez-nous faire !』[wait canskip=0 time=600][r]
 『C'est enfin notre tour, allez hop !』
 *page40|
@@ -218,12 +218,12 @@
 　Mais ce n'était pas une raison suffisante pour être surpris.
 　Des familiers rares, une attaque des plus étranges, et un prana qui exerçait naturellement une pression sur l'adversaire.
 　Lui aussi connaissait ce genre de choses.
-　Après tout, son employeur était aussi de ce genre-là, quelqu'un d'étrange.
+　Après tout, son employeur était lui aussi de ce genre-là, quelqu'un d'étrange.
 　Seulement―――
 *page49|
 『On fait quoi ? On fait quoi ? On lui laisse combien de temps ?』
 『Pour un membre, l'affaire sera réglée en un clin d'œil !』
-『Même si le paiement est ennuyeux, si possible, je voudrais le régler en Livres !』
+『Même si le paiement est ennuyeux, si possible, je voudrais le régler en livres sterling !』
 *page50|
 　Qu'est-ce que c'était que ça ?
 　Pas des réceptacles.
@@ -280,14 +280,14 @@
 　Il n'avait plus ses bras tranchants, mais il lui restait sa plus grande malice.
 　Un Œil Mystique stoppant le cœur de la personne fixée.
 　Un Circuit Magique spécialisé uniquement dans l'arrêt des muscles du cœur.
-　C'était simple, mais c'était aussi la raison qui faisait d'eux une arme mortelle impossible à éviter si elle était utilisée à une aussi courte distance.
+　Son effet était simple, mais c'était aussi ce qui en faisait une arme mortelle et impossible à éviter si elle était utilisée à une aussi courte distance.
 *page61|
 “―――?”
 　Mais,
 　malheureusement, il ne possédait que le sens de la vue.
 *page62|
 　　　　[italic][setdefaultmessageaction type=swing]Build it up with wood and clay,[r]
-　　　　Wood and clay,Wood and clay,[r]
+　　　　Wood and clay, Wood and clay,[r]
 　　　　Build it up with wood and clay,[r]
 　　　　My fair lady.[rf][resetdefaultmessageaction]
 *page63|

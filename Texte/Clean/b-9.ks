@@ -19,7 +19,7 @@ puisqu'elle est partie depuis longtemps.」
 *page4|
 　Assis sur le banc, le prêtre fit cette révélation en souriant.
 　Pourquoi lui avait-il fait la conversation à l'instant,
-　et pourquoi avait-il résolu les problèmes d'autrui sans qu'on le lui demande ?
+　et pourquoi avait-il résolu les problèmes d'autrui sans que personne ne le lui demande ?
 　...... Ses véritables intentions étaient à présent assez claires.
 *page5|
 「C'était donc votre but depuis le début.」
@@ -47,7 +47,7 @@ puisqu'elle est partie depuis longtemps.」
 　Sōjūrō tourna les talons vers l'entrée de la chapelle.
 　Cependant,
 「Attends ! Où comptes-tu aller ?」
-　la sœur le retint de par sa seule voix.
+　la sœur le retint avec sa seule voix.
 *page10|
 　―――Un poids invisible paralysa Sōjūrō.
 　La voix de la sœur ensorcela le jeune homme et lui fit des remontrances.
@@ -60,7 +60,7 @@ Un jeune innocent comme toi ne devrait pas avoir à être témoin d'un tel malhe
 　La voix de la sœur était empreinte d'une colère sourde.
 　Celle-ci ne venait pas de l'aversion qu'elle entretenait envers Aoko et Alice, mais de la bêtise de Sōjūrō qui pensait à gâcher sa vie en dépit de tout.
 *page13|
-「S'il y avait un quelconque espoir, moi non plus, je ne t'arrêterai pas.
+「S'il y avait un quelconque espoir, moi non plus, je ne t'arrêterais pas.
 　Mais ce n'est pas le cas. Même si tu y vas, rien ni personne ne pourra les sauver.」
 *page14|
 　...... En effet, même si Sōjūrō les poursuivait, cela ne changerait rien.

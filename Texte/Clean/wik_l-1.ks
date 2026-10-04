@@ -20,7 +20,7 @@
 　Et si l'envie d'aller aux toilettes vous prend, eh bien, retenez-vous.」
 *page5|
 「............」
-　L'idée du confinement fut adoptée sans que j'aie à en faire la proposition.
+　L'idée du confinement fut adoptée sans même que j'aie à en faire la proposition.
 　Il s'agissait certes du moyen le plus sûr et simple, mais cela restait surprenant.
 *page6|
 「... Je ne peux pas utiliser ma chambre.

@@ -134,14 +134,14 @@ D'accord, il te rend fou, mais il n'y a pas plus chic type.」
 「..................」
 　À ce moment, Tobimaru pensa, pour tous les garçons de l'école qui lui vouaient un amour courageux non partagé, qu'il n'y avait aucun surnom approprié pour ce monstre.
 *page27|
-「Je vois. C'est pour ça que tu en es venu à la conversation de tout à l'heure.
+「Je vois. C'est pour cette raison que tu en es venu à la conversation de tout à l'heure.
 　Hmm, Son Altesse se soucierait-il pour une fois d'un ami ?
 　Alors, tu lui as aussi raconté toutes les rumeurs ignobles qui courent sur mon compte ?」
 　“Fufu”, ricana Aoko en affichant un sourire suspect.
 　Tobimaru se mit à se repentir auprès de Dieu, où qu'il soit, pour avoir parlé d'histoires d'amour.
 *page28|
 「C'était une bonne décision de ta part. Je te récompenserai pour ça, alors je voudrais bien savoir ce que tu lui as raconté.」
-　Il aurait aimé qu'elle arrête d'émettre une aura meurtrière tout en souriant.
+　Il aurait aimé qu'elle arrête d'émettre une aura meurtrière tout en faisant un sourire angélique.
 「...... Juste un résumé de ta vie d'étudiante et l'incident qui a eu lieu ici.」
 　Après avoir entendu la réponse timide de Tobimaru, Aoko acquiesça, satisfaite.
 *page29|
@@ -226,7 +226,7 @@ D'accord, il te rend fou, mais il n'y a pas plus chic type.」
 *page48|
 「―――Ah ?! Non, attends, attends. Je vais vraiment mourir, là ! Tu peux encore le faire ! Si tu arrives dix minutes après le début des cours, on notera juste que tu étais en retard !」
 　Aoko jeta un coup d'œil à l'horloge.
-　Il était actuellement treize heures sept. En courant, il était possible de parcourir juste à temps la distance qui séparait la salle du conseil étudiant du premier étage et la salle de la classe A au fond du deuxième étage.
+　Il était actuellement treize heures sept. En courant, il était possible de parcourir juste à temps la distance qui séparait la salle du conseil étudiant du premier étage et la salle de la classe A au bout du deuxième étage.
 *page49|
 「Tu échappes à la mort pour l'instant, Tobimaru.」
 　cracha Aoko.

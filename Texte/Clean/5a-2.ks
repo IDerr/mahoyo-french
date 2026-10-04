@@ -11,7 +11,7 @@
 　Les grands labyrinthes qui égaraient les clients par la taille des installations,[r]
 　et les palais des glaces qui les trompaient grâce à des jeux de lumière complexes.
 *page3|
-　Le grand labyrinthe divertissait bien des clients de par sa superficie et ses allures d'aventure éphémère.
+　Le grand labyrinthe divertissait bien des clients grâce à sa superficie et ses allures d'aventure éphémère.
 　Dans l'avenir, il tomberait néanmoins en désuétude, détrôné par une autre attraction plus excitante. Tel est le destin de toute chose ayant dominé son temps.
 　Les nouveautés se font immanquablement supplanter par les inventions qui les suivent.
 *page4|

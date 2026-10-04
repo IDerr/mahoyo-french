@@ -1,7 +1,7 @@
 ﻿*page0|
 　Le lendemain, à l'aube.
 　À cinq heures du matin, période à laquelle la plupart des gens dorment encore.
-　Depuis l'année précédente, les supérettes ouvertes 24h/24 apparaissaient peu à peu, mais la bonne vieille ambiance du début des années 80 restait prononcée dans le vieux quartier de Misaki.
+　Depuis l'année précédente, les supérettes ouvertes 24 h/24 apparaissaient peu à peu, mais la bonne vieille ambiance du début des années 80 restait prononcée dans le vieux quartier de Misaki.
 　Même les vendeurs de tofu, connus pour être les plus matinaux dans le quartier commerçant, n'ouvraient qu'à six heures.
 *page1|
 　En cette deuxième moitié des années 80,
@@ -182,7 +182,7 @@
 「Ça doit se mettre comme ça ? C'est serré, mais je devrais m'y habituer avec le temps.」
 　dit-il tout en ajustant malaisément la ceinture.
 　Son geste avait un côté pervers et Aoko, qui lui avait dit de la mettre, prit une teinte pivoine.
-　Peut-être parce qu'elle s'était rappelée clairement de la cicatrice qu'elle avait vue la veille.
+　Peut-être parce qu'elle s'était rappelée clairement la cicatrice qu'elle avait vue la veille.
 *page41|
 「Voilà. C'est la bonne façon de l'attacher, Aozaki ?」
 「――――――」

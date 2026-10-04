@@ -8,7 +8,7 @@
 　Probablement lassé des crocodiles, il se laissa aller sur le sofa et observa distraitement le paysage de l'autre côté de la fenêtre.
 *page2|
 　Il resta parfaitement immobile sur le sofa. Il avait toujours voulu essayer cela au moins une fois.
-　Ces trois heures à observer les crocodiles l'avaient peut-être influencé : on aurait pu croire qu'il se demandait sincèrement l'effet que cela faisait de passer toute la journée allongé.
+　Ces trois heures passées à observer les crocodiles l'avaient peut-être influencé : on aurait pu croire qu'il se demandait sincèrement l'effet que cela faisait de passer toute la journée allongé.
 *page3|
 「............」
 　Juste au moment où Sōjūrō considérait l'idée de profiter de l'occasion pour dormir sur le sofa jusqu'au retour d'Aoko et Alice, un son mystérieux et incongru pour ce manoir retentit.
@@ -27,7 +27,7 @@
 *page7|
 　Pour Sōjūrō, le vestibule à l'entrée du manoir avait la splendeur et le caractère d'une forteresse.
 　La porte à double battant était robuste. On ne pourrait pas la défoncer, à moins d'avoir recours à un bélier.
-　Et pourtant, elle craquait sous le énième coup comme si elle gémissait.
+　Et pourtant, elle craquait sous l'énième coup comme si elle gémissait.
 *page8|
 　L'adversaire semblait prêt à forcer l'entrée du château si personne ne daignait en sortir.
 　Sōjūrō avait de l'expérience dans la vente de journaux.
@@ -128,7 +128,7 @@ Moi qui pensais qu'elles ne cohabitaient que pour la forme, on dirait que ça se
 「Hmm ? En regardant de plus près, cette télé, c'est―――」
 　La femme scruta le poste de télévision 30 pouces qui jurait avec le reste du salon comme pour la dévorer des yeux. Peut-être voyait-elle rarement ce genre d'appareil.
 *page33|
-　...... Chose embarrassante, la vidéo d'Animal Land passait toujours à l'écran.
+　...... Chose quelque peu embarrassante, la vidéo d'Animal Land passait toujours à l'écran.
 　J'aurais mieux fait d'appuyer sur le bouton stop, songea Sōjūrō avec regret.
 *page34|
 「Euh, madame...」

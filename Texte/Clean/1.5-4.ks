@@ -26,7 +26,7 @@
 「Eh bien... Si le ramassage des ordures ménagères ne rapporte pas tôt ou tard de l'argent, les bénéfices engendrés seront insuffisants, pas vrai ? Ça veut dire que l'État va bientôt arrêter de s'en occuper gratuitement.」
 *page7|
 「Hein ? Qu'est-ce que tu racontes ? Les vieilles commodes se vendent bien cher, elles ! [l][chgfg storage=木乃実制服02a(近) time=300]
-Donc quelqu'un comme moi, “directement prêt à l'emploi”, finira bien par être à la mode un jour, non ?　Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
+Donc quelqu'un “directement prêt à l'emploi” comme moi finira bien par être à la mode un jour, non ?　Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
 *page8|
 「Donc, Kinomi travaille. [wait time=800 canskip=0][chgfg storage=草十郎制服04(中) time=300]Et toi, Tobimaru ?」
 「Mon heure viendra bien un jour, vous m'entendez ?」
@@ -60,7 +60,7 @@ Donc quelqu'un comme moi, “directement prêt à l'emploi”, finira bien par �
 「Hiii, mon traumatisme revient ! Je veux pas ! Même si les bagarres de la présidente sont drôles à voir, elle me fait trop flipper. [chgfg time=300 storage=木乃実制服01(近)|f textoff=0]
 En tant que garçon honnête, une belle fille récemment transférée me suffirait.
 　Hm, mais bon, une fille normale serait barbante, alors peut-être une productrice d'Hollywood, ou une grande chanteuse d'Angleterre...」
-「C'est quoi ce fantasme ? Et pourquoi pas une princesse de Mars, tant qu'on y est ?」
+「C'est quoi ce fantasme ? Et pourquoi pas une princesse de Mars, tant que t'y es ?」
 *page17|
 『Et aussi, à l'ensemble de la classe 2-C, un message de la part de M. Yamashiro.
 　“M. Yamashiro, pour diverses raisons, sera absent pour la réunion de classe, alors vous pouvez tous rentrer chez vous. Sur ce, à plus.”
@@ -264,7 +264,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 　Est-ce que vous préférez que je vous appelle Sōjūrō ?」
 「Hein, non, l'un comme l'autre me conviennent.」
 *page69|
-「Dans ce cas, je ferai comme le veut l'usage...... C'est d'un ennui, n'est-ce pas ?」
+「Dans ce cas, je ferai comme le veut l'usage...... Vraiment, quelle fastidiosité.」
 　Son ton était doux, mais les mots de la sœur étaient plutôt glacials.
 　Ses yeux avaient beau être fermés, elle conduisait Aoko et Sōjūrō d'une démarche assurée.
 *page70|
@@ -306,7 +306,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 　En tournant ses yeux par hasard vers la ville, il pouvait voir la colline verte qui le préoccupait depuis qu'il avait déménagé.
 *page79|
 「Comme je le pensais, il y a apparemment une maison dans les bois......」
-　La colline et la forêt présentes à la périphérie du vieux quartier de Misaki.
+　La colline et la forêt dense présentes à la périphérie du vieux quartier de Misaki.
 　La forêt dominant la ville insomniaque, vue d'ici, ressemblait à la forteresse d'un pays étranger.
 *page80|
 「Hein ? Tiens tiens, un voleur ?」
@@ -338,8 +338,8 @@ Dans le sens où c'était une nuisance pour les autres.
 「Alors que je passais devant l'église, j'ai vu une ombre apparemment humaine qui s'accrochait à la fenêtre. Je me suis dit qu'il serait excitant de surprendre un voleur en pleine journée, et ça m'a intriguée.
 　Mais en fait, c'était un garçon très mignon qui travaillait avec sérieux. Avec la prestance d'un expert en nettoyage de fenêtres. Ce n'est pas dans la nature humaine de vouloir aider en voyant un tel spectacle ?」
 *page88|
-　Tout en nettoyant la fenêtre voisine de Sōjūrō, la femme parlait gaiement.
-　Sōjūrō écoutait attentivement les propos de cette femme, qui auraient semblé très louche du point de vue d'une tierce personne.
+　Tout en lavant la fenêtre voisine de Sōjūrō, la femme parlait gaiement.
+　Sōjūrō écoutait attentivement les propos de cette femme, qui auraient semblé très louches du point de vue d'une tierce personne.
 　Comment dire ? Son instinct avait compris.
 　Que cette femme était une camarade de corvée à qui on confiait toujours, comme lui, les tâches les plus ingrates―――!
 *page89|
@@ -453,7 +453,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 「Hum.」
 　Sōjūrō l'accompagna du regard, le visage étonné par son changement brutal de comportement.
 　Hanasawa lui avait consacré beaucoup de temps alors qu'à la base, elle ne faisait que se promener sans but.
-　Elle avait dû se rappeler de quelque chose où elle pourrait se rendre utile, comme lorsqu'elle l'avait aidé sur un coup de tête.
+　Elle avait dû se rappeler quelque chose où elle pourrait se rendre utile, comme lorsqu'elle l'avait aidé sur un coup de tête.
 *page117|
 「Shizuki, tu es là ?」
 　La présidente du conseil étudiant montra soudainement son visage au coin de l'église.
@@ -497,10 +497,10 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 　C'est probablement une marque de remerciement à la façon de Sōjūrō, consentit-elle.
 *page128|
 「―――Au fait. [l]
-Je le demande pour le noter sur mon carnet de références, mais quels autres travails as-tu ?」
+Je le demande pour le noter sur mon carnet de références, mais quels autres emplois as-tu ?」
 「Quels autres ? Eh bien, il y en a beaucoup dans le quartier marchand. Comme chez le marchand de poissons, ou le fleuriste. Ah, mais hier, je suis allé jusque dans la ville voisine. Un travail au parc d'attractions.」
 *page129|
-　Les emplois autorisés par l'école étaient limités au quartier marchand du vieux quartier de Misaki, c'était donc la réponse à laquelle elle s'attendait.
+　Les emplois autorisés par l'école étaient limités au quartier marchand du vieux quartier de Misaki, c'était donc le genre de réponse à laquelle elle s'attendait.
 　Enfin, sauf le dernier terme employé par Sōjūrō qu'il n'aurait pas dû connaître, logiquement.
 *page130|
 「Le parc d'attractions ? Celui de Yashirogi ?!」
@@ -579,7 +579,7 @@ les gens que Sōjūrō avait connus jusqu'à présent l'avaient toujours mis en 
 *page146|
 「...... Mais j'imagine que le principe reste le même.」
 　C'était simplement que la sanction arrivait plus tardivement.
-　Si on poussait la comparaison encore plus loin, dans sa campagne, il n'y avait personne qui était chargé de la protection de l'ordre public du village.
+　Si on poussait la comparaison encore plus loin, dans sa campagne, personne n'était chargé de la protection de l'ordre public du village.
 *page147|
 　La ville, en échange d'être bienveillante avec les gens, chargeait quelqu'un de punir ceux qui ne respectaient pas les règles.
 　En montagne, crime et châtiment étaient synonymes, mais en ville, les deux étaient indépendants, et apparemment, si on commettait un délit, un étranger se chargeait de l'application de la sentence.

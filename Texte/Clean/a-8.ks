@@ -1,6 +1,6 @@
 ﻿*page0|
 　Arrivée dans le vestibule, Alice descendit du dos de Sōjūrō et se dirigea vers l'aile ouest.
-　La partie gauche du manoir, à l'ouest du vestibule, était sous sa juridiction.
+　La partie gauche du manoir, située à l'ouest du vestibule, était sous sa juridiction.
 　Cependant, elle s'écroula au sol après seulement quelques pas.
 *page1|
 「Alice......!」
@@ -80,7 +80,7 @@
 　...... Sōjūrō entendait pour la première fois la voix inquiète d'Alice.
 　Elle avait un timbre bien plus pathétique que sa voix résistant à la douleur.
 　Le téléphone répondit une simple phrase à la question d'Alice.
-　Plus faible encore que cette dernière, ces quelques mots évoquaient une flamme sur le point de s'éteindre.
+　Plus faibles encore que cette dernière, ces quelques mots évoquaient une flamme sur le point de s'éteindre.
 *page18|
 「...... Désolée... je me suis fait... avoir...」[wait canskip=0 time=400]
 *page19|

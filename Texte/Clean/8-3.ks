@@ -3,7 +3,7 @@
 　Sur le moment, Aoko ne put déterminer de qui il s'agissait.
 *page1|
 　Prise de stupeur par cet évènement soudain, elle ne faisait que regarder distraitement les rayons du soleil de l'après-midi.
-　Avec l'esprit vide, comme lorsque l'on sursaute face à un diable à ressort,
+　Avec l'esprit vide, comme lorsqu'on sursaute face à un diable à ressort,
 　ou lorsque l'on se réveille.
 　Seule la silhouette devait savoir combien de temps exactement ce mutisme dura.
 *page2|

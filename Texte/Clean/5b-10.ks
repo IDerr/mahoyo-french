@@ -217,7 +217,7 @@ Je te le répète une dernière fois, alors réfléchis bien...... Tu devrais t'
 *page48|
 　Même si elle était sarcastique, il y avait encore du doute dans les yeux d'Aoko.
 　C'était normal. Esprit combatif ou non, Aoko n'avait pas le moindre indice sur la véritable nature du Snark.
-　Si elle avait été un peu plus douée et avait acquis un peu plus d'expérience, peut-être aurait-elle trouvé un moyen pour le trouver.
+　Si elle avait été un peu plus douée et avait acquis un peu plus d'expérience, peut-être aurait-elle trouvé un moyen de l'identifier.
 *page49|
 「...... Je suis ridicule. Si au moins on avait un indice pour découvrir sa véritable nature.」
 　Elle laissa échapper son inquiétude sans y faire attention.

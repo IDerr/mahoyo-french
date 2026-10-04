@@ -32,7 +32,7 @@ La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 「Une deuxième... Aozaki......」
 　Les doigts de la star devaient mordre dans sa carotide, car les yeux de Shizuki étaient révulsés.
 *page8|
-「Fufufu. Toi, la rose. Tu n'as pas l'air d'avoir bon goût, mais si tu ne lâches pas Sōjūrō, je gobe ta tête tout rond☆」
+「Fufufu. Toi, la rose. Tu n'as pas l'air d'avoir bon goût, mais si tu ne lâches pas Sōjūrō, je gobe ta tête tout rond.」
 「Comment ? Essaie donc pour voir ! [chgfg storage=リデル02(全)|d2 quakeHMax=2 quakeVMax=0 zoom=80 time=400 textoff=0]Pff, je connais déjà ton point faible. Tu veux encore te faire prendre à ton propre jeu et te retrouver avec la taille d'une souris ?」
 *page9|
 「Oh ? Tu pensais réellement que j'étais sérieux à ce moment-là ? Ton jugement laisse franchement à désirer.

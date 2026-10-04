@@ -25,7 +25,7 @@
 　Avant qu'ils n'aient pu s'en rendre compte, le filet d'encerclement s'était resserré.
 *page6|
 　Confiant à Sōjūrō la tâche de surveiller ses arrières, Aoko retenait à grand-peine ses jurons.
-　Que Sōjūrō soit surpris et effrayé suffisait déja amplement.
+　Que Sōjūrō soit surpris et effrayé suffisait déjà amplement.
 　Aoko, quant à elle, ne pouvait pas se le permettre.
 　Elle était responsable de la situation actuelle et de lui avoir pris la main.
 　Elle ne devait pas céder si vite à la panique.
@@ -118,7 +118,7 @@
 　De son point de vue, Aoko était la brute la plus forte du parc d'attractions, capable d'éliminer tous ces monstres.
 　Il redoutait que son prana s'épuise, mais tant que ça ne serait pas le cas, elle était aussi forte que cent personnes réunies.
 *page29|
-「Ça me fait plaisir que tu aies autant confiance en moi, mais ne te réjouis pas trop vite. [l]
+「Ça me fait plaisir que tu aies à ce point confiance en moi, mais ne te réjouis pas trop vite. [l]
 Ce menu fretin n'est composé que de bric-à-brac sur pattes.
 　Par contre, contre le Snark ou les autres monstres de contes de fées d'Alice, je ne peux rien faire.」
 「D'autres monstres de contes de fées ? ...... Il y en a d'autres en plus de celui qui a transformé le parc comme ça ?」
@@ -136,8 +136,8 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 　Les pistolets automatiques et les autres trucs du même genre ne fonctionnent pas sur eux. Sûrement parce qu'ils ne comprennent pas leur nature.」
 　dit Aoko tout en montrant au même moment l'extérieur avec son doigt.
 *page33|
-「Tous les familiers d'Alice sont des mystères créés à partir de l'imagination.
-　Ce sont des choses déjà improbables en soi, c'est pourquoi elles interagissent mal avec les lois de la physique. Pour une raison très simple : l'imaginaire et la réalité ne peuvent coexister.」
+「Tous les familiers d'Alice sont des Mystères créés à partir de l'imagination.
+　Ce sont des choses déjà improbables en soi, c'est pourquoi elles interagissent mal avec les lois de la physique. Et ce pour une raison très simple : l'imaginaire et la réalité ne peuvent coexister.」
 「...... Je vois. Ces fameux hommes-pains, ce sont ces pains grillés qui bougent tout seuls, hein ?」
 　Sōjūrō ignora la majeure partie de l'explication d'Aoko et ne réagit que sur ce qui l'intéressait.
 *page34|
@@ -188,11 +188,11 @@ Alors, si jamais Alice en utilise un autre, on sera fichus.」
 Parce que d'une manière ou d'une autre, on peut tous les vaincre avec la Magie.」
 「...... Même si la réponse à cette question me fait un peu peur, qu'en est-il de ceux qui ne font pas partie de cette catégorie ?」
 *page45|
-「C'est un autre groupe créé à partir de contes de fées inspirées de Mother Goose.
+「C'est un autre groupe créé à partir de contes de fées inspirés de Mother Goose.
 　...... La mère d'Alice les aimait, vois-tu, et aucun Ploy de cette catégorie n'est ordinaire. Même les Mages n'ont pas trop envie de se frotter à eux.」
 *page46|
 「Donc, celui qui a été ramené à la vie dans ce parc appartient à ce groupe-là.
-　Je pense que c'est celui qu'on appelle Flat Snark. ...... Mais je ne faisais pas trop attention à ce qu'elle disait, alors je ne me rappelle pas de tous les détails.」
+　Je pense que c'est celui qu'on appelle Flat Snark. ...... Mais je ne faisais pas trop attention à ce qu'elle disait, alors je ne me rappelle pas tous les détails.」
 *page47|
 「――――――」
 　Il ravala le mécontentement qui lui restait en travers de la gorge.

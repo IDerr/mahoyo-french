@@ -273,7 +273,7 @@ Dans le cas présent, dis plutôt que je me contredis.」
 「Oui, c'est bien ce qu'il a dit. Que comme il y avait à peu près un mètre de distance, il avait sauté avec l'élan.」
 *page68|
 　Par chance, Aoko n'avait pas vu la scène.
-　Elle savait juste que l'une des raisons pour laquelle Sōjūrō avait fait ce saut de la mort était la Suggestion qu'elle avait appliquée sur lui.
+　Elle savait juste que l'une des raisons pour lesquelles Sōjūrō avait fait ce saut de la mort était la Suggestion qu'elle avait appliquée sur lui.
 *page69|
 　Alice, quant à elle, avait été témoin de ce spectacle depuis la tour d'horloge.
 　Cela n'avait vraiment duré qu'un instant, et pourtant,
@@ -367,7 +367,7 @@ Ce n'est pas comme si j'attendais quoi que ce soit de sa part.」
 　Le deuxième moyen était d'agir par l'intérieur.
 “Mais en fait, il est plus rapide de s'attaquer à la personne elle-même. Si on n'a pas de charme, alors il faut compter sur une artillerie alléchante.
 　―――Oui ! Ce sont les cadeaux, mon petit Shizuki !”[r]
-　Autrement dit, une attaque surprise. Et un coup critique.
+　Autrement dit, une attaque-surprise. Et un coup critique.
 　Celui-ci semblait consister à faire changer d'avis la personne ciblée en lui faisant un cadeau très onéreux.
 *page92|
 　Sōjūrō trouvait cette stratégie magnifique.
@@ -384,7 +384,7 @@ Ce n'est pas comme si j'attendais quoi que ce soit de sa part.」
 　Il était juste de faire des efforts pour se faire aimer.
 　Mais Sōjūrō pensait qu'il y avait des étapes pour cela.
 *page95|
-　Cela lui rappelait la fois où, longtemps auparavant, il était entré sur le territoire d'un renard inopiné.
+　Cela lui rappelait la fois où, longtemps auparavant, il était entré inopinément sur le territoire d'un renard.
 　À ce moment-là, il avait abandonné un peu de nourriture qu'il avait sur lui, mais par la suite, la présence du renard avait disparu.
 　La bonne foi, l'amabilité, dépendaient des personnes.
 　Une bonne foi arbitraire pouvait parfois devenir un lourd fardeau.

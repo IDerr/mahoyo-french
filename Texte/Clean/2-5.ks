@@ -33,7 +33,7 @@
 *page8|
 「Vous êtes sûr ? Je n'ai pas encore fait le nettoyage des toilettes.」
 「C'est bon, c'est bon. Tu vois, elle est dans un angle mort de la caméra, alors pour le moment, je ne suis sûr de rien.
-　Mon Petit Sō, jusqu'à maintenant, ton taux de capture était de 100 %, pas vrai ? Tu veux bien aller voir ?」
+　Mon petit Sō, jusqu'à maintenant, ton taux de capture était de 100 %, pas vrai ? Tu veux bien aller voir ?」
 　“Dans ce cas, très bien”, répondit Sōjūrō avant de ranger son matériel de nettoyage et de se diriger vers le premier étage.
 *page9|
 　La salle de pachinko se situait dans un bâtiment classique à deux niveaux et était relativement vaste.
@@ -51,7 +51,7 @@
 *page12|
 　Il monta au premier étage.
 　Le bruit que faisaient les machines et la radio y était plus faible qu'à l'étage en dessous.
-　Contrairement au rez-de-chaussée et à ses cent appareils, le nombre de machines au premier étage était d'environ quatre-vingts. Il y avait des sièges vides ici et là, mais pour une soirée, le nombre de clients était convenable.
+　Contrairement au rez-de-chaussée et à ses cent appareils, le premier étage comptait environ quatre-vingts machines. Il y avait des sièges vides ici et là, mais pour une soirée, le nombre de clients était convenable.
 　La quarantième machine dont avait parlé le manager était dans l'allée centrale.
 　En s'approchant lentement du mur faisant face à l'entrée de l'allée, il remarqua effectivement une cliente en train de gagner le jackpot dans un vacarme assourdissant.
 *page13|
@@ -141,11 +141,11 @@
 *page29|
 「Non, ce n'était pas pareil.
 　Cette fois-là, je m'étais mis à pleurer à chaudes larmes.」
-　Se rappelant de son incroyable traumatisme d'enfance, Sōjūrō se mit à rire nerveusement.
+　Se rappelant son incroyable traumatisme d'enfance, Sōjūrō se mit à rire nerveusement.
 *page30|
 　Il était certain que n'importe qui ferait une syncope si une bête de plus de deux mètres apparaissait lentement en grognant.
 　Pour illustrer l'impact que ça avait eu sur quelqu'un qui avait vécu en montagne comme Sōjūrō : il avait peur des bêtes sauvages au point d'avoir l'illusion que le monstre géant qu'il avait vu il y a peine deux jours dans un film était une peluche.
-　En se rappelant de ça, il se dit qu'il pouvait peut-être s'accommoder d'une histoire pareille, d'une façon ou d'une autre.
+　En se rappelant ça, il se dit qu'il pouvait peut-être s'accommoder d'une histoire pareille, d'une façon ou d'une autre.
 *page31|
 「...... C'est vrai. Le problème présent...... C'est peut-être la phrase que j'ai entendue : “L'attraper et lui régler son compte” ?」
 　Si on devait le prendre à la lettre, c'était donc au sens propre.

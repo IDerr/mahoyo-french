@@ -24,7 +24,7 @@
 「Ben, c'était une erreur de calcul. J'aime ce genre de barouf. Je veux mener une vie amusante, tu vois ?」
 「Pardon ? Quelle déception.」
 *page6|
-　Tout en disant cela sérieusement, je me rappelai du premier indice qui m'avait fait réaliser que je l'aimais.
+　Tout en disant cela sérieusement, je me rappelai le premier indice qui m'avait fait réaliser que je l'aimais.
 　Tsukiji était vraiment une personne incroyable.
 　Pourtant, il gâchait ses compétences.
 　Pour je ne savais quelle raison, il n'avait pas envie de prestige ou de s'améliorer.
@@ -78,7 +78,7 @@
 「Ah oui―――Et les autres ?」
 　Je fouillai dans mon sac de voyage et regardai s'il n'y avait pas quelque chose qui pourrait servir au cas où.
 　Les outils que j'avais apportés pour faire de la cuisine chinoise pouvaient m'être utiles.
-　J'hésitai entre ma wok préférée et mes couteaux de cuisine chinois, mais je jetai finalement mon dévolu sur la casserole.
+　J'hésitai entre mon wok préféré et mes couteaux de cuisine chinois, mais je jetai finalement mon dévolu sur la casserole.
 *page19|
 　Je sortis dans le couloir.
 　L'air y était plus froid que dans la chambre.

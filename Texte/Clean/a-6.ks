@@ -79,7 +79,7 @@
 　Les paroles qu'avait prononcées Alice quelques minutes auparavant représentaient le meilleur appel au secours dont elle était capable.
 *page17|
 　Alice, qui voulait encore moins impliquer Sōjūrō dans cette histoire qu'Aoko elle-même, ne lui avait pas demandé d'aide même dans sa situation désespérée.
-　...... Et pourtant, à la toute dernière seconde, elle avait appelé au secours,
+　...... Et pourtant, à la toute dernière seconde, elle l'avait appelé au secours,
 　lorsque d'une voix faible, elle avait prononcé son nom, à ce moment-là.
 *page18|
 「Où ?」

@@ -42,7 +42,7 @@
 　Nous sommes tous aussi louches les uns que les autres. Ce serait un débat interminable.」
 *page10|
 「... Mon innocence et celle de père Eiri ont pourtant été établies, il me semble ?」
-「Les détails de votre venue à la résidence sont inconnus, si je ne m'abuse ?
+「Les détails de votre venue à la résidence ne sont pas tous connus, si je ne m'abuse ?
 　Alice est venue vous accueillir parce qu'elle a entendu vos voix, pas vrai ? Personne ne peut certifier où vous étiez avant ça.」
 *page11|
 「Oui. Si on parle strictement de possibilités, Eiri, Yui et moi pouvons très bien être complices.」

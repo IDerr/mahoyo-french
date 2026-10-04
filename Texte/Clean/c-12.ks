@@ -12,10 +12,10 @@
 　Il n'était pas sûr de lui.
 　Que faisait-il avant de dormir ?
 　Et tout d'abord, pourquoi dormait-il ?
-　Il ne se rappelait de rien.
+　Il ne se souvenait de rien.
 　C'était comme s'il s'était réveillé dans son lit alors qu'il venait de passer la porte d'entrée pour sortir.
 *page3|
-　Sa mémoire était tellement brouillée qu'il lui fallut un certain temps ne serait-ce que pour se rappeler de qui il était.
+　Sa mémoire était tellement brouillée qu'il lui fallut un certain temps ne serait-ce que pour se souvenir de qui il était.
 　Il n'avait que deux souvenirs vivaces :[l][wait canskip=0 time=400][r]
 　celui d'une femme inconnue,[l][wait canskip=0 time=400][r]
 　et de la fine          qu'il avait à son cou.[wait canskip=0 time=400]
@@ -61,7 +61,7 @@
 「...... Shizuki, que s'est-il passé dans ton sommeil ?」
 　La question posée sur un ton serein s'apparentait à un sort envoûtant un voyageur.
 　Comme ensorcelé, Sōjūrō plongea dans l'océan de sa mémoire.
-　Durant quelques instants de silence, ils restèrent immobiles sur la colline d'une blancheur immaculée comme deux frère et sœur.
+　Durant quelques instants de silence, ils restèrent immobiles sur la colline d'une blancheur immaculée comme un frère et une sœur.
 *page14|
 「...... Je crois avoir entendu une voix. [l]
 Elle avait l'air de me demander quelque chose. Mais en fin de compte, je n'ai rien répondu.」

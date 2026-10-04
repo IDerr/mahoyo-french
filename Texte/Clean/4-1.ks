@@ -8,7 +8,7 @@
 　Les Mages modernes n'ont pas pour habitude de faire rêver les gens.
 *page2|
 　Ce sont des êtres hors normes et pourtant réalistes.
-　Même s'ils ont l'air d'être tout-puissants, ils sont en fait assez étroits d'esprit.
+　Même s'ils ont l'air tout-puissants, ils sont en fait assez étroits d'esprit.
 　Et même si je suis encore un peu inexpérimentée pour m'en vanter, ma véritable nature ne correspond pas à celle d'une étudiante mais à cette fable des plus romanesques.
 *page3|
 　Mais bien sûr, c'est un secret.
@@ -76,7 +76,7 @@
 　Il n'y a pas tant de gens que ça qui rôdent à cette heure-ci dans le parc, et on peut facilement en déduire qui pouvait y être.」
 *page21|
 「Ce sera vraiment aussi simple ?」
-「Oui. Je ne suis pas présidente du conseil étudiant pour rien. J'avais déjà réuni toutes ces informations. [l]
+「Oui. Je ne suis pas présidente du conseil étudiant pour rien. J'avais déjà réuni toutes les informations nécessaires. [l]
 J'ai vérifié non seulement là où ils travaillent au cours du mois, mais aussi le temps qu'ils mettent pour se rendre chez leurs amis proches, et même leurs principaux centres d'intérêt.
 　J'aurais préféré ne pas montrer cette liste à qui que ce soit, mais on ne pouvait pas se permettre un tel luxe. C'est pour ça que j'ai confié ce travail à mon vice-président, il est fait pour ça.」
 *page22|
@@ -117,7 +117,7 @@ J'ai vérifié non seulement là où ils travaillent au cours du mois, mais auss
 　répondit Alice, d'une voix malgré tout sans intonation.
 *page31|
 　Une Barrière représente un monde fermé.
-　On appelle Barrière un périmètre dans lequel la zone que l'on veut enfermer est isolée du monde extérieur, peu importe la méthode employée.
+　On appelle Barrière un périmètre dans lequel la zone que l'on veut enfermer est isolée du monde extérieur, quelle que soit la méthode employée.
 　Il y en a plusieurs genres,
 　et en pratique, si certaines isolent physiquement la zone par un mur,
 　il y en a aussi d'ordre visuel qui camouflent ce qui se passe à l'intérieur avec des miroirs, du brouillard ou encore une forêt comme délimitation.

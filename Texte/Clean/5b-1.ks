@@ -98,7 +98,7 @@
 　elle bougea son doigt fin comme pour désigner une pièce d'échecs.
 *page19|
 “Hein ?”
-　Alors qu'il avait été témoin d'un Automate et qu'Aozaki Aoko avait attenté sa vie, Sōjūrō écarquilla les yeux devant ce “phénomène”.
+　Alors qu'il avait été témoin d'un Automate et qu'Aozaki Aoko avait attenté à sa vie, Sōjūrō écarquilla les yeux devant ce “phénomène”.
 　...... La témérité d'Aoko. Une marionnette qui bouge toute seule.
 　Même s'ils n'étaient pas franchement habituels, ces évènements tiraient leur origine de ce qui existait dans la réalité. À ses yeux, ça paraissait surprenant mais ça n'avait rien d'étrange.
 *page20|
@@ -162,7 +162,7 @@
 *page33|
 　Aoko, comme pour se donner du courage, avança à nouveau d'un demi-pas.
 　Maintenant, elle ne pouvait plus faire marche arrière. Il ne s'agissait plus d'une dispute à propos d'un témoin oculaire sans importance.
-　Leur semblant d'amitié était basée sur une égalité spirituelle, malgré la différence de niveau entre elles.
+　Leur semblant d'amitié était basé sur une égalité spirituelle, malgré la différence de niveau entre elles.
 　C'était bien pour cela―――que si “elle” voulait s'imposer, elle ne pourrait pas faire de compromis ou la tromper.
 *page34|
 「Bien sûr. Même si je dois te tuer, je laisserai cet idiot en vie. Et puis―――」

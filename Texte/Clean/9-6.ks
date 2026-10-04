@@ -49,7 +49,7 @@ Je te jure, cette petite n'a jamais été sujette à l'hésitation.」
 「Oui. C'est moi qui l'ai mis.」
 「Ce n'est pas ce que je voulais dire. Qui te l'a offert ? Aoko ? Ou bien Kuonji ?」
 「Il vient d'Aoko.」
-　“Je vois”, murmura Tōko d'un air satisfait en entendant sa réponse claire.
+　“Je vois”, murmura Tōko d'un air satisfait en entendant sa réponse directe.
 *page13|
 「...... En d'autres termes, tu es la propriété d'Aoko.」
 　Son murmure était glacial. Tellement que l'ambiance amicale qui régnait jusque-là subit un changement radical.[r]
@@ -257,7 +257,7 @@ Les humains sont des êtres robustes. Ils peuvent très bien se débrouiller mê
 　La solution à son problème devait venir d'elle-même ou de la personne qui l'obsédait, et de personne d'autre.
 *page62|
 「..................」
-　L'assertion du jeune dépassait l'instinct pour atteindre la conviction.
+　L'assertion du jeune homme dépassait l'instinct pour atteindre la conviction.
 　Tōko retira ses doigts du collier et repoussa Sōjūrō vers le sofa.
 *page63|
 「Je vois. Dans ce cas, tu ne me laisses pas le choix.

@@ -22,7 +22,7 @@
 　Soit dit en passant, j'ai envoyé mes invitations à [movepartbg opacity=255 srcleft=436 srctop=177 vcenter=271 time=400 accel=0 storage=black center=220 id=pb6 textoff=0]Ritsuka et [wact canskip=0][movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Beo.」[wact canskip=0]
 *page5|
 「Moi à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=220 id=pb1 textoff=0][wact canskip=0]Eiri, [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=423 time=400 accel=0 storage=black center=220 id=pb2 textoff=0][wact canskip=0]Yuika, [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=800 id=pb4 textoff=0][wact canskip=0]Kinomi et [movepartbg opacity=255 srcleft=445 srctop=203 vcenter=423 time=400 accel=0 storage=black center=800 id=pb3 textoff=0]Tobimaru.」[l][wact canskip=0][r]
-「Et moi à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=220 id=pb1 textoff=0]Kumari, [wact canskip=0]celle qui restait à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=423 time=400 accel=0 storage=black center=220 id=pb2 textoff=0]monsieur Yamashiro et [wact canskip=0]une autre à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Celle-Dont-Je-Ne-Peux-Vraiment-Pas- Prononcer-Le-Nom.」[wact canskip=0]
+「Et moi à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=220 id=pb1 textoff=0]Kumari, [wact canskip=0]celle qui restait à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=423 time=400 accel=0 storage=black center=220 id=pb2 textoff=0]monsieur Yamashiro et [wact canskip=0]une autre à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Celle-Dont-Je-Ne-Peux-Vraiment-Pas-Prononcer-Le-Nom.」[wact canskip=0]
 *page6|
 「Je vois, le compte est bon.
 　Au fait Sōjūrō, tu ferais mieux d'avouer avant de te faire gronder, non ?[r]
@@ -40,9 +40,9 @@
 　... Comme d'habitude, il lui manque une case, à ma frangine.」
 「... Quoi qu'il en soit, étant donné que Tōko a reçu une invitation, il est fort possible qu'elle soit venue.」
 *page10|
-「Oui. Et je voudrais que vous vous rappeliez du moment où on a découvert que la ligne du téléphone avait été coupée.
+「Oui. Et je voudrais que vous vous rappeliez le moment où on a découvert que la ligne du téléphone avait été coupée.
 　À ce moment-là, le parquet du vestibule était couvert de flaques d'eau.
-　Nous ne sommes pas sortis une seule fois depuis qu'il s'est mis à pleuvoir.
+　Or, nous ne sommes pas sortis une seule fois depuis qu'il s'est mis à pleuvoir.
 　Du coup, j'ai cru que ces traces étaient l'œuvre de Riddell arrivée juste avant l'incident, mais elle n'était pas du tout mouillée par la pluie.
 　En d'autres termes,」
 *page11|

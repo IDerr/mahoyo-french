@@ -164,7 +164,7 @@ comme pour dire que le baiser lui avait fait bien plus de mal que la douleur res
 　Tōko se mit en marche sans se retourner vers ce regard plein d'aigreur, suivie du loup doré.
 *page34|
 「Ah. C'est vrai, j'ai oublié de te dire une dernière chose.
-　C'est à propos des chiens sauvages que Beo a appelés. Il y en a encore un tas à l'extérieur du parc et―――malheureusement, ils semblent se rappeler du régime alimentaire qu'ils sont censés suivre.
+　C'est à propos des chiens sauvages que Beo a appelés. Il y en a encore un tas à l'extérieur du parc et―――malheureusement, ils semblent se rappeler le régime alimentaire qu'ils sont censés suivre.
 　Ils ont dû être stimulés par la sauvagerie de Beo. Après tout, il est dans la nature des bêtes d'obéir à plus fort qu'elles.」
 *page35|
 　Elle avait annoncé son arrêt de mort de façon détournée.

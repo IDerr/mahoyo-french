@@ -80,7 +80,7 @@
 　La progression des fourmis s'arrêta.
 　Loin, très loin de mon bras droit, tout près de mon cœur.
 　Sans avoir à utiliser ma vue, je pouvais distinguer l'intrus se dissimulant dans les ténèbres.
-　L'ombre se trouvant à trente pieds derrière moi sur la droite, avec les quatre pattes au sol, leva la main droite comme pour faire un signe―――
+　L'ombre à trente pieds derrière moi sur la droite, avec les quatre pattes au sol, leva la main droite comme pour faire un signe―――
 「―――Ici !」
 　L'attaque de l'ennemi et ma réaction furent quasi synchrones.
 *page20|

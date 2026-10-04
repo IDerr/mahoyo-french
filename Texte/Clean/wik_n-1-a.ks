@@ -55,7 +55,7 @@
 　L'individu apparut devant moi.
 *page12|
 「Aah―――」
-　Je ne ressentai ni peur ni colère.
+　Je ne ressentis ni peur ni colère.
 　J'observai paisiblement le serial killer de cette nuit orageuse.
 *page13|
 　Ses deux yeux brillaient dans les ténèbres.

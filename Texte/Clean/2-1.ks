@@ -82,7 +82,7 @@
 *page20|
 「C'est vrai, viens Shizuki ! Aujourd'hui, c'est le festival des conserves que vous attendiez tant !」
 「...... Tu t'es enfin décidé à mettre ton plan à exécution......? Dis, tu pourrais pas te calmer un peu......」
-「Idiot, ce sera sûrement trop amusant ! C'est vrai que ça pue la pâtée pour chat, mais au moins, tu peux manger du crabe en conserve à volonté ! Et c'est pas du maquereau !」
+「Espèce d'idiot, ce sera sûrement super amusant ! C'est vrai que ça pue la pâtée pour chat, mais au moins, tu peux manger du crabe en conserve à volonté ! Et c'est pas du maquereau !」
 *page21|
 「Vraiment ?! Super ! Moi aussi, je participe ![r]
 　Tout le monde prend un bœuf salé ? Ou alors, le plus rapide l'emporte ?」

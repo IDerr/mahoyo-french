@@ -33,7 +33,7 @@
 *page8|
 「―――[ruby char="Connexion" text="Set"].」
 　Elle injecta son prana dans son Circuit Magique.
-　...... Celui étant court-circuité, la circulation sanguine, l'approvisionnement de prana, n'était pas du tout stable.
+　...... Celui étant court-circuité, la circulation sanguine et l'approvisionnement de prana n'étaient pas du tout stables.
 　Dans ces conditions, il était difficile de préparer un sort.
 　Pour résumer, elle n'avait qu'une seule possibilité : imprégner sa main droite de son prana et augmenter ainsi sa solidité. [l]La seule arme qu'elle pouvait recréer pour l'heure était un marteau, son bras fin étant ainsi devenu une arme contondante moins large qu'une batte. Et comme le prérequis à son emploi était de se rapprocher, son usage était des plus risqués.
 *page9|
@@ -68,7 +68,7 @@
 　Aah, mais elle avait l'impression que quelqu'un faisait ramper ses doigts sur la peau de son cou. L'illusion dans son dos souriait en la regardant.
 　Alors qu'elle était déjà à un pas de s'enfuir, elle se vit perdre deux fois en dix batailles après une simulation mentale de cinq secondes.
 *page16|
-　...... Deux fois. Parfois, ses prédictions étaient plus réalistes que la réalité.
+　...... Deux fois. Parfois, ses prédictions étaient plus réalistes que la réalité elle-même.
 　...... Sur dix combats, deux fois. L'image ne s'arrêtait pas. Elle voyait ses propres cadavres, trop réels.
 *page17|
 「――――――」

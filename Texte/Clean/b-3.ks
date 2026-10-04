@@ -32,7 +32,7 @@
 　Je lui demande souvent de me faire des réductions chez le marchand de poissons,
 　ou de m'aider à porter mes affaires,
 　et parfois, on boit le thé ensemble...... On est comme des amies femmes au foyer ?」
-「C'est incompréhensible. Ritsuka, vous n'êtes pas mariée, si je ne m'abuse ?」
+「C'est incompréhensible. Ritsuka, vous n'êtes pas mariée, il me semble ?」
 　Bien sûr, Sōjūrō n'était pas une femme au foyer non plus, mais pour le moment, la question du mariage de la femme semblait passer avant lui.
 *page7|
 「Ouah, c'est ça que tu relèves...... Al, c'est bizarre que tu ne sois intransigeante qu'avec moi, tu ne trouves pas ?」
@@ -162,7 +162,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 　―――Aaah.
 　L'anesthésie et les analgésiques n'avaient donc aucun effet.
 *page35|
-　À chaque seconde, les tout nouveaux bandages s'imbibaient de vermillon.
+　À chaque seconde, les tout nouveaux bandages s'imbibaient un peu plus de vermillon.
 　Cinq ongles s'enfonçaient dans les draps.
 　Son visage se tordait de douleur.
 　Si elle était en vie, l'anesthésie n'ayant pas d'effet, elle devait être consciente.

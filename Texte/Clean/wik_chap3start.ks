@@ -83,7 +83,7 @@
 「Je suis d'accord avec Ritsuka. Veuillez garder cette méthode en dernier recours, voulez-vous Yuika ? N'oubliez pas que Tsukiji et Kumari sont aussi avec nous.」
 *page21|
 「Vous pouvez attendre un peu avant de vérifier les alibis ?
-　Avant cela, je voudrais qu'on nous explique les particularités de... Sweets Hearts, c'est ça ? En détails.
+　Avant cela, je voudrais qu'on nous explique les particularités de... Sweets Hearts, c'est ça ? En détail.
 　Kuonji, dis-nous ce que tu sais.
 　On connaît ses règles, mais on n'a aucune idée de ce à quoi il ressemble.」
 *page22|
@@ -112,7 +112,7 @@
 「Non, c'est plutôt étrange. Le coupable a clairement l'intention de nous faire rire, non ? Or, s'il n'en a pas conscience, c'est un peu...」
 *page29|
 「Sweets Hearts et l'humain qu'il remplace peuvent échanger leur personnalité comme si on appuyait sur un interrupteur.
-　En temps normal, il a la personnalité de son utilisateur, mais lorsque des conditions propices à l'exécution des règles se présentent, et à ce moment seulement, la personnalité de Sweets Hearts remonte à la surface.
+　En temps normal, il a la personnalité de son utilisateur, mais lorsque des conditions propices à l'exécution des règles se présentent, et à ce moment seulement, la personnalité de Sweets Hearts refait surface.
 　Bien sûr, la personnalité de l'humain qu'il remplace perd tous les souvenirs du moment où il devient Sweets Hearts.」
 *page30|
 　... Ces conditions étaient absurdes.

@@ -41,7 +41,7 @@
 　Et sur le chemin qu'ils empruntaient à présent, les attendait un énorme groupe de monstres.
 *page9|
 「Oui, je les ai évités de justesse !」
-　cria Sōjūrō à Aoko, tout en se rappelant de la situation dangereuse où il avait failli perdre son cou.
+　cria Sōjūrō à Aoko, tout en se rappelant la situation dangereuse où il avait failli perdre son cou.
 *page10|
 「Ah, devant ! Hein ? C'est quoi ça ? Ils viennent de sortir du four ?!」
 「On dirait bien. En gros, de la chair à canon !」

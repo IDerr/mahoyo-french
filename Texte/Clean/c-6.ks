@@ -13,7 +13,7 @@
 *page2|
 “...... Je dois... me souvenir......”
 　Il fouilla désespérément dans sa mémoire.
-　Il se rappelait plus ou moins de la scène jusqu'au moment où il avait abattu ses griffes.
+　Il se rappelait plus ou moins la scène jusqu'au moment où il avait abattu ses griffes.
 　Le point crucial se situait après cet instant.
 　Comment un piètre humain avait-il pu avoir raison de lui, alors qu'il pouvait résister à un tir de canon en fonction de sa forme ?
 *page3|

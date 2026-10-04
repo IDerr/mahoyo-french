@@ -3,7 +3,7 @@
 *page1|
 「On peut enfin dormir.
 　Je vous souhaite une bonne nuit !」
-　Ristuka disparut au premier étage de l'aile ouest.
+　Ritsuka disparut au premier étage de l'aile ouest.
 *page2|
 「... Je vais aussi me coucher.
 　Shizuki, utilise la chambre de père Eiri. La tienne sera inutilisable jusqu'au lever du soleil.」

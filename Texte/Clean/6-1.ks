@@ -53,10 +53,10 @@
 　Après tout, les humains portent leurs attentes, non pas sur le passé, mais sur le présent.
 　Il arriverait un jour où les souvenirs du passé se feraient engloutir par les immeubles.
 　Ça n'avait rien de cruel ou d'inhumain.
-　Si leur disparition inéluctable était prévisible, alors pour l'heure, il n'y avait qu'à rêver de souvenirs dont on pouvait facilement se rappeler.
+　Si leur disparition inéluctable était prévisible, alors pour l'heure, il n'y avait qu'à rêver de souvenirs qu'on pouvait facilement se rappeler.
 *page11|
 　Que ce soit en montagne ou en ville, les journées durent toujours un instant.
-　Même le lendemain, on ne trouve nulle part le même paysage que la veille.
+　Même le lendemain, on ne voit nulle part le même paysage que la veille.
 　............
 　Elle ne lui laissa pas le temps de s'attrister davantage.
 　Les souvenirs lointains et nostalgiques étaient magnifiques, mais s'en retrouvaient par conséquent éphémères.

@@ -145,8 +145,8 @@ Les types de Magie comme les Runes ou la Kabale représentent chacune une matiè
 　Au contraire, la Vraie Magie n'a que des limites―――en fait, elle ne permet de faire qu'une seule chose, mais c'est normal. Après tout, ce n'est qu'un seul point lumineux exclu du fonctionnement de cet univers.」
 *page36|
 「...... D'après ce que tu me dis, je devine que la Vraie Magie est plus incroyable encore que la simple Magie. [l]
-Mais ça n'a que des limites, c'est ça ?」
-「Des limites ou plutôt, c'est une sorte d'exception, de privilège voire d'abus.
+Mais ça n'a que des limites, c'est bien ça ?」
+「Des limites ou plutôt, c'est une sorte d'exception ou de privilège, voire d'abus.
 　Elle n'est pas à multi-usage, mais du moment qu'elle rend possible ce qui est impossible pour tous, le monde des Mages la considère comme toute-puissante.」
 *page37|
 「En premier lieu, la Vraie Magie est comme une récompense pour les Mages ayant atteint le “Tourbillon de la Source”. Et même si ces Mages n'ont pas les capacités requises pour l'utiliser, le simple fait de posséder un chemin vers la Source leur permet de faire ce qu'ils veulent sur le plan de la Magie.

@@ -57,7 +57,7 @@
 *page13|
 「    ......? Attends,     ―――!」
 　Elle serra dans ses bras le chaton,[r]
-　et se précipita chez son grand-père qui vivait à l'intérieur de la montagne.
+　et se précipita chez son grand-père qui vivait plus à l'intérieur de la montagne.
 　Tremblait-elle à cause de ses remords,
 　ou était-elle confuse à cause de sa tristesse ; honnêtement, même maintenant, je ne le sais pas.
 *page14|
@@ -87,11 +87,11 @@
 *page20|
 　Elle ne parvenait pas à comprendre ce qui s'était passé.
 *page21|
-　Pendant ce laps de temps de dix minutes, malgré ce qu'elle avait expérimenté,
+　Pendant ce laps de temps de dix minutes, malgré ce qu'elle avait vécu,
 　les gens qu'elle avait rencontrés,
 　ou ce qu'elle avait fait, elle était revenue au point de départ, incapable d'assumer ses responsabilités.
 　La seule chose dont elle était sûre, c'était qu'une vie destinée à mourir ne pouvait être sauvée,
-　　　　「Hé―――Il y a quelqu'un ici ?」
+　　　　「Euh―――Il y a quelqu'un, ici ?」
 　et que ce jour-là,
 　la fille que “je” suis est née par erreur.
 *page22|

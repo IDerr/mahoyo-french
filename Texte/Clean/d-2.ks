@@ -75,7 +75,7 @@
 　Sōjūrō sombra alors dans le silence.
 　Les explications d'Aoko ne l'avaient pas particulièrement déprimé, il avait simplement l'air de chercher désespérément quelque chose.
 　Le chemin nocturne se prolongeait.
-　Aoko avait tenté à sa façon d'endurer le silence que seuls leurs bruits de pas brisaient, mais elle finit par atteindre ses limites et ouvrit la bouche.
+　Aoko avait tenté à sa façon d'endurer le silence que seuls leurs bruits de pas brisaient, mais elle finit par atteindre ses limites et commença à parler.
 *page19|
 「Sōjūrō, dis quelque chose pour passer le temps.」
 「...... Tu me poses une colle. Je n'ai rien à dire.」

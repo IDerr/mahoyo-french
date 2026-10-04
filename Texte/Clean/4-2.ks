@@ -26,9 +26,9 @@
 　Ce n'est pas quelqu'un de bien, c'est juste qu'il est tête en l'air !
 　...... Et puis, il doit avoir un problème s'il ne s'énerve pas après tout ce que je lui ai dit.」
 *page7|
-　Elle se rappela de ce qui s'était passé le jour même dans la salle du conseil étudiant.
+　Elle se rappela ce qui s'était passé le jour même dans la salle du conseil étudiant.
 　Malgré la décision arbitraire d'Aoko, Sōjūrō était parti sans vraiment protester.
-　Rien qu'en se rappelant de son visage indifférent, Aoko avala sans mâcher son hanpen entamé.
+　Rien qu'en se rappelant son visage indifférent, Aoko avala sans mâcher son hanpen entamé.
 *page8|
 『...... Hm. Qu'est-ce qu'il voulait dire avec son “tu comprends”...』
 　La réponse de Sōjūrō et ce qu'on lui avait dit à la fin de son enfance s'entremêlèrent.

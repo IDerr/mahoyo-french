@@ -138,7 +138,7 @@ Parce que même quand elle est vraiment énervée, elle se force à sourire. Je 
 La joie que l'on procure aux gens semble compenser la mauvaise conscience.」
 『J'connais cette citation. Mais ça sonne bizarrement faux...』
 *page35|
-　Cela ne l'enchantait guère, mais Aoko était d'accord avec le rouge-gorge.
+　Cela ne l'enchantait guère, mais Aoko était plutôt d'accord avec le rouge-gorge.
 　Il s'agissait des paroles d'un célèbre [ruby char="homme d'affaires" text="Dale Carnergie"],
 　et la citation exacte devait être :
 　“Si nous désirons trouver le bonheur, arrêtons de nous soucier de la gratitude ou de l'ingratitude et donnons, simplement pour le plaisir de donner.”
@@ -329,7 +329,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 　Les membres de la famille Tsukiji, qui dirigeaient la région en tant que représentants des temples shintô, avaient besoin des capitaux de Kimekuni,
 　tandis que ce dernier avait besoin de leurs relations pour s'implanter dans la ville de Misaki.
 *page80|
-　Les deux partis s'étaient unis pour le profit, mais la famille Tsukiji avait fait une erreur de calcul : les compétences de management de l'homme qu'elle avait accueilli avec réticence pour un temps n'avaient rien d'ordinaire.
+　Les deux partis s'étaient unis pour le profit, mais la famille Tsukiji avait fait une erreur de calcul : les compétences de management de l'homme qu'elle avait accueilli en son sein avec réticence pour un temps n'avaient rien d'ordinaire.
 　Kimekuni, censé se trouver au bas de l'échelle en tant que gendre, avait développé l'industrie de Misaki, et de là, créé de nombreuses compagnies à l'extérieur de la ville.
 *page81|
 　Il dirigeait l'intérieur de la ville et avait pris le contrôle de ses environs par ses propres moyens, sans l'aide des Tsukiji.
@@ -404,7 +404,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 　Toutefois, ses frères qui avaient à peu près son âge lui vouaient une haine différente des adultes.
 　Probablement à cause des persécutions qu'ils lui avaient fait subir par le passé, ou du retournement de leur situation.
 『Il nous rendra forcément la pareille un jour.』
-　Effrayés de la sorte, ils ne pouvaient apparemment plus ignorer Tobimaru.
+　Effrayés par cette perspective, ils ne pouvaient apparemment plus ignorer Tobimaru.
 *page100|
 「...... Et en plus, ils savent pas préparer le terrain.
 　Si seulement ils s'en prenaient à moi avec la même audace qu'Aozaki, ce serait plus palpitant.」
@@ -670,7 +670,7 @@ pendant que moi, je te prête assistance tout en me préoccupant de lui en tant 
 　Tobimaru fronça les sourcils d'un air préoccupé.
 　Plus il réfléchissait, plus son mauvais pressentiment s'accentuait. Son visage commençait à afficher une grimace lugubre.
 *page166|
-「Qu'y a-t-il, Tobimaru ? Tu t'es rappelé de quelque chose ?」
+「Qu'y a-t-il, Tobimaru ? Tu t'es rappelé quelque chose ?」
 「...... Oui, juste un truc. En y repensant, je connais un idiot qui roule lui aussi sur l'or de manière inexpliquée dernièrement.
 　Depuis trois jours, il jette son argent par les fenêtres et organise des rencontres arrangées sans arrêt...... Là où le bât blesse, c'est que l'idiot en question est dans la même classe que Sōjūrō.」
 *page167|
@@ -854,7 +854,7 @@ Et puis, il n'y a pas beaucoup de jeunes de notre âge comme lui qui connaissent
 *page212|
 「...... Ah oui, c'est vrai. J'étais tellement absorbée par les explications de Kinomi que j'en ai oublié l'argent.
 　Mais dans ce cas, c'est quand même pas―――」
-「Si. S'il faisait partie des gens escroqués, il ne ferait que perdre de l'argent.
+「Si. S'il faisait réellement partie des gens escroqués, il ne ferait que perdre de l'argent.
 　...... Mais s'il en gagne, c'est une autre histoire. Je n'ose pas l'envisager, mais Sōjūrō ne serait pas en réalité de mèche avec les vendeurs ?」
 *page213|
 「...... Je n'arrive pas à y croire. Sōjūrō... serait devenu... l'un des membres... du groupe d'escrocs―――?」
@@ -914,7 +914,7 @@ Comme ça risque de partir en bagarre, dis-leur de venir bien équipés !」
 　Elle avait l'air d'un caïd chargeant le camp ennemi.
 *page227|
 「Mino ? Le chef des supporters ?![r]
-　Et en plus, avec vingt personnes ? Qu'est-ce que t'as l'intention de faire ?!」
+　Et en plus, avec vingt personnes ? Qu'est-ce que t'as l'intention de faire au juste ?!」
 *page228|
 「C'est évident, non ? Un assaut frontal !
 　Chercher un moyen légal est bien trop naïf ![r]
@@ -955,7 +955,7 @@ C'est vrai. Même si chaque victime négocie avec eux séparément, ça ne leur 
 OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 「Quoi ? Avec ce plan, on n'a pas besoin des supporters, pourtant ?」
 *page238|
-「On a besoin d'eux, je te dis. Pas seulement pour jouer les gros durs. Il vont aussi servir d'intermédiaires avec les vieux.
+「On a besoin d'eux, je te dis. Pas seulement pour jouer les gros durs. Ils vont aussi servir d'intermédiaires avec les vieux.
 　Ces types ont l'air menaçants, mais en fait, ils sont gentils, pas vrai ? Pour utiliser le délai de réflexion, il faut absolument coucher tout ça sur papier. Ils se chargeront donc de remplir toute la paperasse à la place des vieux.」
 *page239|
 「Je vois, c'est une bonne idée ! C'est l'attaque par le nombre. Ces types ne s'attendent certainement pas au retour d'une vingtaine d'articles !」
@@ -994,7 +994,7 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 　Sur trente victimes, seules une ou deux rempliraient ces conditions.
 　Dans ce cas, elle n'avait pas d'autre choix que de trouver une faille dans la loi capable de préserver les droits des consommateurs autre que le délai de réflexion.
 *page248|
-「...... Voyons, voyons... Dans le cas où un produit bon marché a été vendu à un prix immérité, le contrat peut être invalidé pour délit de mœurs résultant sur des bénéfices excessifs... Cela dit, les mœurs seront prises comme bien-fondé... C'est quoi cette histoire ? Il n'y a quasiment que le vendeur qui y gagne quelque chose !
+「...... Voyons, voyons... Dans le cas où un produit bon marché a été vendu à un prix injustifié, le contrat peut être invalidé pour profit abusif... Cela dit, cette invalidation doit être fondée sur les bonnes mœurs... C'est quoi cette histoire ? Il n'y a quasiment que le vendeur qui y gagne quelque chose !
 　Les tribunaux ont pour principe de ne pas inculper sur de simples soupçons, alors ce n'est pas en palabrant qu'on en tirera quelque chose de positif.」
 *page249|
 　Mais la situation était préoccupante.
@@ -1006,7 +1006,7 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 　Aoko se fourra dans le crâne toutes les données rassemblées, avec la même concentration que lors du bachotage de fin de semestre.
 *page251|
 「Me voilà. Pour le moment, j'ai apporté l'adresse de dix victimes supplémentaires et leurs matelas.」
-「Merci. Je te reconnais bien là. Une fois lancée, tu travailles vraiment vite et bien.」
+「Merci. Je te reconnais bien là, Kumari. Une fois lancée, tu travailles vraiment vite et bien.」
 *page252|
 　Kumari Kojika, secrétaire du conseil étudiant, remit la liste des victimes à Aoko qui s'empressa d'appeler le bipeur de Tobimaru.
 　L'appareil ne pouvait émettre que de simples messages comme “demande communication”, mais cet équipement était décisif à une époque où l'on dépendait encore des cabines téléphoniques pour communiquer.
@@ -1023,11 +1023,11 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 *page255|
 「Mais tout de même, tu es forte pour en avoir appris autant. En un clin d'œil, tu as trouvé vingt personnes correspondant au profil.」
 *page256|
-「Les caractéristiques que tu m'as indiquées étaient faciles à comprendre.
+「Les caractéristiques que tu m'as indiquées étaient plutôt faciles à comprendre.
 　J'avais juste à chercher des personnes de plus de soixante ans, vivant seules et ne faisant pas partie d'une association de quartier. C'est le même procédé qu'utilisent les vendeurs d'“Authentique Lumière”.
 　Mais je ne pense pas que le problème sera résolu si facilement.
 　Le mieux qu'on puisse faire à l'heure actuelle, c'est de protes―――[wait time=500 canskip=0][chgfg storage=金鹿私服01(近)|c2 time=300]Aozaki ?[r]
-　Hé ! C'est quoi ce sourire sinistre ?」
+　Dis donc, c'est quoi ce sourire sinistre ?」
 *page257|
 　Aoko releva la tête après que son amie lui eut fait cette remarque.
 「Eh bien, j'ai trouvé quelque chose de très intéressant.
@@ -1375,7 +1375,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
 　Personne n'aura jamais une vie parfaite.
 　Dans ce cas, il ferait partie de ceux qui ont réussi leur vie s'il pouvait dire dans son dernier souffle qu'il avait eu une existence plaisante, un sourire aux lèvres.
 *page339|
-「...... Je te jure, ça doit être l'influence d'Aozaki. C'est comme un pari hasardeux. Je suis sûr qu'elle adore Bonny & Clide.」
+「...... Je te jure, ça doit être l'influence d'Aozaki. C'est comme un pari hasardeux. Je suis sûr qu'elle adore Bonnie & Clyde.」
 　“Ma parole...” fit Tobimaru en se grattant la tête.
 　Lui qui était si pessimiste un an auparavant se permettait à présent de parler sur un ton prétentieux.
 *page340|
@@ -1412,7 +1412,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
 　Elle aura trouvé une raison d'être bien plus honorable que de rémunérer un faux petit-fils.」
 *page347|
 「Par contre,[r]
-　si finalement, elle se sent satisfaite et veut te confier le reste de l'argent,
+　si malgré tout, elle se sent satisfaite et décide de te confier le reste de l'argent,
 　alors c'est toi qui auras gagné.
 　En conclusion, son petit-fils aura été plus important. Alors, tu pourras rentrer la tête haute avec le pactole.」
 *page348|
@@ -1502,7 +1502,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
 　Puis Alice sortit une note avec encore plus de précaution.
 　Sur le papier, apparemment écrit à la hâte, se succédaient un nombre phénoménal de commandes, sachant qu'elles étaient destinées à trois personnes―――
 *page369|
-「Que―――Pas, pas, pas, pas possible ! Tu as déjà passé la commande ?!」
+「Que―――Pas, pas, pas, pas possible ! Tu as déjà envoyé la commande ?!」
 「...... C'est que... je pensais qu'il était temps qu'il nous offre un bon repas...」
 　Alice, la tête baissée, regardait Sōjūrō d'un œil vaguement accusateur.
 *page370|

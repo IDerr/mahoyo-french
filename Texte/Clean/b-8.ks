@@ -84,7 +84,7 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 　Sōjūrō ne répondit rien.
 　Le prêtre ignora la grimace du garçon et continua.
 *page19|
-「Je sais vaguement à quel point la vie en montagne peut être rigoureuse. Dans ma jeunesse, j'y ai eu un accident à cause d'une petite faute d'inattention.
+「Je sais vaguement à quel point la vie en montagne peut être rigoureuse. Moi-même, dans ma jeunesse, j'y ai eu un accident à cause d'une petite faute d'inattention.
 　La vie y est extrêmement modeste. Après tout, on consacre tout son temps à survivre et uniquement à ça. On ne vit pas pour être heureux, mais seulement pour vivre. Le quotidien se restreint au strict nécessaire, si ce n'est moins.」
 *page20|
 「Comparée à la vie en montagne, la vie urbaine ne ressemble probablement ni plus ni moins qu'à un paradis.

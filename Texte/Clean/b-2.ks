@@ -3,7 +3,7 @@
 　tandis que l'entrée de l'hôpital était à peine éclairée, alors qu'il devait veiller et se préparer à tout accident imprévu.
 　Ils se trouvaient dans le quartier d'Aida, lieu presque dépourvu de divertissements.
 　Les cas d'urgence en pleine nuit étaient très rares,
-　et cette fois, la blessée grave ne pouvait être prise en charge par l'hôpital.
+　et cette fois, la blessée grave ne pouvait pas être prise en charge par l'hôpital.
 *page1|
 　Il était presque une heure du matin.
 　Ils stoppèrent la bicyclette à l'extérieur et se dirigèrent vers l'église.

@@ -65,7 +65,7 @@
 　Elle se trouvait dans un défilé d'étoiles sans fin où toute chose, sauf elle, était suspendue.
 *page13|
 　Aussitôt,
-　elle se sentit stupide de visiter cet endroit sans apporter aucune réponse.
+　elle se sentit stupide de visiter cet endroit sans apporter la moindre réponse.
 *page14|
 　　　　　　　　　　　　　　　―――Aah, encore.
 　Cette fois c'est sûr, cette silhouette rouge arrive.

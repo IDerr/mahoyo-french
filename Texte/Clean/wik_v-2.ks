@@ -17,7 +17,7 @@
 *page4|
 「Shizuki...! C'é... C'était toi le coupable...?!」
 「Exact. [wait canskip=0 time=400]Nous [wait canskip=0 time=400]l'avons fait ! [wait canskip=0 time=400]Nous l'avons fait !」
-「Tu peux arrêter avec ton jeu d'acteur.」
+「Tu peux arrêter ton numéro.」
 *page5|
 　J'endurai l'engourdissement de mes membres et donnai un coup à ses stupides lunettes.
 　Que cette farce ait fonctionné était vraiment incroyable.

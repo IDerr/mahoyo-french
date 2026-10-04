@@ -83,7 +83,7 @@ Même les dauphins n'ont aucune excuse.」
 　Mais bon, c'est sûrement parce qu'elles sont moins populaires,
 　pensa Aoko en s'avisant de ne pas exprimer son opinion à voix haute. Elle en avait décidé ainsi par délicatesse envers Alice.
 *page18|
-「Par ici, Alice. Avec ces tickets, on n'a pas besoin de faire la queue aux distributeurs.
+「Par ici, Alice. Avec ces tickets, on n'a pas besoin de faire la queue aux distributeurs.」
 　Une minute après la polémique sur les tortues géantes,
 　elles remirent les tickets offerts par Sōjūrō à l'accueil et se dirigèrent vers l'entrée déserte.
 　Tout en contraste avec la couleur bleue de l'entrée, le couloir s'étendant depuis la porte était long et sombre.
@@ -166,7 +166,7 @@ J'ai même gagné contre le Saint-Bernard.」
 *page34|
 　...... La croisière pédestre se déroula ainsi pendant une heure.
 　Avec le nombre impressionnant d'expositions, l'entrecroisement des couloirs formait comme un labyrinthe qui les conduisit soudainement au niveau supérieur.
-　Comme elles savaient qu'elles se trouvaient au dernier étage, même Aoko fut étonnée en découvrant la structure en deux couches de l'aquarium.
+　Comme elles savaient qu'elles se trouvaient au dernier étage de l'immeuble, même Aoko fut étonnée en découvrant la structure en deux couches de l'aquarium.
 *page35|
 　On avait probablement construit le véritable dernier étage de façon à ce qu'il ne soit accessible qu'à partir de l'aquarium.
 　L'effet de surprise ajoutait du charme à toute attraction.

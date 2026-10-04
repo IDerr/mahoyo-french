@@ -1,6 +1,6 @@
 ﻿*page0|
 　Quand elle arriva devant la porte principale, la pluie battante avait faibli.
-　Au loin dans le ciel, on pouvait voir les rayons du soleil qui se dissimulaient.
+　Au loin dans le ciel, on pouvait apercevoir les rayons du soleil qui se dissimulaient.
 　À ce rythme, la pluie cesserait peut-être en début d'après-midi.
 *page1|
 「...... Même si ça ne m'importe pas vraiment.」
@@ -33,7 +33,7 @@
 　C'était peut-être pour cela que ceux-ci l'appréciaient davantage que les autres enseignants.
 *page7|
 　Il avait de la conversation et un timbre de voix suave.
-　Il ressemblait plus à un collègue sur qui on pouvait compter qu'à un enseignant, mais malheureusement pour lui, elle ne l'aimait pas énormément.
+　Il ressemblait plus à un camarade sur qui on pouvait compter qu'à un véritable enseignant, mais malheureusement pour lui, elle ne l'aimait pas énormément.
 *page8|
 　Un enseignant avait pour devoir de rester posé.
 　Aux yeux des élèves, tel un mur abrupt à franchir, il devait susciter l'admiration et la haine. Et ne pas être confondu, même par erreur, avec...... un grand frère souriant dans un lieu de détente. Telle était son opinion.
@@ -170,7 +170,7 @@
 *page40|
 　Le fait qu'il n'avait jamais utilisé l'électricité signifiait qu'il ne connaissait même pas la moitié de l'étendue de la civilisation actuelle.
 『Quel anachronisme consternant, il ne vient même pas de l'après-guerre mais d'avant.[r]
-　Comment peut-on encore vivre comme Robinson Crusoé à notre époque......!』
+　On dirait Robinson Crusoé......!』
 　Elle était bien obligée d'éprouver ce ressentiment.
 *page41|
 　Apparemment, ce village en pleine montagne était depuis longtemps un hameau isolé.
@@ -410,7 +410,7 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 *page98|
 　Avec un air montrant qu'il ne serait jamais tenté par ce genre de mauvaise intention, il répondit :
-「Ah oui, Shizuki Sōjūrō, j'imagine. Et vous êtes Mlle Aozaki, c'est bien ça ?」
+「Ah oui, Shizuki Sōjūrō, j'imagine. Et vous, vous êtes Mlle Aozaki, c'est bien ça ?」
 　souriant sans raison apparente, les dents serrées.
 *page99|
 「Pas besoin d'être aussi poli, ce n'est pas mon style.
@@ -438,7 +438,7 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 　Quelle qu'en soit la raison, c'était humain d'être encore plus touché lorsque l'on était ignoré.
 　Même si depuis tout à l'heure, le fait de faire chou blanc avec les piques qu'elle lui lançait la rendait morose, Aoko effectua son travail avec sérieux en l'invitant à la suivre dans le couloir.
 *page104|
-　Le couloir sans fenêtres ne recevait aucun rayon de soleil et était désert.
+　Le couloir sans fenêtres n'était éclairé par aucun rayon de soleil et était désert.
 　Si la salle de conférence rappelait une grotte naturelle, le couloir évoquait quant à lui une prison créée par l'homme.
 　Il représente bien mon humeur actuelle, pensa Aoko tout en soupirant à nouveau.
 *page105|
