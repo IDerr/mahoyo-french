@@ -76,7 +76,7 @@
 　Sōjūrō n'avait rien sur la conscience, et pourtant, il détourna inconsciemment les yeux.
 *page18|
 「Quelque chose, comme quoi ?」
-「Tu as bien dit que tu ne te rappelais pas bien, non ? En plus, tu avais l'air d'être dans la lune. [chgfg textoff=0 storage=青子特殊03b(近)|h time=500]...... Ah je vois. Si tu te rappelais de ce qui s'est passé jusqu'à ce qu'elle retire ses lunettes, c'est qu'elle a dû te fixer avec ses Yeux Mystiques.」
+「Tu as bien dit que tu ne te rappelais pas bien, non ? En plus, tu avais l'air d'être dans la lune. [chgfg textoff=0 storage=青子特殊03b(近)|h time=500]...... Ah je vois. Si tu te rappelais ce qui s'est passé jusqu'à ce qu'elle retire ses lunettes, c'est qu'elle a dû te fixer avec ses Yeux Mystiques.」
 *page19|
 　Après avoir fait part de la conclusion à laquelle elle avait abouti au terme de son raisonnement, Aoko sombra dans le silence comme si cela ne l'intéressait plus.
 　Seul Sōjūrō se sentait perdu.

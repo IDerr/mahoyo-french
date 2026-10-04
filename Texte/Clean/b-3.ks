@@ -83,7 +83,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 「Mais tu veux quand même la voir.」
 「Oui.」
 　Sōjūrō répondit par réflexe aux paroles de Ritsuka.
-　Ritsuka poussa un soupir face à la méprise du garçon due à son inexpérience [se storage=se11021 volume=70]et lui céda le passage à contrecœur.
+　Ritsuka poussa un soupir face à la méprise du garçon due à son inexpérience, [se storage=se11021 volume=70]et lui céda le passage à contrecœur.
 *page18|
 「Je t'en prie.
 　C'est la quatrième chambre en prenant la porte qu'Alice a empruntée.

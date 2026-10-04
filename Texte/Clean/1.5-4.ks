@@ -440,7 +440,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 *page113|
 「Bien, bon travail.
 　Hum, qui pourrait croire qu'il y avait toute cette terre sur les fenêtres avant !
-　Qu'est-ce que tu dirais d'aller à présent dans un salon de thé décent ? Pour récompenser ton comportement travailleur, c'est moi qui réga―――[chgfg storage=律架02b(全)|g zoom=60 time=300 textoff=0]」
+　À présent, que dirais-tu d'aller dans un salon de thé décent ? Pour récompenser ton comportement travailleur, c'est moi qui réga―――[chgfg storage=律架02b(全)|g zoom=60 time=300 textoff=0]」
 *page114|
 「Oui ? Vous avez dit quelque chose, Mlle Hanasaw―――」
 「Non, désolée. Je viens de me rappeler d'une affaire urgente.

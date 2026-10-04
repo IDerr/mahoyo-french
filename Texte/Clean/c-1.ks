@@ -209,7 +209,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 　Cependant, elle n'avait pas bougé d'un centimètre.
 　Un cercle bleu commençait à tourner à l'endroit où elle avait disparu.
 *page46|
-　C'était un [ruby char="sort de haut niveau à quatre versets" text="Force To Force"] qui nécessitait l'activation du Sceau Magique.
+　C'était un [ruby char="sort de haut niveau à quatre versets" text="Force To Fourth"] qui nécessitait l'activation du Sceau Magique.
 　Pour Tōko qui ne disposait que de Runes à action unique―――
 　et qui ne pouvait même pas acquérir de Magie qui dépassait deux versets, rivaliser avec ce torrent de prana était chose impossible―――!
 *page47|

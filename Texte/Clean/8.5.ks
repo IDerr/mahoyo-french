@@ -139,7 +139,7 @@ La joie que l'on procure aux gens semble compenser la mauvaise conscience.」
 『J'connais cette citation. Mais ça sonne bizarrement faux...』
 *page35|
 　Cela ne l'enchantait guère, mais Aoko était plutôt d'accord avec le rouge-gorge.
-　Il s'agissait des paroles d'un célèbre [ruby char="homme d'affaires" text="Dale Carnergie"],
+　Il s'agissait des paroles d'un célèbre [ruby char="homme d'affaires" text="Dale Carnegie"],
 　et la citation exacte devait être :
 　“Si nous désirons trouver le bonheur, arrêtons de nous soucier de la gratitude ou de l'ingratitude et donnons, simplement pour le plaisir de donner.”
 *page36|

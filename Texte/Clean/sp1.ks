@@ -453,7 +453,7 @@
 「Oui. Il y a peu. Je suis arrivée furtivement, dans le genre père Noël passant par la fenêtre.
 　Ah, j'imagine que tu t'en doutes, mais mon but est de pulvériser cette ville.[r]
 　Afin de tirer une bonne fois pour toutes un trait sur mon passé, je suis venue parfaitement préparée.
-　Et donc, je vais me faire ces gêneurs de l'Association et de l'Église avant qu'ils ne me repèrent.」
+　Et donc, je vais me faire ces gêneurs de l'Association et de l'Église avant qu'ils ne me repèrent ☆」
 *page110|
 「Tiens donc ? C'est vraiment aimable de ta part... Hein ?
 　Attends Tōko, tu parles de moi là ![r]

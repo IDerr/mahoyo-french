@@ -34,7 +34,7 @@
 *page8|
 「... C'est un peu tard pour demander ça,
 　mais tu es plutôt acerbe en général. Alors, pourquoi est-ce que tu parles normalement avec moi ?」
-「Hm ? [wait canskip=0 time=800][chgfg storage=鳶丸私服b01(全)|a2 zoom=80 time=300]C'est parce que j'éprouve du respect pour quelqu'un comme toi qui a dû te battre tout seul pendant six ans sans jamais compter sur ses parents ou sur les profs.」
+「Hm ? [wait canskip=0 time=800][chgfg storage=鳶丸私服b01(全)|a2 zoom=80 time=300]C'est parce que j'éprouve du respect pour quelqu'un comme toi qui as dû te battre tout seul pendant six ans sans jamais compter sur ses parents ou sur les profs.」
 *page9|
 「――――――」
 「À plus. On se verra dans le vestibule demain matin.」
