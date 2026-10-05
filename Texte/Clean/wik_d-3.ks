@@ -25,7 +25,7 @@
 　Le soleil allait bientôt se coucher.
 　Si je rentrais avant la tombée de la nuit, la journée devrait se terminer comme si de rien n'était.
 　Je craignais de faire face à Tsukiji et de voir ma volonté faiblir alors que l'examen d'entrée à l'université souhaitée approchait.
-　C'est pour le mieux, me répétai-je en descendant la colline de Shiroinuzaka.
+　C'est pour le mieux, me répétai-je en descendant la colline de Shiroinuzuka.
 *page7|
 　―――Pendant la descente,
 　une autre légende que l'on racontait aux enfants me revint en mémoire.

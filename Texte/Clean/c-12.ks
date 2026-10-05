@@ -159,7 +159,7 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 　L'allure qu'il avait, tandis qu'il semait des pétales blancs derrière lui, évoquait la vaillance dont il avait fait preuve face au loup-garou.
 　Alice se contenta de le regarder sans chercher à le retenir.
 　...... Une image traversa alors son esprit.
-　Celle du jeune homme dévalant la colline de Shiroinuzaka pour aider une certaine personne lors de cette fameuse nuit enneigée.
+　Celle du jeune homme dévalant la colline de Shiroinuzuka pour aider une certaine personne lors de cette fameuse nuit enneigée.
 *page34|
 　Sōjūrō entra dans l'école.
 　Le vacarme et les lumières de désolation s'échappaient depuis un moment des lieux. L'endroit évoquait à présent une pierre tombale sur le point de s'écrouler, mais rien de tout cela ne l'intimida un instant.

@@ -56,7 +56,7 @@
 *page15|
 「Bon, tant pis, je vais vous conduire au manoir, malgré le gêneur.
 　C'est votre première fois au manoir Kuonji ?」
-「Oui. Les habitants des environs ne s'approchent pas vraiment de Shiroinuzaka. Et avec ce qu'il s'est passé cet été...」
+「Oui. Les habitants des environs ne s'approchent pas vraiment de Shiroinuzuka. Et avec ce qu'il s'est passé cet été...」
 「Il m'est arrivé de m'en approcher.
 　Après tout, cette montagne est comme une terre sainte pour les enfants du coin.」
 *page16|
@@ -170,7 +170,7 @@ Très bien, je suis d'accord pour l'université Mizora ! C'est l'université loc
 　“Je ne vois aucun problème à inviter les amis de Shizuki.”
 　Je n'aurais jamais cru qu'une telle phrase sortirait de la bouche d'Alice.」
 *page42|
-　Un portail se dressait au cœur de la colline Shiroinuzaka comme pour refouler tout visiteur.
+　Un portail se dressait au cœur de la colline Shiroinuzuka comme pour refouler tout visiteur.
 　Aozaki ouvrit la porte en fer sans avoir à la déverrouiller.
 　La porte était une frontière ; la forêt semblait dégager une aura différente entre l'intérieur et l'extérieur des murs.
 　Je―――

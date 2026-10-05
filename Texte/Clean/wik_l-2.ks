@@ -33,7 +33,7 @@
 *page9|
 　La fille en rose s'écria avec force et se rendit dans le couloir.
 *page10|
-『Allô. Papa ? C'est moi. Envoie tout de suite l'hélico jusqu'à Shiroinozuka du vieux quartier de Misaki. Oui, ce quartier-là. [l]
+『Allô. Papa ? C'est moi. Envoie tout de suite l'hélico jusqu'à Shiroinuzuka du vieux quartier de Misaki. Oui, ce quartier-là. [l]
 [chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?! Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu la dernière fois ! Ce n'était qu'un match nul ! [l]
 [chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
 *page11|
