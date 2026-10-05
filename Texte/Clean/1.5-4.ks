@@ -443,7 +443,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 　À présent, que dirais-tu d'aller dans un salon de thé décent ? Pour récompenser ton comportement travailleur, c'est moi qui réga―――[chgfg storage=律架02b(全)|g zoom=60 time=300 textoff=0]」
 *page114|
 「Oui ? Vous avez dit quelque chose, Mlle Hanasaw―――」
-「Non, désolée. Je viens de me rappeler d'une affaire urgente.
+「Non, désolée. Je viens de me rappeler une affaire urgente.
 　Je dois filer à présent, ciao～」
 　Lorsque Sōjūrō se retourna alors qu'il rangeait les échelles, la femme courait dans la rue principale à la vitesse de la lumière.
 *page115|

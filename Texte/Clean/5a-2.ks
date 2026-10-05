@@ -24,7 +24,7 @@
 　ce n'était pas une raison pour combiner les deux attractions.
 　Dans ces conditions, ce n'était plus un labyrinthe qui divertissait ses visiteurs, mais un territoire démoniaque qui emprisonnait les personnes qui s'y aventuraient.
 　Bien évidemment,
-　ce fameux territoire démoniaque était le château de Kitsy Land Mistery Tour.
+　ce fameux territoire démoniaque était le château de Kitsy Land Mystery Tour.
 *page6|
 　Au total, 5 % des visiteurs avaient demandé de l'aide aux employés.
 　Le bâtiment, qu'on avait bâti sur le modèle des châteaux occidentaux, faisait cent mètres de profondeur et était en outre divisé en trois étages.

@@ -774,7 +774,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 「“Attends, c'est quoi cette aura de jeune filleーーーーーー?!”」
 　Beo avait-il crié ces quelques mots ? Cela restera un mystère.
 　L'odeur inconsistante s'était comme évaporée.
-　Son employeur était complètement redevenue elle-même et s'était éclipsée vers le quartier animé.
+　Son employeuse était complètement redevenue elle-même et s'était éclipsée vers le quartier animé.
 *page186|
 「“..................”」
 　*snif* *snif*, Beo reniflait.
