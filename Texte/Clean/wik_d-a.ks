@@ -46,15 +46,15 @@
 　Avec monsieur Yamashiro et le groupe de l'église, le chemin du retour devrait être sûr, même en pleine nuit, mais en dépit de cela, la pluie battante intensifiait mon anxiété.
 *page13|
 「...... Il serait temps d'entamer les derniers préparatifs.
-　Où est Tokki ?」
+　Où est Tokkii ?」
 　À la fin d'une énième partie, Kuonji tint des propos étranges.
 *page14|
-「Tokki ? C'est qui Tokki ?」
+「Tokkii ? C'est qui Tokkii ?」
 「Ben, c'est le vieux Tokitsu. Tiens......?
 　Kojika, t'as pas salué le vieux ?」
 「Je ne savais pas qu'il était là. Il y a encore d'autres gens dans cette maison......? Je demande ça un peu tard, mais combien de personnes sont prévues à cette fête ?」
 *page15|
-「Si on compte Aoko, Shizuki, Tsukiji, Kinomi, Tokki, toi, moi et les autres, cela fait au total treize personnes.
+「Si on compte Aoko, Shizuki, Tsukiji, Kinomi, Tokkii, toi, moi et les autres, cela fait au total treize personnes.
 　Néanmoins, nous n'avons pas encore été une seule fois tous ensemble dans la même pièce.」
 「Treize, hein?」
 　Un, deux, trois, me mis-je à compter.

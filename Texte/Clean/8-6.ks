@@ -2,7 +2,7 @@
 　Mais pour dire la vérité,
 　depuis ce matin, Kuonji Alice était terriblement en colère.
 *page1|
-　Depuis qu'elle avait vérifié l'ensemble des Pivots de Misaki et qu'elle était rentrée de Toukawa par le premier train, elle avait décidé qu'aujourd'hui, tant que le soleil ne serait pas couché, elle lirait et lirait encore des livres dans le salon, jusqu'à ce que les lettres deviennent des dessins sans signification.
+　Depuis qu'elle avait vérifié l'ensemble des Pivots de Misaki et qu'elle était rentrée de Tōkawa par le premier train, elle avait décidé qu'aujourd'hui, tant que le soleil ne serait pas couché, elle lirait et lirait encore des livres dans le salon, jusqu'à ce que les lettres deviennent des dessins sans signification.
 　Cette volonté d'acier ne pouvait être brisée simplement parce que d'autres personnes se trouvaient dans le salon.
 　De plus, puisqu'elle était la maîtresse du manoir, il serait absurde qu'elle s'enferme dans sa chambre pour Sōjūrō.
 *page2|

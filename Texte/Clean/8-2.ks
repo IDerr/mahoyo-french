@@ -71,8 +71,8 @@
 　Elles ne réagirent pas non plus aux salutations de Sōjūrō.
 　Seule Alice lui lança un coup d'œil.
 *page18|
-「Alors, le Pivot de Toukawa ? Comme il est blanc, il devrait avoir du mal à s'en emparer, hein ?」
-「...... En effet. Pour le moment, Toukawa n'est pas endommagé, mais la situation n'est quand même guère reluisante, maintenant que le Pivot voisin de Suzuho a été détruit.[r]
+「Alors, le Pivot de Tōkawa ? Comme il est blanc, il devrait avoir du mal à s'en emparer, hein ?」
+「...... En effet. Pour le moment, Tōkawa n'est pas endommagé, mais la situation n'est quand même guère reluisante, maintenant que le Pivot voisin de Suzuho a été détruit.[r]
 　Il devrait trouver bien plus rapidement la position des Pivots restants, à présent.」
 「Je vois. Maintenant qu'il en a trouvé un, les autres vont tomber les uns après les autres.
 　...... J'ai compris. C'est nous qui l'avions sous-estimé. Vu la tournure des évènements, la bataille de position devrait continuer encore une semaine environ.」

@@ -73,7 +73,7 @@
 　Ce fut ainsi que l'unique parc d'attractions de Misaki, bien que regretté par les habitants du quartier, termina sa courte vie.
 *page18|
 　...... Par ailleurs,[wait canskip=0 time=800][r]
-　c'est une autre histoire, mais on raconte que l'artiste (autoproclamé) résidant à Paris et à l'origine du design de Kitsy-chan, M. Tokki Yuurihi, aurait brisé son pinceau en se lamentant sur la fermeture du parc.
+　c'est une autre histoire, mais on raconte que l'artiste (autoproclamé) résidant à Paris et à l'origine du design de Kitsy-chan, M. Tokkii Yurihiko, aurait brisé son pinceau en se lamentant sur la fermeture du parc.
 *page19|
 　Revenons au présent.
 　À minuit, Kitsy Land ne laissait rien paraître de son ancienne gloire.

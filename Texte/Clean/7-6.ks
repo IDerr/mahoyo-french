@@ -156,7 +156,7 @@
 *page38|
 「Aozaki. Qu'en est-il de tes parents ?」
 　Sōjūrō posa sur le coup la question à laquelle il avait pensé.
-「Ils sont vivants. Ce sont les propriétaires d'un endroit appelé Toukawa, à quatre gares en partant du vieux quartier de Misaki. C'est mon grand-père qui me tient lieu de maître, mais maintenant, il est retraité et vit sur la même parcelle de terre que mes parents.」
+「Ils sont vivants. Ce sont les propriétaires d'un endroit appelé Tōkawa, à quatre gares en partant du vieux quartier de Misaki. C'est mon grand-père qui me tient lieu de maître, mais maintenant, il est retraité et vit sur la même parcelle de terre que mes parents.」
 *page39|
 「...... Hmm. Dit comme ça, ça ressemble à une famille normale.」
 　Comme c'était une famille de Magiciens, Sōjūrō s'était vraisemblablement imaginé quelque chose de plus sensationnel.

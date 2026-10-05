@@ -21,7 +21,7 @@
 　Il n'en restait plus que deux.
 　De nouvelles pertes signeraient la défaite d'Aoko et Alice.
 　Pour protéger les Pivots restants, elles n'avaient pas d'autre choix que d'agir séparément.
-　De force inférieure, Aoko avait emprunté l'un des Ploy d'Alice et s'était rendue au Pivot de Tōgawa qui se targuait de fournir le meilleur apport en prana.
+　De force inférieure, Aoko avait emprunté l'un des Ploy d'Alice et s'était rendue au Pivot de Tōkawa qui se targuait de fournir le meilleur apport en prana.
 　Parfaitement équipée, Alice était partie pour le Pivot de Yashirogi.
 *page5|
 　Tard dans la nuit, libérée du joug de la société civilisée,
@@ -31,7 +31,7 @@
 　Il serait bientôt dix heures du soir.
 　Depuis le départ des deux filles, deux heures s'étaient déjà écoulées.
 *page7|
-　Lorsqu'Aoko s'était rendue au pivot de Tōgawa, Sōjūrō l'avait accompagnée jusqu'au vestibule.
+　Lorsqu'Aoko s'était rendue au pivot de Tōkawa, Sōjūrō l'avait accompagnée jusqu'au vestibule.
 　Il n'avait rien à dire, et elle non plus.
 　Aoko était partie d'un pas vif, sans afficher un quelconque air héroïque.
 　Comme elle l'avait affirmé, elle ne semblait pas vouloir l'impliquer là-dedans, à moins qu'elle n'ait considéré qu'il ne pourrait apporter aucune aide.

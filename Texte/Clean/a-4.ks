@@ -11,7 +11,7 @@
 　Pour eux, la fille vêtue de noir évoquait même un phare se dressant au-dessus d'une mer ténébreuse.
 *page3|
 　Alice observait ce spectacle d'un œil distrait.
-　Apparemment, ce soir, la vraie bataille n'aurait pas lieu à Tōgawa où s'était rendue Aoko, mais ici, à Yashirogi.
+　Apparemment, ce soir, la vraie bataille n'aurait pas lieu à Tōkawa où s'était rendue Aoko, mais ici, à Yashirogi.
 　Elle n'était pas du genre à perdre son sang-froid pour si peu, et ce type de menace n'avait rien d'extraordinaire, même un enfant n'aurait pas été surpris.
 　L'ennemi dont devait se méfier Alice n'était pas les chiens sauvages qui l'encerclaient, mais le Mage qui se tenait en arrière dans les ténèbres―――Aozaki Tōko elle-même.
 *page4|
