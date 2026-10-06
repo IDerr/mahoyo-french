@@ -191,12 +191,12 @@ Oh, mais dis-moi Aozaki, tu es devenue bien gentille. Ou alors, c'est qu'il sera
 *page51|
 「...... Eh bien, je m'attendais à ce que tu dises ça.
 　C'est la première fois que tu viens à l'église d'Aida ?」
-「Si c'est l'église, c'est la troisième fois. Comme ce bâtiment avait l'air étrange, je me suis approché pour voir, et c'est alors qu'une personne de l'église m'a donné des bonbons gratuitement, mais......」
+「Si c'est l'église, c'est la deuxième fois. Comme ce bâtiment avait l'air étrange, je me suis approché pour voir et une personne de l'église m'a alors donné des bonbons gratuitement, mais......」
 *page52|
 　Je me demande quel est le système derrière tout ça, avait réfléchi sérieusement Sōjūrō.
-　Le geste de baisser la tête était en général l'apanage des philosophes, mais en fin de compte,
-“Comme je le craignais, à partir de la deuxième fois, on nous demande de l'argent ?”
-　c'était une problématique purement pécuniaire.
+　Son geste de baisser la tête lui donnait des airs de philosophe, mais en réalité,
+“J'imagine qu'à partir de la deuxième visite, on nous demande de l'argent ?”
+　ses préoccupations étaient on ne peut plus basiques.
 *page53|
 「...... Normalement, dans cette église, ils n'emploient cette manière d'agir qu'avec des enfants.」
 　Il devait vraiment ressembler à un agneau égaré, soupira Aoko.
@@ -213,17 +213,17 @@ Malgré sa taille, cette église ne compte que peu de personnel.」
 *page56|
 　L'église d'Aida avait une vieille histoire.
 　C'était une terre sainte blanche construite loin de la gare, entre le quartier des affaires et le quartier résidentiel.
-　D'après ce qu'en savait Aoko, si elle se souvenait bien, elle avait été réaménagée de cette façon à peu près six ans auparavant. Elle était devenue une grande église bien trop imposante pour ce quartier d'Aida.
+　D'après ce qu'en savait Aoko, si elle se souvenait bien, elle avait été réaménagée de cette façon à peu près huit ans auparavant. Elle était devenue une grande église bien trop imposante pour ce quartier d'Aida.
 *page57|
 　Soit dit en passant, le bâtiment voisin était l'hôpital général de la ville de Misaki.
 　Pour Aoko, puisque l'église avait été érigée sournoisement à côté de l'endroit où disparaissaient le plus grand nombre de vies dans cette ville, on ne pouvait pas se fier à elle―――mais les personnes au courant de son opinion se limitaient à Kuonji Alice, sa colocataire, et le prêtre de l'église.
 *page58|
 「Aurais-tu une quelconque attache avec cette église ?」
 「Moi ? Pas pour un sou. J'en ai tellement pas que je voudrais même retourner dans le passé et le changer, mais mon père et mon grand-père la fréquentent depuis longtemps.
-　Ça me mettait en rogne, mais je devais venir ici tous les jours pour aider, lorsque j'étais au collège―――」
+　Ça me mettait en rogne, mais je devais venir ici tous les jours pour aider quand j'étais en primaire―――」
 *page59|
 　Plus elle parlait, plus l'expression d'Aoko devenait féroce.
-　Faire face à l'un des souvenirs douloureux qu'elle avait du mal à oublier, agripper son col, le jeter par-dessus son épaule avec une splendide prise de judo, et après lui avoir cogné le sommet du crâne contre le sol, faire manger un high-kick à son torse sans défense―――
+　Faire face à l'un des souvenirs douloureux qu'elle avait du mal à oublier, agripper son col, le jeter par-dessus son épaule avec une splendide prise de judo, et après lui avoir cogné le sommet du crâne contre le sol, faire manger un low-kick à son torse sans défense―――
 　Elle montrait une aversion vraiment prodigieuse envers ce souvenir-là, et s'il était personnifié, elle l'anéantirait avec un déferlement de violence de ce genre-là, en cinq manches à peine.
 *page60|
 「――――――」

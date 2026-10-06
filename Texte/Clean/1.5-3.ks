@@ -19,8 +19,8 @@
 　CHANGEMENT DE LA ZONE DE PERCEPTION : DE SUBJECTIVE VERS OBJECTIVE.
 　CHANGEMENT DU CIRCUIT AUTONOME VERS LA RÉSERVE D'ÉNERGIE,[wait canskip=0 time=1000][r]
 　ET DU CIRCUIT DE MESURE VERS L'ÉNERGIE PRINCIPALE.
-　CHANGEMENT DE LA CAMÉRA,[wait canskip=0 time=1000][r]
-　VISION INFRAROUGE VERS VISION NUMÉRIQUE.
+　CHANGEMENT DU MODE DE VISION :[wait canskip=0 time=1000][r]
+　PASSAGE DU SENSEUR INFRAROUGE AU DÉTECTEUR DE L'ÉLÉMENT IMAGINAIRE. 
 *page5|
 　―――EH BIEN.
 　COMMENCEMENT DÈS À PRÉSENT DE LA DESCRIPTION DES HOSTILITÉS.
@@ -183,7 +183,7 @@
 *page41|
 　Même devant cette singularité, l'homme à la bouche fendue n'hésita pas une seconde.
 　Ses deux bras s'élevèrent. Les choses qui sortirent de l'intérieur de ses longues manches n'étaient pas des membres humains,
-　mais des épées diaboliques de plus de 50 centimètres de longueur.
+　mais des couteaux de cuisine acérés de plus de 50 centimètres de longueur.
 　Les deux bras, qui étaient habitués à mettre en pièces de nombreuses proies, sectionnèrent de face les porcelets sautillants.
 *page42|
 “―――?!”

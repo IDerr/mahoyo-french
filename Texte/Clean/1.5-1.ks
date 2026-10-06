@@ -56,7 +56,7 @@
 *page12|
 「Non, ce n'est pas aussi simple.
 　L'argent n'est qu'un symbole. Ce qui est vraiment important se trouve ailleurs.
-　Après tout, ce n'est pas bien différent d'un simple ticket de massage qui passe de main en main ; et puis, ce n'est pas comme si un billet de mille yens était bon à manger...... Aaaah, en tout cas, tu ne peux pas acheter l'honnêteté avec de l'argent, pas vrai ?」
+　Après tout, ce n'est pas bien différent d'un simple ticket de massage qui passe de main en main ; et puis, ce n'est pas comme si un billet de dix mille yens était bon à manger...... Aaaah, en tout cas, tu ne peux pas acheter l'honnêteté avec de l'argent, pas vrai ?」
 *page13|
 「Hmm.」
 「Y a pas de hmm qui tienne ! Te fous pas de moi ! Tu me fais de la peine.
@@ -76,7 +76,7 @@ Merci de m'avoir prévenu. Et donc ? Tu veux des conseils ? Sur l'argent peut-ê
 　Et puis, en montagne, on ne dit pas que l'eau est froide, mais qu'elle fait mal.」
 *page18|
 「Ne la compare pas à ton eau glaciale, espèce d'enfant sauvage......! Sinon, je trouve que tu as une sacrée capacité d'adaptation... à moins que ce ne soit de la détermination ?
-　Un nouveau venu, qui ne pouvait même pas se charger de la caisse, est devenu en seulement quatre jours un radin et un suppôt du secteur de la restauration...... L'argent est peut-être bien le plus important, en fait. Le capitalisme est vachement impressionnant.」
+　Un nouveau venu, qui ne savait même pas se servir d'une caisse enregistreuse, est devenu en seulement quatre jours le larbin bien obéissant d'un resto pourri...... L'argent est peut-être bien le plus important, en fait. Le capitalisme est vachement impressionnant.」
 「Ferme-la, abruti de mi-temps ! Si tu as un problème, tu peux démissionner !
 　On n'a pas d'argent à donner aux bons à rien !」
 *page19|
