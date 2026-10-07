@@ -213,7 +213,7 @@
 　La gare avait beau s'être métamorphosée, ce n'était pas vraiment le cas de la ville basse.
 　Tōko était entrée dans sa salle de pachinko favorite et changé cinq mille yens en billes de métal. Elle était ensuite montée au premier étage, avait repéré la machine au meilleur rendement du jour et s'était mise à tâter de la manivelle.
 *page51|
-「Il serait temps que je m'arrête. Un, deux, trois...... vingt boîtes donc. Bah, après une pause de quatre ans, c'est plutôt bien joué.」
+「Il serait temps que je m'arrête. Un, deux, trois...... douze boîtes au total. Bah, après une pause de quatre ans, c'est plutôt bien joué.」
 　Ses répliques étaient glaciales mais ses lèvres montraient sa bonne humeur et à quel point gagner avait été un jeu d'enfant.
 *page52|
 　Les salles de pachinko étaient des lieux de divertissement que l'on pouvait qualifier de standards, mais elles n'avaient trouvé leur public qu'au Japon et on en voyait rarement dans les pays étrangers.

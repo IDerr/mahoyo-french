@@ -468,7 +468,7 @@ Si tu veux un kit de nettoyage complet, alors ce sera moins cher que le centre c
 　À la table se trouvaient déjà deux personnes.
 　Aoko et Alice prenaient leur petit déjeuner en silence.
 　Au manoir Kuonji, celui-ci était d'un individualisme total.
-　Pour faire court, leur petit déjeuner était frugal―――et dans le détail, il consistait en un simple morceau de pain dur, cuit au four et préparé en moins de deux minutes.
+　Pour faire court, leur petit déjeuner était frugal―――et dans le détail, il consistait en un simple morceau de pain dur, cuit au four et préparé en moins de deux secondes.
 *page114|
 　Si de temps à autre, elles échangeaient quelques mots, à la fin, elles avalaient leur thé d'une seule gorgée et quittaient leur siège.
 　Les vacances de Noël ayant déjà commencé pour l'école d'Alice, celle-ci retournait dans sa propre chambre, [wait canskip=0 time=300][partbg rule=crossfade textoff=0 time=600 storage=bg01久遠寺邸04サンルーム-(昼) srcleft=125 srctop=96 index=1000 width=397 height=576 center=196 bordercolor=0xFFFFFF]et Aoko, ayant cours après cela, se dirigeait vers l'entrée, son sac à la main.

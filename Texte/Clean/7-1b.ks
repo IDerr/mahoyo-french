@@ -6,7 +6,7 @@
 *page2|
 　Au nord-ouest de l'Angleterre,
 　on pouvait trouver une forêt de chênes plongée dans un épais brouillard,
-　le royaume des oiseaux et des bêtes qui, même au XIXe siècle, refusait l'entrée aux humains.
+　le royaume des oiseaux et des bêtes qui, même au XXe siècle, refusait l'entrée aux humains.
 *page3|
 　La maison où elle vit le jour et fut élevée se trouvait là.
 　Des êtres des temps anciens y avaient survécu génération après génération.

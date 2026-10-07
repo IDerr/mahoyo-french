@@ -273,7 +273,7 @@ Merde, attends un peu, Shizuki ! Je vais tout d'suite aller chiper des patates a
 「J'ai crié ? Ah oui, c'est vrai que je hurlais, mais sur un gamin.
 　Regarde, c'est ce gosse. Il tient une patate douce...... Hé, aaah merde, il s'est enfui à l'intérieur !」
 　Kinomi se mit en colère tout en pointant du doigt la vieille école.
-　En effet, à environ cent mètres de son entrée, se tenait ce qui ressemblait à une silhouette humaine.
+　En effet, dans son entrée située à environ cent mètres d'eux, se tenait ce qui ressemblait à une silhouette humaine.
 *page65|
 「Franchement, qu'est-ce qu'il fiche si haut... Depuis quand c'est devenu la cour de récréation des mômes, ici ?」
 　“Enfin, ça n'a pas d'importance”, rajouta Kinomi en haussant les épaules.

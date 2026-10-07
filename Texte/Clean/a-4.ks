@@ -3,7 +3,7 @@
 　en sillonnant l'épaisse couche de neige.
 *page1|
 　Un nombre impressionnant de bêtes s'étaient réunies en un rien de temps.
-　Le parc était envahi par une dizaine de chiens sauvages à la respiration rugueuse qui fixaient Alice.
+　Le parc était envahi par des dizaines de chiens sauvages à la respiration rugueuse qui fixaient Alice.
 *page2|
 　Les chiens étaient tous dans un piteux état, frigorifiés par le froid.
 　Par contre, leurs crocs claquants et leurs yeux injectés de sang semblaient prêts à s'élancer comme un éclair à tout moment.

@@ -246,7 +246,7 @@ comment peut-il traiter le corps d'une femme d'une telle façon, ce gamin――�
 　Pour elle, il y avait quelque chose de plus important―――
 *page58|
 「Tu l'as vu où ?!」
-「Au vieil établissement de l'école. [wait canskip=0 time=100][chgfg textoff=0 storage=草十郎私服01b(全)|首輪a zoom=90 time=300]Ah, maintenant que j'y pense, on s'est aussi salués. À une occasion, pendant le travail, je lui ai livré quinze kilos de viande de bœuf cru......」
+「Au vieil établissement de l'école. [wait canskip=0 time=100][chgfg textoff=0 storage=草十郎私服01b(全)|首輪a zoom=90 time=300]Ah, maintenant que j'y pense, on s'est aussi salués. À une occasion, pendant le travail, je lui ai livré cinquante kilos de viande de bœuf crue......」
 「Es-Espèce de triple buseーーーー!」
 *page59|
 　Un son retentissant et agréable à l'oreille se fit entendre dans la pièce.

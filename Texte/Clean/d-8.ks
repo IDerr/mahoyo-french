@@ -65,7 +65,7 @@
 「Pourquoi des mochi...?」
 「Pour lui faire un cadeau. Comme elle attend toute seule, ça lui fera sûrement plaisir.」
 　Aoko porta les mains à la bouche d'un air incertain.
-　Ses doigts fins et nus avaient pris une couleur rouge à cause du froid.
+　Ses doigts fins et nus avaient blanchi à cause du froid.
 *page15|
 “...... Ça a généralement l'effet inverse avec elle, mais ça devrait aller si c'est Sōjūrō qui les lui offre...”
 　C'était dans ces moments-là que son attitude visiblement désintéressée pouvait se révéler des plus utiles.

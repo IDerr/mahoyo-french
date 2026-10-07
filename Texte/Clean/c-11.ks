@@ -79,7 +79,7 @@
 「Quoi ? Elle ne les a pas chargées mais déployées―――?!」
 　La Rune de protection qu'elle avait appliquée sur son manteau poussait des cris de protestation.
 　Si elle se faisait mitrailler à nouveau, le sort ne tiendrait pas.
-　En outre, ce coup direct avait vraisemblablement endommagé son Circuit Magique.
+　En outre, ce coup direct avait vraisemblablement touché ses organes internes.
 *page16|
 　Elle ne voulait pas le reconnaître, mais Aozaki Aoko surpassait Aozaki Tōko en ce qui concernait la puissance de feu.
 　Et pire encore, cette fille n'avait probablement pas encore attaqué sérieusement......!

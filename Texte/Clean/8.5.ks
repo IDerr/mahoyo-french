@@ -14,7 +14,7 @@
 　L'oiseau bleu, tout en battant des ailes, s'efforçait d'installer une ambiance chaleureuse après le repas.
 *page3|
 　Alice était en pleine lecture dans la véranda.
-　Environ trente minutes s'étaient écoulées depuis qu'elles avaient décidé de prendre une pause au cours de leur discussion concernant la stratégie à adopter contre le Mage ennemi.
+　Elles avaient décidé de faire une pause d'une demi-heure avant de reprendre leur discussion concernant la stratégie à adopter contre le Mage ennemi.
 *page4|
 『Et pour Adidas alors ?[r]
 　Peut-être que ça vient d'Adios ?』
