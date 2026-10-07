@@ -19,7 +19,7 @@
 　Bien sûr, c'était une illusion.
 　Lorsque je me retournais, il n'y avait personne.
 　C'était juste―――que ce que j'avais ressenti lors de cette nuit fatidique à l'origine de tout ceci,
-　cette anxiété indescriptible serait, sans erreur possible, la future cause de ma mort promise.
+　cette anxiété indescriptible provenait, sans aucun doute, de la terreur qui m'était promise.
 *page6|
 “[setdefaultmessageaction type=swing]......High diddle diddle,The cat and the fiddle,[r]
 　The cow jump'd over the moon;[r]
@@ -80,7 +80,7 @@
 　La progression des fourmis s'arrêta.
 　Loin, très loin de mon bras droit, tout près de mon cœur.
 　Sans avoir à utiliser ma vue, je pouvais distinguer l'intrus se dissimulant dans les ténèbres.
-　L'ombre à trente pieds derrière moi sur la droite, avec les quatre pattes au sol, leva la main droite comme pour faire un signe―――
+　L'ombre à une trentaine de pas derrière moi sur la droite, avec les quatre pattes au sol, leva la main droite comme pour faire un signe―――
 「―――Ici !」
 　L'attaque de l'ennemi et ma réaction furent quasi synchrones.
 *page20|

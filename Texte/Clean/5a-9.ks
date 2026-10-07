@@ -40,7 +40,7 @@
 　Non pas sous le coup de la surprise, pensant que c'était impossible, mais par admiration pour son ennemi qui s'était donné beaucoup de mal.
 *page8|
 「Et puis, avec ce qui s'est passé à l'instant, je serai forcément considéré comme un ennemi. Surtout que la marionnette me regardait fixement.
-　...... Tu sais, tout s'est passé si vite que je n'ai pas trop bien vu, mais je n'ai pas ressenti de vie en elle. Toi aussi, tu devrais faire attention. Ce truc doit avoir un visage vraiment effrayant.」
+　...... Tu sais, tout est allé si vite que je ne l'ai pas trop bien vue, mais elle m'a terrifié. Toi aussi, tu devrais faire attention. Cette chose doit avoir un visage vraiment effrayant.」
 「―――C'est très gentil de ta part, merci.」
 *page9|
 「De rien. Donc, ce n'est plus uniquement une affaire entre la marionnette et toi.

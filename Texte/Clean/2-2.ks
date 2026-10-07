@@ -166,7 +166,7 @@
 *page37|
 「Il paraît qu'il a suivi Aozaki partout, non seulement à l'école, mais aussi jusque chez elle. [movefg textoff=0 opacity=255 vcenter=288 time=3000 accel=0 id=2 center=512][wait canskip=0 time=600]Devant cette obstination, Aozaki a fini par perdre patience. Elle l'a rejeté d'une manière que j'hésite un peu à décrire à haute voix.」
 *page38|
-「Résultat, il a décidé de lui-même de se faire transférer dans une autre école et a même fui le vieux quartier de Misaki. Et Aozaki a reçu une assignation à domicile alors qu'on n'avait commencé les cours que depuis un mois.
+「Résultat, il a décidé de lui-même de se faire transférer dans une autre école et a même fui le vieux quartier de Misaki. Et Aozaki a été exclue du lycée et assignée à résidence pendant un mois entier.
 　C'est ce qu'on a appelé l'Incident Sanglant de la Grande Salle.
 　Si tu veux en savoir plus, demande à la personne concernée......... Ah non, ça serait une mauvaise idée, va plutôt au club de journalisme. Leur président est un casse-cou, alors si tu lui demandes, il te renseignera pour s'amuser.」
 *page39|

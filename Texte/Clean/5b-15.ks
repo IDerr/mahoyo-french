@@ -63,7 +63,7 @@
 *page14|
 　La partie inférieure de son corps avait disparu.
 　Elle se traînait en direction d'Aoko à la seule force de ses bras.
-　Elle était à peu près à vingt mètres d'elle.
+　Elle était à environ deux cents mètres d'elle.
 　Malheureusement, comme elle était dans son dos, Aoko ne pouvait pas la remarquer.
 *page15|
 「―――Je suis trop loin pour bien voir, mais c'est―――」

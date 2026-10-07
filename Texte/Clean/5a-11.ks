@@ -75,7 +75,7 @@
 　Un briseur de cœur à sa puissance maximale ne redoutant pas son extinction prochaine.
 “―――, fu―――!”
 　Au moment même où elle s'en rendit compte, Aoko frappa le sol de toutes ses forces.
-　Ses cheveux flottant au vent, elle plongea en avant.
+　Ses cheveux flottant au vent, elle bondit sur le côté.
 *page18|
 「Ki―――」
 　Elle rétablit son équilibre devenu précaire d'un balancement de bras sur les côtés.

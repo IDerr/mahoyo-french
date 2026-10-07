@@ -96,7 +96,7 @@
 　La puissance de mes balles de prana a augmenté.」
 「Évidemment ! Tu m'as poursuivi sans répit dans le palais des glaces. Même sans le vouloir, j'aurais fini par me rendre compte qu'elles font plus de dégâts qu'avant alors que tu effectues le même mouvement.」
 *page24|
-「Mais est-ce que ça ira ? Tu m'as bien dit que tu étais limitée en nombre. Tu en as déjà tiré pas mal. Donc ça ne marchera plus que vingt ou trente fois seulement.」
+「Mais est-ce que ça ira pour toi ? Tu m'as bien dit que tu étais limitée en nombre. Pourtant, tu viens d'en tirer une sacrée quantité, au moins vingt ou trente fois déjà.」
 「―――C'est vrai qu'il t'arrive parfois de dire des trucs de ce genre.」
 「?」
 　Aoko dut réviser légèrement son jugement.

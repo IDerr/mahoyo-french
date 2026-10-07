@@ -48,7 +48,7 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 　se plaignit à voix basse Aoko, tournant les pages à la recherche d'un sort rudimentaire qui lui conviendrait.
 　Il allait sans dire que ce qu'elle recherchait était un moyen de réduire au silence le témoin de la nuit précédente.
 *page11|
-　La Magie n'est pas omnipotente.
+　La Magie est omnipotente mais pas sans limite.
 　En réalité, on ne fait que provoquer l'apparition de choses qui existent, qui se produisent dans la réalité, mais en ignorant jusqu'à un certain point les matériaux nécessaires et le temps d'exécution.
 　Les phénomènes qui n'ont pas lieu dans cet univers ne peuvent se manifester d'aucune façon, même par Magie.
 　Pour simplifier, c'est un échange équivalent qui utilise des raccourcis à foison.

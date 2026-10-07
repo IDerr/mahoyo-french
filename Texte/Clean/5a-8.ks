@@ -163,7 +163,7 @@
 *page39|
 　Une lumière particulièrement vivace.
 　Les lacérations, telles des marques d'ongles, entaillèrent le mur.
-　Aoko, avec un anti-sort primitif qui augmentait la concentration du prana dans son corps, évita tout juste l'attaque qui était sûrement le coup spécial de la marionnette, avant qu'il ne lui soit fatal.
+　Aoko, avec un anti-sort primitif qui augmentait la concentration du prana dans son corps, évita de peu l'attaque qui était sûrement le coup spécial de la marionnette, avant qu'il ne lui soit fatal.
 *page40|
 「E-Espèce de............!」
 　Une marionnette qui était son portrait craché.

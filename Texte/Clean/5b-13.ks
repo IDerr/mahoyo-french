@@ -53,7 +53,7 @@
 　Mais à présent, la situation était différente.
 　Aoko pouvait littéralement réaliser l'impossible.
 *page13|
-「Pas vraiment. D'après mes calculs, il me manquera environ quinze mètres pour le toucher.」
+「Pas vraiment. D'après mes calculs, il me manquera environ cinquante mètres pour le toucher.」
 　Sōjūrō protesta en roulant des yeux pour signifier son appréhension.
 　Aoko passa la main dans ses cheveux et en arracha une poignée avec ses doigts enrobés de prana.
 *page14|
