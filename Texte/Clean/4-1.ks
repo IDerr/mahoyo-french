@@ -50,7 +50,7 @@
 *page14|
 　Au cours de la première année, je n'ai eu aucun véritable problème...... Et pour préserver notre honneur, je ne raconterai pas mon combat à mort avec ma colocataire six mois durant...... [l]Apparemment, mes aptitudes en tant que Magicienne sont excellentes dans une certaine mesure, et je n'ai pas encore rencontré d'obstacle insurmontable.
 *page15|
-　Étant humaine, il y avait bien deux ou trois choses qui me causaient quelques désagréments, mais pour le moment, je ne ressentais aucune anxiété pour l'avenir.
+　Il y avait bien deux ou trois choses qui me causaient quelques désagréments dans ma vie d'humaine, mais pour le moment, je ne ressentais aucune anxiété pour l'avenir.
 　Je pensais que ma vie se passerait ainsi en douceur.
 　Si l'évènement de la nuit précédente n'avait pas eu lieu.
 *page16|

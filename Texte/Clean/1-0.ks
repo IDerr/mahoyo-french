@@ -35,7 +35,7 @@
 　L'un des deux chatons avait été en trop grande partie entraîné par la courroie et ne bougeait plus. Il était probablement mort sur le coup.
 *page8|
 　Le chaton restant avait la moitié du museau rouge de sang et, comme un chien errant trempé par la pluie, respirait en sifflant.
-　Le chaton se raccrochait de toutes ses forces à la poitrine du cadavre... non, à la moitié de morceau de viande qu'était devenue sa mère, alors qu'il ne lui restait sûrement plus que quelques minutes à vivre.
+　Le chaton se raccrochait de toutes ses forces à la poitrine du corps sans vie... non, du cadavre à moitié déchiqueté de sa mère, alors qu'il ne lui restait sûrement plus que quelques minutes à vivre.
 *page9|
 「Les pauvres―――」
 　se lamentait la voix de son père.
@@ -44,7 +44,7 @@
 　Après que son père fut rentré en voiture, les chats s'étaient glissés sous le capot, attirés par la chaleur du moteur.
 　Ils avaient passé la nuit dans la chambre du moteur,[wait canskip=0 time=400][r]
 　et le matin suivant, s'étaient réveillés entraînés par la rotation de la courroie.
-　Dans les voitures des années 80 dont l'étanchéité à l'air était sommaire, ce genre de chose semblait être courante.
+　Dans les voitures des années 80 dont l'étanchéité à l'air était sommaire, ce genre de chose semblait être monnaie courante.
 *page11|
 「―――Ne t'inquiète pas. Ce n'est pas de ta faute,     .」
 　La voix de son père était lointaine.

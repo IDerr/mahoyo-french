@@ -193,7 +193,7 @@ Je te le répète une dernière fois, alors réfléchis bien...... Tu devrais t'
 　Il répondit en ayant l'air de se demander pourquoi elle posait cette question.
 *page42|
 　...... Pendant une seconde, et même plutôt deux,
-　prise de surprise par cette révélation, Aoko eut l'impression que le temps s'était arrêté.
+　interloquée par cette révélation, Aoko eut l'impression que le temps s'était arrêté.
 　Apparemment, il n'y avait pas qu'Alice qui gardait des atouts en réserve.
 　La phrase d'à l'instant était encore plus dure à encaisser que Flat Snark.
 *page43|

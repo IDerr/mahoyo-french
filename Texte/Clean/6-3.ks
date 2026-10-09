@@ -38,7 +38,7 @@
 「...... À ce propos, Aoko, et l'école ?[r]
 　Il est à peine midi.」
 *page11|
-「Je me suis rappelée que tes cours finissaient aujourd'hui, alors j'ai quitté le lycée en prétextant des raisons familiales. Quand je pense que les examens de fin d'année arrivent à grands pas, je me demande bien ce que je fais...」
+「Je me suis rappelé que tes cours finissaient aujourd'hui, alors j'ai quitté le lycée en prétextant des raisons familiales. Quand je pense que les examens de fin d'année arrivent à grands pas, je me demande bien ce que je fais...」
 　termina Aoko, non pas pour obtenir un quelconque consentement, mais comme une sorte d'introspection.
 *page12|
 　Puis, Aoko et Alice se regardèrent.

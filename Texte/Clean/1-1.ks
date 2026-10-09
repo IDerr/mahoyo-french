@@ -66,7 +66,7 @@
 　Dans le long couloir, le son mécanique du téléphone se réverbérait tel un écho.
 　Les équipements du manoir étaient assez bien entretenus, et pourtant, il avait l'air désert.
 　La solitude qu'il inspirait transparaissait davantage que sa splendeur.
-　Conjuguée à l'obscurité du matin, il n'était pas inconcevable que la demeure fasse penser à un manoir hanté.
+　Ainsi plongé dans l'obscurité matinale, l'édifice pouvait facilement passer pour un manoir hanté.
 *page16|
 「...... Quelque part, c'en est effectivement un, mais bon.
 　De toute façon, cet endroit est trop grand pour y vivre à deux.」

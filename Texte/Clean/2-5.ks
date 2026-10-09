@@ -144,7 +144,7 @@
 　Se rappelant son incroyable traumatisme d'enfance, Sōjūrō se mit à rire nerveusement.
 *page30|
 　Il était certain que n'importe qui ferait une syncope si une bête de plus de deux mètres apparaissait lentement en grognant.
-　Pour illustrer l'impact que ça avait eu sur quelqu'un qui avait vécu en montagne comme Sōjūrō : il avait peur des bêtes sauvages au point d'avoir l'illusion que le monstre géant qu'il avait vu il y a peine deux jours dans un film était une peluche.
+　Pour illustrer l'impact que ça avait eu sur quelqu'un qui avait vécu en montagne comme Sōjūrō : il avait peur des bêtes sauvages au point d'avoir l'illusion que le monstre géant qu'il avait vu à peine deux jours plus tôt dans un film était une peluche.
 　En se rappelant ça, il se dit qu'il pouvait peut-être s'accommoder d'une histoire pareille, d'une façon ou d'une autre.
 *page31|
 「...... C'est vrai. Le problème présent...... C'est peut-être la phrase que j'ai entendue : “L'attraper et lui régler son compte” ?」

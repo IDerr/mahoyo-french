@@ -65,7 +65,7 @@
 　Normalement, elle aurait dû trembler de peur à cause du danger, et pourtant, ce qui faisait trembler les poings d'Aoko n'était rien d'autre que la colère.
 *page14|
 　Le sort de brouillage était basique, il ne fonctionnait que sur les novices des novices.
-　Si elle avait été au niveau de sa colocataire, ce brouillage aurait rebondi au moment même où le bras l'avait touché, et aurait au contraire brûlé le Circuit adverse.
+　Si elle avait été au niveau de sa colocataire, ce brouillage aurait rebondi au moment même où le bras l'avait touchée, et aurait au contraire brûlé le Circuit adverse.
 　L'action de relier ainsi son Circuit à celui d'un autre Mage revenait à lui offrir son propre cœur sur un plateau. Dans un combat technique entre deux excellents Mages, c'était une capacité inutile qui n'avait absolument aucun intérêt.
 *page15|
 　Pourtant, la marionnette était équipée de cette capacité “inutile”.

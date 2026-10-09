@@ -410,7 +410,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 　La forêt que l'on voit d'ici, c'est quoi ?」
 「La forêt ? Tu veux parler de la forêt en haut de cette montagne ?」
 「Il faudrait plutôt appeler ça une colline et non pas une montagne.」
-　En tant qu'individu élevé en province, sa fierté ne pouvait visiblement pas tolérer que l'on qualifie de montagne une butte de cette taille.
+　Par fierté d'individu élevé en province, il ne pouvait visiblement pas tolérer que l'on qualifie de montagne une butte de cette taille.
 *page106|
 「Vraiment ? En soi, on fait pas mal d'efforts pour la grimper, mais...... bon, c'est plus logique de l'appeler colline, hein.」
 　Un rictus venait de fendre son joli sourire.

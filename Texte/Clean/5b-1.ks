@@ -43,7 +43,7 @@
 　Et en même temps, la pression et la tension indescriptibles qu'elle dégageait lui permettaient de contrôler la grande place.
 *page8|
 “...... Une cloche......?”
-　En tendant l'oreille, le son d'une cloche résonnait de quelque part.
+　En tendant l'oreille, on pouvait entendre le son d'une cloche résonner quelque part.
 　C'était difficile à croire, mais le son qui ressurgissait s'élevait depuis le sol comme s'il ondulait.
 *page9|
 「Dis Aozaki, cette fille...」

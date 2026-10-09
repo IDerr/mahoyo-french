@@ -191,7 +191,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 *page43|
 　Aoko, affalée sur le sofa, s'était légèrement détendue.
 　Alice la blâmait en silence.
-　En pensant à cela, les évènements revigorants de la journée perdirent peu à peu de leur fraîcheur.
+　Avec ces considérations, les évènements revigorants de la journée perdaient peu à peu de leur fraîcheur.
 *page44|
 　...... Si elle ignorait le reproche silencieux d'Alice, la conversation se terminerait là.
 　Elles se lèveraient toutes les deux, et le lendemain arriverait en laissant les erreurs de la journée irrésolues.
