@@ -28,7 +28,7 @@
 「Allons, que dis-tu ? J'ai étrenné ce costume hier. Il ne fait pas assez bien habillé ?」
 「Il ressemble tellement à votre costume habituel qu'on pourrait prendre ça pour du copier-coller, monsieur Yamashiro.
 　Et donc, que voulez-vous aujourd'hui ?[r]
-　Commencez à faire la filature à vos élèves et vous finirez par commettre un crime dans quelques années. Vous devriez vous contrôler un peu plus.」
+　Commencez à prendre vos élèves en filature et vous finirez par commettre un crime dans quelques années. Vous devriez vous contrôler un peu plus.」
 *page9|
 　Même à l'extérieur de l'école, Aozaki ne faisait preuve d'aucune pitié.
 　Tout particulièrement envers monsieur Yamashiro. Elle le ménageait si peu qu'on aurait pu croire qu'ils étaient frère et sœur.

@@ -4,7 +4,7 @@
 *page1|
 　Je ne pouvais pas dévoiler l'identité du coupable.
 　Le manoir n'abritait plus que lui et moi.
-　Si je le désignais au hasard et je disparaissais, tout serait terminé.
+　Si je le désignais au hasard et disparaissais, tout serait terminé.
 　Plutôt que d'en arriver là, ne serait-il pas plus sage de fuir en attendant la fin de la partie―――?
 *page2|
 「―――Tu es―――」

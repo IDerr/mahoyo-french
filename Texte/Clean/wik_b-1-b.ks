@@ -74,7 +74,7 @@
 　J'aurais voulu remonter le temps et me frapper avec une casserole au moment où j'avais pris avec légèreté le conseil avisé d'Aozaki : “On va faire une fête, alors viens bien habillée.”
 *page17|
 「............」
-　De toute façon, je ne possédais pas de robe ; ce n'était pas comme si mes efforts auraient servi à grand-chose.
+　De toute façon, je ne possédais pas de robe ; faire des efforts n'aurait pas servi à grand-chose.
 　Je me frappai les joues pour reprendre mes esprits et me comporter comme d'habitude.
 *page18|
 　Je saluai Kuonji, la maîtresse de maison, avant de me rendre dans la véranda adjacente.

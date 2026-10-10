@@ -357,7 +357,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 *page87|
 　Mais ces qualités lui avaient attiré un plus gros problème :
 　Tsukiji Kimikuni.
-　Malheureusement, ce grand homme encore en activité appréciait son petit-fils, enfant d'on ne savait quelle femme, plus que ses nombreux fils―――plus que le père de Tobimaru, Hideyoshi lui-même.
+　Malheureusement, ce grand homme encore en activité appréciait son petit-fils, enfant d'on ne savait quelle femme, plus que ses nombreux fils―――plus que le père de Tobimaru, Hitoyoshi lui-même.
 *page88|
 　Kimikuni, originaire du peuple, n'était pas vraiment d'accord avec la succession par lien du sang.
 　De plus, ce personnage n'avait encore rien cédé de sa fortune personnelle à ses enfants.

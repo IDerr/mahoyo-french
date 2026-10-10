@@ -20,7 +20,7 @@
 　Selon les légendes, les bêtes mystiques pouvaient fouler un champ sans même faire ployer les herbes qui y poussaient.
 　Le garçon semblait s'inscrire dans cette catégorie d'êtres vivants.
 　Il était l'allié de l'environnement.
-　Il ne montrait aucune bienveillance envers les êtres de chair, qu'ils se situent au sommet de la chaîne alimentaire ou pas, mais il faisait preuve d'une indulgence toute humaine... ou plutôt lupine... envers ses congénères.
+　Il ne montrait aucune bienveillance envers les êtres de chair, qu'ils se situent au sommet de la chaîne alimentaire ou pas, mais il faisait preuve d'une indulgence tout humaine... ou plutôt lupine... envers ses congénères.
 *page6|
 「Bah, puisque tu t'y sens bien, restons positifs.
 　Je vais faire un tour en ville, tu veux que je te ramène quelque chose ? Un manga ou un roman, peut-être ?」
@@ -211,7 +211,7 @@
 *page50|
 　Tōko ne s'était pas d'abord rendue sur les Pivots de la Barrière mais dans une salle de pachinko du quartier animé.
 　La gare avait beau s'être métamorphosée, ce n'était pas vraiment le cas de la ville basse.
-　Tōko était entrée dans sa salle de pachinko favorite et changé cinq mille yens en billes de métal. Elle était ensuite montée au premier étage, avait repéré la machine au meilleur rendement du jour et s'était mise à tâter de la manivelle.
+　Tōko était entrée dans sa salle de pachinko favorite et avait changé cinq mille yens en billes de métal. Elle était ensuite montée au premier étage, avait repéré la machine au meilleur rendement du jour et s'était mise à tâter de la manivelle.
 *page51|
 「Il serait temps que je m'arrête. Un, deux, trois...... douze boîtes au total. Bah, après une pause de quatre ans, c'est plutôt bien joué.」
 　Ses répliques étaient glaciales mais ses lèvres montraient sa bonne humeur et à quel point gagner avait été un jeu d'enfant.

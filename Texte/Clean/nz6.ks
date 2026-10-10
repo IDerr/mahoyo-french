@@ -133,7 +133,7 @@ C'est certain. Même si on en aura [r]　sûrement rapidement assez.』
 　la longue histoire principale, mais également[r]
 　la compilation bonus qui a aussi traîné en longueur.
 *page45|
-　“Mahou Tsukai no Yoru” est fini pour le moment.[r]
+　“Mahōtsukai no Yoru” est fini pour le moment.[r]
 　La suite arrivera un jour, quelque part, lorsque[r]
 　les étoiles filantes tomberont et scintilleront dans vos cœurs.
 *page46|

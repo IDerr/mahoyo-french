@@ -170,7 +170,7 @@ Sinon, pourquoi m'aurait-elle envoyé une marionnette me ressemblant comme deux 
 　L'église prêtait main-forte à Aoko et Alice parce qu'elles administraient ces terres.
 　Si elles perdaient ce privilège, l'église n'aurait plus de raison de les soutenir.
 *page42|
-「Le père Eiri m'a aidé parce qu'il est neutre, mais Yuika est un agent de l'Église. Dès que mes blessures seront guéries, elle me dira de dégager. [l]
+「Le père Eiri m'a aidée parce qu'il est neutre, mais Yuika est un agent de l'Église. Dès que mes blessures seront guéries, elle me dira de dégager. [l]
 Après tout, à l'origine, les Mages ne sont rien d'autre que des rivaux à écarter pour l'Église.
 　Quant à cette idiote de Ritsuka―――ma foi, si on la supplie, elle nous aiderait sûrement.」
 *page43|

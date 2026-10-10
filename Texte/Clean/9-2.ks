@@ -78,7 +78,7 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 　La destination était une ville bien plus moderne que Misaki, que l'on pouvait rejoindre en prenant le métro puis le train express.
 　On disait qu'on y construisait le plus grand centre commercial de la préfecture, mais aussi une salle polyvalente où l'on pourrait assister à des conférences ou des pièces de théâtre en tournée internationale, et dont l'inauguration était prévue pour l'année suivante.
 *page19|
-「Et aussi, ce soir, mangez un curry au Meshian.」
+「Et aussi, ce soir, mangez un curry au Messian.」
 　De surcroît, il posa sur la table deux billets que d'aucuns auraient pu considérer comme un véritable trésor.
 　En y repensant, c'était au tour de Sōjūrō de faire le dîner.
 *page20|

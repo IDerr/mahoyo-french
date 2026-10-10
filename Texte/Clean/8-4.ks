@@ -182,7 +182,7 @@
 「Ça doit se mettre comme ça ? C'est serré, mais je devrais m'y habituer avec le temps.」
 　dit-il tout en ajustant malaisément la ceinture.
 　Son geste avait un côté pervers et Aoko, qui lui avait dit de la mettre, prit une teinte pivoine.
-　Peut-être parce qu'elle s'était rappelée clairement la cicatrice qu'elle avait vue la veille.
+　Peut-être parce qu'elle s'était rappelé clairement la cicatrice qu'elle avait vue la veille.
 *page41|
 「Voilà. C'est la bonne façon de l'attacher, Aozaki ?」
 「――――――」

@@ -200,7 +200,7 @@ sorts de contes de fées, prend un sens concret.
 　et l'ont réparé.
 *page64|
 　? Pourquoi faire ça ?[r]
-　My Godness suffisait, non ?
+　My Goddess suffisait, non ?
 *page65|
 　Une règle stipule qu'une sorcière doit[r]　créer un Ploy suprême de son vivant.
 *page66|

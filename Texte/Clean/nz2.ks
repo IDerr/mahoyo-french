@@ -132,7 +132,7 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 　......[r]
 　Qu'entends-tu par Meinster ?
 *page39|
-　My Godness. La mère de Mam'zelle Alice.[r]
+　My Goddess. La mère de Mam'zelle Alice.[r]
 　Elle avait des surnoms du genre “la Sorcière au sang pur”.
 *page40|
 　Mais votre mère était une fashion victim.[r]

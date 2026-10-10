@@ -116,7 +116,7 @@ quand je suis rentrée après m'être fatiguée en pure perte, Tōko m'a fait co
 　Elle était restée de marbre jusque-là, mais entendre des critiques sur les Automates dont elle était si fière semblait l'avoir froissée.
 *page27|
 「...... Si je me souviens bien, celle qui s'est retrouvée au pied du mur à cause de cet Automate, c'est toi.
-　Et en passant, la gematria est une arcane de la Kabale. Je suis une spécialiste des Runes et je n'ai pas l'intention de transmettre à tout un chacun mes connaissances comme toi.
+　Soit dit en passant, la gematria est un arcane de la Kabale. Je suis une spécialiste des Runes et je n'ai pas l'intention de transmettre à tout un chacun mes connaissances comme toi.
 　―――Ceci dit, [l]
 j'ai effectivement appris des choses sur les Barrières celtiques grâce à l'un des propriétaires de ce Sceau.」
 *page28|
