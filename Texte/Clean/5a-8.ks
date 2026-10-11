@@ -33,7 +33,7 @@
 *page8|
 「―――[ruby char="Connexion" text="Set"].」
 　Elle injecta son prana dans son Circuit Magique.
-　...... Celui étant court-circuité, la circulation sanguine et l'approvisionnement de prana n'étaient pas du tout stables.
+　...... Celui-ci étant court-circuité, la circulation sanguine et l'approvisionnement de prana n'étaient pas du tout stables.
 　Dans ces conditions, il était difficile de préparer un sort.
 　Pour résumer, elle n'avait qu'une seule possibilité : imprégner sa main droite de son prana et augmenter ainsi sa solidité. [l]La seule arme qu'elle pouvait recréer pour l'heure était un marteau, son bras fin étant ainsi devenu une arme contondante moins large qu'une batte. Et comme le prérequis à son emploi était de se rapprocher, son usage était des plus risqués.
 *page9|

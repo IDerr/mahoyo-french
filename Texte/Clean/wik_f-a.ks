@@ -38,7 +38,7 @@ La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 「Oh ? Tu pensais réellement que j'étais sérieux à ce moment-là ? Ton jugement laisse franchement à désirer.
 　Tu es bien la descendante des sorcières de suie apparues au cours de la révolution industrielle. Tu as la cervelle vide, à l'image de la marchandise de piètre qualité que tu es.」
 *page10|
-「OK, tu peux aller crever ! Mourez dans la joie et la bonne humeur comme deux bons toutous ! [chgfg storage=リデル02(全)|e quakeHMax=2 quakeVMax=0 zoom=60 time=400 textoff=0]On a déjà un mort, alors six de plus ne devrait pas poser problème, hein ?」
+「OK, tu peux aller crever ! Mourez dans la joie et la bonne humeur comme deux bons toutous ! [chgfg storage=リデル02(全)|e quakeHMax=2 quakeVMax=0 zoom=60 time=400 textoff=0]On a déjà un mort, alors six de plus ne devraient pas poser problème, hein ?」
 *page11|
 　L'équipe qui s'entendait mal, Kuonji assise sur le sofa en son centre, porterait le nom de groupe du manoir.
 　La fille en rose, Beo et Shizuki se disputaient.

@@ -32,7 +32,7 @@
 「―――Mais après, ce sera la fin.」
 　Après avoir fendu cette mer, Aoko n'aurait même plus la force de se relever.
 　...... Le destin qui s'ensuivrait était évident.
-　Les résidents du parc d'attractions ne pardonneraient sûrement jamais Aoko de l'avoir autant endommagé. Comme des fourmis grouillant autour du miel, ils découperaient en morceaux une Aoko incapable de bouger.
+　Les résidents du parc d'attractions ne pardonneraient sûrement jamais à Aoko de l'avoir autant endommagé. Comme des fourmis grouillant autour du miel, ils découperaient en morceaux une Aoko incapable de bouger.
 *page7|
 「――――――」
 　Sous le coup du découragement et de la fatigue, elle laissa échapper un faible soupir de remords.
