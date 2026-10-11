@@ -9,27 +9,27 @@
 *page3|
 　C'est juste un assortiment[r]
 　de thon akami,[r]
-　chûtoro et ôtoro.
+　chūtoro et ōtoro.
 *page4|
-　Trois couleurs ensanglantées.[r]　Comme l'drapeau national d'la France, quoi.[r]
-　Pour des raisons financières, je ne prendrai que[r]　de l'inarizushi, et des sushis à l'omelette et à la seiche.
+　Trois couleurs ensanglantées.[r]　Comme l'drapeau d'la France, quoi.[r]
+　Faute d'argent, j'me contenterai[r]　d'œuf, de poulpe et d'inari-zushi.
 *page5|
 　Chef.[r]
-　Une autre assiette de chûtoro.
+　Une autre assiette de chūtoro.
 *page6|
 　Encore de la chair rouge ? Vous n'voulez pas[r]
 　de la chair brillante ou blanche ?[r]
 　La sardine et la sériole par exemple, c'est bon.
 *page7|
 　Chef.[r]
-　Une assiette d'ôtoro.
+　Une autre assiette d'ōtoro.
 *page8|
-　Chaque assiette vaut le prix[r]
-　d'un dîner normal.[r]
+　Chaque assiette coûte aussi cher[r]
+　qu'un dîner normal.[r]
 　Vous n'pouvez pas vous limiter au saumon ?
 *page9|
 Ce n'est pas grand-chose.[r]
-Chef. Une autre assiette d'ôtoro.
+Chef. Une autre assiette d'ōtoro.
 *page10|
 　Depuis le début, vous n'avez d'yeux que pour le thon.[r]
 　Ça ne m'étonne pas de vousーーー![r]
@@ -68,7 +68,7 @@ Chef. Une autre assiette d'ôtoro.
 *page21|
 　Quelqu'un à la place d'honneur se les accapare tous.[r]
 　Elle a un manteau vert. Et des lunettes. Et les avale[r]
-　par paire avec une grâce digne d'un joueur de Mahjong.
+　par paire avec la grâce d'un joueur de Mahjong.
 *page22|
 　Personne n'ose le dire,[r]
 　mais elle mange par désespoir.[r]
@@ -97,9 +97,9 @@ Chef. Une autre assiette d'ôtoro.
 *page32|
 　Soyons francs, nous sommes...!
 *page33|
-　Nous sommes les Six Forces fantomatiques[r]　en grâce auprès de notre maîtresse !
+　Les chouchous de notre maîtresse, pouvant[r]　nous métamorphoser à volonté, Six Force !
 *page34|
-　Des Ploy de haut niveau capables de[r]　se changer en mammifères ou en oiseaux ![r]
+　Des Ploy de haut niveau capables de[r]　se transformer en mammifères ou en oiseaux ![r]
 　Les Jumeaux bavards, c'est nous.
 *page35|
 　Ooohーーー?![r]
@@ -120,7 +120,7 @@ Chef. Une autre assiette d'ôtoro.
 　et le braillard, c'est Tweedledee.
 *page40|
 　Ce sont des Ploy qui changent de forme[r]
-　selon le chiffre obtenu en jetant les dés.
+　selon le chiffre obtenu en lançant les dés.
 *page41|
 　La société humaine a une influence néfaste[r]
 　sur eux, ce qui les rend vulnérables[r]　à la Magie normale.
@@ -130,7 +130,7 @@ Chef. Une autre assiette d'ôtoro.
 　Apparemment, c'est impossible avec moi.[r]
 　Je n'ai jamais vu que leur forme de porcelets.
 *page44|
-　Ce n'est pas impossible, vous être trop[r]
+　Ce n'est pas impossible, vous êtes juste trop[r]
 　pure ! Toute chose a une face obscure.[r]
 　Il y a une astuce pour nous lancer !
 *page45|
@@ -141,9 +141,9 @@ Chef. Une autre assiette d'ôtoro.
 　Le Banquet de la nuit[r]　est arrivé sur une assiette.
 *page47|
 　C'est notre bon vieux “Diddle Diddle”.[r]
-　Moi aussi, je connais ce conte de Mother Goose.
+　Moi aussi, je connais sa comptine.
 *page48|
-　Ça montre à quel point il est célèbre.
+　Ça montre à quel point elle est célèbre.
 *page49|
 　　　　　『Diguedon, don don[r]
 　　　　　　　Le chat et le violon[r]
@@ -156,7 +156,7 @@ Chef. Une autre assiette d'ôtoro.
 　un chien qui rit, et les personnifications[r]
 　d'un plat et d'une cuillère qui s'enfuient.
 *page51|
-Selon une théorie, on dit qu'elle se base[r]sur une légende grecque ou égyptienne.[r]
+Selon une théorie, elle s'inspire[r]d'une légende grecque ou égyptienne.[r]
 Si ça fait référence aux constellations, alors[r]la vache doit être une parodie du taureau.
 *page52|
 　C'est un Ploy jetable, pas vrai ?[r]
@@ -197,7 +197,7 @@ sorts de contes de fées, prend un sens concret.
 　doté d'un monde parallèle, mais il est[r]　resté endommagé pendant un certain temps.
 *page63|
 　Ma mère et Tōko ont collaboré[r]
-　et l'ont réparé.
+　pour le réparer.
 *page64|
 　? Pourquoi faire ça ?[r]
 　My Goddess suffisait, non ?
@@ -220,17 +220,17 @@ sorts de contes de fées, prend un sens concret.
 　mais j'ai manqué de vigilance.[r]
 　La prochaine fois, je ferai plus attention.
 *page71|
-　Reprenons. Le Ploy suivant est―――
+　Reprenons. Le Ploy suivant―――
 *page72|
 　Yahou ![r]
-　Un œuf que même moi, j'peux manger !
+　Un œuf que j'peux avaler tout rond !
 *page73|
 　Cet œuf est succulent ![r]
 　Mais il me reste un peu[r]　sur l'estomac.
 *page74|
 　J'arrive pas à l'digérer.[r]
-　Et j'entends un tic tac[r]
-　qui retentit à l'intérieur.
+　Et en plus, j'entends une sorte de tic tac[r]
+　qui retentit à l'intérieur de mon ventre.
 *page75|
 　　　　　　　　Three.
 *page76|
@@ -261,14 +261,14 @@ sorts de contes de fées, prend un sens concret.
 *page85|
 　Le roi fatigué laissa Humpty Dumpty en paix.[r]
 　C'est alors qu'il tomba de son muret,[r]
-　pour se briser atrocement en morceaux.
+　pour se briser atrocement en mille morceaux.
 *page86|
 　Il était trop tard pour regretter,[r]
 　car ni soldats, ni chevaux,[r]
 　ne purent jamais le recoller―――”
 *page87|
 　La morale veut que certaines choses[r]　soient irréparables.[r]
-　Il ne fait que causer des ennuis aux autres.
+　Je trouve ça particulièrement frustrant.
 *page88|
 　À ce propos, Humpty devint un œuf[r]
 　à la moitié du XIXe siècle.
@@ -284,6 +284,6 @@ sorts de contes de fées, prend un sens concret.
 　Chef, l'addition s'il vous plaît.
 *page92|
 　La prochaine fois―――[r]
-　tous les ôtoro seront pour moi.
+　tous les ōtoros seront pour moi.
 *page93|
 ;//終わり

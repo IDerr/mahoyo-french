@@ -54,7 +54,7 @@
 　Le dernier est encore secret.[r]
 　Cette fois-ci, parlons de Thames.
 *page17|
-　Le Mother Goose d'origine est le Pont de Londres.[r]
+　Il tire son origine de la chanson issue de “le Pont de Londres”.[r]
 『Le Pont de Londres est tombé, est tombé, est tombé,[r]
 　le Pont de Londres est tombé, My Fair Lady.』
 *page18|
@@ -68,22 +68,22 @@
 　Et puis, lui et moi ne sommes pas vraiment compatibles.[r]
 　En fait, je ne peux pas utiliser correctement Thames.
 *page21|
-　Je ne peux le manifester que jusqu'au deuxième couplet.[r]
+　Je ne peux l'invoquer que jusqu'au deuxième couplet.[r]
 　Je n'ai jamais vu les troisième et quatrième couplets.
 *page22|
 　Troisième et quatrième ?[r]　Comment ça ?
 *page23|
-　Les paroles de la chanson du Pont de Londres.
+　Dans la chanson du Pont de Londres.
 *page24|
-　『～Les arbres et la terre sont emportés.[r]
-　　～Les briques et le mortier s'effondrent.』
+　『～Les arbres et la terre s'envolent.[r]
+　　～Les briques et le mortier s'effritent.』
 *page25|
 　『～Le fer et l'acier se tordent.[r]
 　　～L'argent et l'or sont volés.』
 *page26|
 　Thames est le Ploy du Pont de Londres,[r]
 　mais son apparence a changé au cours des siècles.[r]
-　À présent, d'après Mother Goose, il a quatre formes.
+　Dans la version actuelle de Mother Goose, il a quatre formes.
 *page27|
 　Donc il y a autre chose après le bois[r]
 　et la pierre. Mais ça vous dérange pas ?[r]
@@ -107,34 +107,34 @@ pont présent dans mon univers ne va que du bois à la roche.
 　Ah, non, en y repensant, vous n'êtes pas si invulnérable[r]
 　que ça ! Vous perdez souvent ! Comme moi, quoi !
 *page34|
-　Mais selon les rumeurs, j'ai cru comprendre[r]
-　que Thames Troll était le meilleur golem au monde.[r]
+　Mais au fait, si j'comprends bien les rumeurs,[r]
+　Thames Troll serait le meilleur golem au monde.[r]
 　Il est fort à quel point, à son niveau maximum ?
 *page35|
 　S'il existait une sorcière moderne capable[r]
 　de l'invoquer complètement, alors―――
 *page36|
-　Thames deviendrait un pont[r]　impossible à traverser,[r]
-　que même Aoko ne pourrait détruire[r]　avec sa technique ultime.
+　il deviendrait un pont[r]　absolument infranchissable,[r]
+　même pour Aoko et ses[r]　meilleures techniques.
 *page37|
 　La ville du brouillard de la révolution industrielle, Londres.[r]
 　Il se manifesterait en tant que géant de la ville,[r]　allant jusqu'à sublimer son propre surnom.
 *page38|
 　Ha ha ha, vous y allez fort, encore ![r]
 　Une ville ! Une ville, hein ?[r]
-　C'est facile à dire, pas vrai ?
+　Vous vous la racontez, pas vrai ?
 *page39|
 　Mam'zelle Alice, vous f'riez mieux d'corriger[r]
 　votre côté vantard et mauvais perdant.[r]
 　C't'un conseil larmoyant d'votre cher Ploy !
 *page40|
 Merci. Dans ce cas, si tu le veux bien,[r]
-aide-moi immédiatement[r]
+aide-moi séance tenante[r]
 à améliorer mon caractère.
 *page41|
-　Commençons par ce “C'est facile à dire”.[r]
-　C'est ton tour, Thames.[r]
-　Montre-nous ton pouvoir.
+　Reparlons de ce “je me la raconte”.[r]
+　À toi de jouer, Thames.[r]
+　Montre-nous toute ta puissance.
 *page42|
 　Le Négligent est apparuーーーーーー![r]
 　En fait, j'étais déjà sur son corps ?[r]
@@ -143,5 +143,5 @@ aide-moi immédiatement[r]
 　Exactement. Je t'avais prévenu, non ?[r]
 　Ne sous-estime pas la montagne.
 *page44|
-　J'avais pas l'impression[r]　que c'était dans c'sens-là !
+　J'pensais pas que[r]　c'était dans c'sens-là !
 *page45|

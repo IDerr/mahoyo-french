@@ -44,8 +44,8 @@
 　Je vois. J'ai à peu près compris.[r]
 　Cet entrain surprendrait même Mam'zelle Aoko.
 *page12|
-　Mais perso, je préfère plutôt les barboteuses aux[r]　blouses, hein. Vous savez, genre des robes. Genre[r]　celles d'une déesse. Enfin, c'est pas que j'aime pas[r]　les blouses, hein ? C'est juste un problème d'image,[r]　la présence qu'elles dégagent sous forme de dessins.[r]　
-Par exemple, “La forêt, l'oiseau et la fillette” ?[r]　Vous voyez, dans “L'oiseau et l'élève de maternelle”,[r]　l'image que renvoie l'élève est tellement forte[r]　qu'on peut pas se concentrer sur l'oiseau.
+　Mais perso, j'préfère plutôt les jupes aux[r]　blouses. Celles qui ressemblent à des robes,[r]　elles sont divines. Enfin, c'est pas que les[r]　blouses c'est moche, c'est juste un problème[r]　d'image. Est-ce qu'elles rendent bien en peinture ?[r]　
+Vous voyez “La forêt, l'oiseau et la fillette” ?[r]　Ou “L'oiseau et l'écolier”,[r]　où l'enfant a une telle présence[r]　qu'on en oublie l'oiseau.
 *page13|
 　Zut. J'étais en pleine préparation de pâtisseries.
 *page14|
@@ -57,7 +57,7 @@ Par exemple, “La forêt, l'oiseau et la fillette” ?[r]　Vous voyez, dans �
 　dans le club du retour à la maison ?
 *page16|
 　Tu peux le constater par toi-même.[r]
-　Dès que j'en ai le temps, je fais des Ploy.
+　Dès que j'ai le temps, je fais des Ploy.
 *page17|
 　Ouaah. C'est à l'image des sorcières[r]
 　des contes de fées.[r]
@@ -82,7 +82,7 @@ Par exemple, “La forêt, l'oiseau et la fillette” ?[r]　Vous voyez, dans �
 　C'est comme je l'ai expliqué[r]　dans l'histoire principale.[r]
 　Terminé, dispersion.
 *page23|
-　Ces paroles réduisent à néant[r]　l'intérêt même de c'coin sur les Ploy.
+　Voilà qui réduit à néant[r]　l'intérêt de c'coin bonus.
 *page24|
 　As-tu une objection à faire ?
 *page25|
@@ -102,7 +102,7 @@ Par exemple, “La forêt, l'oiseau et la fillette” ?[r]　Vous voyez, dans �
 　En Europe de l'Ouest, ça a le sens de jouet d'enfant, [r]　de farce enfantine, ou de quelque chose de rare et méprisé.
 *page30|
 　Ah. Je sais.[r]
-　C'est aussi dans le sens d'excentri―――
+　C'est aussi dans le sens d'excentri――
 *page31|
 　De même, Ploy est un jouet dans la culture européenne,[r]
 　et ici, c'est ce qu'on utilise pour jouer à la guerre.[r]
@@ -130,10 +130,10 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 　Pour moi, les choses du passé [r]　sont plus vagues que l'futur.
 *page38|
 　......[r]
-　Qu'entends-tu par Meinster ?
+　Qu'entends-tu au juste par Meinster ?
 *page39|
 　My Goddess. La mère de Mam'zelle Alice.[r]
-　Elle avait des surnoms du genre “la Sorcière au sang pur”.
+　Elle avait des surnoms comme la Sorcière au sang pur.
 *page40|
 　Mais votre mère était une fashion victim.[r]
 　Elle avait un faible pour les choses en vogue.[r]
@@ -147,8 +147,8 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 　commis le péché de chair, elle a immédiatement dit[r]
 　en souriant : “son nom sera Alice”.
 *page43|
-　...... Je suis sidérée.[r]
-　C'était un amoncellement de niaiseries.
+　...... C'est incroyable.[r]
+　Elle avait vraiment une âme d'enfant.
 *page44|
 　Ha ha ha, qu'est-ce que vous racontez. Vous qui[r]
 　vous réveillez systématiquement dès que l'idiot[r]
@@ -167,7 +167,7 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 　Comme d'habitude, donc, hein ![r]
 　Mam'zelle Alice, vous êtes cruelle !
 *page49|
-　À l'origine, je suis ce genre de personnage.[r]
+　C'est le genre de mon personnage.[r]
 　Dans l'histoire principale, je me tais[r]　seulement parce que c'est éreintant.
 *page50|
 　Éreintant ? Quoi donc ?
@@ -183,7 +183,7 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 　Bonne idée,[r]
 　si on essayait pour voir si ça ne te tue pas ?
 *page54|
-　J'me suis fait manger tout rond en un instant.[r]
+　J'me suis fait avaler tout rond en un instant.[r]
 　Comme je l'pensais, les Ploy sont des pâtisseries ?[r]
 　Hmm, c'est bon...
 *page55|

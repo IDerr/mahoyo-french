@@ -1,12 +1,12 @@
 ﻿*page0|
 　Y a pas de sous-titres dans c'film.[r]
-　Pourtant, j'suis sûr que j'ai des répliques.
+　Pourtant, j'ai dit des tas de choses.
 *page1|
 　Je sais.[r]
-　Mais comme tu étais trop bruyant, j'ai fait usage[r]
-　de mon autorité pour ne couper que tes répliques.
+　Mais comme tu étais trop bruyant, j'ai ordonné[r]
+　au réalisateur de couper spécifiquement tes répliques.
 *page2|
-　Great. Alors tout tourne autour de vous, hein ?[r]
+　Great. De cette façon, toute l'attention peut se concentrer sur vous, hein ?[r]
 　Je suis le seul à jouer comme dans un film muet.
 *page3|
 　C'est l'deuxième, pas vrai ?
@@ -17,9 +17,9 @@
 　C'est vrai que son surnom, c'est l'Huile de la Lune.[r]
 　Qui l'a baptisé Flat Snark ?
 *page6|
-　C'est la fille que tu connais aussi bien que moi.[r]
-　Parce que jusqu'à ce que je devienne amie avec elle,[r]
-　je n'avais donné aucun nom aux Ploy.
+　Quelqu'un que tu connais très bien.[r]
+　Avant de devenir amie avec elle,[r]
+　mes Ploy n'avaient pas de nom.
 *page7|
 　En fonction de leur force ou de l'attachement que[r]
 　je leur portais, je ne les appelais que par ordre, 1er, 2e, etc.
@@ -39,7 +39,7 @@
 　quand je jouais avec les Ploy et elle.
 *page12|
 「Alice, demain, mon nouveau papa nous rend visite.[r]
-　Prête-moi le sixième Ploy.[r]
+　Prête-moi le sixième Ploy, s'il te plaît.[r]
 　Je veux me faire belle pour l'accueillir !」
 *page13|
 　Conformément à sa demande,[r]
@@ -58,21 +58,21 @@
 『Celui-ci est Sweets Hearts. Lui Scripps Humpty. [r]　
 Celui-là Diddle Diddle. Et lui Flat Snark. [r]　Compris ? Appelle-les comme ça dorénavant.』
 *page19|
-　...... On dit que le nom représente le corps, vois-tu ?[r]
-　Au lieu de ces noms stupides, je pensais que [r]　les classer selon mon humeur était plus simple, mais...
+　...... On dit que le nom est le reflet de l'âme, vois-tu ?[r]
+　Je pensais que les classer selon mon humeur était[r]　plus simple que d'employer des noms extravagants, mais...
 *page20|
 『On ne peut pas deviner ton état d'esprit. Dis-toi que [r]　mon destin peut dépendre de tes mystérieuses humeurs.』
 *page21|
 『Et puis, ce genre de noms sera bientôt à la mode. [r]　
 C'est certain. Même si on en aura [r]　sûrement rapidement assez.』
 *page22|
-『Il faut leur donner un nom de toute façon, alors autant [r]　en profiter. C'est notre originalité à nous. Il faut être [r]　à la mode populaire, ce serait du gâchis sinon !』
+『Quitte à leur donner des noms, autant que ça[r]　en jette. Ce sont nos créations originales,[r]　ne pas suivre la mode serait du gâchis.』
 *page23|
 　Depuis, j'appelle les Ploy par des noms. [r]　Ça a été dur de tous les retenir, [r]　mais je ne me suis plus jamais trompée après ça.
 *page24|
-　C'est ce qu'on appelle l'œuf de Colomb.[r]
+　C'est un peu comme l'œuf de Colomb.[r]
 　Quelle flexibilité d'inspiration, ou plutôt d'originalité.[r]
-　De temps en temps, je me dis que cette fille est un génie.
+　Parfois, je me dis que cette fille est un génie.
 *page25|
 　Oui. Moi aussi, je me dis parfois[r]
 　que vous êtes vraiment idiote.
@@ -91,7 +91,7 @@ C'est certain. Même si on en aura [r]　sûrement rapidement assez.』
 　l'a brûlée. On n'peut pas le restaurer ?
 *page31|
 　Malheureusement, c'est impossible.[r]
-　À notre époque, on ne peut pas raffiner Snark.
+　Rien ne peut raffiner Snark à notre époque.
 *page32|
 　Et c'est ainsi que cet héritage culturel a été anéanti [r]　par une sauvage ne vivant qu'à l'instinct.[r]
 　Ha ha, que c'est amusant de violer la culture !
@@ -108,7 +108,7 @@ C'est certain. Même si on en aura [r]　sûrement rapidement assez.』
 　..................[r]
 　Le menu ne comporte qu'des hot-dogs, [r]　du pop-corn et des frites.
 *page37|
-　J'ai pour habitude de vérifier le menu au cinéma. Et puis,[r]　le poulet rôti a une odeur trop forte pour le cinéma.[r]　Ça gêne les autres clients.
+　J'ai pour habitude d'vérifier le menu au cinéma. Et puis,[r]　le poulet rôti a une odeur trop forte pour le cinéma.[r]　Ça gêne les autres clients.
 *page38|
 　Je le sais. Mais rassure-toi.[r]
 　Je n'ai pas vraiment faim.[r]
@@ -117,11 +117,11 @@ C'est certain. Même si on en aura [r]　sûrement rapidement assez.』
 　Ha ha ha. Vous ne l'commandez donc pas[r]
 　pour le manger.
 *page40|
-　Ne serait-ce pas la première fois que tu boues [r]　entièrement des plumes à la peau ?[r]
+　Ne serait-ce pas la première fois que tu bous[r]　entièrement des plumes à la peau ?[r]
 　Tu peux rajouter une mort de plus à ta collection, Robin.
 *page41|
-　C'est la liste de mes expériences que je voulais [r]　le moins voir s'allonger au monde. Aaaahーー![r]
-　Mais ce monde regorge de bien d'autres façons de mourir !
+　Justement la collection que je voulais[r]　le moins étoffer, quel pied ![r]
+　Et il en reste encore tellement !
 *page42|
 　...... Le film se finit là, apparemment.[r]
 　Les cinémas ne font plus de projections doubles [r]　depuis quelque temps.
@@ -129,7 +129,7 @@ C'est certain. Même si on en aura [r]　sûrement rapidement assez.』
 　J'aurais voulu vous présenter le troisième pour finir,[r]
 　mais ce sera pour une prochaine fois.
 *page44|
-　J'espère que vous avez pris plaisir à suivre[r]
+　À vous tous qui avez pris plaisir à suivre[r]
 　la longue histoire principale, mais également[r]
 　la compilation bonus qui a aussi traîné en longueur.
 *page45|
@@ -137,6 +137,6 @@ C'est certain. Même si on en aura [r]　sûrement rapidement assez.』
 　La suite arrivera un jour, quelque part, lorsque[r]
 　les étoiles filantes tomberont et scintilleront dans vos cœurs.
 *page46|
-　　　　　―――Sur ce,[r]
+　　　　　―――En conclusion,[r]
 　　　　　merci de nous avoir suivis jusqu'au bout.
 *page47|

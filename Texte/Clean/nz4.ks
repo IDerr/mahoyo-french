@@ -28,13 +28,13 @@
 　Le vieux quartier de Misaki, c'est vraiment l'enfer.
 *page7|
 　OK, partons de la droite.[r]
-　C'est quoi cette sorte de boîte à bijoux ?
+　C'est quoi, cette espèce de boîte à bijoux ?
 *page8|
 　C'est la Chanson à 6 pences.[r]
 　Jack in The Box,[r]
 　ou encore Six Sing Chocolate.
 *page9|
-　Il a l'air faible, mais c'est un Ploy utile.[r]
+　Il a peut-être l'air faible, mais c'est un Ploy extrêmement utile.[r]
 　Rien à voir avec un certain oiseau ici présent.
 *page10|
 　Évidemment ![r]
@@ -61,7 +61,7 @@
 *page16|
 　Non, ça décrit l'quotidien d'la résidence Kuonji. Le roi[r]
 　qui fait les comptes, c'est en fait la reine au pull bleu. Et[r]
-　celle qui dépense en secret, c'est pas la reine mais Mam'z...
+　celle qui dépense en s'cret, c'pas la reine mais Mam'z...
 *page17|
 　　　　　　Adieu, Robin.[r]
 　Tu prends quoi ensuite ?
@@ -89,14 +89,14 @@
 　C'est une œuvre digne du talent de Michel-Ange.[r]
 　Dès que je suis entré, j'ai su que c'était le plus cher[r]　et le plus populaire. Juré.
 *page26|
-　Inutile d'entrer dans les détails, n'est-ce pas ?[r]
+　Pas besoin de détails, n'est-ce pas ?[r]
 　Tu apparais bien assez comme ça dans l'histoire principale.
 *page27|
 　Il se base sur un chant funèbre.[r]
 　L'histoire tourne autour du meurtre du rouge-gorge.
 *page28|
-　À la question “Qui l'a fait ?”,[r]
-　l'assistance répond “Moi”.[r]
+　À la question 「Qui l'a tué ?」,[r]
+　l'ensemble du cortège funèbre répond 「Moi」.[r]
 　Elle dépeint aussi la recherche du coupable.
 *page29|
 　Avec l'immense succès de Mother Goose, le prologue[r]
@@ -106,7 +106,7 @@
 　qui chanta après la mort de Cock Robin.[r]
 　Je t'envie. Avec les droits d'auteur, tu dois être riche, Robin.
 *page31|
-　Pourtant, le piaf n'a pas reçu un seul yen.
+　Les piafs ont pourtant jamais eu un yen.
 *page32|
 　À part ça, vous saviez que le rouge-gorge[r]
 　est l'oiseau national du Royaume-Uni ?[r]
@@ -115,7 +115,7 @@
 　En d'autres termes―――le personnage [r]　principal de Mahoyo, c'est mo... [playstop time=100][clfg storage=im18l駒鳥ベル][clfg storage=im18紐 ][clfg storage=im18なぜなに有珠ケーキ普 time=100 id=a preback=0 textoff=0][se storage=se06002 volume=100 delay=500][fgact page=fore props=-storage,center,vcenter,absolute,-visible keys=(0,31,l,im18なぜなに有珠ケーキタイトル用,739,24,3500,1)(1200,0,n,,,241,,) storage=im18なぜなに有珠ケーキタイトル用 id=a textoff=0][wait canskip=0 time=200][se storage=se05029 volume=80 delay=300][se storage=se10066 volume=100 delay=100][se storage=se12027 volume=100 delay=600][se storage=se10053 volume=100 delay=600][se storage=se10048 volume=100 delay=600][fgact page=fore textoff=0 props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-visible keys=(0,0,n,im爆発アイコン,203,450,3300,0,200,200,1)(450,,l,,,,,255,,,)(600,3,n,,,,,0,300,300,) storage=im爆発アイコン][fgact page=fore textoff=0 props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,n,im18なぜなにコマドリ普(口開),45,430,3000,,1)(450,,l,,,,,,)(600,,n,,-250,208,,360,) id=k][fgact page=fore textoff=0 props=-storage,center,vcenter,absolute,afx,afy,rotate,-visible keys=(0,2,l,im18なぜなにプロイタイトルプレート(花無し),512,405,5000,301,-800,50,1)(600,0,n,,,,,,,-50,) storage=im18なぜなにプロイタイトルプレート(花無し)][wact][stopaction]Kya ![r]
 　Il t'arrivera des bricoles si tu t'excites trop.
 *page34|
-　Ça ne pourra pas être pire [r]　que maintenant.
+　Ça pourra pas être pire[r]　que maintenant.
 *page35|
 　Ensuite...... il n'y a que des restes.[r]
 　Ils ne méritent pas vraiment qu'on en parle.
@@ -140,7 +140,7 @@
 　? C'est quoi la polysémie ?
 *page43|
 Cela signifie qu'un seul mot comporte plusieurs sens.[r]
-C'est comme les “mots-valises” que Lewis Carroll a inventés.
+Comme les mots-valises inventés par Lewis Carroll.
 *page44|
 　Au pays du miroir, Alice demanda à Humpty[r]
 　ce que signifie le mot slictueux.
@@ -152,7 +152,7 @@ C'est comme les “mots-valises” que Lewis Carroll a inventés.
 　un nouveau mot à partir de plusieurs sens différents.[r]
 　C'est de là que vient la polysémie de l'Œil Mystique.
 *page47|
-　Humpty n'en est pas vraiment le modèle,[r]
+　Humpty n'a pas servi à proprement parler de modèle pour lui,[r]
 　mais “elle” a choisi ce nom en son honneur.
 *page48|
 　Hmm. J'viens d'y penser, mais associer[r]
