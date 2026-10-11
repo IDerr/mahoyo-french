@@ -141,16 +141,16 @@ Dire que tu n'as pas de couleur qui t'est propre serait une métaphore plus corr
 *page32|
 「Voilà, c'est ça. S'il y a bien une chose dans laquelle tu excelles, c'est cette adaptabilité.
 　Tu as été capable de vivre tout seul en ville après avoir quitté cet autre monde qu'est la montagne.
-　Tu t'habituais à peine à cette vie remplie de bon sens que tu t'es retrouvé impliqué avec les anomalies que sont Aoko et Alice. Et pourtant, tu as conservé ta routine. [l]
+　Alors que tu t'habituais à peine à cette vie remplie de bon sens, tu t'es retrouvé impliqué avec les anomalies que sont Aoko et Alice. Et pourtant, tu as conservé ta routine. [l]
 ...... Même si tu t'y forces, ton adaptabilité est remarquable.
 　Je ne saurais te dire pourquoi, mais en premier lieu, ce qu'on appelle communément l'égo n'est pas présent chez toi.」
 *page33|
 「Tu peux t'adapter à tout et n'importe quoi, mais tu n'es pas assez rusé pour être influencé.
 　Tu es comme une page immaculée, si je puis dire.
-　Pouvoir naturellement se fondre dans le paysage ou entre les arbres est une qualité magnifique, mais ne pas avoir d'égo implique ne pas avoir d'endroit où aller.
+　Pouvoir naturellement se fondre dans le paysage ou entre les arbres est une qualité magnifique, mais ne pas avoir d'égo implique ne pas avoir d'endroit à soi.
 　Ça n'a pas que des bons côtés.」
 *page34|
-「Cela dit, le fait que Yuika soit incapable de te voir allait au-delà de toute anticipation.
+「Cela dit, le fait que Yuika soit incapable de te voir allait au-delà de toute prédiction.
 　Si elle n'a pas pu te percevoir alors qu'elle peut discerner les esprits informes, c'est que ton désintéressement doit être fabuleux.」
 *page35|
 　Le prêtre lui fit part de cela tout en souriant mystérieusement.
