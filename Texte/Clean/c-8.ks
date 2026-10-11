@@ -61,7 +61,7 @@ Elle paraissait indemne, mais en réalité, ce n'était plus qu'un morceau de vi
 　Si le point fort de l'homme consiste à suppléer cet instinct par le pouvoir de la raison et une technique ingénieuse, alors ce à quoi elle venait d'assister était l'incarnation de la supériorité humaine, et en même temps, quelque chose qui manquait d'humanité.
 *page14|
 　Cette attaque négligeait toute idée de préservation ou de rétribution.
-　En oubliant tout instinct de conservation, cette technique prenait une dimension miraculeuse.
+　L'oubli total d'instinct de conservation faisait prendre une dimension miraculeuse à cette technique.
 　Résultat, elle avait transpercé la fourrure d'acier du loup-garou.
 　...... Mais qui aurait pu croire qu'un monstre capable de résister au bombardement d'un tank puisse être vaincu par un simple être humain ?
 *page15|

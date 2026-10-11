@@ -43,7 +43,7 @@
 　En l'empruntant, il fallait environ quinze minutes pour atteindre les abords du manoir.
 　Il était possible d'ignorer la pente douce et de couper en ligne droite à travers la forêt, mais en agissant ainsi, la fatigue occasionnée était démultipliée. Tant qu'il n'y avait pas urgence, le bon sens voulait que l'on utilise le chemin forestier.
 *page11|
-　En entrant dans le vestibule, des bruits de conversation lui parvinrent depuis le salon.
+　Lorsqu'il entra dans le vestibule, des bruits de conversation lui parvinrent depuis le salon.
 　Il ne faisait aucun doute que ces voix appartenaient à Aoko et Alice. Sōjūrō se dirigea donc d'abord vers le salon.
 *page12|
 　Depuis la fin des examens semestriels, le style de vie d'Aoko et Alice était passé de l'ordinaire à l'extraordinaire.

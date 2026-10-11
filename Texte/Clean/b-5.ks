@@ -17,7 +17,7 @@ Tōko ne faisait qu'utiliser une science déjà morte en la ressuscitant à chaq
 　Ils vivaient toujours entre les mains de Kuonji Alice.
 　Même en cherchant dans le monde entier, outre les Ploy d'Alice, on ne pourrait vraisemblablement trouver que deux autres Magies qui avaient été mises sous forme d'incantation il y a plus de mille ans et qui fonctionnaient encore de nos jours.
 *page4|
-　Quant à Tōko qui utilisait la Magie runique, elle n'avait qu'une vingtaine d'années d'expérience.
+　Quant à Tōko qui utilisait la Magie runique, elle n'était âgée que d'une vingtaine d'années.
 　Le temps vécu par les Runes n'était que d'un instant.
 　Il n'y avait aucune raison pour que la personnification du pont de Londres, l'un des symboles du pays natal d'Alice, perde.
 *page5|

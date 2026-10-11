@@ -348,7 +348,7 @@ Ou plutôt qui se grattait la tête.[r]
 「Parce que ce n'est pas dans nos coutumes de faire des “Tea Party” sept fois par jour, non ?
 　Fais attention, Sōjūrō. Si tu achètes une bouteille d'eau pour préparer du bon thé noir, Alice te fera un sermon d'une heure. Elle dira que tu n'as ni les connaissances ni la mentalité adéquates.」
 *page85|
-　En le préparant avec une excellente eau, le thé ne pouvait en être que meilleur.
+　Préparer le thé avec une excellente eau ne pouvait que le rendre meilleur.
 　Voilà ce qu'avait en tête Aoko lorsqu'elle avait acheté des bouteilles d'eau minérale à ses débuts dans la résidence Kuonji.
 　Elle s'était montrée confiante et fière d'elle, mais son idée avait débouché sur la première dispute “humaine” avec sa colocataire.
 　Après s'être longuement insultées sur un sujet autre que la Magie, elles avaient fini totalement épuisées.

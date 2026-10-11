@@ -2,7 +2,7 @@
 　―――C'était Shizuki.
 　C'était lui qui remplissait le mieux les conditions.
 　Il connaissait le manoir.
-　Étant l'un des hôtes de la fête, ses déambulations dans la résidence ne paraissaient pas suspectes.
+　Étant l'un des hôtes de la fête, il pouvait déambuler à sa guise dans la résidence sans avoir l'air suspect.
 　Et aussi, avant tout―――
 *page1|
 　Il y avait une contradiction fatale entre son témoignage et celui de Kuonji.

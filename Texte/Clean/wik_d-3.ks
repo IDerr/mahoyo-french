@@ -6,7 +6,7 @@
 *page2|
 　Ritsuka avait parfaitement raison.
 　S'il se mettait à pleuvoir des trombes d'eau, il faudrait se faire à l'idée qu'on rentrerait trempés.
-　En pensant qu'Aozaki venait à l'école d'ici depuis deux ans, mon admiration ainsi que ma stupéfaction envers sa ténacité allaient encore en grandissant.
+　À la pensée qu'Aozaki venait à l'école d'ici depuis deux ans, mon admiration ainsi que ma stupéfaction envers sa ténacité allaient encore en grandissant.
 *page3|
 「Tiens ? Qu'y a-t-il, Kojika ?
 　Les autres ne sont pas dans le salon ?」

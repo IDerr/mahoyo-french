@@ -619,7 +619,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 「En effet. C'est le hasard qui a voulu cette seconde rencontre. Notre relation n'est pas assez bonne pour partir en bavardages, alors contentons-nous de simples salutations.」
 *page148|
 　La personne qui avait adressé la parole à Tōko était un humain inconnu de Beo.
-　L'homme se prénommait Fumidzuka Eiri.
+　L'homme se prénommait Fumizuka Eiri.
 　C'était le prêtre suppléant de l'église d'Aida, et pour Beo et Tōko, il était plutôt à ranger dans la catégorie des ennemis.
 *page149|
 　Cependant, il aurait été injuste de lui reprocher de ne pas l'avoir deviné, puisqu'il ignorait ces informations primordiales.
@@ -742,7 +742,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 　Pendant ce bref échange, si Tōko avait correctement compté les armes du prêtre, il aurait sûrement engagé les hostilités dans la seconde.
 　Même Aozaki Tōko n'aurait su estimer lequel d'entre eux s'en serait alors sorti vivant.
 *page178|
-　Fumidzuka Eiri avait toujours été ce genre d'homme.
+　Fumizuka Eiri avait toujours été ce genre d'homme.
 　Il n'avait besoin ni d'une raison de combattre, ni d'un adversaire,
 　ni de la fatalité et ni même de la haine.
 　Il n'était qu'une machine à l'affût du moment propice.

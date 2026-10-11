@@ -49,7 +49,7 @@
 「C'est marrant, je n'avais pas du tout l'intention de te faire rire.」
 *page12|
 　Aoko se moquait clairement de Sōjūrō.
-　Incapable de déterminer jusqu'à quel point il pouvait la croire, l'expression de ce dernier s'assombrit davantage. [l]
+　Ce dernier, incapable de déterminer jusqu'à quel point il pouvait la croire, prit une expression encore plus sombre. [l]
 Amusée par son embarras, Aoko affichait un large sourire.
 *page13|
 “...... Bah, une fille qui répond de cette façon à ce que tu as dit en partant ne peut décemment pas être une sorcière aussi diabolique―――”

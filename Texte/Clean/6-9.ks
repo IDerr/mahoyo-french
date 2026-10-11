@@ -23,7 +23,7 @@
 　Sōjūrō déplaça précautionneusement dans un coin la couverture laissée sur le lit au cas où et leva les yeux.
 *page5|
 　Les étoiles étaient floues mais scintillaient à travers la lucarne.
-　Ayant grandi à la montagne, même s'il y avait matière à protestation, l'éclairage lui suffisait amplement.
+　Pour lui qui avait grandi en montagne, cet éclairage, bien que précaire, lui suffisait amplement.
 　Le contraste avec le salon l'avait déstabilisé, mais maintenant qu'il s'était calmé, il réalisait que ça ne méritait pas un tel découragement.
 *page6|
 　Et puis, cette chambre correspondait bien à son tempérament.
@@ -82,7 +82,7 @@
 *page18|
 “J'y peux rien si ça me met mal à l'aise.”
 　avait dit une fois Aoko en enfilant des pantoufles.
-　Ayant vécu jusqu'au collège dans une maison ordinaire, c'était naturel pour Aoko, mais à chaque fois qu'elle se déplaçait dans le vestibule en claquant des semelles, Alice avait envie de mettre un terme à leur cohabitation.
+　Pour elle qui avait vécu jusqu'au collège dans une maison japonaise classique, c'était un geste naturel, mais à chaque fois qu'elle se déplaçait dans le vestibule en claquant des semelles, Alice avait envie de mettre un terme à leur cohabitation.
 *page19|
 　Maintenant, ça ne la dérangeait plus tant que ça.
 　L'adaptation humaine était parfois excellente et cruelle.
