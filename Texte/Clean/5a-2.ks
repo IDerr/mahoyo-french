@@ -112,7 +112,7 @@
 　La lumière qui brillait sous ses vêtements n'était pas une illusion mais―――
 *page27|
 「―――C'est d'ailleurs assez évident.
-　Je considère quiconque qui perturbe mes sentiments comme un ennemi.」
+　Je considère quiconque perturbe mes sentiments comme un ennemi.」
 　Son bras droit s'abattit.
 　À cet instant,
 　quelque chose de presque indiscernable et terriblement dangereux passa à seulement vingt centimètres sur la gauche de Sōjūrō.
@@ -136,7 +136,7 @@
 　Passé l'effet de surprise, il était à présent à deux doigts d'arrêter de penser.
 　Les seules choses qui se reflétaient dans ses yeux étaient la silhouette de ce qu'avait été...... la présidente digne de confiance...... et le flash-back de ce dont il avait été témoin deux jours plus tôt.
 *page33|
-　Il n'avait jamais expérimenté une telle situation, tout comme la majeure partie des habitants d'états régis par des lois.
+　Il n'avait jamais expérimenté une telle situation, tout comme la majeure partie des habitants d'États régis par des lois.
 　Lorsque l'on se retrouve face à une arme capable de tuer un homme d'un simple mouvement de doigt, l'esprit stoppe toute réflexion, non seulement sur le bien et le mal, mais aussi les rêves et la réalité, le passé et le futur.
 　Plus la vie était tranquille auparavant, plus cet arrêt est brutal.
 *page34|

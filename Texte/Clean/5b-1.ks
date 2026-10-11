@@ -130,7 +130,7 @@
 　Maintenant que les choses en étaient arrivées là, elle n'y pouvait plus grand-chose.
 　Aoko n'avait pas la moindre intention de contrevenir à ses principes.
 *page27|
-　S'il y avait quelque chose pour laquelle elle voulait s'excuser, c'était seulement de s'être trompée dans l'ajustement de sa force.
+　S'il y avait quelque chose pour lequel elle voulait s'excuser, c'était seulement de s'être trompée dans l'ajustement de sa force.
 「Personnellement, ça m'embêterait qu'il meure ce soir.
 　Pourquoi tu ne reviendrais pas le tuer un autre jour, Alice ? Ce n'est pas si grave, hein ? Ce n'est que pour une journée.」
 　Pour elle, le fait de protéger le suspect S n'était que justice.
