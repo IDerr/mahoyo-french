@@ -14,7 +14,7 @@
 　　         　 　............
 *page5|
 　Elle sera présentée par les Great Three,[r]
-　accompagnés de Robin l'oiseau.
+　accompagnés de Robin the Crook.
 *page6|
 　Je voudrais inviter dans le rôle du professeur,[r]
 　My Angel, Mam'zelle Alice.
@@ -37,13 +37,13 @@
 *page12|
 　Ben, j'l'ai interprété comme ça :[r]
 　「Finis rapidement ce que tu as à faire,[r]
-　je veux te voir en privé......」
+　j'aimerais passer un peu de temps avec toi en privé......」
 *page13|
 　La richesse du langage humain est incroyable, hein.[r]
 　Honnêtement, c't'à 90 % impossible d'savoir ce que moi [r]　ou mon interlocuteur voulons exprimer.
 *page14|
 　Oui.[r]
-　Moi aussi, je partage cet avis.
+　Moi aussi, je partage cette opinion.
 *page15|
 Ouaah, ce sentiment de confiance écrasant......![r]
 Parfois, c'est pesant quand on compte sur toi.[r]
@@ -57,14 +57,14 @@ C'est même physiquement pesant ?
 　C'est un cours simple pour les nouveaux venus n'ayant aucune[r]
 　idée de c'qu'est la Magie. Voilà c'qu'est “Tout sur les Ploy”.
 *page19|
-　Donc, c'est quoi ce “familier”, Mam'zelle Alice ?[r]
+　Donc, c'est quoi ces “familiers”, Mam'zelle Alice ?[r]
 　Moi-même, depuis que j'suis né,[r]
 　j'n'ai jamais vu ni entendu parler d'ça.
 *page20|
 　Un familier,[r]
 　c'est comme un robot utilisé par les Mages.
 *page21|
-　Depuis les temps anciens, la principale occupation [r]　des Mages est de s'enfermer dans leur Atelier [r]　pour mener à bien leurs études. [r]　Ils laissent faire ceux en qui ils ont confiance pour [r]　la récupération des matières premières, l'observation [r]　du monde extérieur ou l'extermination de leurs ennemis.
+　Depuis les temps anciens, la principale occupation[r]　des Mages est de s'enfermer dans leur[r]　Atelier pour mener à bien leurs[r]　études. Ils laissent à ceux en qui ils ont confiance[r]　la tâche de collecter des matières premières,[r]　observer le monde extérieur ou exterminer leurs ennemis.
 *page22|
 　Ce ne sont que des pions, donc.[r]
 　C'est différent des disciples ?
@@ -75,8 +75,8 @@ C'est même physiquement pesant ?
 　Ils ont le devoir de surpasser un jour leurs maîtres,[r]
 　et ces derniers ne prendraient pas de disciples [r]　s'il en était autrement.
 *page25|
-　Mais les familiers ont toutes leurs capacités dès leur naissance.[r]
-　Un être incapable d'évoluer ne peut devenir un successeur.
+　À l'inverse, les familiers reçoivent l'intégralité de leurs capacités à leur naissance.[r]
+　Il n'y a aucun sens à ce qu'un être incapable d'évoluer devienne le successeur d'un Mage.
 *page26|
 J'vois. J'comprends mieux. C'pour ça que malgré les années qui passent, ma capacité de mémorisation n'augmente pas. Mais ça veut aussi dire que j'suis parfait depuis ma naissance.
 *page27|
@@ -88,19 +88,19 @@ En effet, une grande partie des types de familiers requièrent d'être alimenté
 　Plus le familier est gros, plus il a besoin de prana.[r]
 　C'est pour cette raison que[r]　les petits animaux sont privilégiés,[r]　car leur consommation de prana est faible,[r]　et ils sont capables dès leur création de se procurer[r]　de la nourriture par leurs propres moyens.
 *page30|
-　? Pourtant, j'n'ai jamais chassé ou fait un truc du genre.[r]
-　J'n'ai pas besoin de protéines et de fibres alimentaires ?
+　? Pourtant, j'ai jamais chassé ou fait un truc du genre.[r]
+　J'ai pas besoin de protéines ou de fibres alimentaires ?
 *page31|
 　Vous les Ploy, vous dépendez d'un autre type de contrat.[r]
 　En tout cas, pour les Mages, tu peux considérer [r]　les familiers comme des “serviteurs” ou des “animaux [r]　de compagnie” qui obéissent à leurs ordres.
 *page32|
-　Ainsi, on prend généralement un chat, [r]　un oiseau ou une souris comme familier.
+　Ainsi, on prend en général un chat,[r]　un oiseau ou une souris comme familier.
 *page33|
-　Mam'zelle Alice, c'truc dangereux,[r]
-　il entre dans quelle catégorie ?
+　Mam'zelle Alice, cette machine effrayante,[r]
+　ça entre dans quelle catégorie ?
 *page34|
 　C'est un Automate adapté au combat. Mais à ce niveau,[r]
-　il s'agit davantage d'une sentinelle qu'un familier.
+　il s'agit davantage d'une sentinelle que d'un familier.
 *page35|
 ...... Sa construction ne respecte pas les normes traditionnelles[r]
 des familiers. Aussi, les familiers possédant une intelligence[r]
@@ -110,43 +110,43 @@ compatible avec les humains comme toi sont des exceptions.
 　Puisqu'en général, il serait plus rapide[r]　d'utiliser des matériaux moins chers,[r]
 　ou que le Mage fasse le travail lui-même.
 *page37|
-　C'est c'qu'on appelle,[r]
-　confondre la fin et les moyens, hein.
+　En d'autres termes,[r]
+　la fin ne justifie pas les moyens, hein.
 *page38|
-　Hm ? Alors, le familier est plus faible [r]　que le Mage, hein.[r]
+　Hm ? Quelque part, ça veut dire que le familier est toujours[r]　plus faible que le Mage, hein.[r]
 　Ce sont que des sous-fifres ?[r]
 　Ouaah, ils sont vraiment inutiles !
 *page39|
-　C'est une conclusion bien hâtive[r]　comme on peut l'attendre de toi, Robin.[r]
+　Voilà une conclusion hâtive[r]　typique de toi, Robin.[r]
 　Ça me consterne. Et dire que tu es mon familier,[r]
 　j'ai l'impression que ça va me rendre folle.
 *page40|
 　Mam'zelle Alice.[r]
 　Vos paroles sont merveilleuses, [r]　mais pourquoi votre visage fait peur ?
 *page41|
-　Même s'il n'a que 10 % des capacités du Mage,[r]
-　c'est facile de créer un familier plus “fort” que lui.
+　Même s'il ne lui donne que 10% de ses propres capacités,[r]
+　il est très facile pour un Mage de créer un familier plus “fort” que lui-même.
 *page42|
 　Et si on essayait la prochaine fois, juste pour voir,[r]
 　de t'enfoncer un derringer dans le ventre ?
 *page43|
 　Tu ne pourras plus gazouiller, rire, ou voler,[r]
-　mais tu devrais pouvoir au moins surprendre l'adversaire.
+　mais il y a de fortes chances que tu puisses au moins déstabiliser l'ennemi.
 *page44|
 　Ro―――Robin le Pétard ![r]
 　Trop cool ![r]
-　J'ai l'intuition que j'aurai un grand rôle à jouer à Noël......!
+　J'ai l'intuition que j'aurai un grand rôle à jouer à Noël...!
 *page45|
-　Une vraie sarbacane.[r]
-　Et si on se débarrassait de[r]　toi par la même occasion ?
+　Tu serais plutôt un lance-pois.[r]
+　Je me demande si tes projectiles se feront juste[r]　gober.
 *page46|
-　Vous êtes sévère.[r]
+　Vous êtes vachement dure.[r]
 　Mais au moins, on a fait une explication approximative.
 *page47|
 　Les familiers sont des robots protégeant le Mage,[r]
 　et leur performance varie selon leur créateur.
 *page48|
-　Hm ? La toute-puissante Mam'zelle Alice mise à part,[r]
+　Hm ? En dehors de vous, toute-puissante Mam'zelle Alice,[r]
 　que se passerait-il si Mam'zelle Aoko créait un familier ?[r]
 　Une auto-destruction instantanée à l'activation ?
 *page49|
@@ -158,16 +158,16 @@ compatible avec les humains comme toi sont des exceptions.
 　sa raison d'être se briserait en mille morceaux.
 *page51|
 　Ha ha ha.[r]
-　D'horribles paroles prononcées [r]　avec nonchalance.
+　Vous n'mâchez pas[r]　vos mots.
 *page52|
-En ce qui concerne les combats, Aoko n'a pas besoin de laisser faire un familier.[r]
+Un familier serait inutile au combat pour Aoko.[r]
 Et inversement, je ne peux pas me battre―――
 *page53|
 　Je vois. Mam'zelle Aoko elle-même est forte.[r]
 　Et pour vous, ce sont ceux qui vous entourent[r]
 　qui sont forts.
 *page54|
-　S'il fallait faire une comparaison avec les échecs......[r]
+　Pour faire une comparaison avec les échecs......[r]
 　non, avec le shogi, Aoko n'est que le camp du roi [r]　(avec les capacités du fou et de la tour).
 *page55|
 　Quant à moi, mon camp est fort, [r]　mais le roi lui-même n'a que la capacité de “marcher”.
