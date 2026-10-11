@@ -14,6 +14,7 @@
 - Traduction    : Naoyrig
 - Relecture     : Naoyrig, Caster
 - Partie technique       : IDerr
+- Portage steam : RequinDr, loicfr
 - Remerciements : Nodamin, Atlas, N-harmonia, Elfy, Yokathaking, Shipanda
 
 ## Avancement de la traduction
