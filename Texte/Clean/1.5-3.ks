@@ -364,7 +364,7 @@
 『Ce bras, ce bras, il ne s'enlève pas !』
 『En fait, si on continue de le mordre, on ne peut pas bouger non plus.』
 『C'est horrible ! Alors vous n'avez rien à faire de porcs qui ne peuvent pas voler ?!』
-『La prochaine fois ! La prochaine fois, on sera sûrement utiles ! Même si, depuis qu'on est nés, on ne cesse d'échouer !』
+『La prochaine fois, pour sûr, on se montrera utiles ! Même si l'échec est notre apanage depuis la naissance !』
 『Oui, avant qu'on ne soit cassés, on voudrait être félicités au moins une fois, hein !』
 *page80|
 「............」

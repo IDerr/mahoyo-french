@@ -18,7 +18,7 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 *page4|
 「Dès le réveil, on retournait à notre petit train-train quotidien. C'était en général à ce moment-là qu'on remarquait l'absence de quelqu'un qui était encore parmi nous la veille.
 　Quand je demandais ce qui lui était arrivé, on me disait toujours qu'il était tombé malade au cours de la nuit. D'autres fois, certains n'arrivaient pas à dormir et sortaient pour se dégourdir les jambes. Je ne les revoyais jamais.
-　Une fois, j'ai même découvert le corps d'une connaissance au pied d'une falaise, peu de temps après sa disparition.」
+　Une fois, j'ai même découvert le corps d'une connaissance au pied d'une falaise, quelque temps après sa disparition.」
 *page5|
 「...... Maintenant que j'y pense, ce n'était pas normal.
 　Ça ne serait pas arrivé si nous avions vécu en groupe, mais nous préférions garder nos distances. Comme le monde s'achevait en un jour, peut-être pensions-nous pouvoir suffire à nous-mêmes.」

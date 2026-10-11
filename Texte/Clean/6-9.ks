@@ -121,7 +121,7 @@
 　C'étaient des mots impitoyables dignes d'une sorcière, mais en y pensant bien, ce n'était pas si implacable que ça. Du point de vue du rouge-gorge.
 *page27|
 「Ce n'est pas encore le moment. Mais ça ne va pas durer. Ma patience aussi a ses limites.
-　...... Et puis, Aoko n'est pas dans une position lui permettant de se préoccuper des gens. Au bout de cinq jours, elle réalisera à quel point sa situation est dangereuse. Ainsi―――」
+　...... Et puis, Aoko n'est pas en position de se préoccuper des gens. Au bout de cinq jours, elle réalisera à quel point sa situation est précaire. Et alors―――」
 *page28|
 　À ce moment-là, il sera facile de l'expulser.
 　Alice savait très bien que sa colocataire était une pure rationaliste.

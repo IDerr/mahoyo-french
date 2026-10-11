@@ -313,7 +313,7 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 *page71|
 「Es, espèce de traîtresse...!
 　Alors c'est pour ça que tu es rentrée en retard, hein ?!
-　J'aurais dû me demander pourquoi tu es revenue après cinq heures, toi qui n'es dans aucun club et qui mets vingt minutes, entre le bus et la marche à pied, pour aller à l'école.」
+　J'aurais dû me demander pourquoi tu es rentrée à cinq heures passées, alors que tu n'es dans aucun club et qu'il ne te faut que vingt minutes en bus et à pied pour aller à l'école.」
 　Malheureusement, à ce moment-là, Aoko était à ce point dans la lune qu'elle ne s'était pas rendu compte qu'elle s'était endormie.
 *page72|
 「Aah—ah, tu es une horrible femme ! On avait pourtant un accord. On devait acheter quelque chose pour celle qui restait seule à ces moments-là.

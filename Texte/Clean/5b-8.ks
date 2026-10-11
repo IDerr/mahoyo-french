@@ -10,7 +10,7 @@
 　Aoko cherchait sûrement à assurer en priorité la sécurité du garçon.
 　En effet, c'était bien son genre de ne pas changer d'avis une fois qu'elle avait décidé quelque chose, même si ça lui gâchait sa journée.
 *page2|
-「C'est dommage. Comme il s'agit d'Aoko, je pensais qu'elle serait venue me réduire en cendres avec la tour d'horloge.」
+「C'est dommage. Connaissant Aoko, je m'attendais à ce qu'elle vienne me réduire en cendres avec la tour d'horloge.」
 　L'oiseau bleu lui répondit en faisant claquer son bec.
 　Soit il rejetait le portrait d'Aoko que faisait sa propriétaire,
 　soit il était du même avis et pensait qu'elle en était bien capable.

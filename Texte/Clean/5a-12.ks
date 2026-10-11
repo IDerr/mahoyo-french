@@ -156,7 +156,7 @@
 　Après tout, il l'avait vraiment sauvée.
 　Elle sourit intérieurement en pensant qu'avoir le courage d'attendre dans une situation pareille, même si ce n'était que pour une seconde, méritait son admiration.
 *page34|
-“...... Il n'a pas accompli son rôle, mais il a assuré pour le service après-vente. Dans ce cas, je dois tenir ma promesse.”
+“...... Il n'a pas accompli son rôle, mais il a assuré pour le service après-vente. Je peux bien tenir ma promesse.”
 　Acquiesçant, Aoko se leva.
 *page35|
 「Pour la promesse, bah, disons que tu la respecteras un jour.」

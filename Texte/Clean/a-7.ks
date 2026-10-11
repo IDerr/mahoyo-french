@@ -122,7 +122,7 @@ Sa colonne vertébrale étant brisée juste au-dessus des reins, Alice ne pouvai
 　Sōjūrō devait être épuisé, et pourtant, il était plus attristé par son manque de confiance en lui que par cette épreuve.
 *page29|
 「... Tu ne devrais pas plutôt dire... que tu as pris conscience... de l'importance de l'argent ?」
-「Pourquoi ? On pourrait utiliser certaines choses, mais on ne peut pas simplement parce qu'on n'a pas l'argent. Ce n'est pas terriblement frustrant, ça ?」
+「Pourquoi ? On pourrait utiliser certaines choses, mais on ne peut pas parce qu'on n'a pas l'argent. Ce n'est pas terriblement frustrant, ça ?」
 「――――――」
 　Cette question innocente fit brièvement oublier à Alice la douleur de sa blessure.
 　Même si elle était convaincue de ne pas avoir une très bonne affinité avec la société civilisée,

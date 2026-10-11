@@ -74,7 +74,7 @@
 　D'ailleurs, ça rendait les gens inquiets quand il se laissait un peu trop aller.
 *page18|
 「Allez, on mange, on mange.
-　Hier, j'ai reçu plein de restes du magasin. Des rouleaux de printemps ! Quand mon père a vu ça, il m'a gonflé à force de me dire qu'il ne fallait pas gâcher ce qu'on nous donne. Et donc, je n'ai que ça à manger.」
+　Hier, j'ai reçu plein de restes du magasin. Des rouleaux de printemps ! Quand mon père a vu ça, il m'a cassé les oreilles à me dire qu'il ne fallait pas gâcher ce qu'on nous donne. Résultat, je n'ai que ça à manger.」
 *page19|
 　Il pensait donc demander à une âme charitable de partager avec lui un panier-repas digne de ce nom.
 　Sōjūrō et lui travaillaient dans le même restaurant, et il le connaissait d'avant son transfert. C'était l'un de ses rares compagnons de travail.
@@ -96,11 +96,11 @@
 *page23|
 「Bien, bande de vauriens, vous avez tous préparé vos ouvre-boîtes ?
 　Le manger, c'est l'enfer, le gâcher, c'est aussi l'enfer. Devenons des[ruby char=" Shura " text="gardiens de temple"]ne craignant pas d'être absents à la 5e période de cours, et apportons la paix à ces démons de fer―――
-　Oooh, les ingrédients viennent du marché Nakayama et de la firme Macoy de la ville basse !」
+　Hum, les ingrédients viennent du marché Nakayama et de la firme Macoy de la ville basse !」
 「Fyuu ! Au tour des idiots de faire une pause, yeah !」
 　Les étudiants masculins se regroupèrent et hissèrent haut vers le ciel leurs mains tenant les ouvre-boîtes.
 *page24|
-「Allez, Shizuki, mange toi aussi. Il y a encore plein d'ouvre-boîtes.」
+「Allez, Shizuki, n'hésite pas à te servir. Il y a encore plein d'ouvre-boîtes.」
 「Non, je me rappelle vous avoir dit hier que je ne voulais pas de vos paniers-repas empoisonnés.
 　Et puis, la date de péremption de plus de la moitié de ces boîtes de conserve est passée.」
 「Ben quoi alors ! T'es trop sérieux !」
@@ -177,7 +177,7 @@
 　Et bien sûr, il n'y aurait aucune rétribution sur les résultats scolaires.
 　La chose n'était qu'un volontariat organisé par le conseil étudiant. La simple présence d'un volontaire était déjà presque un miracle en soi.
 *page41|
-「Ah... Non, nous autres, on a le corps fragile.... On va manger nos boîtes de conserve dans notre coin, d'accord ?」
+「Ah... Non, nous autres, on a le corps fragile.... On va manger nos boîtes de conserve, peinards dans notre coin, d'accord ?」
 「Nous aussi, on a tendance à être anémiques... Si on ne mangeait pas des fruits comme ça, on mourrait... Nos plans pour les vacances de Noël sont déjà surchargés......」
 　À l'exception d'une personne, tous les élèves de la classe C de deuxième année battirent en retraite dans un coin.
 *page42|
@@ -203,6 +203,6 @@
 　La proposition de la présidente a reçu l'accord de l'école, vois-tu, les membres du conseil étudiant ont reçu le pouvoir de recommander quelqu'un de force à partir d'aujourd'hui.
 　Tout spécialement la présidente et le vice-président dont les pouvoirs sont absolus. Si tu refuses, sans même parler de la réaction de l'école, je ne sais pas ce que fera Aozaki, alors fais bien gaffe.」
 *page48|
-「Quoiii ?!!! Attends, c'est une véritable condamnation à mort ? Le conseil étudiant est vraiment tyrannique !!!」
+「Quoiii ?!!! Attends, c'est une véritable condamnation à mort ?! Le conseil étudiant est vraiment tyrannique !!!」
 　Laissant derrière eux un Kinomi livide dont les jérémiades s'étaient transformées en cris, Sōjūrō et le vice-président quittèrent la salle de la classe 2-C.
 *page49|

@@ -138,7 +138,7 @@ mais si même un type comme toi commence à raconter des bêtises, en qui pourra
 　Les privilèges octroyés par le prestige de la famille, qui sont censés perdurer toute la vie, ne durent que trois ans dans mon cas !」
 *page31|
 「Dans ce cas, ce serait du gâchis de fermer les yeux là-dessus et de ne pas en profiter pendant que je le peux.
-　Je ne veux pas ! Tu sais ce que je ne veux pas ? Je ne veux pas être pris par la peau du cou et rangé avec des imbéciles pour faire les comptes ! J'en suis certain, dans le monde des adultes où règnent l'envie et la jalousie, mon cœur sera rapidement englouti et dissous comme un vulgaire comprimé dans un verre d'eau !」
+　Je ne veux pas ! Tu sais ce que je ne veux pas ? Je ne veux pas être pris par la peau du cou et rangé avec des imbéciles juste pour faire les comptes ! J'en suis certain, dans le monde des adultes où règnent l'envie et la jalousie, mon cœur sera rapidement englouti et dissous comme un vulgaire comprimé dans un verre d'eau !」
 *page32|
 「――――――」
 　Ce discours, qui ne pouvait être qu'une blague, semblait sérieux d'après ce que pouvait en juger Sōjūrō.

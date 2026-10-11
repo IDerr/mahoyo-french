@@ -67,7 +67,7 @@
 「...... Non, j'ai changé d'avis.
 　Puisque je suis là, rentrons ensemble, Aoko. Ce serait davantage dans ton style. Par la même occasion, tu me parleras de la marionnette.」
 「Aah. Tu entends quoi par “mon style” ? Hein ?
-　C'est bon, va-t'en, Alice la paresseuse. Enferme-toi dans ta chambre et va fabriquer tes étourneaux sans intérêt.」
+　C'est bon, va paresser ailleurs, Alice. Enferme-toi dans ta chambre et va fabriquer tes étourneaux sans intérêt.」
 *page14|
 「............」
 　Un soupir de déception s'échappa de ses lèvres charmantes.

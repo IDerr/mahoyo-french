@@ -224,7 +224,7 @@ Mais je pense que faire du feu sans outil relève du divin.」
 「? C'est bizarre ?」
 「Bien sûr que c'est bizarre ![r]
 　Tu es bizarre depuis le début, d'abord !
-　Normalement, tu devrais être surpris, effrayé, nous ignorer, et finalement faire comme si nous n'existions pas. Alors, pourquoi tu m'as crue lorsque je t'ai dit que j'étais une Magicienne ?」
+　Normalement, tu devrais être surpris, effrayé, nous ignorer, ou faire comme si nous n'existions pas. Alors, pourquoi tu m'as crue lorsque je t'ai dit que j'étais une Magicienne ?」
 *page56|
 　En y repensant, c'était quelque chose qu'elle aurait dû demander dans le palais des glaces.
 　À ce moment-là, Shizuki Sōjūrō avait été étonné par le phénomène inconnu qu'était la “Magie”, mais n'avait montré ni surprise ni inconfort face à Aoko elle-même.

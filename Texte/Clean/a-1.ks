@@ -66,7 +66,7 @@
 　Finalement, elle resta inexpressive et n'exprima ni son consentement ni son désaccord.
 *page14|
 「En gros, les cheveux des Mages peuvent aussi servir d'arme.
-　Il a toujours été facile de transformer les cheveux ou les yeux humains en matériau brut utile à la Magie. Et tout particulièrement dans le cas des femmes.
+　Les cheveux et les yeux humains ont toujours constitué de bons matériaux en Magie. Tout particulièrement dans le cas des femmes.
 　Plus la couleur des yeux est pure, mieux c'est, et plus les cheveux sont longs, meilleure est la qualité.
 　Il est facile d'utiliser ses cheveux comme une extension de soi-même, et on les entretient sur de longues années. Vois ça comme une primitive et puissante “matière première”.
 　La raison pour laquelle je me laisse pousser les cheveux, eh bien, c'est pour ça. C'est fastidieux de les entretenir, mais comme je suis une femme, c'est presque un passe-temps.」

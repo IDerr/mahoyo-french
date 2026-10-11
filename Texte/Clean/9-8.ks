@@ -38,7 +38,7 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 　Il avait senti dans ces propos un sens funeste.
 *page11|
 「......... Qu'entends-tu par là ?」
-「Ben, comme je viens de le dire, elle a un sale passe-temps qui consiste à voler ce qui m'appartient et à le détruire. En quatorze ans de détermination sans faille, pas une seule chose sur laquelle elle a jeté son dévolu ne s'en est sortie indemne.」
+「Ben, comme je viens de le dire, elle a un sale passe-temps qui consiste à voler ce qui m'appartient et à le détruire. En quatorze ans d'efforts, pas une seule chose sur laquelle elle a jeté son dévolu ne s'en est sortie indemne.」
 「..............................」
 *page12|
 　En entendant le monologue d'Aoko, Sōjūrō se remémora sa conversation avec Tōko.

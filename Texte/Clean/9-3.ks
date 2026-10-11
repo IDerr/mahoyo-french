@@ -65,7 +65,7 @@
 「........................」
 　Elle avait beau s'y être habituée, il se montrait parfois tellement nigaud qu'elle le soupçonnait de le faire exprès.
 *page16|
-「Sōjūrō. Tu te rappelles de ce qu'a dit Kinomi ?」
+「Sōjūrō. Tu te rappelles ce qu'a dit Kinomi ?」
 「“Je te prête cette cassette. En rentrant chez toi, regarde la vidéo......”」
 *page17|
 「Il manquait donc les instructions les plus importantes...

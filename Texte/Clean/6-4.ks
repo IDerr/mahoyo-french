@@ -180,7 +180,7 @@ Très bien, je voulais au moins te laisser réfléchir, mais on n'a plus le temp
 　Sōjūrō, silencieux, fronça les sourcils, au contraire plus inquiet.
 *page41|
 「Tu as compris ? Ton traitement consistera en une mise sous surveillance à condition que tu vives ici, et ce, seulement jusqu'à ce qu'on trouve une solution.
-　C'est bien moins barbare que de vouloir tuer le témoin à tout prix, n'est-ce pas ?
+　C'est bien moins barbare que de vouloir tuer le témoin à tout prix, non ?
 　...... Et puis, c'est la promesse qu'on s'est faite, alors ne te plains pas pour un rien. Déjà que la guerre froide avec Alice me file des maux de tête à n'en plus finir...」
 　dit-elle en soupirant, le regard fixé sur Sōjūrō alité.
 *page42|

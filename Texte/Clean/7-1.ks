@@ -129,7 +129,7 @@ Cette fille me déteste et elle voudrait me faire partir de là, mais je ne peux
 　Il acquiesça sans savoir vraiment ce que cela signifiait.
 *page32|
 「Mais je ne sais pas quoi faire. D'abord, comment on fait pour discuter amicalement avec une fille de son âge ?」
-「Quoi ? Tu parles bien avec les filles de la classe. C'est déjà très bien comme ça, je suis jaloux !
+「Quoi ? Tu parles bien avec les filles de la classe. C'est la marche à suivre. Tu peux pas savoir comme je t'envie !
 　Tu n'as qu'à mettre en avant ton caractère naturel.
 　Tu sais, avoir été élevé en montagne, ça peut être un atout précieux. Il faut savoir mettre à profit ce qui est rare.」
 *page33|
@@ -242,7 +242,7 @@ Dans le cas présent, dis plutôt que je me contredis.」
 「Mon attitude ambiguë......?」
 *page60|
 「Oui. Si tu l'ignores, alors ignore-le complètement.
-　Tu fortifies tes défenses, mais tu laisses la porte du château ouverte dans la claire intention d'embrocher ta proie si jamais elle entre par inadvertance. En tant que partenaire, je ne peux pas rester les bras croisés en voyant cela.
+　Tu fortifies tes défenses, mais tu laisses la porte du château grande ouverte dans la claire intention d'embrocher ta proie si jamais elle entre par inadvertance. En tant que partenaire, je ne peux pas regarder ça en restant les bras croisés.
 　La seule chose qu'il pourrait faire normalement, c'est ouvrir la porte fermée. Qu'est-ce que tu penses du fait de perdre même cette chance ?」
 *page61|
 「...... Désolée, Aoko. Dis-le de façon un peu plus simple.
@@ -403,7 +403,7 @@ Rassure-toi. J'ai même pour objectif de suivre à la lettre le conseil que tu m
 *page98|
 「Tu disais pourtant ne pas pouvoir te permettre de dépenses inutiles.
 　Enfin, c'est pas grave. Si le nôtre te convient, ça te dit de l'utiliser ? Je te le prête ?」
-「Non, je n'aurai sûrement pas fini en une journée, alors j'en achèterai un moi-même.
+「Non, je n'aurai sûrement pas fini en une journée, alors j'en achèterai un.
 　C'est quelque chose que je voulais depuis longtemps. C'est pratique, un balai.」
 *page99|
 　Il rentrait du travail, l'école étant terminée.

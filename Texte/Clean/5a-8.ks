@@ -182,7 +182,7 @@
 “Merde...... Elle dispersait sa malédiction......!”
 　Au moment où elle le remarqua, il était déjà trop tard.
 　Aux alentours de la marionnette, la malédiction tourbillonnait.
-　Le poème maudit, la source de sa puissance, était aussi un système de défense qui rendait malade quiconque s'en approchait.
+　Le poème maudit, la source de sa puissance, servait aussi de système de défense qui rendait malade quiconque s'en approchait.
 *page44|
 　Elle avait continuellement reçu cette malédiction à bout portant.
 　Même si Aoko possédait un Circuit Magique, sa condition physique se dégradait rapidement, comme celle de Sōjūrō tout à l'heure.

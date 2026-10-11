@@ -89,7 +89,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 「Pareil, à cinq heures. Tu allais quelque part avant ?」
 *page22|
 「Je reviens de la librairie. Je n'avais plus de livres à lire, alors je n'ai pas eu d'autre choix que de sortir.」
-「Je vois. On a tous les deux du mal à trouver comment tuer le temps.」
+「Je vois. On a tous les deux du temps à perdre.」
 *page23|
 　La fille qui lui avait adressé la parole était une collègue de travail, ainsi qu'une élève en même année que lui, Kumari Kojika.
 　Même s'il était plus juste d'utiliser l'expression “chercher la bagarre” plutôt qu'adresser la parole.
@@ -502,7 +502,7 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 　Sōjūrō leva la main et tenta de s'enfuir vers sa chambre, le grenier du deuxième étage.
 *page120|
 『Att... Attendsーーー! On arrive au meilleur moment, alors pourquoi tu t'barres ? Tu te prends pour Scarlett O'Hara ? Tu joues l'héroïne tourmentée ?
-　J'peux pas accepter ça ! Pourquoi un nouveau venu chez nous devrait, à peine arrivé, être le seul à profiter du regard de Mam'zelle Alice ? Je peux pas laisser passer ça ! Explique-moi ce mystère ! Et ne mens pas. Quand je deviens sérieux, je suis terrible !』
+　J'peux pas accepter ça ! Pourquoi un nouveau venu devrait, à peine arrivé, monopoliser l'attention de Mam'zelle Alice ? Je peux pas laisser passer ça ! Explique-moi ce mystère ! Et ne mens pas. Quand je suis sérieux, rien ne va plus !』
 *page121|
 「Quoi ?」
 　Sōjūrō revint sur ses pas après avoir monté la moitié des escaliers.
