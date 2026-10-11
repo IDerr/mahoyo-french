@@ -206,7 +206,7 @@ De ce point de vue, je suis pareille que toi. Ma morale n'est pas normale. C'est
 　Comme si son corps, qui avait pourtant renoncé à lutter, ne pouvait tolérer de tels propos.
 *page47|
 「Ce n'est pas bien de tuer.」
-「Je t'ai pourtant dit que je le savais, non ?」
+「Je t'ai déjà dit que je le savais, non ?」
 　Le bras droit d'Aoko s'éleva.
 　La lumière du Sceau illumina son visage.
 *page48|

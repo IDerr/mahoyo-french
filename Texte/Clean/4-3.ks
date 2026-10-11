@@ -130,7 +130,7 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 　Un léger soupir.
 　Il était inhabituel que cette jeune fille en noir exprime ainsi son découragement.
 *page30|
-「Oui. Les attaques en traître ne sont pas mon passe-temps favori. Même si je dois le tuer, je le ferai loyalement, après lui en avoir expliqué la raison.
+「Oui. Les attaques en traître ne me plaisent décidément pas. Si je dois le tuer, je le ferai à la loyale, après lui en avoir expliqué la raison.
 　De cette façon, je ne regretterai rien. Ça te pose un problème ?」
 「Absolument pas. Et puis, les sentiments n'ont pas lieu d'être dans ces circonstances.
 　Mais―――」

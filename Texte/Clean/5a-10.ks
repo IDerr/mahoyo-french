@@ -4,7 +4,7 @@
 　Seul Sōjūrō resta au bout de la spirale, au centre du premier étage.
 *page1|
 “Pour tout te dire, il reste un piège que je n'ai pas encore utilisé.
-　Je pense d'ailleurs que j'y suis allée un peu fort, mais comme tu mettais du temps pour venir, je me suis un peu amusée.”
+　Je pense d'ailleurs que j'y suis allée un peu fort, mais comme tu mettais du temps à arriver, j'en ai profité pour m'amuser un peu.”
 “......? Un piège, pour moi ?”
 *page2|
 　Devant Sōjūrō qui penchait la tête, intrigué, Aoko confirma sans hésiter et lui parla de son dernier atout, qu'elle avait gardé en réserve.

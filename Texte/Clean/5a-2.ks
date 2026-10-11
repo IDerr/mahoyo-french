@@ -129,7 +129,7 @@
 　Avec un tir pareil, il était sûrement possible d'écraser la tête d'un homme ou de le carboniser complètement.
 *page31|
 「...... Aah. Si Alice m'avait vue rater ma cible à cette distance, je me serais suicidée.
-　Mais comme ça, tu as compris, n'est-ce pas ? Après tout, c'est la deuxième fois pour toi.」
+　Mais comme ça, tu as compris, n'est-ce pas ? Surtout que c'est la deuxième fois pour toi.」
 「――――――」
 *page32|
 　Sōjūrō se retrouva instantanément en état de choc.

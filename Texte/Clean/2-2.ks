@@ -102,7 +102,7 @@
 　fit le vice-président en toussant violemment.
 　Comme Sōjūrō avait grandi à la montagne, il était davantage habitué aux produits montagnards que marins. Mais Tobimaru n'avait pas l'impression que la sauterelle en faisait partie.
 *page25|
-「Merde, dis-le avant que je mange ! À cause de ça, j'ai pensé que c'était trop bon !」
+「Merde, t'aurais pu le dire avant que je mange ! Et moi qui me suis dit que c'était trop bon !」
 「Ha ha, c'était un mensonge.」
 　Les deux se regardèrent un instant.
 *page26|
@@ -131,7 +131,7 @@
 *page30|
 「Ah, c'est vrai...... Tu n'es pas au courant du drame de l'an dernier.
 　Si tu avais su, tu n'aurais pas eu à connaître ce désir destructeur.」
-「...... D'après ce que tu dis, je pense que tu te trompes sur un point, mais on verra ça après. À part ça, de quel drame parles-tu ?」
+「...... Je crois qu'il y a comme un léger malentendu, mais on verra ça après. D'abord, raconte-moi de quel drame tu parles.」
 「―――Hmm.」
 *page31|
 　Tobimaru reprit ses esprits et, après s'être demandé ce qu'il devait faire, se rassit sur sa chaise.
@@ -260,7 +260,7 @@ C'est pourtant l'incident décisif qui m'a incité à ne plus la voir comme une 
 　...... Son air simplet cache peut-être un côté mystérieux, pensa Tobimaru en révisant son opinion.
 *page60|
 「Quoi qu'il en soit, ce que je veux dire, c'est que les critères d'affection d'Aozaki Aoko ne sont pas normaux.
-　Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plaisir, ou détester quelqu'un parce qu'il lui a fait quelque chose qui ne lui plaît pas.」
+　Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plaisir, ou détester quelqu'un parce qu'il a été vache avec elle.」
 　“Je garderai ça dans un coin de ma tête”, dit Sōjūrō tout en regardant l'horloge.
 　Apparemment, ils avaient parlé bien longtemps. Il ne restait que peu de temps avant la fin de la pause déjeuner.
 *page61|

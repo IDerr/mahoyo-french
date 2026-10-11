@@ -50,12 +50,12 @@
 *page12|
 「Et donc ?」
 「Donc ?」
-「Donc, c'est quoi que tu as de prévu exactement ?」
+「Et donc, c'est quoi que tu as de prévu exactement ?」
 　Comprenant ce qu'Aoko essayait de dire, Sōjūrō acquiesça avec un visage calme,
 「Je voudrais garder ça pour moi.」
 　et lui répondit de façon incongrue avec un air sérieux.
 *page13|
-『...... Je pensais que je commençais à m'habituer à son drôle de comportement, mais de temps en temps, j'ai l'impression que je vais m'évanouir......』
+『...... Je croyais m'être faite à son comportement extravagant, mais il me prend encore parfois au dépourvu......』
 　Sous le coup de la colère, bien sûr. [l]Ravalant sa rage, Aoko fit son plus beau sourire.
 *page14|
 「M. Shizuki ?」

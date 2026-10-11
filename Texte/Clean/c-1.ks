@@ -223,7 +223,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 　L'espace devant Aoko était distordu.
 　L'air nocturne se densifiait comme du brouillard et couvrait la silhouette de la jeune fille.
 　L'Œil Mystique de Tōko avait peut-être la particularité de miroirs opposés, mais cette brume agissait comme un miroir magique mis en place à un embranchement.
-　Là où elle se situait, son champ de vision était divisé en deux et il lui était impossible de confirmer visuellement la position de sa sœur cadette......!
+　De là où Tōko se situait, son champ de vision se séparait en deux et elle ne pouvait déterminer la position de sa sœur cadette......!
 *page49|
 「C'est l'effet du Miroir de la sieste, Tōko. [l]
 Aoko est au fond d'un couloir en forme de Y. Comme ton regard suit une trajectoire rectiligne, le centre ne t'est pas visible.」

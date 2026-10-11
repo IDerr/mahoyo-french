@@ -52,7 +52,7 @@
 　Cette lueur éclairait légèrement le chemin montagneux et l'obscurité absolue commençait à devenir plus relative.
 　Il faisait sombre, mais le monde restait visible.
 *page12|
-　Le chemin dont on ne voyait pas la fin s'étirait indéfiniment.
+　Le chemin dont on ne voyait pas le bout s'étirait indéfiniment.
 　Tandis que Sōjūrō ajustait sa vitesse à celle d'Aoko, il la regarda à la dérobée.
 *page13|
 　Le clair de lune éclairait la route, certes, mais cela suffisait-il à apaiser sa crainte ? Ne ressentait-elle aucune peur sur ce chemin plongé dans le noir et le silence ?

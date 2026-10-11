@@ -401,7 +401,7 @@ Je me demande bien ce qui t'y oblige, le devoir ou la contrainte ?」
 　Elle continua d'un air ennuyé, contrairement à Sōjūrō qui ouvrait grand les yeux d'effarement.
 *page93|
 「Tu ne savais pas, Sōjūrō ?
-　Dans la vie, ton principal spectateur, ce n'est nul autre que toi-même. Voilà pourquoi on ne peut baisser sa garde ici-bas.」
+　Dans la vie, ton principal spectateur, ce n'est nul autre que toi-même. Voilà pourquoi on ne peut jamais baisser sa garde.」
 　En réaction au discours d'Aoko, lasse, Sōjūrō se leva en silence.
 　Il paraissait comme abattu par la défaite, ce qui n'était guère son genre.
 *page94|

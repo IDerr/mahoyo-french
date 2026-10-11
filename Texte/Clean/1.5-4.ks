@@ -23,7 +23,7 @@
 *page6|
 「Oui, je le sais.
 　―――Au fait, je viens d'y penser, mais dans ta tête, comment est-ce que tu considères Kinomi, Tobimaru ?」
-「Eh bien... Si le ramassage des ordures ménagères ne rapporte pas tôt ou tard de l'argent, les bénéfices engendrés seront insuffisants, pas vrai ? Ça veut dire que l'État va bientôt arrêter de s'en occuper gratuitement.」
+「Eh bien... Si le ramassage des ordures ménagères ne rapporte pas d'argent tôt ou tard, l'activité ne sera pas rentable, pas vrai ? Ça veut dire que l'État va bientôt arrêter de s'en occuper gratuitement.」
 *page7|
 「Hein ? Qu'est-ce que tu racontes ? Les vieilles commodes se vendent bien cher, elles ! [l][chgfg storage=木乃実制服02a(近) time=300]
 Donc quelqu'un “directement prêt à l'emploi” comme moi finira bien par être à la mode un jour, non ?　Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
@@ -52,7 +52,7 @@ Donc quelqu'un “directement prêt à l'emploi” comme moi finira bien par êt
 　Un silence embarrassant s'empara du trio.
 　“Bon j'y vais”, dit Sōjūrō après être resté sans voix pendant environ cinq secondes, avant de laisser ses deux compères et de quitter la véranda.
 *page14|
-「Pourquoi il ne se passe jamais rien d'intéressant ? Quelqu'un ne pourrait pas dessiner un cercle mystérieux ou un autre truc sur le campus ?」
+「Pourquoi il ne se passe jamais rien d'intéressant ? Quelqu'un ne pourrait pas dessiner un cercle de culture quelque part sur le campus ?」
 　Kinomi relâcha ses épaules tout en rouspétant, comme si on lui avait aspiré entièrement sa force vitale.
 *page15|
 「Ne te repose pas sur la folie des autres ! Si tu veux de l'excitation, provoque toi-même un incident. Tu sais, comme lors de l'annonce de la répartition des classes, si tu te fais charger par Aozaki, ce sera rapide.」
@@ -86,7 +86,7 @@ Et si jamais il travaillait dans un endroit qui ne rentre pas tout à fait dans 
 　En supposant qu'il ait un travail qui ne respecte pas les règles de l'école, ne serait-ce pas parce que l'école ne répond pas à sa demande ?」
 *page23|
 「Je ne dis pas de prendre en charge ses frais de loyer en lui octroyant une bourse d'étude, mais qu'il faut prendre en considération sa demande de vouloir travailler tant que le temps le lui permet.
-　Si vous avez des soupçons selon lesquels il travaillerait en violant la réglementation, alors d'abord, modifiez le règlement qui stipule “un seul emploi par élève”.」
+　Si vous le soupçonnez de travailler dans des lieux non recommandés par l'école, alors commencez par modifier le règlement qui stipule qu'un élève ne peut avoir qu'un seul emploi.」
 *page24|
 　Dans ce cas, elle n'abandonnera pas quoi qu'il arrive, hein, pensa en se tenant la tête le professeur Yamashiro face au ton posé de la présidente.
 *page25|
