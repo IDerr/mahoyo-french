@@ -226,16 +226,16 @@
 　Alice, sans accorder le moindre regard à la cible sous ses yeux, sortit une fiole en la traitant avec amour.
 *page48|
 「Une flasque...... verte ?
-　Si je me souviens bien, c'est―――C'est pas bon signe ! Dans ce cas, [ruby char=3 text=Fire]feu―――!」
+　Si je me souviens bien, c'est―――C'est pas bon signe ! Dans ce cas, [ruby char="feu" text=Fire]―――!」
 *page49|
 　Alice s'était protégée des balles de prana.
 　Le visage d'Aoko n'avait plus rien de calme.
 *page50|
 　...... Oui.
 　Si l'une des deux s'était montrée arrogante, c'était bien Aoko.
-　Pendant ces deux dernières années où elle avait appris la Magie, elle avait également rencontré plusieurs obstacles.
-　Elle connaissait assez bien le caractère et la Magie de sa colocataire.
-　C'était pour ça―――qu'elle avait été prétentieuse en pensant qu'elle aurait pu avoir Kuonji Alice si elle se battait de son mieux.
+　Durant ces deux années d'apprentissage de la Magie, elle avait fait des progrès considérables.
+　Et elle connaissait assez bien le caractère et la Magie de sa colocataire.
+　C'était pour ça―――qu'elle avait été prétentieuse en pensant qu'elle aurait pu vaincre Kuonji Alice si elle se battait de son mieux.
 *page51|
 「Ah―――」
 　...... Elle ouvrit le bouchon de la fiole magique.

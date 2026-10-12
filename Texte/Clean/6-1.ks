@@ -61,7 +61,7 @@
 　Elle ne lui laissa pas le temps de s'attrister davantage.
 　Les souvenirs lointains et nostalgiques étaient magnifiques, mais s'en retrouvaient par conséquent éphémères.
 *page12|
-「...... Tu n'as rien d'une icône vénérée par les gens, Aozaki.」
+「...... Tu n'es pas un Yōkai géant, Aozaki.」
 　Il ferma les yeux à cause d'un léger vertige.
 　En faisant ainsi, il perdit de vue le paysage montagnard, remplacé par l'écho d'une voix reconnaissable entre mille.
 　Une voix puissante capable de faire trembler non seulement la partie reculée de la montagne où il se trouvait, mais aussi toutes les montagnes alentour.

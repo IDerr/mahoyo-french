@@ -231,8 +231,8 @@
 　Il était inutile de se retourner.
 　La silhouette d'Aozaki Aoko marchant lentement se reflétait dans le miroir qu'il venait de percuter.
 *page54|
-「Et aussi, j'ai gelé la sortie qui est au fond du rez-de-chaussée. Ce n'est pas une Barrière mais quelque chose de physique.
-　Comme j'y suis allée un peu fort, ça ressemble davantage à des gravats qu'à un bloc de glace. Voire une avalanche ? Peu importe. En tout cas, si tu t'approches de la sortie sans faire attention, tu seras pris dans l'éboulement. Si tu ne veux pas être enterré vivant, tu ferais mieux de ne pas aller dans ce coin.」
+「Et aussi, j'ai bloqué la sortie qui est au fond du rez-de-chaussée. Ce n'est pas une Barrière mais quelque chose de physique.
+　Comme j'y suis allée un peu fort, ça ressemble davantage à un tas de gravats qu'à une barricade. Voire un éboulement ? Peu importe. En tout cas, si tu t'approches de la sortie sans faire attention, tu seras pris dans l'éboulement. Si tu ne veux pas être enterré vivant, tu ferais mieux de ne pas aller dans ce coin.」
 *page55|
 「―――, ―――!」[r]
 　Apeuré par les bruits de pas qui se rapprochaient, Sōjūrō se dirigea vers le mur en tâtonnant.

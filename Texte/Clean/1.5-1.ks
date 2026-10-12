@@ -51,7 +51,7 @@
 *page11|
 　Pour le moment, tout ce qui lui était arrivé n'avait fait qu'aggraver son anxiété.
 　Mais il y avait aussi des règles pour lesquelles il éprouvait une profonde admiration.
-　La ville tournait autour de règles variées avec lesquelles il n'était pas toujours d'accord.
+　La ville était régie par des calculs de pertes et profits en tout genre qu'il ne comprenait pas toujours. 
 　Mais pour le moment, le fait de pouvoir obtenir ce dont on avait besoin tant qu'on avait de l'argent lui faisait penser que vivre en ville n'était pas si mal.
 *page12|
 「Non, ce n'est pas aussi simple.

@@ -58,13 +58,13 @@
 *page15|
 　Malheureusement,
 　ils s'étaient totalement fourvoyés concernant le rêve et la fantaisie.
-　La mascotte originale Kitsy-chan était plutôt repoussante et sentait la pâtée pour chat.
+　La mascotte originale Kitsy-chan était plutôt repoussante et avait tout d'une contrefaçon.
 　Les échoppes de pain grillé étaient omniprésentes dans le parc.
 　La difficulté du grand labyrinthe à la mode au début des années 80, le palais des glaces, avait été poussée à l'extrême limite.
 *page16|
 “Il n'y a pas de rêve à Kitsy Land.[r]
 　Il n'y a que de l'humour cauchemardesque.”
-　Les magazines spécialisés dans leur ensemble eurent du mal à s'accorder sur les points faibles de Kitsy Land. La fréquentation diminua.
+　Les magazines spécialisés dénoncèrent unanimement les défauts de Kitsy Land. La fréquentation diminua.
 　Et de surcroît, un malheur manqua même de se produire, lorsqu'un enfant de 6 ans se retrouva séparé de sa mère et eut un accident dans une des attractions du parc, puis fut secouru en échappant de justesse à une mort par épuisement.
 *page17|
 　En 1986, cinq ans après l'ouverture du parc.
