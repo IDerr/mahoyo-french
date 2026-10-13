@@ -185,7 +185,7 @@
 　“Ha ha ha”, rigola le professeur qu'elle fixait du coin de l'œil.
 　C'était à se demander ce qui était amusant. Visiblement, devant la naïveté de ce garçon de la campagne, M. Yamashiro s'était laissé aller.
 *page44|
-「...... Alors, ça veut dire qu'il n'a pas d'endroit où loger non plus...... La maison de mes parents est aussi en montagne, alors je ne dis pas que l'absence d'électricité est impossible.
+「...... Alors, ça veut dire qu'il n'y a même pas de policier en poste là-bas...... La maison de mes parents est aussi en montagne, alors je ne dis pas que l'absence d'électricité est impossible.
 　―――Ce type n'est jamais allé à l'école non plus ?」
 *page45|
 「Non. Manifestement, il savait ce que c'était, mais c'est aujourd'hui la première fois qu'il y vient. Peut-être était-il nerveux, vu qu'il n'a pas vraiment réagi quand je me suis entretenu avec lui.

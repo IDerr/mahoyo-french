@@ -159,7 +159,7 @@
 *page35|
 「Allez―――jouons ensemble, mes chères marionnettes.」
 　Dans la forêt blanche, la chanson résonna telle une cloche.
-　Les vagues de froid, qui congelaient la forêt, couvrirent la voix de la jeune fille.
+　La voix de la jeune fille dissipa la vague de froid qui gelait la forêt.
 　Et puis,
 *page36|
 　　　　　『Eh bien, eh bien, on nous a bien fait attendre !』

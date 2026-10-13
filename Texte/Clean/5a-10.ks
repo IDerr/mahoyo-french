@@ -15,7 +15,7 @@
 　Sōjūrō ne put cacher une certaine anxiété en constatant qu'Aoko évitait de rentrer dans les détails.
 *page4|
 “...... Aozaki. Je ne comprends pas ton “ça s'activera”. Avoue-moi avec le plus de précision possible jusqu'où tu avais l'intention de m'envoyer valser.
-　Et aussi, ne suis-je pas arrivé plutôt vite ?”
+　Et aussi, n'aurais-je pas accepté un peu vite de coopérer ?”
 “Non, en fait...... c'était juste au cas où, quoi.
 　Je me suis dit que si jamais je te perdais de vue pendant qu'on jouait à chat, je n'avais qu'à faire exploser tout le bâtiment.”
 *page5|
