@@ -136,7 +136,7 @@
 　Depuis qu'il avait atteint l'âge de raison―――ou plutôt, depuis son apparition dans ce monde, il avait conscience d'être “l'une des formes de vie les plus fortes sur Terre”.
 *page30|
 　Pour lui, les Mystères créés par la main de l'homme n'étaient rien de plus que des déchets.
-　La Magie était inutile, et la Vraie Magie, qui se tenait au-dessus de ces miracles artificiels, l'était tout autant. Il ne supportait même pas l'idée qu'elles existent.
+　La Magie était dérisoire, tout comme la Vraie Magie, ces miracles artificiels qui lui étaient supérieurs. Il ne supportait même pas l'idée que tout cela existe.
 *page31|
 「“...... Bien sûr, je vais la dévorer, et puis, c'est aussi ce que stipule notre contrat.”」
 　Celui-ci n'allait pas plus loin.

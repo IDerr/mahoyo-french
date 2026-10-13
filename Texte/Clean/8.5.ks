@@ -789,7 +789,7 @@ pendant que moi, je te prête assistance tout en me préoccupant de lui en tant 
 「――――――」
 *page197|
 「Tu vois ? Mais bon, comme il est conscient de son retard mental, il est plus facile à fréquenter que ceux qui ne s'en rendent pas compte. [l]
-Et puis, il n'y a pas beaucoup de jeunes de notre âge comme lui qui connaissent l'adage : “aider son prochain ne lui fera pas forcément du bien”.」
+Et puis, il n'y a pas beaucoup de jeunes de notre âge qui suivent le précepte selon lequel “aider son prochain revient à s'aider soi-même”.」
 「...... Je suis d'accord. C'est vrai que son caractère doit bien aller avec le tien.」
 *page198|
 「Hé ? Vous m'avez bien eu !
@@ -1031,12 +1031,12 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 *page257|
 　Aoko releva la tête après que son amie lui eut fait cette remarque.
 「Eh bien, j'ai trouvé quelque chose de très intéressant.
-　Je pensais que cette bataille donnerait peu de résultats, mais le vent a tourné. Tiens, regarde, Kuma. La marque de ces matelas en plumes.」
+　Je pensais que cette bataille ne déboucherait sur rien, mais le vent vient de tourner en notre faveur. Tiens regarde, Kuma. La marque de ces matelas en plumes.」
 「?」
 *page258|
 　Aoko montra à Kumari l'étiquette cousue sur les matelas.
-　On pouvait y lire la marque familière JLS.
-　Elle témoignait de la qualité de produits industriels, et les articles qui en étaient marqués suivaient la réglementation des normes industrielles en vigueur dans le pays, mais......
+　On pouvait y voir le célèbre logo JIS.
+　Il attestait de la qualité des produits industriels et garantissait la conformité à la législation des normes industrielles en vigueur au Japon, mais......
 *page259|
 「Tiens ? J...... L...... S ?」
 「Oui. Grâce à ça, les contrats deviennent notre arme. Je croyais avoir affaire à des vétérans, mais en réalité, on est tombés sur des amateurs qui ne s'en prennent qu'aux faibles.

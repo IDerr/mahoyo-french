@@ -99,7 +99,7 @@ Sa colonne vertébrale étant brisée juste au-dessus des reins, Alice ne pouvai
 「...... Pourquoi ?」
 *page23|
 「Quand je suis arrivé, les chiens ont pris la poudre d'escampette. C'était l'intention de Tōko depuis le début.
-　Si elle n'avait pas eu l'intention de t'aider d'une quelconque manière, elle n'aurait pas donné de limite de temps. Peut-être qu'on peut s'estimer chanceux, mais bon.」
+　Elle n'avait pas l'intention de t'éliminer, ce qui veut dire qu'il n'y avait pas réellement de limite de temps. Peut-être qu'on peut s'estimer chanceux, mais bon.」
 *page24|
 　dit Sōjūrō découragé.
 　Seulement, ce n'était qu'une méprise de sa part.

@@ -102,7 +102,7 @@ Toi alors, tu choisis vraiment mal ton moment.」
 「...... Enfin, nous avons été stupides de tomber dans le panneau, mais en théorie, détruire une Barrière prend énormément de temps.
 　La Barrière d'une terre administrée est extrêmement résistante. Normalement, cela ne peut réussir qu'après une bataille acharnée de six mois.」
 *page25|
-「L'assaillant doit d'abord s'efforcer de découvrir de combien de Pivots la Barrière est constituée, quels éléments y sont liés et trouver le bon moment pour quitter les lieux des Pivots à chaque fois.
+「L'assaillant doit d'abord faire en sorte de découvrir combien de Pivots constituent la Barrière, quels éléments y sont liés et dans quel ordre les neutraliser.
 　Bien sûr, il doit faire tout ça sans que le Mage de la terre administrée ne s'en aperçoive.」
 *page26|
 「Quant au défenseur, lorsqu'il remarque la présence d'un intrus, il doit localiser sa base et l'éliminer avant qu'il ne commette ses prochaines exactions.

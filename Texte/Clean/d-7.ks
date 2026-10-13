@@ -9,7 +9,7 @@
 　Et quand bien même, il n'aurait trouvé aucune expression adéquate pour le décrire.
 　Il n'était sûr que d'une chose : cet homme-fumée était le fameux “grand-père” dont avait parlé Aoko.
 *page2|
-「Je crois savoir que mes filles t'ont mené la vie dure.」
+「Je te remercie de tout ce que tu as fait pour mes filles.」
 　Le vieil homme parlait d'une voix rauque mais énergique qui résonnait aisément dans la grotte.
 *page3|
 「Ce doit être le destin. J'exaucerai n'importe lequel de tes souhaits.」
@@ -90,7 +90,7 @@ Enfin, il doit être délicat pour toi de comprendre cette relation.
 　Ça ne te va pas. Vraiment pas.
 　Mais dans tes montagnes, c'était un choix approprié. Un nom disproportionné est sans doute nécessaire dans un lieu hors norme.
 　C'est rare, mais cela reste sans valeur.
-　Le renoncement à l'égo est probablement une conséquence de la mort. Un talent limité à une génération n'a aucune valeur, car personne n'en héritera.」
+　La résignation à tout accepter tire probablement sa source de la mort. Un talent limité à une génération n'a aucune valeur, car personne n'en héritera.」
 *page20|
 「―――Je te portais de l'intérêt car tu as influencé l'avenir d'Aoko, mais je suis déçu.
 　C'était une perte de temps.

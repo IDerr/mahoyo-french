@@ -66,8 +66,8 @@ Je n'avais même pas conscience de cette partie de moi.」
 　On m'a dit que tu vivais aux confins des montagnes il y a encore peu. C'est sur ce point que quelque chose me tracasse grandement.」
 「Quelque chose vous tracasse ?」
 *page15|
-「Oui. Jusqu'à présent, j'imagine que personne ne t'a jamais posé ce genre de question. [l]
-C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les autres. D'ailleurs, je suis d'accord avec ce paradigme.
+「Oui. Jusqu'à présent, j'imagine que personne ne t'a jamais posé de question à ce sujet. [l]
+C'est parce que tu donnes l'impression aux autres de ne pas ressentir d'inquiétude. D'ailleurs, moi non plus, je ne la ressens pas.
 　Enfin bref, le hasard a sans doute voulu cela, étant donné mon titre. Et puis, maintenant qu'une brebis égarée se tient devant moi, si je n'exerce pas un tant soit peu ma fonction, je risque d'avoir mauvaise conscience.」
 *page16|
 　Le prêtre tourna alors vers Sōjūrō ses yeux sereins,
@@ -122,7 +122,7 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 「Oui. Après tout, notre travail consiste à mettre en évidence les problèmes. [l]
 On y arrive en général, mais on échoue à les soulager.」
 「...... Vous mettez en évidence les problèmes... En d'autres termes, vous donnez des conseils ?」
-「J'en prodigue aussi, en effet. Néanmoins, les problèmes que je peux résoudre ne sont pas d'ordre spirituel.」
+「J'en prodigue aussi, en effet. Néanmoins, les problèmes que je peux résoudre sont assez limités.」
 *page28|
 　Le prêtre haussa les épaules d'un air embêté.
 　Il ne semblait vraiment pas digne de confiance, mais dans son état actuel, Sōjūrō verrait n'importe qui nimbé d'un halo de lumière.

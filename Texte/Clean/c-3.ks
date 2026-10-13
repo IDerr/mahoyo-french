@@ -117,7 +117,7 @@ Elle sentait qu'au moment où elle la descendrait au sol, son abdomen serait dé
 　Comme il l'avait dit, elle n'avait pratiquement pas de sensation dans sa jambe depuis le départ.
 　Maintenant que cette attaque l'avait complètement anesthésiée, elle semblait revivre le même cauchemar.
 *page26|
-　...... Seulement, cette fois, il avait arraché l'os sans la mettre en pièces.
+　...... Seulement, cette fois, il ne l'avait pas arrachée mais broyée jusqu'à l'os.
 　Elle ne sentait rien, mais l'énorme quantité de sang et la laideur de sa propre jambe émaciée constituaient un spectacle atroce.
 　Pour une personne normale, l'hémorragie aurait été fatale.
 　C'est dans ces moments-là que le Sceau Magique montre toute sa cruauté, songea Aoko comme dans un rêve.

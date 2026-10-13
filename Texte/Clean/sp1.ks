@@ -709,7 +709,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 *page169|
 「La définition du bonheur peut se résumer à ces deux catégories.
 　Cela peut paraître évident, mais―――[r]
-　la plupart des êtres humains veulent juste être un peu plus heureux que la normale.」
+　la plupart des êtres humains veulent juste être un peu plus heureux que les autres.」
 *page170|
 　Le saint vêtu de noir souriait innocemment.
 　Tōko se rappela alors une chose.

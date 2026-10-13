@@ -74,7 +74,7 @@ Je les lui rendrai après, alors tu n'es pas vraiment en position de me faire la
 　C'était la technique du géant d'Europe septentrionale,
 　la réplique de la Rune originelle perdue qu'Aozaki Tōko avait en partie restaurée à l'Association des Mages.
 *page16|
-　Les trois membranes cristallines se déployèrent, dix millions de Runes gravées sur chacune d'elles.
+　Les trois membranes cristallines multipliaient par dix millions la puissance de leurs Runes gravées.
 　Aucune balle de prana ne pourrait les transpercer.
 　Même si la puissance dégagée par Aoko surpassait de loin celle de Tōko, ces mégalithes en produisaient le double.
 　La spécialité d'Aoko consistait simplement à “relâcher du prana”, elle ne pourrait ni se protéger ni éviter cette malédiction......!

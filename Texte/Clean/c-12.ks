@@ -148,7 +148,7 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 　Le retour dans le passé de ton corps et le saut temporel dans le futur du sien.
 　Quand elle a interféré avec ton temps, elle en a profité pour t'emprunter dix ans et apporter son futur dans le présent.」
 *page31|
-「Donc, celle qui cherche à tuer Tōko est Aozaki Aoko âgée de vingt-sept ans.」
+「Donc, celle qui cherche à tuer Tōko est Aozaki Aoko, dotée de vingt-sept ans d'expérience.」
 　...... C'est du chinois pour moi, Alice.
 　Le visage du jeune homme qui traduisait une totale incompréhension jusque-là s'assombrit lorsqu'il entendit les derniers mots concernant Tōko.
 *page32|
