@@ -10,7 +10,7 @@
 　Sōjūrō s'interrompit dans sa tâche et se retourna vers Aoko et Alice.
 *page3|
 「――――――」
-　Une fois retourné, sa surprise fut telle que les mots lui manquèrent.
+　Quand il leur fit face, sa surprise fut telle que les mots lui manquèrent.
 *page4|
 「? Puisque tu nous l'as si gentiment proposé, on sort...... Qu'y a-t-il ? Tu as fait tomber quelque chose derrière l'étagère ?」
 　Aoko regardait Sōjūrō, figé sur place, d'un air étonné.

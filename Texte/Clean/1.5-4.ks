@@ -3,7 +3,7 @@
 　Pour situer la date, c'était une petite parenthèse au début du mois de décembre.
 *page1|
 　Juste avant midi, un samedi après la fin du cours de la troisième période, quand il ne restait plus que la réunion de classe.
-　Comme Yamashiro Izuki, le professeur principal de la classe 2-C dont faisaient partie Shizuki Sōjūrō et Kinomi Hōsuke, ne se décidait pas à venir, ces derniers observaient le campus depuis la véranda d'un air indécis, incapables de rentrer à l'intérieur.
+　Shizuki Sōjūrō et Kinomi Hōsuke se tenaient dans le couloir à l'extérieur de la classe 2-C et contemplaient la cour du lycée, ne pouvant pas rentrer chez eux car leur professeur principal, Yamashiro Kazuki, n'était pas encore arrivé.
 *page2|
 　Leurs autres camarades étaient en pleine conversation dans la salle de classe.
 　Avec eux se trouvait Tsukiji Tobimaru, élève de la classe A, qui leur tenait compagnie pour passer le temps.
@@ -58,7 +58,7 @@ Donc quelqu'un “directement prêt à l'emploi” comme moi finira bien par êt
 「Ne te repose pas sur la folie des autres ! Si tu veux de l'excitation, provoque toi-même un incident. Tu sais, comme lors de l'annonce de la répartition des classes, si tu te fais charger par Aozaki, ce sera rapide.」
 *page16|
 「Hiii, mon traumatisme revient ! Je veux pas ! Même si les bagarres de la présidente sont drôles à voir, elle me fait trop flipper. [chgfg time=300 storage=木乃実制服01(近)|f textoff=0]
-En tant que garçon honnête, une belle fille récemment transférée me suffirait.
+En tant que garçon honnête, je me contenterais d'une belle fille fraîchement transférée.
 　Hm, mais bon, une fille normale serait barbante, alors peut-être une productrice d'Hollywood, ou une grande chanteuse d'Angleterre...」
 「C'est quoi ce fantasme ? Et pourquoi pas une princesse de Mars, tant que t'y es ?」
 *page17|

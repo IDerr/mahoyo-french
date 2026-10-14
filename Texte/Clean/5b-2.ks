@@ -123,9 +123,9 @@
 *page26|
 「Att... Aozaki ?!」
 「Désolée, c'est impossible ! [l]
- On s'enfuit !」
+On s'enfuit !」
 「Où ça ?!」
-「Où ?! Pour le moment, jusqu'où on peut......!」
+「Qu'est-ce que j'en sais ?! Pour le moment, jusqu'où on peut......!」
 *page27|
 　Elle vociféra comme si elle se parlait à elle-même et ouvrit la route en criant.
 　Son cri était accompagné des balles de prana qu'elle tirait.

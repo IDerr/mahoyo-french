@@ -27,6 +27,6 @@
 *page8|
 　―――L'interlude touchait à sa fin.
 　Un nouveau scénario avait été confié aux jeunes acteurs.
-　Eh bien, quelle qu'en serait l'issue,
+　Eh bien, quelle que puisse en être l'issue,
 　la longue nuit des Magiciennes semblait être entrée dans son dernier acte.
 *page9|

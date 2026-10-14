@@ -789,7 +789,7 @@ pendant que moi, je te prête assistance tout en me préoccupant de lui en tant 
 「――――――」
 *page197|
 「Tu vois ? Mais bon, comme il est conscient de son retard mental, il est plus facile à fréquenter que ceux qui ne s'en rendent pas compte. [l]
-Et puis, il n'y a pas beaucoup de jeunes de notre âge qui suivent le précepte selon lequel “aider son prochain revient à s'aider soi-même”.」
+Et puis, il n'y a pas beaucoup de jeunes de notre âge qui pensent qu'aider son prochain, c'est aussi s'aider soi-même.」
 「...... Je suis d'accord. C'est vrai que son caractère doit bien aller avec le tien.」
 *page198|
 「Hé ? Vous m'avez bien eu !

@@ -96,8 +96,8 @@
 　c'était la force de volonté d'Aoko qui lui permettait d'enchaîner tous ces mouvements à la suite, sans temps mort.
 *page22|
 “[ruby char="Brise-toi" text="Crack"]......!”
-　Le projectile fut lancé instantanément.
-　Ne parvenant pas à le repousser complètement avec sa force, celui-ci dévia quelque peu de sa trajectoire et emporta ses longs cheveux.
+　Le coup mortel fut paré instantanément.
+　Même si Aoko n'avait pas assez de forces pour le repousser complètement, la trajectoire du bras fut néanmoins légèrement déviée, ne sectionnant que quelques cheveux.
 *page23|
 　　　[ruby char="“―――Initio erraveramus.Dum vivimus doloris." text="           Tout n'était que méprise. Si seulement je n'étais jamais venue au monde."][r]
 [ruby char="Nemo juvarem est Nemo juvarem est Nemo juvarem est.”" text="Que quelqu'un me conjure, conjure, conjure, conjure, conjure, conjure, conjure, conjure, conjure―――!"][l][rf][r]

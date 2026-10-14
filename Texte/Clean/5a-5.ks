@@ -102,7 +102,7 @@ C'est impossible. Il doit y avoir une autre raison―――”
 *page22|
 “[ruby char="Mea anima immortalitas. Autem mea futura necata eram." text="Je suis immortelle, mais mon futur a été annihilé."][r]
 　　　[ruby char="Manes sum. Animae definire ambiguus est." text="Je suis un spectre. La vie est une notion vague."][r]
-　[ruby char="Te odi, et te amo. Conveniebamus in somnium ipsa." text="Toi qui es détestable, toi que j'adore. Je prie pour que nous nous voyons en rêve."]”[rf]
+　[ruby char="Te odi, et te amo. Conveniebamus in somnium ipsa." text="Toi qui es détestable, toi que j'adore. Je prie pour que nous nous voyions en rêve."]”[rf]
 *page23|
 　...... la marionnette la dirigeait vers elle-même.
 　Les malédictions engendrent des malédictions. La victime d'une malédiction, en la renvoyant à son agresseur, entretient cette chaîne maudite.

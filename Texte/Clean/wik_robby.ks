@@ -12,7 +12,7 @@
 　Il aurait pu pleuvoir à tout moment.
 　Je me disais qu'on risquait bien de rentrer sous la pluie, vu l'état du ciel.
 *page3|
-　Une fois sortis de la forêt, notre champ de vision s'élargit.
+　Lorsque nous sortîmes de la forêt, notre champ de vision s'élargit.
 　Sous le ciel couvert se trouvait un édifice d'une autre époque.
 *page4|
 「Eh bien, cette demeure occidentale est d'une splendeur ! Qui a osé la traiter de manoir hanté ? C'est de la calomnie.」
