@@ -624,7 +624,6 @@
 @fg storage=青子特殊ジャケット(逆光)03b(大) center=501 vcenter=395 index=2500 zoomx=-77 zoomy=77 xblur=1 effect=屋外蒼緑
 @partbg storage=ev0802水族館内部(背景04) srcleft=845 srctop=183.25 srczoomx=200 srczoomy=80 index=2000 width=166 height=27 center=571 vcenter=529 bordersize=10 bordercolor=none noclear=1 id=pb1
 @bg textoff=0 rule=crossfade time=400 storage=ev0802水族館内部(背景02) left=185 top=-107 afx=400 afy=335 noclear=1 zoom=360
-@ruby text=尾びれ
 @sestop
 @se storage=A10_9_3C_0024.opus
 「もちろん。夏の海っていったら灼熱の太陽と砂浜、水平線に沈む夕日ってね。[l][r]

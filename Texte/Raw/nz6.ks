@@ -272,9 +272,9 @@
 *page18|
 @chgfg textoff=0 storage=im18なぜなに有珠制服説 id=a time=200
 @ploysay mode=ru26
-『これはスイーツハーツ。これはスクリプス・ハンプティ。
 @sestop
 @se storage=A40_NZ6_0010.opus
+『これはスイーツハーツ。これはスクリプス・ハンプティ。
 これはディドルディドル。これはフラットスナーク。いい。これからはこの名前で統一するのよ』
 @pg
 *page19|
@@ -295,27 +295,29 @@
 *page21|
 @chgfg textoff=0 storage=im18なぜなに有珠制服気取 id=a time=200
 @ploysay mode=ru26
-『それに近い将来、こういう名前がトレンドになる時代がくるから。
 @sestop
 @se storage=A40_NZ6_0013.opus
+『それに近い将来、こういう名前がトレンドになる時代がくるから。
 絶対。すぐに飽きられるだろうけど』
 @pg
 *page22|
 @chgfg textoff=0 storage=im18なぜなに有珠制服説 id=a time=200
 @ploysay mode=ru26
+@sestop
+@se storage=A40_NZ6_0014.opus
 『なんで、どうせつけるならイカした方がグッドでバッド。せっかくアタシたちだけのオリジナルティなのよ、ポップに流行らせなくちゃ大損だわ！』
 @pg
 *page23|
 @chgfg textoff=0 storage=im18なぜなに有珠制服呆 id=a time=200
 @sestop
-@se storage=A40_NZ6_0014.opus
+@se storage=A40_NZ6_0015.opus
 それ以来、わたしはプロイを名前で呼ぶようになった。いちいち名前を覚える手間はあったけれど、以来、プロイを間違えるコトはなくなったわ。
 @pg
 *page24|
 @chgfg textoff=0 storage=im18なぜなに有珠制服正面普 id=a time=200
 @ploysay mode=ru26
 @sestop
-@se storage=A40_NZ6_0015.opus
+@se storage=A40_NZ6_0016.opus
 　　まさにコロンブスのタマゴね。[r]
 　　なんていう発想の柔軟さ、斬新さかしら。[r]
 　　時々思うのだけど、あの娘は天才ね。
@@ -324,7 +326,7 @@
 @chgfg textoff=0 storage=im18なぜなにコマドリふむ id=k time=200
 @ploysay mode=lu192
 @sestop
-@se storage=A40_NZ6_0016.opus
+@se storage=BA0_NZ6_0007.opus
 　そッスね。ジブンも思うんスけど、[r]
 　アリスさんって時々すごくヴァカァですよね。
 @pg
@@ -388,21 +390,21 @@
 @ploysay mode=lu13 ox=50 oy=-50
 @r
 @sestop
-@se storage=BA0_NZ6_0007.opus
+@se storage=A40_NZ6_0017.opus
 　　……やられてしまったわね。
 @pg
 *page27|
 @chgfg storage=im18lなぜなにコマドリ普(口開) rotate=-10.601 zoomx=-100 time=300 id=k
 @ploysay mode=ru192 ox=-50 oy=-50
 @sestop
-@se storage=A40_NZ6_0017.opus
+@se storage=BA0_NZ6_0008.opus
 油なだけによく燃えるッスねー。[r]
 スナークはどんなプロイなんスか？
 @pg
 *page28|
 @ploysay mode=lu262 ox=50 oy=-50
 @sestop
-@se storage=BA0_NZ6_0008.opus
+@se storage=A40_NZ6_0018.opus
 　　本編でだいたいのあらましは語っているわ。[r]
 　　細かなデータは、
 @pg
@@ -423,7 +425,7 @@
 *page30|
 @ploysay mode=ru19 ox=-50 oy=-35
 @sestop
-@se storage=A40_NZ6_0018.opus
+@se storage=BA0_NZ6_0009.opus
 うむ。[r]
 その貴重な油を、青子さんは燃やしてしまった、と。[r]
 これ、なんとか戻せないんスか？
@@ -431,7 +433,7 @@
 *page31|
 @ploysay mode=lu192 ox=50 oy=-35
 @sestop
-@se storage=BA0_NZ6_0009.opus
+@se storage=A40_NZ6_0019.opus
 残念ながら不可能よ。[r]
 この時代ではスナークを精製するコトはできない。
 @pg
@@ -439,7 +441,7 @@
 @chgfg storage=im18lなぜなにコマドリ普(口開) rotate=-10.601 zoomx=-100 time=300 id=k
 @ploysay mode=ru26 ox=0 oy=-20
 @sestop
-@se storage=A40_NZ6_0019.opus
+@se storage=BA0_NZ6_0010.opus
 こうして貴重な文化遺産は、フィーリングだけで生きている野蛮人に壊されていくんスねー。[r]
 うはっ、文明を蹂躙するのっておもしれぇー！
 @pg
@@ -457,7 +459,7 @@
 @bg rule=crossfade time=600 storage=black left=-48 top=-48 noclear=1
 @ploysay mode=lu26
 @sestop
-@se storage=BA0_NZ6_0010.opus
+@se storage=BA0_NZ6_0011.opus
 しっかし、デオチに続いてスナークもこのザマとか！[r]
 ギャハハ、何がグレートスリーッスか！[r]
 甘え。グレートスリーは甘え。
@@ -477,14 +479,14 @@
 @ploysay mode=lu26
 @fgact textoff=0 page=fore props=-storage,center,vcenter,absolute,afx,afy,rotate,-effect,-visible keys=(0,0,n,im18なぜなにコマドリ羽,223,395,2000,33,281.5,-45.99,屋外深夜,1)(600,31,l,,,,,,,,,)(1000,,,,220,309,,,,-21,,) storage=im18なぜなにコマドリ羽
 @sestop
-@se storage=BA0_NZ6_0011.opus
+@se storage=BA0_NZ6_0012.opus
 しかしジブン、やるプロイッスから。産廃を有効利用するッスよ。おーい、外の店員さーん。この残った油で、とりあえずフライドポテトでも揚げてくれ？
 @pg
 *page35|
 @chgfg storage=im18なぜなに有珠制服説 id=a time=200
 @ploysay mode=ru192
 @sestop
-@se storage=BA0_NZ6_0012.opus
+@se storage=A40_NZ6_0020.opus
 あら、アナタにしては名案ねロビン。[r]
 それじゃあ、わたしはフライドチキンにしてもらおうかしら。
 @pg
@@ -493,7 +495,7 @@
 @ploysay mode=lu26
 @fgact textoff=0 page=fore props=-storage,center,vcenter,absolute,afx,afy,rotate,-effect,-visible keys=(0,4,l,im18なぜなにコマドリ羽,220,309,2000,33,281.5,-21.174,屋外深夜,1)(600,,,,,,,,,-108.896,,) storage=im18なぜなにコマドリ羽
 @sestop
-@se storage=A40_NZ6_0020.opus
+@se storage=BA0_NZ6_0013.opus
 ………………。[r]
 外のメニュー、ホットドッグとポップコーンとポテトしかなかったッスよ。
 @pg
@@ -501,14 +503,14 @@
 @chgfg textoff=0 storage=im18なぜなにコマドリふむ id=k time=200
 @ploysay mode=lu26
 @sestop
-@se storage=BA0_NZ6_0013.opus
+@se storage=BA0_NZ6_0014.opus
 ジブン、映画館はまず飲食店のメニューからチェックする派ッスから。だいたい映画館でフライドチキンとか、匂いが無頼ッス。他のお客さんに迷惑ッス。
 @pg
 *page38|
 @chgfg storage=im18なぜなに有珠制服微悲 id=a time=200
 @ploysay mode=ru19
 @sestop
-@se storage=BA0_NZ6_0014.opus
+@se storage=A40_NZ6_0021.opus
 　　　知っているわ。でも安心して。[r]
 　　　わたし、お腹はすいていないから。[r]
 　　　ただ油で揚げてもらうだけでいいの。
@@ -518,7 +520,7 @@
 @ploysay mode=lu192
 @fgact page=fore props=-storage,center,vcenter,absolute,afx,afy,rotate,zoomy,-effect,-visible keys=(0,3,l,im18なぜなにコマドリ羽,220,309,2000,33,281.5,-108.896,,屋外深夜,1)(400,,,,,,,,,-61.325,80,,) storage=im18なぜなにコマドリ羽
 @sestop
-@se storage=A40_NZ6_0021.opus
+@se storage=BA0_NZ6_0015.opus
 　ハハハ。食事として、
 頼むワケでは、ないと。
 @pg
@@ -554,7 +556,7 @@
 @se storage=se09036 volume=100 loop=0
 @ploysay mode=ru26
 @sestop
-@se storage=BA0_NZ6_0015.opus
+@se storage=A40_NZ6_0022.opus
 高温で全身まんべんなく、毛先から毛穴までゆであがるのは初めてなんじゃないかしら。[r]
 また一つ死因コレクションが増えたわね、ロビン。
 @pg
@@ -595,7 +597,7 @@
 @wait canskip=0 time=600
 @ploysay mode=rb26 ox=-50
 @sestop
-@se storage=A40_NZ6_0022.opus
+@se storage=BA0_NZ6_0016.opus
 この世でいちばん増やしたくないレパートリー、[r]
 あざーっスーーーー！　でも世界にはまだまだ未知の死因が隠れているッスよー！
 @pg
@@ -622,13 +624,11 @@
 @wait canskip=0 time=1200
 @ploysay mode=ru26
 @sestop
-@se storage=BA0_NZ6_0016.opus
+@se storage=A40_NZ6_0023.opus
 　……映画はここまでのようね。[r]
 　同時上映のある劇場も、最近は減ってきたわね。
 @pg
 *page43|
-@sestop
-@se storage=A40_NZ6_0023.opus
 @chgfg textoff=0 storage=im18なぜなに有珠制服説 id=a time=200
 @ploysay mode=ru262
 @sestop

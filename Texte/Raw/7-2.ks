@@ -75,9 +75,9 @@
 @fg storage=青子制服06b(全)|c center=927 vcenter=1033 index=1200 effect=monocro xblur=5
 @partbg rule=crossfade time=500 storage=bg02l学校06職員室-(昼) srcleft=42 srctop=127 index=1000 width=733 height=576 center=376 effect=monocro bgstorage=black noclear=1
 　おそらく職員室で山城教諭から[l][r]
+『ま、転校してきたばかりだし、しょうがないよね』[l][r]
 @sestop
 @se storage=B60_7_2_0000.opus
-『ま、転校してきたばかりだし、しょうがないよね』[l][r]
 　と見せられたものを、[ruby text=いきお]勢い[ruby text=うば]奪い取ってきたに違いない。
 @pg
 *page6|

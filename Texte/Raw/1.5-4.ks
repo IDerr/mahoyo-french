@@ -641,34 +641,32 @@
 @sestop
 @se storage=A10_1DOT5_4_0018.opus
 「おはよ。[r]
-@sestop
-@se storage=A30_1DOT5_4_0008.opus
 　いつもの事だけど、時間だけはピッタリよね、貴方」[l][r]
 @clall
 @fg storage=草十郎制服02a(近)|k center=391 vcenter=236 index=1000
 @bg rule=crossfade time=500 storage=bg06l大きい公園01入口-(昼) left=-909 top=-9 zoomx=-200 zoomy=200 noclear=1 blur=2
 @sestop
-@se storage=A10_1DOT5_4_0019.opus
+@se storage=A30_1DOT5_4_0008.opus
 「――――――」[l][r]
 @clall
 @fg storage=青子制服05(大)|b center=769 vcenter=416 index=2000
 @fg storage=草十郎制服02a(近) center=267 vcenter=258 index=2100 zoomx=-100 effect=mono000000
 @bg rule=crossfade time=800 storage=bg06l大きい公園01入口-(昼) left=-321 top=5 noclear=1 zoom=130
 @sestop
-@se storage=A30_1DOT5_4_0009.opus
+@se storage=A10_1DOT5_4_0019.opus
 「ひどい顔ね。もしかして気分悪いの？」
 @pg
 *page45|
-「いや、体調はいいと思う」[l][r]
 @sestop
-@se storage=A30_1DOT5_4_0010.opus
+@se storage=A30_1DOT5_4_0009.opus
+「いや、体調はいいと思う」[l][r]
 　しんぱいごむよう、と軽く弁明する草十郎。[l][r]
 @sestop
-@se storage=A10_1DOT5_4_0020.opus
+@se storage=A30_1DOT5_4_0010.opus
 「だがしかし、蒼崎は制服だった」[l][r]
 @chgfg storage=青子制服03b(大)|j time=300 textoff=0
 @sestop
-@se storage=A30_1DOT5_4_0011.opus
+@se storage=A10_1DOT5_4_0020.opus
 「ええ。学校の行事だもの、当然でしょう？」[l][r]
 「――――――」
 @pg

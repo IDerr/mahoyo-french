@@ -1249,6 +1249,8 @@
 　人形の切札だろう一撃を、青子は体内を走る[ruby char=2 text=まりょく]血液の濃度をあげる原始的な対魔術で、かろうじて致死手前で踏みとどまった。
 *page40|
 @pg
+@sestop
+@se storage=A10_5A_8_0018.opus
 「っ、こ、の…………！」[l][r]
 @clall
 @fg storage=ef13魔弾着弾素材(単発大b) center=-145 vcenter=283 index=8500 opacity=168 type=22 zoomx=200 effect=monoffe5f2
@@ -1262,8 +1264,6 @@
 @bg rule=crossfade time=300 storage=im07l05ミラーハウス内部c(背景) left=-952 top=-218 rotate=-10 noclear=1 noback=1
 @stopquake
 @stopaction
-@sestop
-@se storage=A10_5A_8_0018.opus
 　自分そっくりの人形。[l][r]
 @r
 　心臓を止めるだけではあきたらず、物質さえ[ruby char=2 text=しめつ]損傷させる強力な呪詛。[l][r]
