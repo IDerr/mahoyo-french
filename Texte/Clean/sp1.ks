@@ -129,7 +129,7 @@
 　La raison étant qu'il ne s'ennuyait jamais, au contraire de son temps passé à dormir au village.
 *page32|
 　À doux miel, poison plus doux encore.
-　Une fois habitué à un médicament, une dose plus puissante se révélait nécessaire pour qu'il agisse.
+　Quand on est accoutumé à un médicament, il faut augmenter la dose pour qu'il agisse de nouveau.
 　Cet être innocent avait appris à anticiper la prochaine chasse, ce qui entrait dans l'ordre naturel des choses.
 　Et l'extase de ce divertissement, de cette attente, se trouvait dans l'ultime objectif d'Aozaki Tōko,
 　cette proie dont elle ne pouvait tolérer l'existence, malgré toute sa liberté d'esprit.
@@ -650,7 +650,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 *page155|
 　Le prêtre haussa les épaules, désappointé.
 　Tōko observait avec précaution le dessous de son manteau.
-　Même s'il prétendait vouloir en finir dans le calme, elle n'avait clairement pas l'intention de le croire, dusse-t-elle perdre sa fierté.
+　Même s'il prétendait vouloir en finir dans le calme, elle mettait un point d'honneur à ne pas le croire.
 *page156|
 「Mon Dieu, il a fallu que tu nous reviennes plus mature dans ce sens-là aussi. J'aurais préféré que tu te contentes de peaufiner tes charmes féminins.
 　Allons, ne me regarde pas comme ça. J'arrive au sujet principal.」
@@ -716,8 +716,8 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 　Cet homme avait toujours été un démon qui ne croyait pas en l'existence du bonheur.
 *page171|
 「Allons, refoule ton animosité ou sœur Yuika risque de rappliquer.
-　Ta perspective du bonheur appartient à la catégorie de l'absolu. Tu es du genre à être satisfaite tant que ton existence est stable.
-　Celle qui appartient à la catégorie du relatif, qui se soucie des autres, c'est...」
+　Pour toi, le bonheur a toujours été quelque chose d'absolu. Il te suffisait d'être en accord avec toi-même pour te sentir comblée.
+　Celle qui se soucie du regard des autres, qui a une conception relative du bonheur, c'est...」
 *page172|
 　Aoko, voulut dire le prêtre avant de se taire.
 　Il avait donné ces conseils par inquiétude envers Tōko, mais cela n'avait pas eu l'effet escompté.

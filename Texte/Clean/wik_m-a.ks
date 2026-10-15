@@ -20,7 +20,7 @@
 　Je vous préviens, je ne rigolerai jamais ! Je vais simplement profiter du spectacle pendant que ce stupide Ploy vous élimine les uns après les autres !」
 *page5|
 　Malgré toutes les insultes qu'elle proférait à notre encontre, la fille en rose s'était résignée.
-　Elle ricana et s'assit sur le sofa.
+　Elle renifla dédaigneusement et s'assit sur le sofa.
 　Elle semblait s'être résolue à passer la nuit avec nous.
 *page6|
 「Veuillez m'excuser. Je dois m'absenter un instant. Je reviens tout de suite, alors poursuivez la conversation.」
