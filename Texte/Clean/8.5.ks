@@ -951,7 +951,7 @@ C'est vrai. Même si chaque victime négocie avec eux séparément, ça ne leur 
 　D'abord, contactons Kumari. Après tout, elle vient du quartier commerçant. Elle sera parfaite pour recenser les victimes.」
 *page237|
 「Kojika ? 
-[l]...... Je n'ai pas très envie de l'impliquer dans des embrouilles, mais on n'a pas vraiment le choix. [l]
+...... Je n'ai pas très envie de l'impliquer dans des embrouilles, mais on n'a pas vraiment le choix. [l]
 OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 「Quoi ? Avec ce plan, on n'a pas besoin des supporters, pourtant ?」
 *page238|
@@ -1051,7 +1051,7 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 　Et même si on a pris l'avantage, nos chances de l'emporter sont toujours de 50 %.
 　Selon la tournure des négociations, on pourrait se faire contrer. Le représentant de l'association des victimes doit donc être un démon des plus vicieux.」
 *page262|
-「Je pensais qu'il s'agirait de toi. Je me trompais ?」[r]
+「Je pensais qu'il s'agirait de toi. Je me trompais ?」[l][r]
 「Voyons, seul un adulte ayant le statut social adéquat peut jouer ce genre de rôle.
 　Rassure-toi Kumari. Je connais la personne idéale.」
 *page263|

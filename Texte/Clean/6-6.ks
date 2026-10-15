@@ -144,7 +144,7 @@ Pour simplifier, l'Association est la force prédominante. Ce groupe protège l'
 *page35|
 「...... J'ai compris. J'ai plus ou moins assimilé l'essentiel.」
 「Bien, bien. Retiens ce que tu estimes indispensable de cette façon.
-　Donc, après, en ce qui concerne la Magie...... Enfin, même si j'aborde le sujet, je n'en ai pas assez appris pour en parler.」[r]
+　Donc, après, en ce qui concerne la Magie...... Enfin, même si j'aborde le sujet, je n'en ai pas assez appris pour en parler.」[l][r]
 「?」
 *page36|
 「Désolée. Je parlais à moi-même, ne fais pas attention.

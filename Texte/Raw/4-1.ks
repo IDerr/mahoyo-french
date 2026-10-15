@@ -218,13 +218,15 @@
 @pg
 *page20|
 @chgfg storage=有珠制服01a(近)|f zoom=80 time=400
+@sestop
+@se storage=A40_4_1_0003.opus
 「……そういう貴女は？　朝はずいぶんと強気だったけど？」[l][r]
 @clall
 @fg storage=青子制服01a(近)|a2 center=427 vcenter=259 index=1100 zoomx=-100 effect=mh居間灯り
 @fg storage=ev0105青子あぐら_オブジェソファ center=670 vcenter=616 zoom=120 index=1000 effect=mh居間灯り
 @bg rule=crossfade time=400 storage=bg01久遠寺邸03居間(オブジェ全無し)-(曇) left=-522 top=-149 effect=屋内アンバー contrast=10 noclear=1 zoom=200 blur=1
 @sestop
-@se storage=A40_4_1_0003.opus
+@se storage=A10_4_1_0002.opus
 「ん？　[chgfg textoff=0 storage=青子制服01a(近)|c zoomx=-100 time=200]あ、こっちは予定通りよ。[l][r]
 @sestop
 @se storage=A10_4_1_0003.opus

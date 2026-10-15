@@ -69,7 +69,7 @@
 　D'après Alice, ça te touchera en plein cœur, c'est sûr et certain. Tu m'as sauvé à plusieurs reprises, alors si ça peut te rendre heureuse, je le serai aussi.」
 *page17|
 「... Tr... Très bien ! Je t'écoute, alors parle !」
-「I love you. I love you, my love.」[r]
+「I love you. I love you, my love.」[l][r]
 「Hein...?」
 *page18|
 「D'où tu sors ça ? C'est trop drôle ! Ça ne te ressemble pas du tout !

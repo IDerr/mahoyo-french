@@ -102,7 +102,7 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 　Sōjūrō acquiesça silencieusement.
 　Voyant ce geste, Alice plissa les yeux, soupçonneuse.
 *page25|
-「On dirait que tu le savais depuis le début.」[r]
+「On dirait que tu le savais depuis le début.」[l][r]
 「Ce n'est pas...... Si, tu as peut-être raison.
 　Elle dit parfois des trucs dans le genre, mais j'avais l'impression que ça sonnait faux...... Et donc, j'ai pensé qu'elle n'avait encore jamais commis de meurtre.
 　Mais le détail qui m'a encore plus mis la puce à l'oreille, c'est...」

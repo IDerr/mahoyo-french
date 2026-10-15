@@ -93,7 +93,7 @@
 「Donc tu n'es pas rancunière. Alors pourquoi tu cherchais la bagarre ? [l]
 D'accord, il te rend fou, mais il n'y a pas plus chic type.」
 「――――――」
-「Attends ! Pourquoi tu me dévisages comme ça, on dirait que tu regardes une fourmi à tes pieds.」[r]
+「Attends ! Pourquoi tu me dévisages comme ça, on dirait que tu regardes une fourmi à tes pieds.」[l][r]
 「Pas vraiment. Je te jetais simplement un regard méprisant en pensant que toi aussi, tu disais ça.」
 *page19|
 「...... Enfin, c'est pas grave. C'est même parfait que ce soit un chic type ou quelqu'un de bien. C'est l'adversaire idéal à qui chercher la bagarre. Si personne ne veut le haïr, alors je dois le faire, non ?」
