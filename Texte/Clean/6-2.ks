@@ -152,7 +152,7 @@
 *page33|
 「Et donc, à propos de ce que je disais...」
 　Oui, il fallait d'abord qu'elle se présente et lui explique où il se trouvait, sinon la situation n'avancerait pas.
-　En réalité, plus il se rappelait des évènements du parc d'attractions, plus il ne pouvait qu'imaginer des choses terrifiantes.
+　En réalité, plus il se rappelait les évènements du parc d'attractions, plus il ne pouvait qu'imaginer des choses terrifiantes.
 *page34|
 「――――――」
 　Lorsque la détermination de Sōjūrō sembla l'avoir affectée, elle tenta calmement de bouger la main qu'elle gardait dans son dos,

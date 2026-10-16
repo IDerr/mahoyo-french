@@ -45,7 +45,7 @@
 　En effet, c'était indéniablement la manière de faire la plus simple pour elles.
 　Mais,
 *page12|
-「Sōjūrō. Je ne romps jamais mes promesses. Rappelle-t'en.」
+「Sōjūrō. Je ne romps jamais mes promesses. Souviens-t'en.」
 　elle détestait prendre la voie de la facilité.
 　Ces mots calmes contenaient une infime colère.
 　Sōjūrō comprenait si bien vers quoi celle-ci était dirigée que cela le peinait.

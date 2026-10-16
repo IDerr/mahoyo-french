@@ -122,7 +122,7 @@ En gros, c'est comme si on tirait mes balles de prana avec les yeux.」
 　On pouvait se demander à qui elle s'adressait, mais Aoko insista sur le fait que c'était cette condition qui lui permettait de lui en parler.
 *page30|
 「Tu vois, ce qu'on appelle la Magie, Sōjūrō, c'est une sorte de règle commune. [l]
-Les types de Magie comme les Runes ou la Kabbale représentent chacune une matière...... Tu n'as qu'à te les représenter comme des manuels communs au monde entier.
+Les types de Magie comme les Runes ou la Kabbale représentent chacun une matière...... Tu n'as qu'à te les représenter comme des manuels communs au monde entier.
 　N'importe quelle personne peut devenir Mage tant qu'elle possède ce manuel et qu'elle appartient à une lignée adéquate.
 　Mais pour utiliser la Vraie Magie, c'est différent.
 　La Vraie Magie n'est pas un manuscrit dérivé du “Tourbillon de la Source” comme la Magie, mais quelque chose qui nous relie directement à lui.」

@@ -86,7 +86,7 @@ Non, ce serait un peu exagéré d'appeler ça une conversation.」
 *page19|
 「Aozaki. Qu'est-ce que tu viens de dire à l'instant ?」
 「Shizuki. Je ne montre aucune pitié envers les gens qui mentent ouvertement, ceux qui me font répéter encore et encore la même chose, et ceux qui sont longs à la détente.
-　Rappelle-t'en bien, d'accord ? Si tu veux vivre paisiblement ici.」
+　Souviens-t'en bien, d'accord ? Si tu veux vivre paisiblement ici.」
 　Aoko fit avec éloquence une déclaration troublante en arborant un sourire parfait.
 　Bien sûr, cela eut l'effet d'une douche froide sur Sōjūrō.
 *page20|

@@ -37,7 +37,7 @@
 　Ce qui pouvait parfois être perçu comme de l'optimisme était le libre arbitre d'Aoko.
 *page9|
 　Elle changea son uniforme contre ses vêtements ordinaires, puis elle retourna au rez-de-chaussée.
-　Après avoir descendu les escaliers et ouvert la porte de l'aile est, elle s'avança dans un couloir sombre comme dans un sous-terrain.
+　Après avoir descendu les escaliers et ouvert la porte de l'aile est, elle s'avança dans un couloir sombre comme dans un sous-sol.
 　Comme ce couloir n'avait pas de fenêtres donnant sur l'extérieur, elle se trouverait dans le noir total si elle n'allumait pas la lumière. Aoko appuya donc sur l'interrupteur, allumant les lampes, et ouvrit la porte la plus proche.
 *page10|
 「Une vie sans électricité, hein... Je n'ai même pas envie de l'imaginer.」
