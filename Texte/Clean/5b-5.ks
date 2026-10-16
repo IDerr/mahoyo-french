@@ -78,7 +78,7 @@
 　Voyant Sōjūrō dans l'expectative, Aoko tâcha de le calmer en souriant et inspira longuement.
 　C'était une grande inspiration, que la décontraction et probablement la fatigue avaient provoquée.
 *page19|
-「Pour l'instant, on fait une pause café. Ici, même si on est à l'intérieur du parc d'attractions, il n'y a aucun divertissement, alors ils préfèrent éviter cet endroit.
+「Pour l'instant, on fait une pause-café. Ici, même si on est à l'intérieur du parc d'attractions, il n'y a aucun divertissement, alors ils préfèrent éviter cet endroit.
 　La caisse et les outils de cuisine sont modernes, et il n'y a pas de mascotte personnifiée. Autrement dit, c'est un peu trop civilisé pour la Snarkisation.」
 「Snark...?」
 *page20|

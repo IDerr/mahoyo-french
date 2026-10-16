@@ -26,7 +26,7 @@
 *page6|
 　Le cinquième meurtre était la pendaison esthétique aérienne de père Eiri.
 　La perpétration du crime était impossible pour ceux qui étaient restés dans le vestibule : moi, [fg rule=crossfade time=400 storage=金鹿私服01(大) center=365 vcenter=429 index=2900 textoff=0]Tsukiji, [wait canskip=0 time=200][fg rule=crossfade time=400 storage=鳶丸私服b02(大)|a2 center=595 vcenter=315 index=2600 textoff=0]Ritsuka [wait canskip=0 time=200][fg rule=crossfade time=400 storage=律架01a(大) center=863 vcenter=383 index=2700 textoff=0]et Kuonji.[wait canskip=0 time=200][fg rule=crossfade time=400 storage=有珠私服01a(大) center=149 vcenter=393 index=2800 textoff=0]
-　Le sixième cas, le meurtre par fossilisation de Yuika.
+　Le sixième cas, le meurtre par pétrification de Yuika.
 　Lui non plus n'avait aucune importance.
 *page7|
 　Le septième cas, le meurtre par alcoolisme aigu de la fille aînée des Aozaki.

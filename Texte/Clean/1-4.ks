@@ -166,7 +166,7 @@
 *page41|
 「...... Même si pour moi, ce n'est pas très crédible, Alice pourrait bien le faire croire.」
 　Elle posa la main sur la porte d'entrée.
-　Même si cette double porte aurait été parfaitement assortie à une clef en cuivre, elle ne comportait aucun de ces grossiers orifices que sont les trous de serrure.
+　Cette double porte aurait été parfaitement assortie à une clef en laiton, mais elle ne comportait aucun de ces grossiers orifices que sont les trous de serrure.
 　Aoko poussa la porte d'une main et entra dans la demeure à la réputation de manoir hanté.
 *page42|
 　...... Au passage.

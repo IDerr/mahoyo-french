@@ -3,7 +3,7 @@
 　Oui.
 　Cette situation, où tout se passait comme je le voulais, prouvait plus que tout autre chose que j'étais Sweets Hearts.
 *page1|
-　Étant Sweets Hearts, je ne pouvais pas me rappeler des choses qui me paraissaient dérangeantes.
+　Étant Sweets Hearts, je ne pouvais pas me rappeler les choses qui me paraissaient dérangeantes.
 　Dans ce cas, je devais voir les choses de façon objective.
 　Le jour de la fête, qui avait activé le Ploy Kickshaw ?
 *page2|
@@ -55,7 +55,7 @@
 *page12|
 「Mais sache que tu es toi aussi Sweets Hearts.
 　Moi, j'avais pris sa forme à lui, et toi, tu as pris sa forme à elle.
-　Mais comme tu es une sosie parfaite de Kumari Kojika, je suis la seule qui possède les souvenirs de Sweets Hearts.」
+　Mais comme tu es un sosi parfait de Kumari Kojika, je suis la seule qui possède les souvenirs de Sweets Hearts.」
 「Ah vraiment. Alors disparais. La partie est terminée, non ? Le jour va bientôt se lever.」
 *page13|
 「Ça te convient vraiment de mettre fin à la partie ?

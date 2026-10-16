@@ -106,6 +106,6 @@
 　Si elle n'avait pas tenu de tels propos, lui non plus n'aurait pas répondu de cette façon.
 *page21|
 　...... Quels mots Aozaki Aoko lui avait-elle lancés à ce moment-là ?
-　Alors qu'il essayait de s'en rappeler, son profond sommeil se termina.
+　Alors qu'il essayait de s'en souvenir, son profond sommeil se termina.
 　Ces réminiscences, qui avaient peut-être duré plus longtemps que son rêve, ne lui avaient apporté aucune réponse.
 *page22|

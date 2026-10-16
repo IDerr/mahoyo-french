@@ -167,7 +167,7 @@ Tout ceci ne m'importe plus vraiment. Je les désire, mais si j'atteins la Sourc
 　Elle semblait vouloir engager un combat au corps à corps, jugeant probablement qu'elle ne pouvait pas rivaliser en termes de joute magique.
 　L'autre jeune fille, Kuonji Alice, n'avait pas bougé d'un pouce.
 *page38|
-“Une attaque kamikaze―――Alice t'a sûrement donné une amulette, mais rappelle-toi d'une chose, Aoko. [l]
+“Une attaque kamikaze―――Alice t'a sûrement donné une amulette, mais souviens-toi d'une chose, Aoko. [l]
 Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités personnelles.”
 　Tōko leva le bras gauche en même temps que le coin des lèvres.
 　Elle le remonta à l'horizontale, devant sa poitrine, comme pour repousser son adversaire.

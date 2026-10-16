@@ -91,7 +91,7 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 　Des mots étranges quittèrent ses lèvres alors qu'elle arborait un air vaguement boudeur.
 *page19|
 「Tiré de mes souvenirs, tu dis...... Pourtant, je ne connais pas cet endroit.」
-「C'est parce qu'Aoko utilise ton temps au moment où nous parlons. Jusqu'à ce qu'il te soit rendu, tu ne t'en rappelleras pas.」
+「C'est parce qu'Aoko utilise ton temps au moment où nous parlons. Jusqu'à ce qu'il te soit rendu, tu ne t'en souviendras pas.」
 　Ces propos inquiétants à peine prononcés, Alice parcourut le champ de fleurs du regard.
 *page20|
 「...... Il est fort dommage que ce paysage finisse par disparaître.
