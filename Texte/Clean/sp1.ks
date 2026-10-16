@@ -47,7 +47,7 @@
 　Elle avait passé un contrat avec lui deux ans auparavant, et cela faisait un an qu'il l'accompagnait véritablement en tant que garde du corps.
 　Il semblait parfaitement au fait des problèmes de personnalité présents au plus profond de la femme répondant au nom d'Aozaki Tōko.
 *page12|
-「Je ne déteste pas la foule. Un immeuble ou une usine abandonné, voire ce parc d'attractions, ça aurait fait mon bonheur, tu sais ?
+「Je ne déteste pas la foule. Un immeuble ou une usine à l'abandon, voire ce parc d'attractions, ça aurait fait mon bonheur, tu sais ?
 　Mais dans cette ville de province, les rumeurs nous suivront tant que tu es avec moi. Du coup, j'ai été contrainte d'établir mon Atelier dans la montagne.」
 *page13|
 「Comment ? Je suis sous forme humaine pourtant.[r]
@@ -231,7 +231,7 @@
 *page56|
 「Oh, jackpot ! Bon, ben, c'est vraiment l'heure de remballer.
 　Non mais j'te jure. Il n'y a qu'avec ces jeux stupides que j'ai de la veine.」
-　Malgré les plaintes qu'elle formulait, ses lèvres ne se départissaient pas de leur bonne humeur.
+　Malgré les plaintes qu'elle formulait, ses lèvres ne se départaient pas de leur bonne humeur.
 　Pas aussi insatisfaite qu'elle voulait bien le faire croire, Tōko cambriolait la salle, la manivelle dans une main, une cigarette dans l'autre et les jambes croisées.
 *page57|
 「?」

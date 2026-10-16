@@ -44,7 +44,7 @@
 　En plus, Yamashiro ne connaissait pas les règles. Il a dû être facile de le faire rire, mais...」
 *page12|
 　Tsukiji s'adressait à toutes les personnes réunies dans le salon.
-　Comme père Eiri, qui était en position de demander les avis de tous dans ce genre de situation, restait silencieux, Tsukiji s'était porté volontaire à contre-cœur pour être son substitut, et ça se voyait sur son visage.
+　Comme père Eiri, qui était en position de demander les avis de tous dans ce genre de situation, restait silencieux, Tsukiji s'était porté volontaire à contrecœur pour être son substitut, et ça se voyait sur son visage.
 *page13|
 「Pourquoi tu ne poursuis pas, Tobimaru ? Tu n'as pas l'air sûr de ce que tu avances.
 　Ta supposition me semble plutôt juste, pourtant.」
@@ -153,7 +153,7 @@
 *page39|
 「Moi aussi, je dois le faire ? Je veux bien, mais c'est pas bien différent de ce qu'ont fait les autres, vous savez ?
 　Voyons, comme on était au début des trois jours de congé, hier, j'ai passé la nuit chez Tobi. Comme Hōsuke était aussi avec nous, c'était affreusement bruyant.
-　Et donc, le matin, nous nous sommes rendus tous les trois au parc où nous avons rejoint le grand-père, et il nous a conduits jusqu'au portail en Rolls Royce.
+　Et donc, le matin, nous nous sommes rendus tous les trois au parc où nous avons rejoint le grand-père, et il nous a conduits jusqu'au portail en Rolls-Royce.
 　À 10 heures, j'ai dit bonjour à Alice, et ensuite, je n'ai rien fait !」
 *page40|
 　... Je...

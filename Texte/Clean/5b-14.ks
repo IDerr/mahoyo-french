@@ -94,7 +94,7 @@
 *page21|
 　Allez―――admire le ciel, pauvre créature sans cervelle.
 　Contemple le Maître du ciel démoniaque,[wait canskip=0 time=600][r]
-　la forme du Mystère caché au cœur de ce brouillard vert et de ces nuages azurs.
+　la forme du Mystère caché au cœur de ce brouillard vert et de ces nuages azur.
 　Considéré dans le monde de la Magie comme le plus légendaire de tous les mythes,[wait canskip=0 time=600][r]
 　un [ruby char="Mystère Absolu" text="Crown Phantasm"] sans égal et plus précieux que tout un pays.
 “Te voilà enfin―――Flat Snark......!!!!”

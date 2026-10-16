@@ -21,7 +21,7 @@
 　Dans le salon, le jeu de cartes d'Hōsuke agitait la foule bien plus que prévu.
 　Il prenait même la tournure d'une querelle.
 *page6|
-　Apparemment, c'était un jeu de simulation d'entrepreneur version fantaisie, créé en Allemagne, du nom de “M. Fantôche passe”.
+　Apparemment, c'était un jeu de simulation d'entrepreneur version fantaisie, créé en Allemagne, du nom de “M. Fantoche passe”.
 　Le but était de mettre des bâtons dans les roues de ses adversaires. Aussi, ils affichaient tous un sourire flatteur, alors qu'en leur for intérieur, ils ne souriaient nullement et guettaient la moindre occasion d'attaquer par surprise.
 　De son côté, le groupe des adultes observait les lycéens depuis la véranda, un verre de vin à la main.
 *page7|

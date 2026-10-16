@@ -110,7 +110,7 @@
 「―――Je sais, c'est...」
 　Parmi les familiers de Meinster dont Alice lui avait parlé,
 　l'un de ses trois meilleurs Ploy avait le pouvoir de provoquer ce genre d'évènement.
-　Si elle s'en rappelait bien, son nom était―――
+　Si elle s'en souvenait bien, son nom était―――
 「Le Ploy Kickshaw, Flat Snark......!」
 *page24|
 「Aozaki, derrière toi, je te dis !」

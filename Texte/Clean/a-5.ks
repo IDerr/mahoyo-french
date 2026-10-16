@@ -156,7 +156,7 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 *page32|
 　Tōko se leva en observant Alice étendue faiblement au sol.
 「Je viens de t'administrer une de mes créations, une sorbe japonaise que j'ai traitée moi-même. On ne peut pas facilement neutraliser son effet. Je l'ai préparée de telle sorte qu'elle explosera dans le corps au moindre afflux de prana, alors prends bien garde à ce que tu feras.
-　―――Aah, et aussi, je préfère simplement l'administrer au bouche à bouche, alors ne va pas te faire d'idées.」
+　―――Aah, et aussi, je préfère simplement l'administrer de bouche à bouche, alors ne va pas te faire d'idées.」
 「..............................」
 *page33|
 　Écroulée sur le sol, Alice fixait Tōko d'un œil noir en gardant conscience de son mieux, [l]

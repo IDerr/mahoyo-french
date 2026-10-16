@@ -21,7 +21,7 @@
 　Fendant le vent, il avait chuté sur le sol sec, les yeux tournés vers le ciel.
 *page4|
 　...... Je revois cette scène en rêve après tout ce temps.
-　Elle est ancrée profondément dans mon cœur, et pourtant, je ne sais pourquoi, je ne m'en rappelle que vaguement.
+　Elle est ancrée profondément dans mon cœur, et pourtant, je ne sais pourquoi, je ne m'en souviens que vaguement.
 　Quelle apparence―――avait donc cet oiseau ?
 *page5|
 「Voilà, ce sera tout pour aujourd'hui.

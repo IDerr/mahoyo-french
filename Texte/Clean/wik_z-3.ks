@@ -55,7 +55,7 @@
 *page12|
 「Mais sache que tu es toi aussi Sweets Hearts.
 　Moi, j'avais pris sa forme à lui, et toi, tu as pris sa forme à elle.
-　Mais comme tu es une sosie parfaite de Kumari Kojika, je suis la seule qui possède les souvenirs de Sweets Hearts.」
+　Mais comme tu es un sosi parfait de Kumari Kojika, je suis la seule qui possède les souvenirs de Sweets Hearts.」
 「Ah vraiment. Alors disparais. La partie est terminée, non ? Le jour va bientôt se lever.」
 *page13|
 「Ça te convient vraiment de mettre fin à la partie ?

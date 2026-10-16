@@ -1115,7 +1115,7 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 *page279|
 「Je n'en attendais pas moins de la redoutable sœur démoniaque.
 　Je compte sur toi. Après tout, vous avez toujours été doués pour écraser vos rivaux en affaires, vous autres.」
-「Je n'ai pas besoin de toi pour m'en rappeler.
+「Je n'ai pas besoin de toi pour me le rappeler.
 　Deux doctrines sur le même territoire ne font pas bon ménage.」
 *page280|
 　Le duo entra dans l'immeuble épaule contre épaule, en émettant une aura irradiant l'hostilité.

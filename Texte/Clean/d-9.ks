@@ -33,7 +33,7 @@ et je décidai finalement de refermer le grimoire.
 *page9|
 　La dernière fois, il avait causé du grabuge en libérant un vaisseau fantôme que la mère d'Alice avait conservé.
 　Nous avions passé un sale quart d'heure pour capturer le clipper répondant au nom de Cutty Sark. [l]
-Je n'accepterais plus de sitôt l'aide de ce répugnant loup doré.
+Je n'accepterai plus de sitôt l'aide de ce répugnant loup doré.
 *page10|
 　Avant cet épisode, il avait également arraché le sceau d'un groupe d'adorables esprits frappeurs résidant au sous-sol,
 　ce qui nous avait valu la visite d'un groupe d'ecclésiastiques plus répugnants encore ; et par-dessus le marché, ces derniers s'étaient installés une semaine au manoir.

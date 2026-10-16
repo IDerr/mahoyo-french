@@ -57,7 +57,7 @@
 　elle parla comme pour se cramponner au souvenir du rêve qui s'estompait.
 *page13|
 　Entendant le mot “oiseau”, le rouge-gorge s'agita comme si elle parlait de lui.
-「...... Rassure-toi. Je ne m'en rappelle pas très bien, mais une chose est sûre, ce n'était pas toi.
+「...... Rassure-toi. Je ne m'en souviens pas très bien, mais une chose est sûre, ce n'était pas toi.
 　Sinon, quel est ce bruit ?」
 *page14|
 　D'un œil glacial, la jeune fille demanda des informations au rouge-gorge qui baissait la tête, déçu.

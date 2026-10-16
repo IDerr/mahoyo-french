@@ -38,7 +38,7 @@
 　alors que ses traits charmants se muaient en un terrible air de reproche.
 *page9|
 「Shizuki. Cette personne a-t-elle fait quelque chose avant de partir ?」
-「Elle n'a fait que boire du thé et retirer ses lunettes, puis elle est partie. [chgfg textoff=0 storage=草十郎私服01a(近)|首輪g time=500]Hein ? ...... Je ne m'en rappelle pas... très bien......」
+「Elle n'a fait que boire du thé et retirer ses lunettes, puis elle est partie. [chgfg textoff=0 storage=草十郎私服01a(近)|首輪g time=500]Hein ? ...... Je ne m'en souviens pas... très bien......」
 　Sa mémoire, jusque-là claire et nette, s'effaçait comme si on la gommait.
 　Sōjūrō fut de nouveau assailli par le vertige qu'il avait ressenti un instant auparavant et qui lui rappelait un engourdissement.
 *page10|
@@ -64,7 +64,7 @@
 　C'était douloureux, mais il était habitué à la douleur physique.
 　Et surtout, la mémoire lui était revenue très clairement grâce à cette gifle.
 *page15|
-「Ça y est, je m'en rappelle. Elle voulait que je te dise que tu ne pouvais pas gagner contre elle.」
+「Ça y est, je m'en souviens. Elle voulait que je te dise que tu ne pouvais pas gagner contre elle.」
 「Hmm, elle est bien sûre d'elle. Et à part ça ?」
 *page16|
 「À part ça...... On a eu une conversation plutôt normale...... Ah, elle a aussi parlé du Soi et du Moi, et de je ne sais plus quoi, j'ai pas trop bien compris.」
@@ -122,7 +122,7 @@ En gros, c'est comme si on tirait mes balles de prana avec les yeux.」
 　On pouvait se demander à qui elle s'adressait, mais Aoko insista sur le fait que c'était cette condition qui lui permettait de lui en parler.
 *page30|
 「Tu vois, ce qu'on appelle la Magie, Sōjūrō, c'est une sorte de règle commune. [l]
-Les types de Magie comme les Runes ou la Kabale représentent chacune une matière...... Tu n'as qu'à te les représenter comme des manuels communs au monde entier.
+Les types de Magie comme les Runes ou la Kabbale représentent chacune une matière...... Tu n'as qu'à te les représenter comme des manuels communs au monde entier.
 　N'importe quelle personne peut devenir Mage tant qu'elle possède ce manuel et qu'elle appartient à une lignée adéquate.
 　Mais pour utiliser la Vraie Magie, c'est différent.
 　La Vraie Magie n'est pas un manuscrit dérivé du “Tourbillon de la Source” comme la Magie, mais quelque chose qui nous relie directement à lui.」

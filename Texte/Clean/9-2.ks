@@ -65,7 +65,7 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 　Elle savait que ça ne suffirait pas pour qu'Alice, qui le laissait tranquille tant qu'il ne faisait rien de fâcheux, change d'avis. Cela dit, elle aurait aimé au moins pouvoir soutenir cet effort courageux.
 　Toutefois, elle n'était pas d'humeur à se promener en ville avec eux, et les circonstances ne le permettaient pas non plus.
 *page15|
-「Désolée, mais là, on est occupées. J'essaierai de m'en rappeler une fois qu'on aura le temps, alors patiente jusque-là.」
+「Désolée, mais là, on est occupées. J'essaierai de m'en souvenir une fois qu'on aura le temps, alors patiente jusque-là.」
 　Alice ne disait rien, mais elle semblait du même avis.
 　Pourtant, Sōjūrō ignora cette atmosphère pesante.
 *page16|
