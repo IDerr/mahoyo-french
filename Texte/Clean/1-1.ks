@@ -9,7 +9,7 @@
 　C'était un matin calme.
 *page2|
 　Même si, en jetant un coup d'œil depuis le lit, la couleur du ciel était de cette teinte grise dont on aurait barbouillé une peinture,
-　ou si le thermomètre affichait à peine six degrés, un record sans précédent pour un mois de novembre,
+　ou si le thermomètre affichait à peine six degrés, une température glaciale pour un mois de novembre,
 　ou bien encore, si l'heure du petit déjeuner était depuis longtemps passée et elle se réveillait honteusement à cause de la faim,
 　le simple fait de pouvoir dormir à sa guise rendait ce matin vraiment magnifique pour elle.
 *page3|

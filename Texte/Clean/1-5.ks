@@ -165,18 +165,18 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 「En tout cas, c'est un type bizarre. Il s'entendrait peut-être bien avec toi.」
 「...... En effet, la “4e dimension” est une bonne expression, n'est-ce pas.」
 　Mais la fille signifia d'un seul regard, qu'avant de pouvoir bien s'entendre, ils ne se rencontreraient probablement même pas.
-　Et Aoko ne fit que lui signifier son assentiment.
+　Et Aoko se contenta d'abonder dans son sens.
 *page37|
 「Au fait, Alice. Qu'est-ce que tu lis depuis tout à l'heure ?」
-「L'apocryphe de la théorie de l'évolution spirituelle. Une imitation du journal spirituel.」
-「Ah, du Swedenborg. Ça ne sert à rien de lire ça maintenant, si ?」
+「Un ouvrage sur la théorie de l'évolution spirituelle. Un pastiche du journal spirituel.」
+「Ah, l'œuvre de Swedenborg. Est-ce que c'est bien utile de lire ça ?」
 *page38|
-「Si le style était carré, ç'aurait été ennuyeux, mais celui-là est un apocryphe.
-　Il fait des éloges sur ses points faibles et ses points forts de façon théâtrale. Comme un roman d'aventures bien écrit. Par exemple, l'organisation secrète qu'il combat s'appelle Kanto, c'est intelligent.
+「Si c'était le texte original, ça n'aurait pas eu grand intérêt, mais celui-là est un apocryphe.
+　Il accentue avec emphase les points faibles et les points forts de son style d'écriture. Comme un roman d'aventures bien écrit. Par exemple, l'organisation secrète qu'on combat s'appelle [ruby char="“Kant”" text="Emmanuel Kant"], c'est plutôt bien trouvé.
 　...... Cela dit, il a été écrit par ton grand-père.」
 *page39|
 「...... Hmm, il s'intéressait même à ce genre de choses.[r]
-　Étonnamment, il avait de l'humour, hein. On a perdu une personne regrettable.」
+　Il avait donc le sens de l'humour. On a perdu une personne de valeur.」
 　dit Aoko avec nostalgie, comme si son grand-père n'était plus de ce monde.
 *page40|
 「Ton grand-père a pourtant donné de ses nouvelles cet été.」

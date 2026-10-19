@@ -100,5 +100,5 @@
 　　　　　　tout ceci me remplit de nostalgie et j'ai hâte de voir ce que l'avenir me réserve.
 *page23|
 　C'est une histoire féerique vieille de huit ans.
-　C'était le jour où elles se rencontrèrent pour la première fois, un évènement impossible à défaire peu importe la magie utilisée.[p][r]
+　C'était le jour de leur toute première rencontre, un évènement qu'aucune magie ne saurait jamais ramener.[p][r]
 *page24|
