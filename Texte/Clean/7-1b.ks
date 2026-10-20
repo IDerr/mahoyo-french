@@ -251,7 +251,7 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 　Un silence embarrassant s'installa entre eux.
 　Alice cherchait ses mots pour tenter de sauver la face.
 *page63|
-　Réduite au silence, les positions se retrouvaient inversées.
+　Si elle ne disait rien, leurs positions se retrouveraient inversées.
 　Il fallait dire qu'elle se trouvait dans sa propre forêt, dans son propre monde.
 　Elle se mordait les lèvres en pensant que laisser un simple humain avoir le dernier mot mettait son honneur de sorcière en jeu.
 *page64|

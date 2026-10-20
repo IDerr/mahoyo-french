@@ -122,9 +122,9 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 　La contradiction serait proprement corrigée.
 *page25|
 　Lorsque la Vraie Magie se dissiperait,
-　Aoko, qui ressentait de la nostalgie envers cet endroit,
-　ainsi que Sōjūrō, qui croyait le voir pour la première fois,
-　seraient corrigés, comme s'ils n'avaient jamais existé.
+　les souvenirs empreints de nostalgie d'Aoko devant ce paysage,
+　ainsi que l'impression de Sōjūrō de le voir pour la toute première fois,
+　seraient effacés comme si rien de ce qui venait de se passer n'avait eu lieu.
 　Seules les tierces personnes se souviendraient de ce miraculeux océan de fleurs blanches :
 　Alice et Tōko.
 *page26|

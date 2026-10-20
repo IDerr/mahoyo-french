@@ -265,7 +265,7 @@ Pour le dîner, c'est moi qui me mettrai aux fourneaux, alors―――[wait time
 「...... C'est vrai. Même si je le ferai démissionner, jeter l'argent qu'il a économisé jusqu'à présent serait du pur gâchis...... [l]
 Tant pis, je vais devoir agir dans l'ombre.」
 　murmura la Présidente Démoniaque du Conseil Étudiant, tout en préparant son plan, enfoncée dans le sofa.
-　Son cœur étant par défaut en mode démoniaque, elle n'avait pas besoin de se mettre en condition pour le devenir. Cela avait des avantages mais aussi des inconvénients.
+　Sa nature cupide, qui se manifestait sans même qu'elle en soit consciente, était à la fois sa plus grande qualité et son plus grand défaut.
 *page65|
 　Le lendemain, à midi.
 　Aoko attendit que ses colocataires soient sortis pour utiliser le téléphone du vestibule.

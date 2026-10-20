@@ -57,7 +57,7 @@
 　Sōjūrō, embarrassé, leva inconsciemment les yeux au plafond.
 　...... Tout de même, on devrait interdire des surprises pareilles.
 　Elle dormait en reposant son corps svelte à proximité de la cheminée.
-　Même si on aurait pu en faire une magnifique peinture, ce spectacle était mauvais pour le cœur.
+　La scène, si belle qu'on aurait dit un tableau, ne pouvait qu'être mauvaise pour le cœur.
 *page13|
 　...... Son sommeil laissait croire qu'elle était morte.
 　Il était bien trop paisible et ne pouvait laisser personne indifférent.

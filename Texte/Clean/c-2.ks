@@ -115,10 +115,10 @@ quand je suis rentrée après m'être fatiguée en pure perte, Tōko m'a fait co
 　Tōko fronça légèrement les sourcils suite aux injures de sa sœur cadette.
 　Elle était restée de marbre jusque-là, mais entendre des critiques sur les Automates dont elle était si fière semblait l'avoir froissée.
 *page27|
-「...... Si je me souviens bien, celle qui s'est retrouvée au pied du mur à cause de cet Automate, c'est toi.
-　Soit dit en passant, la gematria est un arcane de la Kabbale. Je suis une spécialiste des Runes et je n'ai pas l'intention de transmettre à tout un chacun mes connaissances comme toi.
+「...... Si je me souviens bien, tu t'es pourtant retrouvée en mauvaise posture face à cet Automate.
+　Soit dit en passant, la gematria est un arcane de la Kabbale. Moi, je suis une spécialiste des Runes, et je n'ai pas l'intention de m'éparpiller dans tous les domaines comme toi.
 　―――Ceci dit, [l]
-j'ai effectivement appris des choses sur les Barrières celtiques grâce à l'un des propriétaires de ce Sceau.」
+j'ai tout de même appris des choses intéressantes sur les Barrières celtiques grâce à l'un des propriétaires de ce Sceau.」
 *page28|
 　Tōko tourna son regard vers les caractères se trouvant à sa gauche dans son dos.
 　Le Sceau scintillait toujours autant tandis qu'elle parlait,

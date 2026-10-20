@@ -194,7 +194,7 @@
 「――――――, aah !」
 　Mais la pression sanguine d'Aoko chuta, non pas à cause de l'anémie causée par la malédiction, mais à cause de l'impasse dans laquelle elle se trouvait.
 　La distance d'attaque était parfaite.
-　L'Automate, portrait craché d'Aoko, s'était légèrement éloigné d'elle et tendit son bras gauche telle une flèche.
+　Devant Aoko qui avait bondi en arrière, son portrait craché l'Automate tendit son bras gauche telle une flèche.
 *page47|
 　...... L'arme fut tirée en plein dans le cœur d'Aoko.
 *page48|

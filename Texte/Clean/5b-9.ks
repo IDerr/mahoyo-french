@@ -49,7 +49,7 @@
 　En tout cas, il libérerait sans le moindre doute quelque chose de funeste.
 　La forme d'œuf, la décoration en serrure de porte, et les mots gravés l'inquiétaient aussi.
 　Puisque c'était un œuf, il finirait fatalement par éclore.
-　Même s'il continuait de le regarder, son “contenu finirait par sortir” le moment venu, et donc, ils avaient de moins en moins le luxe de gaspiller de l'énergie.
+　Même s'il continuait de le regarder, son “contenu finirait par sortir” le moment venu, ils n'avaient donc plus le temps d'économiser leurs forces.
 *page12|
 「Aozaki, tu ne vas pas trop vite ?!
 　Si tu cours à cette vitesse―――」
