@@ -85,7 +85,7 @@
 　Deux personnes s'agitaient devant elle : [movefg opacity=255 vcenter=387 time=400 accel=-2 storage=木乃実私服01(大)|c2 center=466 textoff=0]Hōsuke, et également, [l]
 [movefg opacity=255 vcenter=356 time=700 accel=-2 storage=山城01(大)|b2 center=182][wact canskip=0]à mon plus grand étonnement, le professeur Yamashiro.
 *page20|
-「Oh ! Les arbres que j'ai aperçus brièvement dans l'arrière-cour étaient des Oak ? En français, on appelle ça des chênes... Hum, ils sont différents de ceux dont je me rappelle.
+「Oh ! C'étaient donc des chênes anglais que j'ai aperçus furtivement dans l'arrière-cour. Ici au Japon, nous avons une variété appelée “nara”... Hum, si j'en crois ma mémoire, ils ne sont pas très similaires.
 　Ce doit être une espèce particulière. Les espèces anglaises et japonaises ont des apparences bien distinctes, et puis, il y en a plus de quatre cents.」
 *page21|
 「Ouah ! Comme d'habitude, ce type ne parle que de ce qui l'intéresse. Alice, ce professeur est un barbare sans aucune délicatesse que je te conseille d'ignorer.

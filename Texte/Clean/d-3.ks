@@ -12,9 +12,9 @@ Je t'ai déjà un peu parlé du Tourbillon de la Source, non ?」
 　On dit que le Tourbillon de la Source renferme toute la sagesse et que toutes les choses y ont été décidées.
 　Si on pouvait le voir, le toucher et le comprendre, le mot impossible n'aurait plus aucun sens. Son nom change selon les traditions, mais pour simplifier, c'est probablement là où se trouve Dieu.」
 *page3|
-「Par Dieu, tu entends le panthéon de toutes les divinités ?」
+「Ce Dieu est fondamentalement différent de la multitude de divinités du shintoïsme ?」
 「...... C'est parce qu'il t'arrive de sortir des trucs de ce genre qu'on ne sait pas comment réagir avec toi.
-　Il y a sûrement un dieu à l'origine de toutes les créations, mais le Tourbillon de la Source se réfère à l'étape précédente, là où toutes ces choses ont été décidées.」
+　Il y a sans doute des divinités qui habitent toute chose, mais le Tourbillon de la Source désigne quelque chose qui leur est antérieur, une sorte de principe fondamental sur lequel tout repose..」
 *page4|
 「Je ne sais pas pourquoi cette entrée se trouvait à Misaki, mais mon grand-père l'a découverte et a créé une nouvelle Vraie Magie.
 　Seulement, il a refermé le chemin vers elle par la suite. [l]

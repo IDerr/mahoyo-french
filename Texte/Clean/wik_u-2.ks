@@ -29,7 +29,7 @@
 　Le sixième cas, le meurtre par pétrification de Yuika.
 　Lui non plus n'avait aucune importance.
 *page7|
-　Le septième cas, le meurtre par alcoolisme aigu de la fille aînée des Aozaki.
+　Le septième cas, le meurtre par intoxication alcoolique de la fille aînée des Aozaki.
 　Comme je supposais qu'il s'agissait du premier de la série d'incidents, le crime était irréalisable―――[wait canskip=0 time=300][fg rule=crossfade time=400 storage=有珠私服01a(大) center=760 vcenter=393 index=1400 textoff=0]uniquement pour Kuonji.
 *page8|
 　Voilà pour les meurtres que j'avais expérimentés.

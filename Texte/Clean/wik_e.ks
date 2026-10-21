@@ -90,7 +90,7 @@ Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu d
 「Pe... Personne n'annulerait un concert à la dernière minute pour une raison aussi stupideーーーー! Excuse-toi auprès du dieu de la musique ! Tu te fous de tes fans ou quoi ?!」
 *page23|
 「Tch, elle me casse les oreilles.
-　Primo, je m'en bats les steaks de la musique. Deuxio, les fans sont des fourmis ouvrières qui n'existent que pour m'entretenir. Tertio, à la fin de chaque concert, je me sens toujours vide et abattue.
+　Primo, je m'en bats les steaks de la musique. Deuxio, les fans sont des fourmis ouvrières qui n'existent que pour m'entretenir. Tertio, à la fin de chaque concert, je me sens tellement vide que je finis par m'entailler les veines.
 　Et quarto, le feu des projecteurs a beau m'éclairer, personne ne voit la vraie moi.」
 *page24|
 　L'aura de la fille en rose changea du tout au tout.

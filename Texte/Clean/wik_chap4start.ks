@@ -71,7 +71,7 @@ Tiens ? C'est lourd. Vous êtes vraiment lourde, Yuika. [l]
 　De plus,
 　les murs étaient couverts de posters étranges.
 *page17|
-「De... De l'alcoolisme aigu...!」
+「Une... Une intoxication alcoolique aiguë...!」
 「Voilà la preuve irréfutable. Ma petite Ako, la petite Tōko avait beau être une épine dans le pied pour toi, l'abandonner dans un état aussi pitoyable est cruel...!
 　Elle disait être fan de rock progressif, mais en réalité, elle préférait l'enka... [wait canskip=0 time=1000][chgfg storage=律架01b(中)|i6 time=300]En plus, elle avait même son propre micro...」
 *page18|
