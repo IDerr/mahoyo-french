@@ -87,9 +87,9 @@
 *page20|
 　Elle ne parvenait pas à comprendre ce qui s'était passé.
 *page21|
-　Pendant ce laps de temps de dix minutes, malgré ce qu'elle avait vécu,
+　Ce qu'elle avait vécu pendant ce blanc de dix minutes,
 　les gens qu'elle avait rencontrés,
-　ou ce qu'elle avait fait, elle était revenue au point de départ, incapable d'assumer ses responsabilités.
+　ou les choses qu'elle avait apprises, tout avait été effacé comme si rien n'avait eu lieu.
 　La seule chose dont elle était sûre, c'était qu'une vie destinée à mourir ne pouvait être sauvée,
 　　　　「Euh―――Il y a quelqu'un, ici ?」
 　et que ce jour-là,

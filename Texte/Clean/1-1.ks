@@ -8,7 +8,7 @@
 *page1|
 　C'était un matin calme.
 *page2|
-　Même si, en jetant un coup d'œil depuis le lit, la couleur du ciel était de cette teinte grise dont on aurait barbouillé une peinture,
+　Même si le ciel qu'elle apercevait depuis son lit était comme peinturluré de gris,
 　ou si le thermomètre affichait à peine six degrés, une température glaciale pour un mois de novembre,
 　ou bien encore, si l'heure du petit déjeuner était depuis longtemps passée et elle se réveillait honteusement à cause de la faim,
 　le simple fait de pouvoir dormir à sa guise rendait ce matin vraiment magnifique pour elle.
@@ -22,7 +22,7 @@
 　Mais pour elle qui était restée debout toute la nuit et qui s'était couchée trois heures auparavant, le temps qu'il faisait à l'extérieur n'avait aucune espèce d'importance.
 *page5|
 　Pour l'heure, son sommeil était tout ce qui importait.
-　Pour faire juste un petit somme dans son lit, c'était un bon matin, et le temps à l'extérieur n'était en aucun cas ses affaires―――Elle cessa rapidement de penser à ce qu'il y avait de l'autre côté de la fenêtre.
+　Tant qu'elle pouvait faire un petit somme dans son lit, ça suffisait à rendre cette matinée agréable, et le temps à l'extérieur lui était parfaitement égal―――Elle cessa rapidement de penser à ce qu'il y avait de l'autre côté de la fenêtre.
 *page6|
 　Elle tira les rideaux.
 　Elle ferma de nouveau les paupières et, sans attendre, tâcha de se rendormir.

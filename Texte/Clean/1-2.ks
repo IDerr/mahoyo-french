@@ -94,15 +94,15 @@
 *page23|
 「Je vous le demande encore une fois, M. Yamashiro.
 　Alors ? Pourquoi moi ?」
-　Face à ce contre-interrogatoire où on ne pouvait répondre ni par oui ni par non, M. Yamashiro expliqua, quelque peu sous la contrainte :
+　Face à cette question qui ne tolérait aucun faux-fuyant, M. Yamashiro expliqua, quelque peu intimidé :
 *page24|
 「Eh bien, vois-tu,
 　si je t'ai choisie, ce n'est pas parce que tu es la Présidente de Fer du Conseil Étudiant en qui les professeurs ont totalement confiance, même s'ils t'évitent comme la peste ; ni parce que tu te jetterais sur l'ensemble des élèves et des enseignants pour le bien de l'école si nécessaire.」
 「...... Je ne vois pourtant aucune autre raison susceptible d'expliquer ma convocation.」
 *page25|
 　On ne peut pas lui faire confiance, pensa-t-elle en scrutant le conseiller du conseil étudiant avec les yeux mi-clos.
-　Avec l'intensité d'une jeune fille de 17 ans,[wait canskip=0 time=400][r]
-　et le charme d'une jeune fille de 17 ans.
+　Avec une intensité qu'on n'attendrait pas d'une jeune fille de dix-sept ans,[wait canskip=0 time=400][r]
+　et le charme d'une jeune fille de dix-sept ans.
 　Le professeur Yamashiro accepta ce regard, dans lequel existait cette harmonie miraculeuse, avec un sourire paisible, comme fasciné.
 *page26|
 「Vraiment, s'il ne s'agissait que de remplir mon devoir, j'aurais accompli cette tâche moi-même. Nos postes de professeur et de présidente du conseil étudiant n'ont rien à voir dans ce choix personnel.
@@ -152,7 +152,7 @@
 　Il n'y avait que dans ces moments-là qu'il avait l'impression que son anxiété d'être venu en ville s'estompait un peu.
 *page36|
 「――――――」
-　...... Pensant cela, un soupir de découragement lui échappa aussitôt.
+　......  À cette pensée, un soupir de découragement lui échappa aussitôt.
 　C'est vraiment pitoyable. Ça fait déjà deux semaines que j'ai déménagé, mais dès que je relâche mon attention, je regrette les terres de mon enfance et m'apitoie sur mon sort.
 　Dans ce cas, je m'excuse auprès de ma nouvelle vie pour m'être plaint, se dit-il pour se remonter le moral, avant de se remettre à attendre de bonne grâce.
 *page37|
@@ -376,7 +376,7 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 　D'un point de vue extérieur, il y avait dans leur échange quelque chose de sublime.
 　D'un côté, la fille violente qui cherchait la bagarre,
 　et de l'autre, le campagnard qui la contemplait avec sérieux, se demandant ce qui se passait.
-　À l'exception de ces deux-là, pour les personnes qui étaient aux alentours, ça ressemblait à un combat à mort entre deux serpents.
+　En dehors d'eux qui se regardaient en chiens de faïence, un témoin de la scène ressentirait nécessairement une profonde nervosité.
 *page90|
 　Comme par exemple, M. Yamashiro derrière Aoko.
 　Il avait pensé bien faire en choisissant comme guide une élève modèle, mais on ne savait trop pourquoi, celle-ci était de mauvaise humeur. Même maintenant, l'atmosphère était tendue.

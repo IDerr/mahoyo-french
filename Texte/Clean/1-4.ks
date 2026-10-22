@@ -87,7 +87,7 @@
 　C'était déprimant, mais la présence de moustiques en été était on ne peut plus normale.
 　“Bah, c'est parfaitement logique que les insectes soient attirés par un fruit appétissant”, approuva Aoko.
 *page23|
-　La cuisine à l'atmosphère saturée d'huile et de chaleur venait d'entrer dans la pause de 1 h.
+　La cuisine à l'atmosphère saturée d'huile et de chaleur connaissait un moment de répit.
 　Aujourd'hui encore, elle avait survécu à la bataille du déjeuner sans dommages.
 　Ensuite, il ne restait plus qu'à surmonter la congestion du dîner pour que tout le monde puisse ôter son tablier.
 　Dans cette cuisine où venait de se conclure une bataille féroce, un nouveau venu se tenait à l'écart.

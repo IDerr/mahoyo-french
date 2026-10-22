@@ -152,7 +152,7 @@
 *page33|
 　En premier lieu, ils n'avaient ni oreilles, ni bouche, ni cerveau. Ils n'avaient donc pas besoin de mots.
 　Pour eux, la seule chose qui existait était “ce moment”.
-　Pour eux, n'ayant ni peurs, ni attentes, ni cœur, ce n'était qu'un “espoir” qui n'arriverait pas.
+　Pour ces êtres dépourvus de cœur, la peur comme l'espoir relevaient d'un “avenir” qui ne pouvait exister pour eux.
 *page34|
 　Pourtant, ils eurent une prémonition.
 　Dès maintenant et dans les instants à venir, un prodige à faire dresser les cheveux sur la tête allait les mettre en pièces―――

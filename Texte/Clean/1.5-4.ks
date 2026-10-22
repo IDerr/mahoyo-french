@@ -216,7 +216,7 @@ Malgré sa taille, cette église ne compte que peu de personnel.」
 　D'après ce qu'en savait Aoko, si elle se souvenait bien, elle avait été réaménagée de cette façon à peu près huit ans auparavant. Elle était devenue une grande église bien trop imposante pour ce quartier d'Aida.
 *page57|
 　Soit dit en passant, le bâtiment voisin était l'hôpital général de la ville de Misaki.
-　Pour Aoko, puisque l'église avait été érigée sournoisement à côté de l'endroit où disparaissaient le plus grand nombre de vies dans cette ville, on ne pouvait pas se fier à elle―――mais les personnes au courant de son opinion se limitaient à Kuonji Alice, sa colocataire, et le prêtre de l'église.
+　Pour Aoko, puisque l'église avait été érigée sournoisement à côté de l'endroit où disparaissaient le plus grand nombre de vies dans cette ville, on ne pouvait pas se fier à elle―――mais les personnes au courant de son opinion se limitaient à Kuonji Alice, sa colocataire, et au prêtre de l'église.
 *page58|
 「Aurais-tu une quelconque attache avec cette église ?」
 「Moi ? Pas pour un sou. J'en ai tellement pas que je voudrais même retourner dans le passé et le changer, mais mon père et mon grand-père la fréquentent depuis longtemps.
@@ -252,7 +252,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 　La sœur sourit élégamment mais avec un air machiavélique.
 　Quelles que soient les personnes en question, c'était toujours une bonne chose que de mettre la main sur de la main-d'œuvre.
 *page66|
-　La sœur se présenta en tant que Suse Yuika, et remercia Sōjūrō pour s'être porté volontaire au bénévolat.
+　La sœur se présenta en tant que Suse Yuika et remercia Sōjūrō pour s'être porté volontaire pour cette activité.
 　Sōjūrō avait remarqué ses yeux fermés, mais comme il était en présence d'Aoko, il évita de poser des questions, et c'était aussi peut-être impoli.
 *page67|
 「Vous dites vous appeler Shizuki.
@@ -287,7 +287,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 　Le travail dont était chargé Sōjūrō ne requérait pas de compétences spéciales. C'était un simple nettoyage de vitres.
 *page75|
 「Je n'ai qu'à essuyer toutes les fenêtres, c'est ça ?」
-「Oui. Essuyez-les avec un chiffon humide, et ensuite, passez aussi du pulvérisateur, s'il vous plaît. Est-ce que l'échelle est assez grande ?」
+「Oui. Essuyez-les avec un chiffon humide puis un chiffon sec, et ensuite, appliquez le spray protecteur, s'il vous plaît. Est-ce que l'échelle est assez grande ?」
 「Tiens ? On dirait que non.」
 「Dans ce cas, contentez-vous de faire ce qui est à votre portée. Je vous fais confiance.」
 *page76|
@@ -401,7 +401,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 *page103|
 「...... Hmm. Je ne comprends pas trop, mais si jamais on se retrouve dans une situation difficile, on peut se rendre ici, c'est ça ?」
 「Hmm, je ne te le recommande pas.
-　On ne peut en bénéficier qu'une fois par mois. Je pense qu'il serait préférable de voir ça comme un simple réconfort ponctuel.」
+　Je pense qu'il vaut mieux se limiter à une visite par mois, juste pour y trouver un peu de réconfort.」
 *page104|
 　Le son de nettoyage des vitres retentissait.
 　Les deux personnes affairées au même passe-temps polissaient les fenêtres de l'église une par une, tout en sifflant nonchalamment.
@@ -485,7 +485,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 「Hmm. Lorsque tu me parles de l'école, ça me donne le cafard.」
 *page125|
 　Sōjūrō prit un air penaud.
-　Même s'il faisait de son mieux, il ne pouvait pas faire grand-chose de plus pour rattraper les cours de l'école. Parce que contrairement aux examens, les cours quotidiens ne se déroulaient pas en une journée.
+　Il avait beau se débrouiller dans ses petits boulots, les cours lui donnaient du fil à retordre. Passer les examens était déjà difficile, mais parvenir à suivre les cours au quotidien était une autre paire de manches.
 *page126|
 「Tu détestes les personnes qui ont de mauvais résultats ?」
 「...... Eh bien, ce qui m'exaspère vraiment, ce n'est pas de parler avec un idiot mais plutôt avec quelqu'un de pas très vif. Mais pour toi, le problème se situe en amont, et puis d'abord, ce n'est pas à moi de m'occuper de ça.
@@ -542,9 +542,9 @@ C'est de toi qu'on parle, alors j'imagine que tu ne l'as pas remarqué, mais il 
 　Après avoir rangé ses aide-mémoire qu'il n'avait absolument pas mémorisés, comme pour dire que c'était fini pour la journée, Sōjūrō sortit dans la ville nocturne.
 *page139|
 　Alors que minuit venait de passer, la nuit s'enfonçait de plus en plus dans un profond sommeil.
-　Sōjūrō marchait sur le chemin du retour tout en dressant la nuque et en la protégeant de l'air froid hivernal.
-　Aux alentours, il n'y avait ni chiens à la recherche de nourriture, ni passants partis faire de petites courses.
-　Puisque la seule supérette des parages fermait à onze heures du soir, il n'y avait probablement aucun habitant de sortie pour faire des courses.
+　Sōjūrō s'engagea sur le chemin pour rentrer chez lui, le col relevé pour protéger sa nuque de l'air froid hivernal.
+　Aux alentours, il n'y avait ni chiens à la recherche de nourriture, ni passants partis faire des achats.
+　Puisque la seule supérette à proximité fermait à onze heures du soir, il n'y avait probablement aucun habitant de sortie pour aller aux courses.
 *page140|
 「―――Fuu.」
 　Fatigué, il prit une très profonde inspiration.

@@ -1,6 +1,6 @@
 ﻿*page0|
-　Les matinées en ville avaient l'air sans fin, mais elles passaient en réalité assez rapidement.
-　Il était parfaitement réveillé, au point de douter que c'était le matin.
+　En ville, les matinées semblaient commencer tôt et tard à la fois.
+　Tout se mettait en branle si vite qu'on pouvait se demander si la ville venait vraiment de connaître le matin.
 *page1|
 「............」
 　Il se réveilla en entendant un son encore inhabituel pour lui et qui rappelait le vacarme d'un éboulement de roche.

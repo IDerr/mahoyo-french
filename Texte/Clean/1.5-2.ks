@@ -44,7 +44,7 @@
 「Qu'y a-t-il ? On ne le fait pas dans ta chambre ?」
 「――――――」
 　“Si, mais...” hésita la jeune fille en habits de cérémonie un peu mécontente.
-「Pour savoir, les senbei de Iseya, ce sont ceux du jour ?」
+「Pour savoir, les senbei d'Iseya, ce sont ceux du jour ?」
 　Elle fixait les confiseries japonaises qui sortaient tout juste du four et qu'Aoko tenait dans sa main.
 *page10|
 　Finalement, le cours routinier d'Alice eut lieu après une légère collation.
@@ -72,20 +72,20 @@ Si ça ne s'est pas passé comme prévu, c'est parce que les senbei m'ont distra
 「Quoi ? Ah, tu parles de ça.」
 *page17|
 　“Laisse-moi voir”, dit Aoko tout en regardant la boîte de chocolats.
-　Même en cherchant dans le monde entier, on ne pouvait trouver ces confiseries d'occident que dans cette ville, dans cette résidence.
+　Même en cherchant dans le monde entier, on ne pouvait trouver ces confiseries d'Occident que dans cette ville, dans cette résidence.
 　D'après ses souvenirs, la marque était “Sing a Song of Sixpence”.
 *page18|
 「Alors ? On allait parler du miroir, je crois ? [l]
-En ce moment, il n'est plus en mode résidence mais en mode Misaki, c'est ça ?」
-「Oui. La surveillance de la résidence devenait imprécise, alors je l'ai commuté sur la ville de Misaki uniquement...... Depuis hier, il est brumeux.
+En ce moment, il n'est pas en mode résidence mais en mode Misaki, c'est ça ?」
+「Oui. Même si ça complique la surveillance de la résidence, j'ai concentré son champ d'observation sur la ville de Misaki uniquement...... Car depuis hier, la situation commence à s'assombrir.
 　C'est imperceptible, mais il est clair qu'on nous encercle.」
 *page19|
-「On nous encercle ? Ça voudrait dire que leur nombre a augmenté ?」
-「En effet ; outre celui qui a été capturé, le miroir a localisé deux autres présences suspectes. Une personne dans la zone urbaine, et deux autres dans la forêt de la banlieue.」
+「On nous encercle ? Tu veux dire que leur nombre a augmenté ?」
+「En effet ; outre celui que je suivais déjà, le miroir a localisé deux autres individus suspects. Le premier est dans la zone urbaine, les deux autres sont dans les bois aux abords de la ville.」
 *page20|
 「Aah. Tes observations sont d'une précision incroyable.
 　Et donc ? Qui constitue la plus grande menace ?」
-「...... Le groupe de la forêt. Leur capture est en cours, mais ils semblent savoir qu'on les observe. Ils ne se laissent pas facilement approcher.」
+「...... Le groupe de la forêt. J'essaie de les capturer, mais ils semblent savoir qu'on les observe. Ils ne se laissent pas facilement approcher.」
 「Ah oui ? [l]
 Alors, on leur tend un piège ce soir ?」
 *page21|

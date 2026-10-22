@@ -299,7 +299,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 　C'était toujours tard en soirée... à 8 heures passées, quand l'heure de pointe venait de se terminer... qu'on disait aux livreurs qu'il fallait monter en haut de cette colline. Leur cafard était donc tout naturel.
 *page68|
 「Il n'est pas encore 8 heures, on est juste dans les temps. Moi, je voudrais du Kongetsu. Ça fait un moment qu'on n'a rien commandé à ce vendeur de Tsukimi Soba.」
-　La présidente du conseil étudiant prit le catalogue des échoppes, rangées comme des cartes de poker, et chercha avec exultation un dîner encore jamais vu. 
+　La présidente du conseil étudiant prit les menus des différentes échoppes, disposés en éventail comme des cartes de poker, et se réjouit à l'avance du dîner à venir.
 Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 「Je suis désolée, mais j'ai déjà pris mon dîner.」
 *page69|
