@@ -14,7 +14,7 @@ Je t'ai déjà un peu parlé du Tourbillon de la Source, non ?」
 *page3|
 「Ce Dieu est fondamentalement différent de la multitude de divinités du shintoïsme ?」
 「...... C'est parce qu'il t'arrive de sortir des trucs de ce genre qu'on ne sait pas comment réagir avec toi.
-　Il y a sans doute des divinités qui habitent toute chose, mais le Tourbillon de la Source désigne quelque chose qui leur est antérieur, une sorte de principe fondamental sur lequel tout repose..」
+　Il y a sans doute des divinités qui habitent toute chose, mais le Tourbillon de la Source désigne quelque chose qui leur est antérieur, une sorte de principe fondamental sur lequel tout repose.」
 *page4|
 「Je ne sais pas pourquoi cette entrée se trouvait à Misaki, mais mon grand-père l'a découverte et a créé une nouvelle Vraie Magie.
 　Seulement, il a refermé le chemin vers elle par la suite. [l]

@@ -83,7 +83,7 @@
 「――――――」
 　Non.
 　Il avait l'impression que ce n'était pas du tout ça.
-　Jusqu'à maintenant, il s'en était rappelé parfaitement, mais probablement à cause du stress, la tête de Sōjūrō commençait à tourner―――
+　À peine un instant avant, il s'en souvenait parfaitement, mais peut-être à cause du stress, la tête de Sōjūrō commençait à tourner―――
 *page19|
 　...... Puis,
 　Sōjūrō se rendit compte que la présence oppressante de son poursuivant s'éloignait soudainement.

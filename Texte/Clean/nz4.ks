@@ -30,7 +30,7 @@
 　OK, partons de la droite.[r]
 　C'est quoi, cette espèce de boîte à bijoux ?
 *page8|
-　C'est la Chanson à 6 pences.[r]
+　C'est la Chanson à 6 pence.[r]
 　Jack in The Box,[r]
 　ou encore Six Sing Chocolate.
 *page9|
@@ -41,10 +41,10 @@
 　Les oiseaux sont des familiers [r]　capables et élégants.
 *page11|
 　Même moi,[r]
-　je connais la Chanson à 6 pences.[r]
+　je connais la Chanson à 6 pence.[r]
 　Grâce à des amis oiseaux.
 *page12|
-『Chante une chanson à 6 pences～♪[r]
+『Chante une chanson à 6 pence～♪[r]
 　Une poche de seigle bourrée～♪[r]
 　24 oiseaux noirs, dans la tourte grillés～♪』
 *page13|

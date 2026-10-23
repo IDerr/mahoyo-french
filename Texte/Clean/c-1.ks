@@ -242,7 +242,7 @@ Aoko est au fond d'un couloir en forme de Y. Comme ton regard suit une trajectoi
 　Pendant les quelques secondes qu'il avait fallu à Tōko pour découvrir la supercherie,
 　le nombre de rotations de son Circuit Magique, activé par une technique extrêmement rapide, avait dépassé son record personnel.
 *page53|
-　Il ne s'agissait ni d'un Snap, sort à action unique, ni d'un Draw, à double action, mais d'un Magic Blow, un sort à triple action consistant à compresser du prana.
+　Il ne s'agissait ni d'un Snap, sort à action unique, ni d'un Draw, à double action, mais d'un Magic Blow, une compression de prana appartenant aux sorts de trois actions et plus.
 　Ainsi généré et collecté, l'éther bleu qui tourbillonnait devant ses yeux provoquerait un impact proche de dix tonnes avec un simple tir.
 　Si elle faisait feu avec toute cette énergie après l'avoir traitée et emmagasinée grâce au Sceau Magique, elle pourrait même pulvériser l'ancienne école derrière Tōko―――!
 *page54|

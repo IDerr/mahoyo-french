@@ -152,7 +152,7 @@
 　Il n'y avait que dans ces moments-là qu'il avait l'impression que son anxiété d'être venu en ville s'estompait un peu.
 *page36|
 「――――――」
-　......  À cette pensée, un soupir de découragement lui échappa aussitôt.
+　...... À cette pensée, un soupir de découragement lui échappa aussitôt.
 　C'est vraiment pitoyable. Ça fait déjà deux semaines que j'ai déménagé, mais dès que je relâche mon attention, je regrette les terres de mon enfance et m'apitoie sur mon sort.
 　Dans ce cas, je m'excuse auprès de ma nouvelle vie pour m'être plaint, se dit-il pour se remonter le moral, avant de se remettre à attendre de bonne grâce.
 *page37|

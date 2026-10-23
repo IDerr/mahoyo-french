@@ -210,7 +210,7 @@ Jusqu'à tout à l'heure, tu avais l'air d'un démon, alors je n'avais pas remar
 　Sōjūrō acquiesça même s'il en était déconcerté.
 *page46|
 「D'accord, mais...... Je ne me suis pas trompé, tu es bien en colère, Aozaki ?」
-　Après avoir entendu sa question, l'expression d'Aoko changea.
+　Après avoir entendu sa question, Aoko prit une expression nouvelle.
 　Ce n'était pas le visage toujours mécontent auquel il était habitué.
 *page47|
 「...... C'est vrai. Si je dois le dire à ta façon, je suis sûrement en colère.
