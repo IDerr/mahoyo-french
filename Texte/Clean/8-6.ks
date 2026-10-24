@@ -90,7 +90,7 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 　Après avoir hésité à plusieurs reprises,
 *page22|
 「...... C'est exact, Aoko n'a encore jamais tué d'humains. [l]
-Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs reprises.」
+Bien qu'elle ait déjà accompli l'acte en question de nombreuses fois.」
 　dévoila Alice, hésitante.
 　Sōjūrō fronça les sourcils, gêné.
 *page23|

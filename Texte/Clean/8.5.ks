@@ -342,7 +342,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 *page83|
 　D'autre part, Kimikuni avait eu de nombreux enfants.
 　En effet, l'une des conditions pour succéder au chef de famille était de ne pas laisser s'éteindre la lignée des Tsukiji.
-　Ses trois fils et sa fille s'étaient mariés avec des parents de la famille, et donc, grâce à Kimikuni, les liens déclinants unissant la famille Tsukiji avaient retrouvé un peu de leur superbe.
+　Ses trois fils et sa fille s'étaient mariés avec des parents de la famille, tentant ainsi de raffermir les liens de la famille Tsukiji que Kimikuni avait affaiblis.
 　Tobimaru était le cinquième enfant de Tsukiji Hitoyoshi, le fils aîné.
 *page84|
 　...... Cependant, sa mère n'appartenait pas à la famille Tsukiji.
@@ -399,7 +399,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 　De base, Tobimaru était un pacifiste.
 　Il avait pour philosophie d'éviter les problèmes.
 　Ainsi, il ne comptait ni prendre sa revanche sur eux, ni répondre aux attentes de Kimikuni.
-　Les inquiétudes de son père ne reposaient que sur des illusions, ses proches s'excitaient sans aucun fondement, et Tobimaru avait fermement l'intention de rester un simple fils prodige.
+　Les inquiétudes de son père ne reposaient que sur des illusions, ses proches s'excitaient sans aucun fondement, et Tobimaru avait fermement l'intention de rester un simple fils prodigue.
 *page99|
 　Toutefois, ses frères qui avaient à peu près son âge lui vouaient une haine différente des adultes.
 　Probablement à cause des persécutions qu'ils lui avaient fait subir par le passé, ou du retournement de leur situation.
@@ -515,7 +515,7 @@ Heureusement, ce dernier se calma enfin.
 「J'en ai. Bien sûr que j'en ai. Je t'en préparerai une pour la prochaine fois où tu viendras avec ton amie effrayante.」
 　Elle maîtrisa avec splendeur les intentions secrètes du vieil homme.
 *page125|
-「Vos dernières passions, ce sont les peintures ? C'est étonnant que la fortune de Topan ne soit pas déjà dilapidée.」
+「Vous cherchez encore l'amour à votre âge ? C'est étonnant que la fortune de Toppan ne soit pas déjà dilapidée.」
 　Eh oui.
 　Ce vieil homme était la célébrité de Yashirogi, ex-dirigeant de la société anonyme Tokitsu Pan implantée dans tout le pays, et actuellement consultant de l'entreprise, Tokitsu Yurihiko lui-même.
 *page126|
@@ -544,7 +544,7 @@ Heureusement, ce dernier se calma enfin.
 「Non merci, mais j'apprécie l'invitation. Si une connaissance me voyait, elle me prendrait pour un gros bourgeois, non ? Je préfère éviter ce genre de situation, ces derniers temps.」
 *page132|
 　“C'est bien dommage”, fit le vieux Tokitsu qui semblait avoir compris la situation grâce à la tournure de phrase employée par Tobimaru.
-　Il avait beau être à la retraite, il restait le grand homme ayant fait de Topan une entreprise renommée à l'échelle nationale, même si son apparence n'en laissait rien paraître.
+　Il avait beau être à la retraite, il restait le grand homme ayant fait de Toppan une entreprise renommée à l'échelle nationale, même si son apparence n'en laissait rien paraître.
 　Il avait sans doute compris en un instant dans quel environnement familial compliqué se trouvait Tobimaru.
 *page133|
 「Passe le bonjour à Mick. Et dis-lui qu'il serait grand temps pour lui de prendre sa retraite et de se réconcilier avec ses enfants. Je compte sur toi pour transmettre le message.」
@@ -840,7 +840,7 @@ Et puis, il n'y a pas beaucoup de jeunes de notre âge qui pensent qu'aider son 
 *page209|
 「C'est un fait avéré, Tobimaru ?」
 「Ouais. C'est la secrétaire de mon père qui m'en a parlé. Il n'y a pas d'erreur possible.
-　En apparence, c'est une nouvelle secte, mais en réalité, ils vendent des matelas de plumes. À en croire ce qu'on m'a dit, ils vendent très cher des matelas de mauvaise qualité à des personnes âgées.」
+　En apparence, c'est une nouvelle secte, mais en réalité, ils vendent des couettes en duvet. À en croire ce qu'on m'a dit, ils vendent très cher des couettes de mauvaise qualité à des personnes âgées.」
 *page210|
 「Ils louent ces bureaux. Ils comptent sans doute continuer pendant encore un mois avant de filer à l'anglaise.
 　...... C'est clair, Sōjūrō se fait mener en bateau. C'est le pigeon parfait pour ces escrocs.」
@@ -858,7 +858,7 @@ Et puis, il n'y a pas beaucoup de jeunes de notre âge qui pensent qu'aider son 
 　...... Mais s'il en gagne, c'est une autre histoire. Je n'ose pas l'envisager, mais Sōjūrō ne serait pas en réalité de mèche avec les vendeurs ?」
 *page213|
 「...... Je n'arrive pas à y croire. Sōjūrō... serait devenu... l'un des membres... du groupe d'escrocs―――?」
-「Hein ? Pas possible. Personne ne se ferait avoir par Shizuki. Et puis d'abord, ce type ne sait pas mentir. Il pourrait jamais vendre tout un stock de matelas pourris, j'vous dis.」
+「Hein ? Pas possible. Personne ne se ferait avoir par Shizuki. Et puis d'abord, ce type ne sait pas mentir. Il pourrait jamais vendre tout un stock de couettes pourries, j'vous dis.」
 *page214|
 「Mais peut-être que Sōjūrō ne s'est pas rendu compte qu'il s'agissait d'une sale escroquerie ? Il les vend en croyant qu'ils sont de bonne qualité. Avec une grosse dose de sincérité.」
 「Ooh ! Je vois, là je comprendrais mieux ! Donc sa sincérité le rend grave populaire auprès des personnes âgées ! Il se débrouille, dites donc ! La prochaine fois que je le vois, je lui demanderai de partager ses profits avec... [wait time=100 camnskip=0]
@@ -868,12 +868,12 @@ Et puis, il n'y a pas beaucoup de jeunes de notre âge qui pensent qu'aider son 
 　Qu'est-ce qu'on fait, Tobimaru ? Tu crois qu'on devrait les espionner encore un peu ? Shizuki est mineur. S'il est impliqué, tu crois qu'il sera quand même accusé de complicité ?」
 「Ce n'est qu'un employé, alors je ne pense pas qu'il sera condamné à une peine de prison. Cela dit, ce business est le gagne-pain de nos adversaires. Ça dépendra de la teneur du contrat que Sōjūrō a signé.」
 *page216|
-「Oui. C'est vrai. Dans le pire des cas, Sōjūrō fait déjà partie de leurs employés.」
+「Oui. C'est vrai. Dans le pire des cas, Sōjūrō a déjà adhéré à leur groupe.」
 　Soudain, Aoko prit un air réfléchi.
 　Tobimaru la côtoyait depuis plus d'un an en tant que membre du conseil étudiant.
 　Il n'avait besoin de personne pour savoir ce qu'elle pensait dans ces moments-là.
 *page217|
-「S'il est devenu membre des employés, l'en sortir sera difficile. Même si l'intéressé n'avait pas de mauvaises intentions, le pouvoir d'une signature est énorme.
+「Une fois devenu membre de leur groupe, il sera difficile de l'en sortir. Même si l'intéressé n'avait pas de mauvaises intentions, le pouvoir d'une signature est énorme.
 　...... Et donc Aozaki, jusqu'où as-tu l'intention d'aller ?」
 「Au moins la suspension de leur business. Si chacun peut choisir sa propre religion, on n'a qu'à leur demander de faire ça ailleurs.」
 *page218|
@@ -918,7 +918,7 @@ Comme ça risque de partir en bagarre, dis-leur de venir bien équipés !」
 *page228|
 「C'est évident, non ? Un assaut frontal !
 　Chercher un moyen légal est bien trop naïf ![r]
-　Ces escrocs se remplissent les poches en bernant des étudiants. Leur mettre une raclée suffira amplement ! Et puis, ils ne voient pas les choses en grand ! [chgfg storage=青子私服aジャケット02b(近)|n time=100][shock storage=青子私服aジャケット02b(近)|n vmax=10 count=2 time=200]D'où ça sort, ce nom “Authentique Lumière”, et pourquoi vous êtes venus dans cette ville humide pour vendre des matelas de plumes ?」
+　Ces escrocs se remplissent les poches en bernant des étudiants. Leur mettre une raclée suffira amplement ! Et puis, ils ne voient pas les choses en grand ! [chgfg storage=青子私服aジャケット02b(近)|n time=100][shock storage=青子私服aジャケット02b(近)|n vmax=10 count=2 time=200]D'où ça sort, ce nom “Authentique Lumière”, et pourquoi vous êtes venus dans cette ville humide pour vendre des couettes en duvet ?」
 *page229|
 「Attends, calme-toi ! Où est passée ton approche pacifique ?! Seuls les flics ont le droit de réprimer les malfrats par la violence ! Allez, reviens là !」
 「Hé...![outfg storage=青子私服aジャケット06b(近)|d time=300 mx=-100]」
@@ -941,7 +941,7 @@ C'est vrai. Même si chaque victime négocie avec eux séparément, ça ne leur 
 「Et ?」
 *page234|
 「Récupérer autant d'argent que possible.
-　Comme il s'agit de matelas à plumes, un délai de réflexion doit être accordé. Il est peut-être impossible de rendre tous les produits, mais c'est le mieux qu'on puisse faire.」
+　Comme il s'agit de couettes en duvet, un délai de réflexion doit être accordé. Il est peut-être impossible de rendre tous les produits, mais c'est le mieux qu'on puisse faire.」
 *page235|
 「Parfait. Partons là-dessus, Aozaki.
 　Tu n'as pas à faire le voyou. Nous sommes dans une démocratie. Réglons ça pacifiquement.」
@@ -974,7 +974,7 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 　S'ils n'étaient pas concernés, alors il serait impossible de récupérer l'argent en utilisant le système du délai de réflexion, et Aoko devrait adopter d'autres mesures.
 *page243|
 　...... Cependant,
-　cette inquiétude disparaîtrait trente minutes plus tard, après avoir enquêté sur les matelas vendus.
+　cette inquiétude disparaîtrait trente minutes plus tard, après avoir enquêté sur les couettes vendues.
 *page244|
 　Dès qu'elle se fixait un objectif, Aoko n'avait plus d'hésitation.
 　Elle installa son poste de commandement dans un salon de thé face aux bureaux,
@@ -1005,7 +1005,7 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 　Même dans ce cas-là, ils avaient besoin d'informations.
 　Aoko se fourra dans le crâne toutes les données rassemblées, avec la même concentration que lors du bachotage de fin de semestre.
 *page251|
-「Me voilà. Pour le moment, j'ai apporté l'adresse de dix victimes supplémentaires et leurs matelas.」
+「Me voilà. Pour le moment, j'ai apporté l'adresse de dix victimes supplémentaires et leurs couettes.」
 「Merci. Je te reconnais bien là, Kumari. Une fois lancée, tu travailles vraiment vite et bien.」
 *page252|
 　Kumari Kojika, secrétaire du conseil étudiant, remit la liste des victimes à Aoko qui s'empressa d'appeler le bipeur de Tobimaru.
@@ -1031,10 +1031,10 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 *page257|
 　Aoko releva la tête après que son amie lui eut fait cette remarque.
 「Eh bien, j'ai trouvé quelque chose de très intéressant.
-　Je pensais que cette bataille ne déboucherait sur rien, mais le vent vient de tourner en notre faveur. Tiens regarde, Kuma. La marque de ces matelas en plumes.」
+　Je pensais que cette bataille ne déboucherait sur rien, mais le vent vient de tourner en notre faveur. Tiens regarde, Kuma. La marque de ces couettes en duvet.」
 「?」
 *page258|
-　Aoko montra à Kumari l'étiquette cousue sur les matelas.
+　Aoko montra à Kumari l'étiquette cousue sur les couettes.
 　On pouvait y voir le célèbre logo JIS.
 　Il attestait de la qualité des produits industriels et garantissait la conformité à la législation des normes industrielles en vigueur au Japon, mais......
 *page259|
@@ -1094,7 +1094,7 @@ OK, je vais la contacter. Toi, appelle Mino, s'il te plaît.」
 *page273|
 　Quant à Tobimaru, il avait la mine sombre, comme s'il avait compris quelle tournure les évènements allaient prendre.
 　En effet, après la découverte de la marque JLS illégale,
-　et comme les matelas étaient manifestement des contrefaçons, Aoko avait mis au point un plan pour rembourser les victimes en totalité et chasser “Authentique Lumière” de la ville.
+　et comme les couettes étaient manifestement des contrefaçons, Aoko avait mis au point un plan pour rembourser les victimes en totalité et chasser “Authentique Lumière” de la ville.
 　Son abattement venait du fait que la solution d'Aoko se trouvait être la sœur en face de lui.
 *page274|
 「...... J'étais persuadé que tu recourrais uniquement aux preuves pour obtenir un arrangement à l'amiable, le remboursement et leur départ en les menaçant de les poursuivre en justice. 
@@ -1309,7 +1309,7 @@ Que comme elle me faisait confiance, je pouvais agir comme si j'étais son petit
 *page323|
 「Eh bien, je ressens à peu près la même chose. Je l'aime autant que je la déteste, mais de temps à autre, il m'arrive de penser que tout ça n'a aucune espèce d'importance.
 　Mais bon, c'est l'exact opposé de toi.
-　Grâce à cette ville, je peux ignorer les ennuis des autres, en me disant qu'il y a pire ailleurs. C'est peut-être futile, mais ça a son charme de manquer d'oisiveté et d'intégrité.」
+　Grâce à cette ville, je peux faire abstraction de mes propres soucis, en me disant qu'il y a pire ailleurs. Je me voile peut-être la face, mais j'apprécie son agitation et ses excès.」
 *page324|
 「Parce qu'il y a pire ailleurs ?」
 「...... Ah... C'est pas tout à fait ça. C'est pas qu'il y a pire, mais qu'on peut faire avec.

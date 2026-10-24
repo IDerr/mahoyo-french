@@ -40,7 +40,7 @@
 *page10|
 「――――Aozaki. C'est...」
 「Désolée, mais tes objections sont rejetées d'avance.
-　Donc pour la Rune d'Oubli. Ni Alice ni moi n'en sommes spécialistes, cela va donc prendre du temps pour rechercher et acquérir les documents.
+　Revenons sur la Rune d'Oubli. Ni Alice ni moi n'en sommes spécialistes, ça va donc prendre du temps pour trouver la documentation dédiée et apprendre à la maîtriser.
 　En d'autres termes, c'est ce qui déterminera le délai de ta mise sous surveillance.
 　Jusqu'à ce qu'on trouve la Rune d'Oubli, tu ne diras rien en échange de ta vie.」
 *page11|
@@ -116,7 +116,7 @@
 Je ne sais pas ce qui a fait que les choses ont évolué de cette manière, mais à notre époque, même cette profession doit rester un secret.
 　L'Association a eu peur que la Magie se détériore en un simple produit de consommation si elle n'allait pas aussi loin.」
 *page29|
-「Nous en sommes arrivés à pouvoir révéler par notre connaissance le mécanisme de la nature, et même diriger l'espace, ce qui était du domaine du divin autrefois.
+「Nous en sommes arrivés au point de pouvoir expliquer par nos connaissances les mécanismes de la nature et même le fonctionnement de l'univers, ce qui était autrefois le privilège des dieux.
 　Ce que la main de l'homme ne devrait jamais atteindre. Les fondateurs de l'Association ont peut-être cru que la Magie deviendrait le dernier bastion dans le domaine inexploré des Mystères.
 　Ou alors, ils ont peut-être été désabusés en pensant que la Magie n'avait plus de sens.」
 *page30|

@@ -41,7 +41,7 @@
 *page11|
 “Cette ville manque de rêve et d'allégresse.”
 　Cela remontait à dix ans.
-　Avec ces mots pour précepte, le notable de Yashirogi et dirigeant de Tokitsu Bread, Inc., aussi appelée Toppan, société dont les usines étaient implantées partout dans tout le pays―――Tokitsu Yurihiko (56 ans à l'époque), ouvrit au public le terrain qu'il possédait dans la banlieue de Yashirogi et entreprit d'y construire un parc de loisirs destiné à devenir l'un des symboles de Misaki.
+　Avec ces mots pour précepte, le notable de Yashirogi et dirigeant de Tokitsu Bread, Inc., aussi appelée Toppan, société dont les usines étaient implantées partout dans le pays―――Tokitsu Yurihiko (56 ans à l'époque), ouvrit au public le terrain qu'il possédait dans la banlieue de Yashirogi et entreprit d'y construire un parc de loisirs destiné à devenir l'un des symboles de Misaki.
 *page12|
 　Ainsi, en l'année fatidique de 1981,
 　le parc d'attractions régional empli de rêve et d'humour, Yashirogi Bread & Kitsy Land, débuta sa courte vie après trois années de construction.

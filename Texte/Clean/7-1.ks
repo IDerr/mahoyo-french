@@ -26,7 +26,7 @@
 *page5|
 「Voilà, ce sera tout pour aujourd'hui.
 　J'ai fait un résumé de tout ce sur quoi va porter l'examen, mais nous sommes les seuls à avoir procédé ainsi. Je compte donc sur vous pour garder le secret vis-à-vis des autres classes. Considérez qu'il s'agit du privilège du professeur principal.
-　Vous voyez, j'ai pensé que vous pourriez fanfaronner un peu si vous aviez la meilleure moyenne de votre promotion en histoire moderne.」
+　Vous voyez, j'ai pensé que vous pourriez fanfaronner un peu si vous aviez la meilleure moyenne de votre promotion en japonais moderne.」
 *page6|
 　“Ha ha ha”, rajouta le professeur Yamashiro avec un sourire serein.
 　La salle de classe fut apaisée par cette sollicitude touchante, digne du professeur principal de la classe 2-C.
@@ -418,7 +418,7 @@ Rassure-toi. J'ai même pour objectif de suivre à la lettre le conseil que tu m
 「Les passe-temps des campagnards sont incompréhensibles. Non mais quelle idée !
 　Tu vois le mauvais restaurant de ramen près du lycée Misaki ? Passe devant et continue jusqu'au bout de la rue, et tu trouveras une quincaillerie appelée Okita. [l]
 Si tu veux un kit de nettoyage complet, alors ce sera moins cher que le centre commercial de l'entrée ouest.
-　...... Ce n'est pas que je m'inquiète pour toi, mais tu veux utiliser ma bicyclette ? De toute façon, je ne m'en servirai pas avant le début des examens.」
+　...... Ce n'est pas que je m'inquiète pour toi, mais tu veux utiliser ma bicyclette ? De toute façon, je n'en aurai pas besoin avant la fin des examens.」
 *page102|
 　Ses yeux scintillèrent face à cette bouée de sauvetage inattendue, mais il paraissait difficile de se déplacer en bicyclette le long de la pente jusqu'à la résidence Kuonji tout en portant à la main divers paquetages.
 「Non, j'aimerais vraiment avoir une bicyclette, mais pour l'instant, je m'en passerai. À demain à l'école.」

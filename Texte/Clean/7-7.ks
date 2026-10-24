@@ -232,7 +232,7 @@ Pourquoi n'avais-tu pas l'intention de me réveiller et pourquoi ne t'attendais-
 *page49|
 　Alice l'avait vue.
 　L'expression qu'il avait affichée lorsqu'il était sur le point de partir sans la réveiller.
-“Si c'est comme ça, je n'y peux rien―――”
+“Si c'est comme ça, je ne peux rien y faire―――”
 　Quel sens avait donc cette expression ?
 *page50|
 「Pourquoi ? Je ne sais pas trop quoi répondre.
@@ -271,7 +271,7 @@ Pourquoi n'avais-tu pas l'intention de me réveiller et pourquoi ne t'attendais-
 　Jusque-là, elle pouvait le détester.
 　La jeune fille avait toujours, jusqu'à maintenant... non, une seule fois, fortement désiré cela, et―――
 *page58|
-「Et puis d'abord, tu n'es pas la seule, Aozaki aussi a établi une clause qui l'autorise à refuser la colocation.
+「Et puis d'abord, tu n'es pas la seule : Aozaki n'a pas l'air d'être d'accord avec cette colocation non plus.
 　Donc ce serait une erreur d'essayer de vous forcer à l'accepter. Peu importent les circonstances, je suis différent d'Aozaki ou de vous autres.
 　Dans ce cas, il va falloir me supporter. [l]
 C'est compliqué, mais si je ne vous gêne pas, est-ce vraiment impossible de faire avec ?」

@@ -111,7 +111,7 @@
 　Cet air dense, inconfortable, adhérait à la peau comme si l'atmosphère s'était alourdie.
 *page26|
 　{{{, ―――, , ―――!}}}
-　Il fut assailli par l'illusion que des substances étrangères entraient dans ses poumons à chaque inspiration.
+　Il fut assailli par l'illusion que des caractères écrits entraient dans ses poumons à chaque inspiration.
 　Il voyait très bien, et pourtant, il ne distinguait pas clairement sa main droite et sa main gauche qu'il avait immédiatement bougées, respectivement vers sa bouche et sa poitrine.
 　Même le brouillard dense qu'il rencontrait en montagne n'était pas censé troubler à ce point la conscience.
 *page27|

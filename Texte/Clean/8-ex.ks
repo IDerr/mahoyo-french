@@ -137,7 +137,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 　Une heure s'était écoulée depuis l'élaboration de quelques règles un peu spéciales. Il avait été décidé que les batteurs étaient éliminés si la balle qu'ils renvoyaient était attrapée dans le terrain, et on offrirait les conserves de haricots rouges restantes au premier qui réaliserait un home run. Les badauds s'étaient rassemblés et un mini-championnat avait débuté.
 　Kinomi Hōsuke, qui s'engourdissait à cause du retard que prenait leur match, commençait à s'ennuyer sérieusement.
 *page34|
-「Eh ben, tu es un sacré guignol. C'est pourtant toi qui as proposé de jouer au base-ball puisque personne ne voulait partir avant les autres.」
+「Eh ben, tu es un sacré guignol. C'est pourtant toi qui as proposé de jouer au base-ball puisqu'on n'a pas d'argent.」
 「Ouais. Mais là, c'est à cause d'autre chose.
 　Les gars de la classe A sont venus, et je déteste tous ces types. Je peux vraiment pas les piffer, quoi.」
 *page35|

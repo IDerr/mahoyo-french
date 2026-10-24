@@ -175,7 +175,7 @@
 　Il donnait l'impression d'un rustre, mais il retenait bien des détails.
 *page43|
 「...... Enfin, c'est pas grave. Sinon, tu pourrais encore rentrer seul demain après les cours ?
-　Il y a une fête de fin d'année, un rassemblement improvisé pour la fabrication de [ruby char="mochi" text="pâte de riz sucrée"]. Donc je serai occupée demain.」
+　Pour la fête après le Nouvel An, j'ai proposé sur un coup de tête d'organiser un atelier de fabrication de [ruby char="mochi" text="pâte de riz sucrée"], ce qui a été accepté. Du coup, je serai occupée demain.」
 　“Compris”, dit Sōjūrō en hochant la tête.
 　Selon toute vraisemblance, il avait cette intention avant même qu'Aoko ne le lui demande.
 *page44|

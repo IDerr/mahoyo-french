@@ -1,13 +1,13 @@
 ﻿*page0|
 　Il était encore plongé dans un profond sommeil―――[p][r]
 *page1|
-　Il se trouvait dans un songe d'un rouge écarlate,
-　où il assistait à des scènes confuses et invraisemblables,
-　qui revenaient constamment et obstinément.
-　C'était triste à voir, et cela avait un relent de mélancolie,
-　comme un mauvais karma causé par les relations humaines.
-　Autrement dit, la manifestation d'une coexistence impossible.
-　Il s'agissait de la réalité d'un monde bien lointain.
+　Il se trouvait dans un songe d'un rouge écarlate.
+　Des pensées parasites insupportables.
+　Un égocentrisme permanent.
+　Un mélange de joies et de peines, aussi triste à voir qu'à raconter.
+　Les méfaits nés des relations humaines.
+　Autrement dit, le tumulte d'une coexistence sans salut.
+　Ce paysage appartenait à un monde immensément éloigné de tout cela.
 *page2|
 　Si certains le considéraient comme un paradis céleste et priaient pour l'atteindre,
 　d'autres en détournaient les yeux, le prenant pour le royaume des morts.

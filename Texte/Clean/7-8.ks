@@ -96,7 +96,7 @@
 「Quelle cicatrice......?」
 　Alice étouffa ses paroles prononcées inconsciemment en dirigeant ses doigts fins devant sa bouche.
 　Elle avait posé la question sur le coup de l'émotion.
-　Alors qu'elle savait qu'elle n'aurait dû en parler à personne, elle n'avait pas pu s'empêcher de demander―――de s'informer sur le secret qu'elle seule connaissait.
+　Alors qu'elle savait qu'elle aurait dû n'en parler à personne, elle n'avait pas pu s'empêcher de demander―――de révéler le secret qu'elle seule connaissait.
 *page23|
 「??」
 　Aoko resta perplexe face à la question d'Alice.

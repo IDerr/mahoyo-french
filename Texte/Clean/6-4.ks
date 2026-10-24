@@ -190,7 +190,7 @@ Très bien, je voulais au moins te laisser réfléchir, mais on n'a plus le temp
 *page43|
 　Sōjūrō leva les yeux au ciel en faisant attention à ce qu'Aoko, qui avait dit ça en prenant de grands airs, ne le remarque pas.
 　Il se sentait désolé de l'ennuyer, mais il ne comprenait rien du tout.
-　De son point de vue, il y avait une raison pour laquelle il ne s'énervait pas lorsqu'elle disait qu'en gros, il était plus bête qu'un chien. Il considérait cela comme un manque de respect en tant qu'individu et envers le chien. Et il ne pouvait pas répliquer car la différence de force entre elle et lui était comparable à celle entre un sanglier et un lapin.
+　De son point de vue, ne pas s'énerver lorsqu'elle disait qu'il était en quelque sorte plus bête qu'un chien, cela aurait été un manque de respect aussi bien envers lui-même qu'envers les chiens. Mais il ne pouvait pas répliquer car la différence de force entre elle et lui était comparable à celle entre un sanglier et un lapin.
 *page44|
 「........................ Aah.」[r]
 　Le plafond qu'il admirait était orné de somptueux motifs, contrairement à celui de son appartement bon marché.

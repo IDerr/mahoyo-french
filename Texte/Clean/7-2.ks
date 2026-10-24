@@ -101,7 +101,7 @@
 　Tes copies des quatre matières d'aujourd'hui étaient tellement à ton image que j'ai failli en faire une syncope.」
 　Le ton amusé mais le regard mécontent, Aoko croisa les jambes et fixa Sōjūrō.
 *page23|
-「Histoire moderne, géographie, mathématiques, électronique.
+「Japonais moderne, géographie, mathématiques, électronique.
 　Si tu continues comme ça les deux prochains jours, les vacances de Noël vont définitivement s'envoler. À vrai dire, si ça arrive, c'est surtout moi que ça va contrarier.」
 *page24|
 「Non, moi aussi, ça m'embêterait. Aller à l'école alors que c'est les vacances, ça ne me donne pas très envie.」
@@ -117,9 +117,9 @@
 　Suite à la déclaration d'Aoko, Sōjūrō fronça franchement les sourcils.[r]
 　Il semblait vouloir dire qu'il n'avait pas besoin qu'on se mêle de ses affaires.
 *page27|
-「Dis-moi, entre toi et moi, qui va en baver à ton avis ?」
-　Sōjūrō se rendit compte que ce serait forcément elle, et il baissa silencieusement la tête.
-　De toute façon, même s'il refusait, il ne pourrait pas le faire continuellement, et puis, Aoko avait raison, c'était elle qui allait avoir le plus de soucis.
+「Dis-moi, entre toi et moi, qui doit travailler le plus dur à ton avis ?」
+　Sōjūrō se rendit compte que ce serait forcément lui, et il baissa silencieusement la tête.
+　De toute façon, il n'était pas en position de refuser, et comme le disait Aoko, c'était elle qui allait devoir faire le plus d'efforts.
 *page28|
 「...... Je m'excuse pour la gêne occasionnée aujourd'hui.」
 　ajouta Sōjūrō, en s'inclinant rapidement avec gratitude et résignation.

@@ -207,7 +207,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 *page51|
 「Ils vivaient en Amérique du Nord. En été, ils se déplaçaient du sud vers le nord, puis migraient du nord vers le sud pour passer l'hiver.
 　Cette histoire date de plus de cent ans.
-　Auparavant, ils étaient les animaux au sommet de la chaîne alimentaire les plus nombreux à la surface de la Terre.
+　Auparavant, ils étaient les animaux “supérieurs” les plus nombreux à la surface de la Terre.
 　Après tout, ils comptaient près de cinq milliards d'individus. On dit qu'ils étaient plus nombreux que la population humaine totale de l'époque, alors ça devait valoir le coup de voir ça.」
 *page52|
 「Incroyable. Tu dis que des animaux existaient en plus grand nombre que les humains ?」
@@ -376,7 +376,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 　Venant de moi, c'était vraiment ambigu et sans aucun sens, pensa-t-elle avec un sourire amer.
 *page91|
 「Vraiment, j'aurais mieux fait de le lui dire clairement.
-　Qu'en fait, il n'a tout simplement pas l'intention de s'intégrer au monde des humains.」
+　Qu'en fait, il n'a tout simplement aucune intention de s'intéresser à la morale chez les humains.」
 　Que c'était pour ça qu'elle le détestait.
 　Elle laissa échapper un soupir comme semblant de jérémiade et quitta le parc.
 *page92|
@@ -384,7 +384,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 *page93|
 「Yo. Bonsoir, Alice.」
 「..................」
-　Même pour Sōjūrō, ils n'étaient, semblait-il, pas encore assez proches pour qu'elle lui réponde bonsoir.
+　Manifestement, même quelqu'un comme Sōjūrō ne se sentait pas encore assez à l'aise pour dire : “Je suis rentré.”
 *page94|
 　Sōjūrō passa dans la cuisine, remplit un seau d'eau pour y conserver le poisson, [wait time=600 canskip=0][clall][fg storage=有珠制服01b(近)|c center=648 vcenter=168 index=1200][bg textoff=0 rule=crossfade time=500 storage=bg01l久遠寺邸03居間(ソファ無し)-(夜) left=-1538 top=-111 noclear=1 zoom=250 blur=1][wait time=500 canskip=0]ressentit un regard désagréable dans son dos puis ouvrit doucement le réfrigérateur.
 『On dirait bien qu'il ne faut pas laisser le seau dans la cuisine, hein......』
