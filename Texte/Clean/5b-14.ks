@@ -92,7 +92,7 @@
 　Alors qu'elle la visait, l'astre nocturne se déforma.
 　La lune dorée révéla sa véritable nature comme pour narguer Aoko qui chargeait son prana.
 *page21|
-　Allez―――admire le ciel, pauvre créature sans cervelle.
+　Allez―――lève les yeux vers le ciel, héritière sans pouvoirs d'une lignée innocente.
 　Contemple le Maître du ciel démoniaque,[wait canskip=0 time=600][r]
 　la forme du Mystère caché au cœur de ce brouillard vert et de ces nuages azur.
 　Considéré dans le monde de la Magie comme le plus légendaire de tous les mythes,[wait canskip=0 time=600][r]
@@ -219,7 +219,7 @@ Toutes les couches à plein régime―――!」
 　le bloc de glace n'avait même pas commencé à fondre.
 　Le problème n'était pas la température, mais la quantité trop importante de prana qui avait pris forme.
 *page45|
-　La production sanguine de son corps s'emballa à cause de la surcharge de son Circuit Magique.
+　La surcharge de son Circuit Magique provoquait une importante hémorragie.
 “Tss......!! Alors que... le régime est... si élevé―――
 　Il est vraiment... bien... plus fort......!”
 　Cette bataille avait aussi pour enjeu le prana dont le parc regorgeait.
@@ -255,8 +255,8 @@ Toutes les couches à plein régime―――!」
 　Alors que le temps était gelé, petit à petit, la mort pourpre approchait.
 *page52|
 “Pourquoi... à... un moment pareil............!”
-　Avec la terreur, son esprit commençait à se rompre.
-　Son cœur se désagrégeait.
+　Ses Circuits menaçaient de griller sous l'effet de la terreur.
+　La formation de son sort commençait à se désagréger.
 　Elle approcha jusqu'à arriver dans son dos,
 　et doucement,
 　elle plaça par-derrière ses deux mains rouges de sang sur les joues d'Aoko...
@@ -380,7 +380,7 @@ Toutes les couches à plein régime―――!」
 　La nouvelle Magicienne appliqua la loi d'assimilation/annihilation―――!
 *page76|
 　La balle de lumière qui défiait le sens commun fit fondre le château de glace.
-　Le canon n'en finissait pas de griller.
+　Le canon tirait sans défaillir.
 　L'usage qu'elle faisait du prana était incroyable.
 　Ses [ruby char="vaisseaux sanguins" text="Route de contournement"] d'une longueur de 100 000 kilomètres, l'équivalent de deux fois et demie l'équateur, faisaient circuler le prana avec euphorie et, avec le double de la vitesse nominale, catapultèrent vers la lune la balle de prana―――!
 *page77|

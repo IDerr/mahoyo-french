@@ -42,7 +42,7 @@
 *page9|
 「―――Hmm ?」
 　Le murmure qui lui avait échappé était pratiquement imperceptible.
-　Au bout de son regard, attirant l'attention des créatures, Aoko dessinait une figure sur le sol, et―――
+　Au bout de son regard, Aoko traçait une figure sur le sol à l'insu des créatures, et―――
 *page10|
 「...... C'est quoi ce truc ? Elle n'est pas un peu trop résistante ?」
 　Bien plus loin.
@@ -178,7 +178,7 @@
 　Le garçon, qui n'avait fait que fuir jusque-là, modifia délibérément sa course.
 *page38|
 　Sa jambe se dirigeait non pas vers l'intérieur mais vers l'extérieur du virage.
-　Au bord du rail, pliant un peu les genoux pour que l'élan ne le tue pas à la réception, il fixa l'œuf flottant―――
+　Au bord du rail, pliant légèrement les genoux pour conserver son élan, il fixa l'œuf flottant―――
 “Je peux le faire―――la distance est correcte !”
 *page39|
 　Il volait dans la nuit.

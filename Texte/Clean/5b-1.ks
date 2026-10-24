@@ -3,7 +3,7 @@
 　eux qui étaient autrefois répandus de par le monde.
 　Tous ces êtres dépourvus de parole croyaient sans l'ombre d'un doute que cela continuerait pour l'éternité.
 　Une fois au commencement, une fois à la fin.
-　C'était un gong mystérieux qui rendait joyeux et vaguement mélancolique, et annonçait le début d'un rêve et sa projection dans la réalité.
+　C'était une musique mystérieuse, à la fois joyeuse et légèrement mélancolique, qui annonçait simultanément le début d'un rêve et le retour à la réalité.
 *page1|
 　La nuit résonnait.
 　Elle jouait une mélodie.
@@ -189,12 +189,12 @@
 　Malgré la vitesse d'exécution de son attaque-surprise―――un sort à l'Aria raccourcie, elle ne pouvait pas détruire la protection de Kuonji Alice.
 *page40|
 「Tu es toujours aussi têtue. Mais tu ne trouves pas que tu es encore plus égoïste que d'habitude, Alice ?」
-　Aoko provoqua Alice sans exprimer sa propre impatience.
+　Aoko provoqua Alice sans laisser transparaître sa propre impatience.
 　Alice semblait avoir apprécié son audace.
-「C'est l'hôpital qui se moque de la charité.
-　Même si c'est la première fois que je vois quelqu'un faire ça dans la foulée......」
+「C'est ce qu'on appelle répondre du tac au tac.
+　Même si je n'avais jamais vu une situation dégénérer aussi rapidement......」
 *page41|
-「C'est surprenant. Donc, les humains peuvent aussi être motivés par ce genre de raison stupide.」
+「C'est surprenant. Ainsi donc, les humains peuvent se laisser emporter sur un simple coup de tête.」
 　Elle émit un petit rire.
 　Elle sourit comme pour exprimer sa plus profonde admiration, puis elle dirigea les doigts de sa main gauche vers le sol.
 *page42|

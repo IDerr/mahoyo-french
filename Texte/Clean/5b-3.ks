@@ -64,7 +64,7 @@
 「Shizuki, ce côté ?!」
 「Rien, c'est vide ! Si on passe par là, on devrait pouvoir rejoindre l'entrée par le côté est !」
 *page15|
-　Là où un Mage normal tirerait des balles de prana à en perdre son souffle dans cette situation, un Mage novice aurait plutôt choisi de franchir le périmètre de défense ennemi.
+　Tout en tirant assez de balles de prana pour épuiser un Mage ordinaire, la Mage novice franchit l'encerclement ennemi.
 　...... Pendant ce temps,
 　un oiseau observait attentivement ce spectacle.
 *page16|

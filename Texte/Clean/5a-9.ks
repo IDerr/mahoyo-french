@@ -21,7 +21,7 @@
 　elle laissa inconsciemment échapper ces mots sous la colère.
 *page4|
 「Ou alors, tu avais envie de te suicider ? Pour moi comme pour la marionnette, tu n'es qu'une cible à éliminer.
-　De toute façon, on ne peut pas te faire de faveur.
+　Tu n'as donc aucun intérêt à me faire une faveur.
 　Je te préviens, je ne suis pas du genre à changer d'avis même si on me sauve la vie.」
 　“Je m'en doutais”, acquiesça Sōjūrō.
 *page5|

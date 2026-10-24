@@ -126,7 +126,7 @@ Ce menu fretin n'est composé que de bric-à-brac sur pattes.
 「Oui. On les a appelés Ploy Kickshaw, ce sont des singularités devant lesquelles même nous, les Mages, faisons profil bas. [l]
 Ils sont capables de reproduire des histoires fantastiques surréalistes, des aberrations depuis longtemps oubliées.」
 「??」
-　Il répondit, le visage circonspect : “Vous vous croyez supérieurs, peut-être ?”
+　Son expression semblait dire : “En quoi ça diffère de vous ?”
 *page31|
 「Tu sais ! On a beau être des Mages, on vit quand même dans une époque moderne.
 　Il y a des choses qui restent hors de notre portée, ce qui est normal, et surtout, on n'est pas de taille face aux armes modernes. Au cours du XXe siècle―――eh bien, les différentes guerres aidant, les progrès en matière d'armement ont été tels qu'on s'est retrouvés dépassés.」
@@ -149,7 +149,7 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 「――――――」
 *page36|
 「............ *tousse* *tousse*
-　En d'autres termes, ils possèdent une propriété spéciale, la protection du folklore. Pour simplifier, si on n'utilise pas un puissant pouvoir ou une puissante Magie, les effets sont limités. Si on ne trouve pas la faiblesse associée au conte de fées originel, on ne peut pas les battre.
+　En d'autres termes, ils possèdent une propriété spéciale, la protection du folklore. Pour simplifier, utiliser la force brute ou même une puissante Magie, ça n'aura que peu d'effets sur eux. Si on ne trouve pas la faiblesse associée au conte de fées originel, on ne peut pas les battre.
 　C'est une métaphore basique, présente dans le mythe grec d'Achille...... Tu connais cette histoire ?」
 　Sōjūrō secoua la tête de gauche à droite.
 *page37|
@@ -218,7 +218,7 @@ Alice a hérité d'un tas de Ploy, mais même parmi eux, c'est l'un des tout mei
 　―――Est-ce que tu connais le livre “La chasse au Snark” de Lewis Carroll ?」
 *page52|
 「Non. D'abord, c'est qui Lewis Carroll ?」
-「...... Ah oui, carrément...... Euh, c'était un professeur qui s'appelait en fait Dodgson... Un gentleman qui rêvait de chimères et qui avait une imagination spéciale, tu vois ? Enfin, toi, tu t'en fous un peu. Et puis, selon pas mal de gens, ses histoires sont une perte de temps.」
+「...... Ah oui, carrément...... Euh, c'était un professeur qui s'appelait en fait Dodgson... Un gentleman fantasque aux penchants sexuels un peu particuliers ? Mais bon, c'est pas ce qui nous importe en ce moment. D'ailleurs, pour certaines personnes, c'est une perte de temps d'en parler.」
 *page53|
 「Pour l'heure, la seule chose importante à son sujet, c'est ce livre qu'il a écrit.
 　“La chasse au Snark”, c'est l'histoire d'aventuriers s'efforçant de capturer un monstre à la nature inconnue appelé Snark.」
