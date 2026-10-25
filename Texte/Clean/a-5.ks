@@ -123,7 +123,7 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 　Détournait-elle le visage à cause de la honte ou bien de la douleur ?
 *page25|
 「Regarde, ta peau se restaure déjà. Ton Sceau est incroyable, il est incrusté non seulement dans tes os et tes vaisseaux sanguins, mais aussi dans tes organes.
-　Rajouter des Circuits Magiques dans un corps après la naissance, c'est comme une épée de Damoclès.
+　Greffer des Circuits Magiques dans un corps après la naissance, c'est une arme à double tranchant.
 　Le Sceau Magique permet de ne faire qu'un avec l'incantation, ce qui fait gagner le temps qu'aurait pris l'Aria et apporte de grands avantages au Mage.
 　Cependant, plus il est grand, plus la douleur qui l'accompagne sera importante. Le Sceau des Aozaki occupe un bras entier. Bah, comparé à toi, c'est peu.」
 *page26|

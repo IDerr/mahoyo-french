@@ -107,7 +107,7 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 「C'est une histoire sans grand intérêt. Tu veux vraiment l'entendre ?」
 「Oui. D'autant plus si c'est toi qui la racontes.」
 　“Je vois”, fit Alice en réponse au jeune homme qui acquiesçait avec force. Puis, elle soupira tout en fermant les yeux.
-　Si elle garda un instant le silence, ce n'était pas parce qu'elle détestait Sōjūrō, mais probablement parce qu'elle se montrait attentionnée à sa façon.
+　Si elle décida malgré tout de prendre la parole, ce n'était pas parce qu'elle détestait Sōjūrō, mais probablement parce qu'elle se montrait attentionnée à sa façon.
 *page23|
 「...... Je commence par la conclusion : tu es mort puis tu as été ramené à la vie.
 　Aoko a rembobiné ton temps de cinq minutes, de l'instant où tu as été tué par Tōko jusqu'à celui où ses pouvoirs se sont éveillés.

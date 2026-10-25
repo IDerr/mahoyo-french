@@ -104,7 +104,7 @@ Cette douleur, cette situation, tout n'est que mensonge. [l]
 　Son cœur avait complètement récupéré. [l]
 Le loup-garou haletait à cause de la douleur fantôme provoquée par la terreur et replia sur lui-même son corps agité de tremblements.
 　Au-dessus de lui, les yeux de l'humain le fixaient comme des lunettes de visée.
-　Le garçon comprit alors enfin la raison pour laquelle il avait vu le jour.
+　Le garçon comprit alors enfin la raison pour laquelle il était encore en vie.
 *page19|
 　Même sans ses bras, cet adversaire aurait sûrement pu le tuer en utilisant ses jambes.
 　Mais c'était impossible.

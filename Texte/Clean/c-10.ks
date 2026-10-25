@@ -13,7 +13,7 @@
 　La Magie consiste à étudier l'histoire.
 　Ce sont des techniques nées de la main de l'homme et qui trouvent leur origine sur Terre.
 　Mais la Vraie Magie tient de la providence divine par-delà les cieux.
-　Sur Terre, qui peut se permettre de vénérer comme des miracles ces techniques étrangères à l'homme et leur astre ? Et pourquoi ?
+　Sur Terre, qui peut se permettre de vénérer comme des miracles ces techniques étrangères à l'Homme et à son astre ? Et pourquoi ?
 *page3|
 　Ce n'est ni plus ni moins qu'un péché.
 　La Vraie Magie incarne l'ennemi du genre humain.
@@ -125,7 +125,7 @@
 　Si je ne me défoule pas sur quelqu'un, je n'arriverai jamais à me calmer......!!
 *page24|
 　Sur l'auteur de la voix ? Ou sur lui, qui l'écoute sans bouger un doigt ?
-　Sur moi-même qui ne fait que regarder en silence ?
+　Sur moi-même qui ne fais que regarder en silence ?
 　Ou encore sur la personne qui lui a fait ça ?
 　Sans trouver de réponses à ces questions, j'ouvre les paupières que j'avais fermées―――
 *page25|

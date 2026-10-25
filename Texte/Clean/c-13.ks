@@ -164,7 +164,7 @@ La distorsion n'écrasera que le passé, après tout !」
 　une consommation infinie,
 　une croissance infinie. Mais ce qui attend au bout du chemin n'a rien d'un futur rempli d'espoir.
 　Le néant précédant la création.
-　Un jour, l'univers mourrait de chaleur.
+　Un jour, l'univers connaîtrait une mort thermique.
 *page34|
 「Ta Vraie Magie―――La Vraie Magie des Aozaki ne fait que rendre cette fin encore plus inéluctable ! Tu prends cette responsabilité à la légère―――!」
 「Tu n'as pas à me le dire, je le sais !

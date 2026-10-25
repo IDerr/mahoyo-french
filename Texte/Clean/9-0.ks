@@ -24,7 +24,7 @@
 　Le chef qui avait préparé le dîner acquiesça honnêtement.
 *page7|
 「C'est le nouveau produit de mon restaurant.
-　Kinomi a dit que ça sentait la pâtée pour chat, et que d'ailleurs, c'en était sûrement. Pourtant, je trouve qu'il est meilleur que la vraie.
+　Kinomi a dit que le goût était synthétique et que c'était probablement du reconstitué. Pourtant, je trouve que c'est meilleur que l'original.
 　Mais ce qui le rend incroyable, c'est son prix imbattable de 40 yens le bol, car il est réservé aux employés. [l]
 C'est génial ! Même avec des œufs, ça ne coûte que 60 yens la portion.」
 　“C'est sidérant”, proclama d'un air élogieux le chef lésineur.
@@ -41,7 +41,7 @@ C'est génial ! Même avec des œufs, ça ne coûte que 60 yens la portion.」
 *page10|
 　Ils se regardèrent en chiens de faïence.
 　“Je ne mangerai pas ça”, disait Aoko affichant son intention de résister jusqu'au bout.
-　Quant à Sōjūrō, il croyait que son devoir était de manger ce qu'il avait préparé,
+　Quant à Sōjūrō, il croyait fermement qu'elle se résoudrait à manger ce qu'il avait préparé,
 　et par-dessus le marché, il commença à lui faire la leçon en affirmant que ce n'était pas bien de faire la fine bouche.
 　Comme d'habitude, ils n'étaient pas sur la même longueur d'onde.
 *page11|

@@ -21,7 +21,7 @@
 「Ne sois pas à ce point sur tes gardes. Je suis une invitée, tout comme toi. Soyons amies.
 　...... Mais tout de même, je suis surprise que quelqu'un d'autre examine la configuration des lieux avant que les choses ne commencent.
 　Décidément, tu me plais. Écoute, comme je t'aime bien et que tu es mignonne, je vais te donner un gros indice.
-　Habituellement, je ne me montre pas beaucoup. Je serai dans la chambre d'Aozaki. Et je ne suis pas le coupable.」
+　D'habitude, je ne vois pas très bien. Je serai dans la chambre d'Aozaki. Et je ne suis pas le coupable.」
 「Hein...?」
 *page4|
 「Ce sera un atout, alors n'en parle à personne, d'accord ?」

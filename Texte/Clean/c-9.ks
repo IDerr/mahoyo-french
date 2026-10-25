@@ -73,7 +73,7 @@
 　Impressionné par sa vaillance, Sōjūrō tendit la main droite.
 *page17|
 　Bien que son coude soit brisé, pour Aoko, cette main paraissait plus robuste que toute autre chose.
-　De toute évidence, il n'y avait aucun espoir de guérison. Il lui faudrait toute une vie pour s'en remettre complètement.
+　De toute évidence, il n'y avait aucun espoir de rémission. Il ne s'en remettrait probablement jamais complètement.
 　Mais pour relever Aoko, et uniquement pour cela, il ne sentirait certainement aucune douleur.
 *page18|
 「...... Tu es vraiment idiot.」

@@ -142,9 +142,9 @@ Je ne serai pas satisfaite tant que je ne lui aurai pas tout piétiné, que ce s
 　Tōko ferma les yeux comme si elle pleurait la mort d'un proche.
 　Son visage affichait un calme conflit intérieur.
 *page35|
-「...... Devrais-je fulminer contre l'impartialité du monde, ou me lamenter sur ce genre de rencontres fortuites ? Ce doit être une action de la Contre-Force.
-　Il n'est pas rare qu'un parfait innocent se retrouve impliqué, mais c'est la première fois que je fais ce genre de rencontre.
-　Non. En fait, je n'avais même pas imaginé que tu serais là.」
+「...... Je ne sais pas si je dois m'indigner de l'impartialité du monde ou déplorer cette réunion soi-disant fortuite. Ce doit être l'œuvre de la Contre-Force.
+　Il n'est pas rare qu'un parfait innocent se fasse tuer, mais c'est la première fois que je fais une telle rencontre.
+　Non. En fait, je ne pensais même pas que quelqu'un comme toi puisse exister.」
 *page36|
 　“Je te jure”, grommela Tōko en regardant le plafond avant de se relever.
 　C'est ainsi qu'elle se débarrassa de l'hésitation qui l'avait prise au dépourvu.

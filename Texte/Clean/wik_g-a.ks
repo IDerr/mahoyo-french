@@ -107,7 +107,7 @@
 *page25|
 「...... On dirait que c'est sérieux.」
 「Grâce à Kinomi, je comprends mieux les règles.
-　Lorsqu'on rit de soi-même, ça ne compte pas. Ainsi que pour les sourires de courtoisie.
+　Lorsqu'on rit de sa propre initiative, ça ne compte pas. Ainsi que pour les sourires de courtoisie.
 　Mais si on rit du fond du cœur à cause des actes ou de la farce de quelqu'un d'autre, le Ploy considère qu'on a enfreint les règles.」
 「Hein... Quoi ?」
 *page26|
@@ -192,7 +192,7 @@ qui va [wait canskip=0 time=400][se storage=se07020 volume=100 loop=0][se storag
 　J'ai compris que c'était l'œuvre d'un Ploy, mais concrètement, quelles sont les règles ? Qu'entends-tu par “terminer la partie” ?」
 *page46|
 「Ce Ploy choisit ses règles selon la fluctuation de probabilité.
-　Si l'utilisateur remplit les conditions fixées, alors il s'active et fonctionne pendant environ une journée. C'est cette période que désigne le “jeu”.
+　Si les conditions fixées par l'utilisateur sont remplies, alors il s'active et fonctionne pendant une journée entière. C'est cette période que désigne le “jeu”.
 　Pendant le jeu, une nouvelle règle est ajoutée au monde réel. Dans notre cas, c'est probablement “quiconque rit d'une blague meurt”.」
 *page47|
 「De plus, il est extrêmement difficile de quitter le terrain de jeu pendant la partie. Il n'y a que deux moyens d'en sortir.

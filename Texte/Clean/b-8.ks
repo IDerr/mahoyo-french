@@ -197,7 +197,7 @@ Ce serait grossier de le dire.」
 *page45|
 　Apparemment, devenir Magicienne impliquait l'abandon de sa vie passée.
 　Elle fut obligée d'oublier tout son dur labeur et ses perspectives d'avenir pour vivre autrement. Alors, le concept de Mage devint normal pour elle qui ne le voyait jusque-là que comme une simple information.
-　De plus, selon le bon sens qui était alors le sien, cette voie serait arpentée de souffrances.
+　De plus, selon le bon sens qui était alors le sien, cette voie ne lui apporterait que des souffrances.
 *page46|
 　...... Le grand-père d'Aoko ne l'avait pas forcée.
 　Il semblait ne lui avoir dit que ceci : “Ta grande sœur ne sert plus à rien, tu es donc la suivante.”

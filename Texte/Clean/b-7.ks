@@ -320,7 +320,7 @@ Et puis, si tu avais participé au nettoyage de l'arrière de la colline, tu l'a
 *page74|
 「On doit récupérer ce que l'on nous vole, Sōjūrō.
 　Et ce, avant que ça n'appartienne au voleur. Je n'ai pas le temps de lambiner.」
-　Lorsqu'Aoko se prononçait ainsi, elle montrait une détermination contre laquelle on ne pouvait s'opposer.
+　Pendant qu'elle faisait cette déclaration, Aoko montrait une détermination à laquelle on ne pouvait s'opposer.
 　Malgré tout, Sōjūrō ne lâchait pas l'affaire, obstiné.
 *page75|
 「Même si tu n'as aucune chance de l'emporter ? Tu dis ne pas avoir de temps à perdre, mais dans l'immédiat, tu as avant tout besoin de repos. [l]

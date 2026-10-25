@@ -170,7 +170,7 @@ Et inversement, je ne peux pas me battre―――
 　Pour faire une comparaison avec les échecs......[r]
 　non, avec le shogi, Aoko n'est que le camp du roi [r]　(avec les capacités du fou et de la tour).
 *page55|
-　Quant à moi, mon camp est fort, [r]　mais le roi lui-même n'a que la capacité de “marcher”.
+　Quant à moi, mon camp est fort, [r]　mais le roi lui-même n'a que la capacité du pion.
 *page56|
 　Oui, Mam'zelle Alice est un personnage lent,[r]
 　n'ayant ni force physique ni réflexe !

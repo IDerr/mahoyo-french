@@ -86,7 +86,7 @@
 *page18|
 「Un familier qui ne possédait pas de prana dans sa vie précédente...... par exemple, un chat ou un chien, comme je l'ai déjà dit. En absorbant les cheveux du Mage, il acquiert son propre Circuit Magique.
 　En renaissant, il devient un être complètement différent―――autrement dit, le chat de la sorcière. Par exemple, il peut comprendre le langage des hommes ou se transformer en humain.
-　Son principe comportemental change aussi, et en général, il adopte le tempérament de leur maître. C'est bien ça, Alice ?」
+　Son principe comportemental change aussi, et en général, il adopte le tempérament de son maître. C'est bien ça, Alice ?」
 *page19|
 　Sur cette dernière phrase, un sourire mesquin se dessina sur les lèvres d'Aoko.
 　Alice l'ignora sans mot dire.

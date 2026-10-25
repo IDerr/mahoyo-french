@@ -11,10 +11,10 @@
 *page2|
 　Une jeune fille vêtue de noir fit son apparition.
 　La silhouette qui se détachait sur le champ de neige était indubitablement celle de Kuonji Alice.
-　Pèlerine, bonnet, gants.
-　Entièrement habillée en noir, ses yeux et ses cheveux avaient une teinte bleu foncé plus sombre que les ténèbres.
+　Pèlerine, bonnet, gants :
+　tout était noir chez elle, même ses yeux et ses cheveux avaient une teinte bleu foncé plus sombre que les ténèbres.
 *page3|
-　Le changement survint subitement.
+　Pendant un long moment, rien ne bougea.
 　La silhouette immobile sur fond de champ de neige évoquait une peinture.
 　Pour Alice, comme pour ce paysage blanc,
 　seul le temps passait, tandis que les lumières des quelques maisons autour du parc s'éteignaient.

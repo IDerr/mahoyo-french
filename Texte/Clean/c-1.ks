@@ -253,7 +253,7 @@ Aoko est au fond d'un couloir en forme de Y. Comme ton regard suit une trajectoi
 　Elle n'affichait aucune peur, mais pressentant la défaite imminente, ses yeux reflétaient un semblant de regret.
 　Aoko n'hésita pourtant pas et pressa la détente dans sa main droite.
 *page55|
-「[ruby char="Forme" text="Tour"] [ruby char="Balle de prana" text="Plan"], [ruby char="Tir" text="Star"] [ruby char="Convergeant" text="Main"]―――Circuit, feu.........!!!!」
+「[ruby char="Forme" text="Tour"] [ruby char="Balle de prana" text="Plan"], [ruby char="Tir" text="Star"] [ruby char="Convergent" text="Main"]―――Circuit, feu.........!!!!」
 　Ses derniers mots étaient proches du hurlement.
 　L'Éther projeté se transforma momentanément en source de chaleur et dispersa la couche de neige telles des vagues.
 *page56|

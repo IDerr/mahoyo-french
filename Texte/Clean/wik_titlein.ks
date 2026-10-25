@@ -98,8 +98,8 @@
 　C'était le discours que tenait mon père, énorme et borné comme un ours des montagnes.
 　Mes frères s'allièrent pour persuader mon géniteur barbare et vieux jeu.
 *page25|
-『Mad Daddy, Kojika a besoin d'une vie étudiante ! Et tout spécialement les épreuves de gymnastique. Comment pourrait-elle profiter de sa jeunesse sans faire de cheval d'arceaux ?』
-『Ha ha ha, voilà pourquoi tu es l'aîné ! Les anneaux, il n'y a que ça de vrai ! Le cheval d'arceaux, c'est pour les chiffes molles ! Aucun intérêt !』
+『Mad Daddy, Kojika a besoin d'une vie étudiante ! Et tout spécialement les épreuves de gymnastique. Comment pourrait-elle profiter de sa jeunesse sans faire de cheval d'arçons ?』
+『Ha ha ha, voilà pourquoi tu es l'aîné ! Les anneaux, il n'y a que ça de vrai ! Le cheval d'arçons, c'est pour les chiffes molles ! Aucun intérêt !』
 『Vous avez rien dans le crâne ou quoi ? Le plus cool, c'est la barre de fer ! Ce groove dans la rotation et la décharge de dopamine qui en résulte, ça alors ! Une fois accro, dur dur de réintégrer la société.』
 *page26|
 『Et moi, j'veux pouvoir frimer ! Car notre petite sœur est la fille la plus mignonne de Misaki ! Les merdeux du club de patinage se prosterneront devant nous ! Pourquoi ? Pour qu'elle rejoigne leur club, tiens !』

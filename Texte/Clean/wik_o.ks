@@ -47,7 +47,7 @@
 　En d'autres termes,」
 *page11|
 「ces flaques d'eau sont la preuve que quelqu'un d'autre que Riddell est entré dans le manoir... C'est ça ?
-　À ce moment-là, tout le monde était dans le salon à part monsieur Tokitsu et monsieur Yamashiro, donc―――」
+　À ce moment-là, tout le monde était dans le vestibule à part monsieur Tokitsu et monsieur Yamashiro, donc―――」
 「Un participant que personne n'a vu.
 　Cela implique qu'un treizième invité est présent.」
 *page12|
