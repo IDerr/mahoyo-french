@@ -36,16 +36,16 @@
 　C'est un détail sans importance,[r]
 　mais que faites-vous ici ? Et pourquoi ?
 *page10|
-　Il ne faut pas tomber dans la routine, [r]
-　non ? Ce n'est pas parce que [r]　nous sommes dans le coin bonus [r]　qu'il faut réutiliser les mêmes décors. [r]
-  Cela va à l'encontre de mon éthique. [r]　On n'est pas dans un certain dojo.
+　Il ne faut pas tomber dans la routine, non ?[r]
+　Même si c'est le coin bonus,[r]　ce n'est pas une raison[r]　pour réutiliser les mêmes décors.[r]
+　C'est contraire à mon éthique.[r]　On n'est pas dans un certain dojo.
 *page11|
 　C'est pour ça que vous avez changé de lieu.[r]
 　Je vois. J'ai à peu près compris.[r]
 　Cet entrain surprendrait même Mam'zelle Aoko.
 *page12|
-　Mais perso, j'préfère plutôt les jupes aux[r]　blouses. Celles qui ressemblent à des robes,[r]　elles sont divines. Enfin, c'est pas que les[r]　blouses c'est moche, c'est juste un problème[r]　d'image. Est-ce qu'elles rendent bien en peinture ?[r]　
-Vous voyez “La forêt, l'oiseau et la fillette” ?[r]　Ou “L'oiseau et l'écolier”,[r]　où l'enfant a une telle présence[r]　qu'on en oublie l'oiseau.
+　Mais perso, j'préfère plutôt les jupes aux blouses.[r]　Celles qui ressemblent à des robes,[r]　elles sont divines.[r]　Enfin, c'est pas que les blouses c'est moche,[r]　c'est juste un problème d'image.[r]　Est-ce qu'elles rendent bien en peinture ?[r]　
+　Vous voyez “La forêt, l'oiseau et la fillette” ?[r]　Ou “L'oiseau et l'écolier”, où l'enfant[r]　a une telle présence qu'on en oublie l'oiseau.
 *page13|
 　Zut. J'étais en pleine préparation de pâtisseries.
 *page14|
@@ -93,8 +93,8 @@ Vous voyez “La forêt, l'oiseau et la fillette” ?[r]　Ou “L'oiseau et l'�
 　............... Je préférerais éviter[r]
 　cela. Dans ce cas......
 *page27|
-　C'est l'orthographe de Ploy Kickshaw.[r]
-　Rien que ça donne déjà une assez [r]　bonne explication. Qu'en penses-tu ?
+　C'est l'orthographe de Ploy Kickshaw. En soi,[r]
+　ça donne déjà une assez bonne explication. [r]　Qu'en penses-tu ?
 *page28|
 　　　　　Ploy ? Kickshaw ?
 *page29|
@@ -129,8 +129,8 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 　? Désolé, j'ai oublié c'que j'viens de dire.[r]
 　Pour moi, les choses du passé [r]　sont plus vagues que l'futur.
 *page38|
-　......[r]
-　Qu'entends-tu au juste par Meinster ?
+　...... Qu'entends-tu[r]
+　au juste par Meinster ?
 *page39|
 　My Goddess. La mère de Mam'zelle Alice.[r]
 　Elle avait des surnoms comme la Sorcière au sang pur.
@@ -172,7 +172,7 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 *page50|
 　Éreintant ? Quoi donc ?
 *page51|
-　Par exemple, brûler des calories toutes les cinq secondes[r]
+　Brûler des calories toutes les cinq secondes[r]
 　pour injurier quelqu'un d'aussi [se storage=seEX11 volume=100]xxx que toi.[r]
 　Tu penses vraiment avoir une telle importance ?
 *page52|
