@@ -180,7 +180,7 @@
 @fg storage=im18l魔女釜(カマ) center=470 vcenter=538 index=2000 zoom=200
 @fg storage=im18なぜなに有珠制服呆2 center=914 vcenter=460 index=1600 rotate=-7.907 blur=2
 @bg rule=crossfade time=300 storage=bglなぜなに有珠部屋 left=-616 top=-426 zoomx=180 zoomy=200 noclear=1 blur=2
-@ploysay mode=lu19
+@ploysay mode=lu26
 @sestop
 @se storage=BA0_NZ1_0008.opus
 　　や、ジブン的に[r]
@@ -212,7 +212,7 @@
 @fg storage=im18なぜなにコマドリふむ center=45 vcenter=430 index=3000
 @fg storage=im18なぜなに有珠制服微悲 center=888 vcenter=443 index=3500
 @bg rule=crossfade time=300 storage=bgなぜなに有珠部屋(統合) left=-48 top=-48 noclear=1
-@ploysay mode=ru132
+@ploysay mode=ru192
 @sestop
 @se storage=A40_NZ1_0004.opus
 　そうね。[r]
@@ -413,7 +413,7 @@
 @fg rule=crossfade time=300 storage=im18青子人形イメージ center=512 vcenter=288 index=2500
 @wait time=1500 canskip=0
 @chgfg storage=im18なぜなにコマドリ普 id=k time=200
-@ploysay mode=lu132 oy=-30
+@ploysay mode=lu192 oy=-30
 @sestop
 @se storage=BA0_NZ1_0017.opus
 　　アリスさん、この物騒なのは[r]
@@ -429,7 +429,7 @@
 @pg
 *page35|
 @wait time=200 canskip=0
-@ploysay mode=ru26 oy=-20
+@ploysay mode=ru262 oy=-20
 @sestop
 @se storage=A40_NZ1_0017.opus
 ……これは使い魔のセオリーから外れた特注品よ。[r]
@@ -483,7 +483,7 @@
 @pg
 *page41|
 @chgfg storage=im18なぜなに有珠制服普 id=a time=200
-@ploysay mode=ru262
+@ploysay mode=ru26
 @sestop
 @se storage=A40_NZ1_0020.opus
 　術者の十分の一ぐらいの性能しかなくても、[r]
@@ -579,7 +579,7 @@
 @pg
 *page51|
 @chgfg storage=im18なぜなにコマドリ普(口開) id=k time=200
-@ploysay mode=lu19
+@ploysay mode=lu192
 @sestop
 @se storage=BA0_NZ1_0025.opus
 　　ハハハ。[r]
@@ -587,7 +587,7 @@
 @pg
 *page52|
 @chgfg storage=im18なぜなに有珠制服呆 id=a time=200
-@ploysay mode=ru19
+@ploysay mode=ru192
 @sestop
 @se storage=A40_NZ1_0026.opus
 戦闘において、青子は使い魔に任せる必要がない。[r]
