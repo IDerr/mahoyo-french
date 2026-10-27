@@ -73,7 +73,7 @@
 　　　　貴方の台詞だけカットしてもらったの。
 @pg
 *page2|
-@ploysay mode=ru262 ox=-50 oy=-30
+@ploysay mode=ru26 ox=-50 oy=-30
 @sestop
 @se storage=BA0_NZ6_0001.opus
  グレイト。もう何もかもアリスさん中心なんスね。[r]
@@ -249,7 +249,7 @@
 @pg
 *page15|
 @chgfg textoff=0 storage=im18なぜなに有珠制服呆 id=a time=200
-@ploysay mode=ru19
+@ploysay mode=ru192
 @sestop
 @se storage=A40_NZ6_0008.opus
 後に、彼女がゴブリンフロンと名付けるようになった香水よ。その香水をかけると、一日、悪口とスラングしか言えなくなるの。

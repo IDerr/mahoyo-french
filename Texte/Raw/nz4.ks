@@ -184,7 +184,7 @@
 @se storage=seETC25 volume=100
 @bg rule=crossfade time=500 storage=bgなぜなに回転寿司(外) left=-48 top=-48 noclear=1
 @chgfg storage=im18なぜなに有珠ケーキ説 id=a time=200
-@ploysay mode=rb192 ox=20 oy=50
+@ploysay mode=rb19 ox=20 oy=50
 @sestop
 @se storage=A40_NZ4_0005.opus
 　　　地味に見えるけど、役に立つプロイね。[r]
