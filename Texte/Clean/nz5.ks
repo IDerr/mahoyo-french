@@ -34,7 +34,7 @@
 　Vous avez l'air drôlement d'attaque.
 *page11|
 　Bien, c'est l'heure de Tout sur les Ploy,[r]
-　Robin. Aujourd'hui, je me sens bien,[r]
+　Robin. Aujourd'hui, je me sens en pleine forme,[r]
 　alors abordons un sujet spécial.
 *page12|
 　Ah—, nous y voilà enfin ![r]
@@ -45,7 +45,7 @@
 　enfin, depuis l'époque du fondateur, quoi.
 *page14|
 　Ce sont les Trois Grands Ploy.[r]
-　Les trois articles grandioses, qui auraient été créés[r]　par la toute première sorcière.
+　Les trois artéfacts fabuleux qu'auraient été créés[r]　par la première sorcière.
 *page15|
 　Le Géant du Pont, Thames Troll,[r]
 　l'Huile de la Lune, Flat Snark,[r]
@@ -58,15 +58,15 @@
 『Le Pont de Londres est tombé, est tombé, est tombé,[r]
 　le Pont de Londres est tombé, My Fair Lady.』
 *page18|
-　Cette comptine a été traduite en japonais et s'apprend[r]
-　même à l'école. Nombre de personnes doivent la connaître.
+　Elle a été traduite en japonais et est même[r]
+　enseignée à l'école. Elle est donc très connue.
 *page19|
 　Alias, le Troll Négligent ![r]
 　Il ne sert que contre le menu fretin !
 *page20|
-　...... C'était un adversaire redoutable.[r]
-　Et puis, lui et moi ne sommes pas vraiment compatibles.[r]
-　En fait, je ne peux pas utiliser correctement Thames.
+　...... C'était un adversaire redoutable. Et puis,[r]
+　lui et moi ne sommes pas vraiment compatibles.[r]
+　Je ne peux donc pas utiliser correctement Thames.
 *page21|
 　Je ne peux l'invoquer que jusqu'au deuxième couplet.[r]
 　Je n'ai jamais vu les troisième et quatrième couplets.
@@ -98,8 +98,8 @@
 *page30|
 　Pourquoi vous n'pouvez pas l'utiliser ?
 *page31|
-Parce que la société humaine ne m'intéresse pas. Le[r]
-pont présent dans mon univers ne va que du bois à la roche.
+Parce que la société humaine ne m'intéresse pas. Le pont[r]
+présent dans mon univers ne va que du bois à la roche.
 *page32|
 　Comment ![r]
 　Moi qui vous croyais invulnérable,[r]　vous cachez donc des points faibles......
@@ -114,8 +114,8 @@ pont présent dans mon univers ne va que du bois à la roche.
 　S'il existait une sorcière moderne capable[r]
 　de l'invoquer complètement, alors―――
 *page36|
-　il deviendrait un pont[r]　absolument infranchissable,[r]
-　même pour Aoko et ses[r]　meilleures techniques.
+il deviendrait un pont absolument infranchissable,[r]
+même pour Aoko et ses meilleures techniques.
 *page37|
 　La ville du brouillard de la révolution industrielle, Londres.[r]
 　Il se manifesterait en tant que géant de la ville,[r]　allant jusqu'à sublimer son propre surnom.
@@ -128,9 +128,9 @@ pont présent dans mon univers ne va que du bois à la roche.
 　votre côté vantard et mauvais perdant.[r]
 　C't'un conseil larmoyant d'votre cher Ploy !
 *page40|
-Merci. Dans ce cas, si tu le veux bien,[r]
-aide-moi séance tenante[r]
-à améliorer mon caractère.
+　Merci. Dans ce cas, si tu le veux bien,[r]
+　aide-moi séance tenante[r]
+　à améliorer mon caractère.
 *page41|
 　Reparlons de ce “je me la raconte”.[r]
 　À toi de jouer, Thames.[r]
@@ -143,5 +143,5 @@ aide-moi séance tenante[r]
 　Exactement. Je t'avais prévenu, non ?[r]
 　Ne sous-estime pas la montagne.
 *page44|
-　J'pensais pas que[r]　c'était dans c'sens-là !
+　J'pensais pas que c'était[r]　dans c'sens-là !
 *page45|

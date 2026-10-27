@@ -34,7 +34,7 @@
 　Jack in The Box,[r]
 　ou encore Six Sing Chocolate.
 *page9|
-　Il a peut-être l'air faible, mais c'est un Ploy extrêmement utile.[r]
+　Il a peut-être l'air faible,[r]　mais c'est un Ploy extrêmement utile.[r]
 　Rien à voir avec un certain oiseau ici présent.
 *page10|
 　Évidemment ![r]
@@ -99,12 +99,12 @@
 　l'ensemble du cortège funèbre répond 「Moi」.[r]
 　Elle dépeint aussi la recherche du coupable.
 *page29|
-　Avec l'immense succès de Mother Goose, le prologue[r]
-　“L'heureuse cour de Cock Robin et Jenny Wren” [r]　fut publié et connut aussi un franc succès.
+　Suite à l'immense succès de cette comptine de Mother Goose,[r]
+　la préquelle “L'heureuse cour de Cock Robin et Jenny Wren”[r]　fut publiée et devint elle aussi un best-seller.
 *page30|
-　Ensuite vint le procès et la punition du moineau[r]
-　qui chanta après la mort de Cock Robin.[r]
-　Je t'envie. Avec les droits d'auteur, tu dois être riche, Robin.
+Elle fut suivie de “Le procès et l'exécution du moineau pour avoir tué[r]
+Cock Robin” qui conte les évènements après la mort du rouge-gorge.[r]
+Je t'envie. Avec les droits d'auteur, tu dois être riche, Robin.
 *page31|
 　Les piafs ont pourtant jamais eu un yen.
 *page32|
@@ -145,23 +145,23 @@ Comme les mots-valises inventés par Lewis Carroll.
 　Au pays du miroir, Alice demanda à Humpty[r]
 　ce que signifie le mot slictueux.
 *page45|
-　Humpty lui répondit ceci :[r]
-　「Eh bien, “slictueux” signifie : “souple, actif, onctueux”.」
+　Humpty lui répondit :[r]
+　「“Slictueux” signifie “souple, actif, onctueux”.」
 *page46|
 　...... Compris ? C'est une règle qui permet de créer[r]
 　un nouveau mot à partir de plusieurs sens différents.[r]
 　C'est de là que vient la polysémie de l'Œil Mystique.
 *page47|
-　Humpty n'a pas servi à proprement parler de modèle pour lui,[r]
-　mais “elle” a choisi ce nom en son honneur.
+　Humpty n'a pas servi à proprement parler de modèle[r]
+　pour lui, mais “elle” a choisi ce nom en son honneur.
 *page48|
 　Hmm. J'viens d'y penser, mais associer[r]
 　“première édition limitée” et “édition normale”,[r]
 　ça donne quoi ?
 *page49|
-　Voyons voir. En combinant les deux,[r]
+　Eh bien, en combinant les deux,[r]
 　les bonus collector de l'édition limitée[r]
-　resteraient toujours disponibles sur le marché.
+　resteraient constamment disponible à la vente.
 *page50|
 　Ha ha ha ![r]
 　Alors, ce serait une [r]　“Première Édition Populaire” !

@@ -97,10 +97,10 @@ Chef. Une autre assiette d'ōtoro.
 *page32|
 　Soyons francs, nous sommes...!
 *page33|
-　Les chouchous de notre maîtresse, pouvant[r]　nous métamorphoser à volonté, Six Force !
+Les chouchous de notre maîtresse, pouvant[r]nous métamorphoser à volonté, Six Force !
 *page34|
-　Des Ploy de haut niveau capables de[r]　se transformer en mammifères ou en oiseaux ![r]
-　Les Jumeaux bavards, c'est nous.
+Des Ploy de haut niveau capables de[r]se transformer en mammifères ou en oiseaux ![r]
+Les Jumeaux bavards, c'est nous.
 *page35|
 　Ooohーーー?![r]
 　On est dans le noir complet ! On ne va pas pouvoir jouer !
@@ -138,7 +138,7 @@ Chef. Une autre assiette d'ōtoro.
 　Ce monde est plein de ruses,[r]
 　sans tricher, vous resterez sur le 6 !
 *page46|
-　Le Banquet de la nuit[r]　est arrivé sur une assiette.
+　Le Banquet de la nuit[r]　est arrivé.
 *page47|
 　C'est notre bon vieux “Diddle Diddle”.[r]
 　Moi aussi, je connais sa comptine.
@@ -151,10 +151,11 @@ Chef. Une autre assiette d'ōtoro.
 　　　Le petit chien a ri de voir cette fantaisie[r]
 　　　　Et le plat avec la cuillère s'est enfui.』
 *page50|
-　C'est une comptine typique. Le poème[r]
-　dépeint un chat jouant du violon à minuit,[r]　une vache qui saute par-dessus la lune,[r]
-　un chien qui rit, et les personnifications[r]
-　d'un plat et d'une cuillère qui s'enfuient.
+C'est une comptine typique de Mother Goose.[r]
+Le poème parle d'un chat jouant du violon à[r]
+minuit, une vache qui saute par-dessus la lune,[r]
+un chien qui rit, et les personnifications[r]
+d'un plat et d'une cuillère qui s'enfuient.
 *page51|
 Selon une théorie, elle s'inspire[r]d'une légende grecque ou égyptienne.[r]
 Si ça fait référence aux constellations, alors[r]la vache doit être une parodie du taureau.
@@ -167,8 +168,8 @@ Si ça fait référence aux constellations, alors[r]la vache doit être une paro
 　Diddle Diddle est à la base de ma Magie.
 *page54|
 En plongeant dans le sol, il renforce la nuit.[r]
-Une fois la nuit intensifiée, ma Magie, les[r]
-sorts de contes de fées, prend un sens concret.
+Une fois la nuit intensifiée, ma Magie, les sorts[r]
+de contes de fées, prend un sens tangible.
 *page55|
 　Voilà les détails.
 *page56|
@@ -188,7 +189,7 @@ sorts de contes de fées, prend un sens concret.
 *page60|
 　il sert à repérer les ennemis en ville et à garder le manoir.[r]
 　Il échappe parfois à tout contrôle en créant des passages[r]
-　dans le manoir pour attirer les passants dans le miroir.
+　dans le manoir pour attirer les visiteurs en son sein.
 *page61|
 　Ha ha. L'autre idiot a bien failli y rester de nombreuses fois.[r]
 　Il est tiré de “De l'autre côté du miroir”, c'est ça ?
@@ -208,8 +209,8 @@ sorts de contes de fées, prend un sens concret.
 　ce miroir pour en faire son chef-d'œuvre[r]
 　ultime. Cela dit, je ne sais trop quoi en penser.
 *page67|
-　Qu'en dis-tu ? En affichant la carte de Misaki[r]
-　sur le Miroir de la sieste et en posant le pion dessus,[r]　cet endroit devient la “Forêt sans nom”.
+　Tu vois ? En affichant la carte de Misaki[r]
+　sur le Miroir de la sieste et en posant le pion dessus,[r]　l'endroit correspondant devient la “Forêt sans nom”.
 *page68|
 　C'est ce Ploy que j'ai utilisé pour le premier combat d'Aoko.[r]
 　Dans sa zone d'action, il suggère aux intrus qu'ils n'ont[r]　rien à faire là, agissant comme une répulsion, mais......
@@ -228,9 +229,9 @@ sorts de contes de fées, prend un sens concret.
 　Cet œuf est succulent ![r]
 　Mais il me reste un peu[r]　sur l'estomac.
 *page74|
-　J'arrive pas à l'digérer.[r]
-　Et en plus, j'entends une sorte de tic tac[r]
-　qui retentit à l'intérieur de mon ventre.
+J'arrive pas à l'digérer. Et en plus,[r]
+j'entends une sorte de tic tac qui[r]
+retentit à l'intérieur de mon ventre.
 *page75|
 　　　　　　　　Three.
 *page76|
