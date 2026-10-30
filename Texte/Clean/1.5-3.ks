@@ -379,5 +379,5 @@ Mais on dirait que vous ne pouvez sortir que celui-là, hein, vous deux.」
 「...... J'avais terminé les adieux.
 　Il aurait peut-être fallu que je demande au moins l'épitaphe pour leur tombe.」
 　Ses doigts pâles et gracieux parcoururent ses lèvres avec regret.
-　Après avoir soupiré pour la troisième fois, elle quitta lentement la forêt sombre, de la même façon qu'elle y était entrée.
+　Après avoir soupiré une seconde fois, elle quitta lentement la forêt sombre, de la même façon qu'elle y était entrée.
 *page83|

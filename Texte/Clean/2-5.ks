@@ -36,9 +36,9 @@
 　Mon petit Sō, jusqu'à maintenant, ton taux de capture était de 100 %, pas vrai ? Tu veux bien aller voir ?」
 　“Dans ce cas, très bien”, répondit Sōjūrō avant de ranger son matériel de nettoyage et de se diriger vers le premier étage.
 *page9|
-　La salle de pachinko se situait dans un bâtiment classique à deux niveaux et était relativement vaste.
-　C'était un immeuble typique du quartier qui n'avait pas été spécialement réaménagé pour son activité, et petit à petit, les gens de la ville venaient y dépenser leur argent.
-　Malgré les défauts du magasin, les clients étaient nombreux et variés.
+　La salle de pachinko occupait deux niveaux du bâtiment et était une des plus grandes de son genre.
+　L'établissement était une figure dans le quartier, et plutôt que de régler ses machines de manière abusive, il se contentait de générer des revenus modestes mais réguliers auprès des habitants locaux.
+　Mais malgré les intentions de l'enseigne, la clientèle était particulièrement variée.
 *page10|
 　On y trouvait des gens venus simplement pour s'amuser, des pros dont c'était le gagne-pain, et enfin des individus qui en tiraient profit en fraudant.
 　Parmi eux, certains accédaient au système électrique en intervenant directement sur ces machines typiques des années 80. Puis ils rendaient le programme fou et pouvaient ainsi réaliser facilement le jackpot.

@@ -244,7 +244,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 　Les deux jeunes femmes s'échangeaient des salutations en apparence pacifiques.
 　Elles s'entendent bien, hein, pensa Sōjūrō qui les observait attentivement sans se rendre compte de l'animosité qui flottait dans l'air.
 *page64|
-「Le volontariat d'aujourd'hui se fera avec lui et moi.
+「Le volontariat de ce mois-ci se fera avec lui et moi.
 　C'est pour notre église d'Aida bien-aimée. C'est pourquoi nous allons travailler d'arrache-pied de dix heures jusqu'à trois heures sans une seule minute de distraction.」
 「Eh bien. C'est la fin du monde, mais vous êtes les bienvenus.
 　La demeure de Dieu est un lieu ouvert à tous sans discrimination. À cette occasion, je vais faire comme si je n'avais pas vu tes pensées.」
@@ -349,9 +349,9 @@ Dans le sens où c'était une nuisance pour les autres.
 「Non, je ne vous ai pas rencontrée.」
 *page90|
 「Si ! Tu es l'employé de chez Uotatsu, non ? Rien que cette semaine, j'y suis allée plusieurs fois.[r]
-　Je suis―――euh, [wait time=1000 canskip=0][chgfg storage=律架02a(近)|c time=300 textoff=0]voyons voir, je m'appelle Hanasawa, et toi ?」
+　Je suis―――euh, [wait time=1000 canskip=0][chgfg storage=律架02a(近)|c time=300 textoff=0]voyons voir, je m'appelle Hanazawa, et toi ?」
 *page91|
-　Tout en lançant un coup d'œil au pot de [ruby char="fleurs" text="hana"] sous elle au milieu de sa phrase, Mlle Hanasawa sourit de façon candide.
+　Tout en lançant un coup d'œil au pot de [ruby char="fleurs" text="hana"] sous elle au milieu de sa phrase, Mlle Hanazawa sourit de façon candide.
 　Sōjūrō se présenta comme à son habitude, peu sûr de lui.
 *page92|
 「Sōjūrō...... Oui, c'est un beau nom, qui donne une impression d'ancienneté.
@@ -361,7 +361,7 @@ Dans le sens où c'était une nuisance pour les autres.
 「Ah, tu n'as pas encore rencontré le prêtre, hein.
 　Pourtant, le prêtre charmant et les deux sœurs, beautés de l'église d'Aida, sont assez célèbres...... Ah, je sais ! Voyons voir, tu as déménagé récemment ici, pas vrai ? Et en plus, tu vis seul !」
 「C'est ça, mais...... [chgfg storage=草十郎制服02b(近)|c3 time=300 textoff=0]
-Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos conjectures sont tellement précises.」
+Mlle Hanazawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos conjectures sont tellement précises.」
 *page94|
 「Mais non, mais non, c'est juste de la déduction.
 　Puisque vraisemblablement, ce n'est pas le charme des distractions de cette ville qui motive un garçon tel que toi à mettre du cœur à l'ouvrage. Si tu avais besoin d'argent pour t'amuser, un seul travail suffirait à couvrir tous tes frais. Et puis, tu ne sembles pas être avide.
@@ -388,7 +388,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 　Sōjūrō désigna l'église du doigt.
 *page100|
 「Hé ? Euh ?」
-　Même Hanasawa en était confuse.
+　Même Hanazawa en était confuse.
 　Elle ne savait pas que Sōjūrō venait tout droit de la province, mais probablement à cause de son manque de tact naturel, elle s'était méprise en interprétant cela comme un subtil sarcasme.
 *page101|
 「Hmm, eh bien...
@@ -435,24 +435,24 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 　“Je vois”, dit-il en regardant la cheminée au loin du haut de l'échelle.
 　Cette colline me faisait penser un peu, mais vraiment un tout petit peu, à la forêt de ma terre natale, alors ça me préoccupait. Mais apparemment, elle n'a rien à voir avec moi, agréa Sōjūrō qui reprit le nettoyage des fenêtres.
 *page112|
-　Grâce à l'aide de Hanasawa, le nettoyage des fenêtres fut terminé sans retard.
+　Grâce à l'aide de Hanazawa, le nettoyage des fenêtres fut terminé sans retard.
 　À eux deux, ils avaient accompli un travail simple mais laborieux.
 *page113|
 「Bien, bon travail.
 　Hum, qui pourrait croire qu'il y avait toute cette terre sur les fenêtres avant !
 　À présent, que dirais-tu d'aller dans un salon de thé décent ? Pour récompenser ton comportement travailleur, c'est moi qui réga―――[chgfg storage=律架02b(全)|g zoom=60 time=300 textoff=0]」
 *page114|
-「Oui ? Vous avez dit quelque chose, Mlle Hanasaw―――」
+「Oui ? Vous avez dit quelque chose, Mlle Hanazaw―――」
 「Non, désolée. Je viens de me rappeler une affaire urgente.
 　Je dois filer à présent, ciao～」
 　Lorsque Sōjūrō se retourna alors qu'il rangeait les échelles, la femme courait dans la rue principale à la vitesse de la lumière.
 *page115|
 　Il était presque trois heures.
-　Il s'était passé plus de trois heures depuis que Hanasawa avait proposé de l'aider.
+　Il s'était passé plus de trois heures depuis que Hanazawa avait proposé de l'aider.
 *page116|
 「Hum.」
-　Sōjūrō l'accompagna du regard, le visage étonné par son changement brutal de comportement.
-　Hanasawa lui avait consacré beaucoup de temps alors qu'à la base, elle ne faisait que se promener sans but.
+　Sōjūrō la regarda partir d'un air entendu, comme s'il comprenait son brusque changement d'attitude.
+　Hanazawa lui avait consacré beaucoup de temps alors qu'à la base, elle ne faisait que se promener sans but.
 　Elle avait dû se rappeler quelque chose où elle pourrait se rendre utile, comme lorsqu'elle l'avait aidé sur un coup de tête.
 *page117|
 「Shizuki, tu es là ?」
@@ -460,7 +460,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 *page118|
 「Ah, excuse-moi de t'avoir interrompu. Tu peux te consacrer à ton travail―――」
 　En voyant Sōjūrō ranger l'échelle plus longue que lui, Aoko sembla confuse.
-　Ça ne dura qu'un instant, puis elle croisa les bras et se rapprocha de Sōjūrō.
+　Ça ne dura qu'un instant, puis elle se retroussa les manches et se rapprocha de Sōjūrō.
 *page119|
 「?」
 　Sōjūrō semblait plus surpris par cette réaction que par le fait qu'Aoko soit soudainement apparue.
@@ -607,7 +607,7 @@ les gens que Sōjūrō avait connus jusqu'à présent l'avaient toujours mis en 
 　Il se rappelait les mots qu'il avait laissés échapper inconsciemment, confus.
 *page154|
 　Quelles étoiles sombres !
-　Quel ciel sinistre !
+　Quel ciel étriqué !
 　Ici, il n'y a pas de nuit où les étoiles sont visibles.
 　Est-ce que je pourrai vivre ici―――
 　Même maintenant, l'anxiété qu'il avait éprouvée cette nuit-là n'avait pas diminué.

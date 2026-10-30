@@ -4,7 +4,7 @@
 　Grâce à l'ouverture au niveau du premier étage,
 　le seul éclairage disponible était les rayons du soleil et le clair de lune qui passaient à travers la vitre tenant lieu de plafond.
 *page1|
-　Les jours de pluie, il y faisait sombre comme au crépuscule,
+　Les jours de pluie, il y faisait sombre comme avant l'aube,
 　et les nuits sans lune, tout semblait comme pétrifié par le froid d'une étoile noire.
 *page2|
 　Le salon, qui faisait office de salle de repos, se trouvait à l'est du vestibule ; mais avant de s'y rendre, Aoko, qui ne se sentirait pas à l'aise avant de s'être changée, se dirigea vers l'escalier.
