@@ -28,8 +28,8 @@
 　En tant que propriétaire de l'étude, c'était bien le minimum qu'elle se devait de faire.
 *page7|
 　...... Du moins, elle s'en vantait, mais en définitive, il ne s'agissait que de gérer une petite étude.
-　La bibliothèque qui se trouvait dans le bâtiment annexe était, pour Aoko comme pour Alice, une véritable caverne d'Ali Baba qu'elles révéraient profondément.
-　Si son étude personnelle ne suffisait pas, elle devrait se résoudre à demander à Alice de pouvoir se rendre dans le bâtiment annexe.
+　En revanche, la bibliothèque située dans l'annexe était un véritable labyrinthe dans lequel ni Alice ni Aoko ne savaient où donner de la tête.
+　Mais quand son étude personnelle ne suffisait pas, elle n'avait d'autre choix que de demander à Alice de se rendre avec elle dans l'annexe.
 *page8|
 「...... Si possible, je préférerais l'éviter.」
 　Elle posa le livre vert à la reliure volumineuse sur le bureau, et s'assit sur la chaise.
@@ -38,7 +38,7 @@
 　Elle tournait avec précaution les pages du vieux livre posé sur le bureau.
 *page9|
 『...... Il m'est encore impossible de créer une Barrière comme celle d'Alice. [l]
-Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement......』
+Pour garder les curieux à l'écart, il me faudra donc choisir un endroit à dessein......』
 　Par exemple, le fin fond des montagnes.
 　Ou bien, les bois.
 　Ou encore, l'établissement tard dans la nuit, déserté par ses élèves.

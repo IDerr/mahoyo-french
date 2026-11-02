@@ -72,7 +72,7 @@
 *page20|
 「...... Et toi ? Ce matin, tu semblais confiante.」
 「Hum ? Ah, de mon côté, tout se passe comme prévu.
-　Demain, on aura considérablement réduit le nombre de suspects. Ce midi, j'ai demandé à Tobimaru d'enquêter sur l'adresse et l'emploi du temps des élèves.
+　Demain, on aura considérablement réduit le nombre de suspects. Ce matin, j'ai demandé à Tobimaru d'enquêter sur l'adresse et l'emploi du temps des élèves.
 　Il n'y a pas tant de gens que ça qui rôdent à cette heure-ci dans le parc, et on peut facilement en déduire qui pouvait y être.」
 *page21|
 「Ce sera vraiment aussi simple ?」
@@ -212,15 +212,15 @@ J'ai vérifié non seulement là où ils travaillent au cours du mois, mais auss
 　En entendant cette réponse incomplète, Aoko fit preuve d'une relative perspicacité.
 *page52|
 「Tu veux dire l'histoire des frères qui gardaient la caverne de Lotus ? [wait canskip=0 time=200][backlay][chgfg blur=1 storage=青子私服c05(大) type=13 partbg=bg01l久遠寺邸03居間(ソファ無し)-(夜)][fg preback=0 textoff=0 rule=crossfade time=300 storage=青子私服c06a(近)|c center=685 vcenter=257 index=1500 type=13 effect=屋内アンバー]Alors, c'est la même chose que cette gourde rouge ?[r]
-　Ça me donne la chair de poule rien que d'en parler, mais tu parles bien de ce truc qui ressemble à une fiole de médicament contre le rhume et dont on a enlevé l'étiquette ?」
-　En réfléchissant à la question d'Aoko, Alice regarda avec sérieux la fiole quelconque.
-　Mais, prenant conscience que de toute façon, ce n'était pas elle qui allait l'utiliser, elle la posa sur la table.
+　Désolée de dire ça, mais tu ne trouves pas qu'on dirait juste un simple flacon de médicament contre le rhume dont on a enlevé l'étiquette ?」
+　En entendant la question, Alice examina le flacon et reconnut qu'il paraissait parfaitement ordinaire.
+　Mais réalisant que de toute façon, ce n'était pas elle qui allait l'utiliser, elle la posa sur la table.
 *page53|
 「Pas la gourde rouge, mais la flasque de suif en jade.」
-「C'est pas le problème. Je te donne juste mon ressenti en tant que Mage.」
-「Tu t'inquiètes pour un détail mineur. Je pense que c'est déjà bien que ce ne soit pas une bouteille de médicament contre les maux de ventre.」
+「C'est pas ça le problème. Je veux dire que ça manque de style pour un Mage.」
+「Tu t'inquiètes pour un détail mineur. Je pense que c'est déjà bien que ce ne soit pas une bouteille de laxatif.」
 「―――Hmm.」
-　C'était une réponse plutôt sinistre.
+　C'était un argument plutôt convaincant.
 *page54|
 「Tu n'as qu'à ouvrir le couvercle et énoncer le nom de la personne.
 　Mais si la cible possède encore la moindre volonté de résister, la fiole se brisera, alors utilise-la judicieusement.」

@@ -109,7 +109,7 @@
 *page24|
 　Elle n'avait même pas besoin de tendre l'oreille pour l'entendre.
 　Ce bruit qui n'existait pas, même lorsque cette attraction était au faîte de sa gloire.
-　Elle entendait un véritable vacarme apportant le désespoir, comme si une araignée monstrueuse la poursuivait en frôlant les miroirs à toute vitesse.
+　Elle entendait un vacarme aux relents de désespoir, comme si une horde de hérissons fantomatiques fonçait sur elle en raclant les miroirs.
 *page25|
 「............ Cet empoté. Qu'est-ce que ça veut dire ?! Je lui dis trois minutes, et il ne tient même pas dix secondes.」
 　Il ne lui avait pas fait gagner de temps du tout.

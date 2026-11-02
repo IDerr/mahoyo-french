@@ -200,7 +200,7 @@ Je viens rendre visite à Aoko, et voilà que le garçon que j'ai déjà croisé
 　Juste après, je me suis sérieusement demandé si j'étais vraiment si effrayante que ça.」
 *page51|
 　La femme racontait joyeusement ce souvenir.
-　Oui. Le lendemain de la découverte du secret d'Aoko, il avait pris cette femme pour la fille du parc et s'était enfui.
+　Oui. Le lendemain de la découverte du secret d'Aoko, il avait cru que la fille du parc était cette femme et s'était enfui.
 　Finalement, il y avait eu erreur sur la personne, mais s'il les avait confondues cette fois-là, c'était parce que―――
 *page52|
 『...... Mais oui ! Elles dégagent la même aura.』

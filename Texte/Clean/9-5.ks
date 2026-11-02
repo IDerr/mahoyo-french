@@ -89,12 +89,12 @@
 「...... Oui. Cependant, vu leur qualité, on ne trouverait sûrement pas d'acheteur.」
 「Oh, des déchets restent donc des déchets.」
 *page22|
-　En réponse aux propos injurieux d'Aoko, le groupe de marionnettes se mit à faire des bonds.
-　Elles s'élancèrent brusquement, comme si elles avaient été renversées par un camion-benne.
+　En réponse aux insultes d'Aoko, l'une des silhouettes bondit en avant.
+　Elle s'élança brusquement, comme si elle avait été renversée par un camion-benne.
 　Alice resta immobile,
 　tandis qu'Aoko brandit son bras droit en faisant volte-face, comme si elle n'avait attendu que ça.
 *page23|
-　La balle de lumière bleue fut facilement dispersée par leur carapace.
+　La balle de lumière bleue fut facilement dispersée par sa carapace.
 　Un Snap qui ne dégageait que du prana n'affecterait pas ces marionnettes.
 　Les Automates rampaient au sol telles des grenouilles et faisaient pivoter leur tête à 360 degrés pour chercher Aoko.
 *page24|

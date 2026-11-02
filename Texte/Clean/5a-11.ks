@@ -86,7 +86,7 @@
 　C'est sans importance. Même si la situation est critique, il n'y a que les coups directs de “l'Attaque de Finn” que je dois absolument éviter―――!
 *page20|
 「―――!」
-“[ruby text=Snap char=3]Feu......!”
+“[ruby char="Repousse-toi" text="Snap"]......!”
 　Il lui fallut une demi-seconde pour se remettre de la douleur et de la perte d'équilibre.
 　Au moment où elle leva la tête, elle détourna l'arme qui fonçait vers elle avec son poing imbibé de prana.
 *page21|

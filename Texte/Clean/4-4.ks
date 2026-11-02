@@ -243,7 +243,7 @@ Ou plutôt, on dirait bien qu'il n'y avait pas d'élève à proximité de cet en
 *page56|
 「...... Hmm. Tu veux dire me rendre la pareille ?」
 「?」
-　C'était une nouvelle fois malheureux, mais Sōjūrō ne semblait pas encore connaître le sens parfois négatif de se rendre la pareille chez les étudiants.
+　Par chance, Sōjūrō ne semblait pas encore connaître le sens parfois négatif de se rendre la pareille chez les étudiants.
 *page57|
 「Je ne vois pas très bien où tu veux en venir, mais ce n'est pas si important que ça.
 　Il se trouve juste que le club de natation n'est pas très occupé jusqu'à l'été.」

@@ -162,7 +162,7 @@ J'ai même gagné contre le Saint-Bernard.」
 　Les deux humaines s'attaquèrent au bassin suivant.
 　Ses résidents étaient tout aussi observateurs.
 　Les visiteuses de cet océan hivernal disparurent d'un air indifférent.
-　Ils leur souhaitèrent au revoir tandis que leurs pas s'éloignaient pour finir sur un claquement de porte.
+　Ils leur dirent au revoir tandis que leurs pas s'éloignaient pour finir sur un claquement de porte.
 *page34|
 　...... La croisière pédestre se déroula ainsi pendant une heure.
 　Avec le nombre impressionnant d'expositions, l'entrecroisement des couloirs formait comme un labyrinthe qui les conduisit soudainement au niveau supérieur.

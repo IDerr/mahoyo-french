@@ -413,7 +413,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 　Il était déjà habitué à la malveillance humaine.
 　Il avait même failli se faire tuer à plusieurs reprises, parfois par ses propres frères et sœurs excessivement violents,
 　et parfois par quelqu'un qui avait des intentions meurtrières.
-　Il avait également assisté à l'exhibitionnisme de ses frères, confits dans leurs idées d'élitistes et de classe privilégiée, tandis qu'ils jouaient avec l'existence d'autrui.
+　Il avait aussi vu son frère aîné, confit dans ses idées d'élitisme et de classe privilégiée, étaler son besoin de s'afficher en jouant avec la vie d'autrui.
 *page102|
 　...... C'était vraiment pénible.
 　Chacun de ces évènements aurait suffi à bouleverser sa vision de la vie, mais il était resté complètement indifférent.

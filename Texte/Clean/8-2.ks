@@ -54,7 +54,7 @@
 　Cependant, Sōjūrō ne ressentait pas l'envie de s'en mêler, et Aoko et Alice n'avaient pas non plus l'intention de l'embarquer là-dedans, donc pour le moment, il n'y avait pas de problèmes.
 　Jusque-là, le manoir Kuonji était paisible.
 *page14|
-「Bonsoir.」
+「Je suis rentré.」
 　Sōjūrō ouvrit silencieusement la porte du salon.
 　Même s'ils faisaient tous les trois en sorte de ne pas se mêler des affaires des autres, il les saluait toujours poliment. C'était un de ses principes.
 *page15|
@@ -179,7 +179,7 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 　C'était un dieu protecteur de Misaki autre que la Barrière des Aozaki.
 　Pour être plus exact, il s'agissait d'un “monstre de contes de fées” protégeant uniquement Kuonji Alice, et non pas la ville. Il était telle une lettre de défi créant un brouillard épais, et attirant les visiteurs dans un jeu de plateau.
 　Sa maîtresse l'appelait seulement “le miroir”,
-　tandis que son amie d'enfance le nommait “le Miroir de la sieste”.
+　tandis que son amie le nommait “le Miroir de la sieste”.
 　C'était une Magie que seule maîtrisait Kuonji Alice.
 *page46|
 　À la surface ondulante du miroir flottaient un château, de nombreuses forêts, une plaine et une rivière.

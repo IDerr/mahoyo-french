@@ -129,7 +129,7 @@
 　Tout en déglutissant malgré ma gorge sèche, je digérai ce fait irréel et répulsant. [l]C'était dur et douloureux et je ne parvenais absolument pas à avaler, mais je m'efforçai de le faire.
 *page30|
 「――――――」
-　J'étais plutôt calme. Mon pouls était un peu trop fort, et ma respiration faisait autant de bruit que deux mille personnes, mais je pensais avoir les idées très claires.
+　J'étais plutôt calme. J'avais le cœur qui battait un peu vite et la respiration haletante, mais je pensais avoir les idées très claires.
 　Avant que je ne m'en rende compte, le morceau de charbon était sous mes yeux.
 　Craignant une contre-attaque, je vérifiai le corps avec précaution.
 　...... Bien, aucun problème. Ce qui était ratatiné et recroquevillé sur le sol du parc avait fini de brûler et n'était plus que cendres.
@@ -177,7 +177,7 @@
 　Tout en étant dépitée par mon impuissance, j'abandonnai la poursuite.
 *page40|
 　Même si c'était temporaire, le parc était devenu la “forêt” d'Alice.
-　Si on pénétrait d'un seul mètre à l'intérieur, le visage et la voix des gens devenaient imprécis et inidentifiables. Après tout, c'était l'intérieur d'un conte de fées.
+　Ici, reconnaître le visage ou la voix de quelqu'un devenait pratiquement impossible, même à moins d'un mètre de distance. Après tout, c'était l'intérieur d'un conte de fées.
 　Il avait vu tout ce qui s'était passé, mais il ne connaissait ni mon visage ni celui d'Alice ni le lieu où nous habitions―――dans ce cas, nous pouvions encore agir.
 *page41|
 「Ce dos, c'était celui d'un homme.」

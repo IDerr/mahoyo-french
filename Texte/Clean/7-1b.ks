@@ -48,7 +48,7 @@
 *page11|
 「――――――」
 　Ses paupières closes bougèrent imperceptiblement.
-　L'heure était tardive, et la nuit sur le point de tomber.
+　L'après-midi était avancé et le jour allait commencer à décliner.
 　La fille réagit, non pas aux sons perçus par ses oreilles, mais à ceux transmis par le manoir, et reprit vaguement conscience.
 *page12|
 　L'oiseau bleu chanta comme s'il s'inquiétait pour la jeune fille qui se massait les paupières d'un air douloureux.
