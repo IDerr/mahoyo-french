@@ -60,7 +60,7 @@
 *page12|
 　Même sous son regard furibond, le garçon persistait à arborer un curieux sourire.
 　Tandis qu'il fixait les jeunes filles, l'éclat qui brillait dans ses yeux montrait clairement qu'il se délectait de la tragédie à venir.
-　Ses cheveux et ses yeux verts qui resplendissaient même dans les ténèbres,
+　Ses cheveux blonds et ses yeux verts qui resplendissaient même dans les ténèbres,
 　et son apparence, plus proche d'une fille que d'un garçon, [l]
 évoquaient tout simplement un être vivant venu d'une autre planète qui revêtait temporairement cette forme―――
 *page13|

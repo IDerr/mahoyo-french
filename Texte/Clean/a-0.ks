@@ -162,7 +162,7 @@
 「...... Tu ne sais pas à quel point c'est douloureux d'avoir la trachée bloquée, hein, Aozaki ? On ne peut vraiment plus résister quand ça arrive.」
 「Je t'ai bien dit que ce collier servait à ça, non ?
 　Je ne l'avais encore jamais utilisé jusqu'à maintenant, et comme d'habitude, tu n'as aucun sens du danger, il fallait bien que je te dresse une fois.
-　―――À part ça, va donc faire le ménage. Si tu ne te dépêches pas, tu y seras encore que le soleil sera déjà couché, tu sais ?」
+　―――À part ça, va donc faire le ménage. Si tu ne te dépêches pas, le soleil se couchera avant que tu en aies fini, tu sais ?」
 *page36|
 「...... D'accord. J'ai compris.
 　Au bout du compte, le destin a voulu que cette journée se passe ainsi.」

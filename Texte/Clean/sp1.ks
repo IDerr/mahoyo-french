@@ -942,7 +942,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 「Vraiment ? C'est juste un ennemi ? Je suis le seul qui soit spécial pour toi ?」
 *page225|
 「Oui, pour le moment.
-　...... Je pensais que la flamme subsistait encore, mais elle est complètement éteinte. La prochaine fois que j'aurai affaire à lui, je n'hésiterai sans doute pas.」
+　...... Je pensais que la flamme pouvait peut-être se rallumer, mais elle est définitivement éteinte. Je ne ressentirai plus jamais rien pour lui.」
 「Vraiment ? S'il n'est plus rien pour toi, alors je vais faire en sorte d'oublier ! Mais ça veut dire quoi, cette histoire de flamme ?」
 *page226|
 「À force de ressasser le passé, j'aurais pu retomber sous son charme.
@@ -1020,7 +1020,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 　Hum, non, ce n'est pas du sarcasme, je te dis ! Les loups ont une grande fierté. Tant que je n'aurai pas trouvé meilleur employeur, je te confie ma laisse.」
 *page242|
 　Il voulut soudainement savoir où voyageait la personne au bout du fil.
-　Après avoir admis la défaite, elle avait abrogé le contrat avec son familier.
+　Après avoir reconnu la défaite, elle avait abrogé le contrat avec son familier.
 　La raison étant qu'elle n'avait pas respecté sa part du marché qui consistait à lui faire affronter la Vraie Magie.
 　Cependant, la faute incombait à son familier et non à elle. Il n'avait pas encore accompli son travail en tant que garde du corps.
 *page243|
@@ -1028,8 +1028,8 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 　Son interlocuteur prononça le nom d'un pays qui lui était inconnu.
 　Afin de mettre au point un moyen de dissiper la malédiction, elle avait rapidement quitté le Japon.
 *page244|
-「En quoi as-tu reconnu la défaite ?
-　Ça prouve que tu n'as pas encore abandonné.」
+「En quoi as-tu “reconnu la défaite” ?
+　Au contraire, tu n'as pas encore renoncé.」
 　“En effet”, répondit-elle en riant.
 　Il sentit comme une fragrance des tropiques à l'autre bout du combiné.
 　Il n'aurait su dire s'il s'agissait d'une caractéristique du téléphone fabriqué par Aozaki Tōko,
@@ -1043,7 +1043,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 　Alors qu'il hésitait sur les mots à employer, il palpa sa poitrine et se remémora la douleur qui l'avait parcouru un mois auparavant.
 *page247|
 「Hé hé hé. Eh bien, comment dire...
-　J'ai l'impression qu'en restant ici, je découvrirai ce que signifie la notion de “douceur”.」
-　Le loup qui avait expérimenté les actes inutiles déclara son objectif d'une voix d'où perçait la gaieté.[r]
-　C'était une affaire extrêmement rare, en rapport avec le miel.
+　J'ai l'impression qu'en restant ici, je découvrirai ce qu'est véritablement la “douceur”.」
+　Le loup, conscient de la vacuité de ses efforts, déclara son objectif d'une voix d'où perçait la gaieté.[r]
+　Il s'agissait, là encore, d'une situation extrêmement rare, similaire à une forme de [ruby char="premier amour" text="miel"].
 *page248|

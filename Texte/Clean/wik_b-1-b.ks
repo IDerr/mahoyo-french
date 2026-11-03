@@ -35,8 +35,8 @@
 *page8|
 　Le coup décisif se produisit durant le nettoyage après le festival culturel de deuxième année.
 　Par le plus grand des hasards, on rangeait ensemble le matériel de théâtre du conseil étudiant, et je finis par me poser la question suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”
-　On dit que l'amour est aveugle,
-　mais l'être à ce point-là, c'est grave !
+　On dit que l'amour est un poison violent,
+　mais qu'il mette autant de temps à agir, c'est un comble !
 *page9|
 　Cela dit, rien ne changea suite à cette révélation.
 　Je continuais de tenir tête à ma famille, une bande de barbares ayant un muscle à la place du cerveau.

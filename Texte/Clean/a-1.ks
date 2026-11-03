@@ -67,7 +67,7 @@
 *page14|
 「En gros, les cheveux des Mages peuvent aussi servir d'arme.
 　Les cheveux et les yeux humains ont toujours constitué de bons matériaux en Magie. Tout particulièrement dans le cas des femmes.
-　Plus la couleur des yeux est pure, mieux c'est, et plus les cheveux sont longs, meilleure est la qualité.
+　Plus les yeux ont une couleur prononcée, mieux c'est, et plus les cheveux sont longs, meilleure est la qualité.
 　Il est facile d'utiliser ses cheveux comme une extension de soi-même, et on les entretient sur de longues années. Vois ça comme une primitive et puissante “matière première”.
 　La raison pour laquelle je me laisse pousser les cheveux, eh bien, c'est pour ça. C'est fastidieux de les entretenir, mais comme je suis une femme, c'est presque un passe-temps.」
 *page15|

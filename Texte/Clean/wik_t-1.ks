@@ -60,7 +60,7 @@
 　Mon corps était encore engourdi.
 　Trop lasse pour préparer du thé, je pris lentement mon portefeuille et mon porte-passe posés sur la table.
 　Dans ce dernier se trouvaient ma carte de transport et une photo souvenir.
-　Une photo singulière où on voyait Aozaki se dépraver pendant le festival de l'école de cette année.
+　La photo d'un spectacle rare, où Aozaki se mettait dans une situation embarrassante pendant le festival de l'école de cette année.
 *page15|
 　Peut-être avait-elle bu du champagne qu'elle avait confondu avec du jus de fruit,
 　ou bien quelqu'un s'était trompé dans la quantité d'assaisonnement secret, à savoir de l'alcool, dans le Mont Blanc,

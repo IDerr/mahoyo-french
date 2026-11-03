@@ -43,7 +43,7 @@ Tu sais pourquoi ? Eh bien, parce que tu veux vraiment faire de moi une chaise h
 *page11|
 「Ah, Kojika ! Ciaos ♪」
 　je me demandais quel genre de bête pouvait se cacher derrière le sourire de cette femme insouciante.
-　En tout cas, ce n'était probablement pas un esprit très recommandable.
+　Ma foi, il n'y avait probablement même pas un chaton là-dessous.
 *page12|
 「Bonjour, Ritsuka.
 　Vous avez aussi été invitée à la fête ?」
@@ -56,7 +56,7 @@ Tu sais pourquoi ? Eh bien, parce que tu veux vraiment faire de moi une chaise h
 　C'était une résidente parfaitement banale du vieux quartier de Misaki que je croisais tous les deux jours dans le quartier marchand.
 *page14|
 「Au fait, Ritsuka. Il s'est mis à pleuvoir ?」
-「Oui, à verse. J'espère que ça se calmera vite.」
+「Oui, juste quelques gouttes. J'espère que ça s'arrêtera vite.」
 　Ritsuka jeta un regard inquiet vers l'extérieur.
 　Je...
 *page15|
