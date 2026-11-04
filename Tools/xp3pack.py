@@ -155,25 +155,60 @@ def _tables():
 
 
 LIT, LEN = _tables()
+CHAIN = 16   # pas de chaîne de hachage avant de passer à bytes.rfind (même résultat, en C)
+
+
+def _dist_table():
+    t = []
+    for dd in range(WIN):
+        cl = 0 if dd < 4 else dd.bit_length() - 2
+        sym = (dd >> cl) + cl * 2
+        t.append((int(format(sym, "05b")[::-1], 2) | (dd & ((1 << cl) - 1)) << 5, 5 + cl))
+    return t
+
+
+DIST = _dist_table()
 
 
 def deflate(d):
-    """zlib, Huffman fixe, LZ77 glouton (chaîne de hachage sur 2 octets) : sortie identique à arc_conv."""
+    """zlib, Huffman fixe, LZ77 glouton : sortie identique à arc_conv (pack_zlib.asm).
+
+    Match = parmi les positions des WIN derniers octets de même préfixe, la plus proche des plus longues.
+    On suit la chaîne de hachage sur 2 octets (comme arc_conv) puis, si elle est longue, on cherche
+    avec rfind le plus proche candidat qui bat le meilleur courant : mêmes choix, bien plus vite.
+    """
     n = len(d)
-    out = bytearray(b"\x78\xda")
+    out = bytearray([0x78, 0xDA])        # en-tête zlib
     acc, nacc = 3, 3                     # BFINAL=1, BTYPE=01
     head = [-WIN - 1] * 0x10000
     prev = [0] * WIN
+    rfind, append = d.rfind, out.append
     pos = 0
     while pos < n:
         rem = n - pos
         ln = 0
         if rem >= 3:
-            maxl = min(rem, 0x102)
+            maxl = rem if rem < 0x102 else 0x102
             c = 2
             off = head[d[pos] | d[pos + 1] << 8] - pos
+            k = 0
             while off >= -WIN:
                 p = pos + off
+                if k == CHAIN:
+                    lo = pos - WIN if pos > WIN else 0
+                    while True:
+                        p = rfind(d[pos:pos + c + 1], lo, p + c + 1)
+                        if p < 0:
+                            break
+                        c = c + 1
+                        while c < maxl and d[pos + c] == d[p + c]:
+                            c += 1
+                        best = p - pos
+                        if c >= maxl:
+                            break
+                        p -= 1
+                    break
+                k += 1
                 if d[p + c] == d[pos + c]:       # ne peut améliorer que si l'octet c correspond
                     l = 2
                     while l < maxl and d[pos + l] == d[p + l]:
@@ -186,31 +221,31 @@ def deflate(d):
             if c > 2:
                 ln = c
         if ln:
-            dd = -best - 1
-            cl = 0 if dd < 4 else dd.bit_length() - 2
-            sym = (dd >> cl) + cl * 2
             v, nb = LEN[ln]
-            v |= (int(format(sym, "05b")[::-1], 2) | (dd & ((1 << cl) - 1)) << 5) << nb
-            nb += 5 + cl
+            dv, dn = DIST[-best - 1]
+            v |= dv << nb
+            nb += dn
         else:
             v, nb = LIT[d[pos]]
             ln = 1
         acc |= v << nacc
         nacc += nb
         while nacc >= 8:
-            out.append(acc & 255)
+            append(acc & 255)
             acc >>= 8
             nacc -= 8
-        for _ in range(ln):              # insertion dans la table de hachage
-            if pos + 1 < n:
-                w = d[pos] | d[pos + 1] << 8
-                dist = pos - head[w]
-                head[w] = pos
-                prev[pos & (WIN - 1)] = 0xFFFF if dist > 0x7FFF else dist
-            pos += 1
+        end = pos + ln
+        if end >= n:                     # le dernier octet n'est pas inséré
+            end = n - 1
+        for q in range(pos, end):        # insertion dans la table de hachage
+            w = d[q] | d[q + 1] << 8
+            dist = q - head[w]
+            head[w] = q
+            prev[q & (WIN - 1)] = 0xFFFF if dist > 0x7FFF else dist
+        pos += ln
     nacc += 7                            # fin de bloc (7 bits à 0)
     while nacc > 0:
-        out.append(acc & 255)
+        append(acc & 255)
         acc >>= 8
         nacc -= 8
     return bytes(out) + zlib.adler32(d).to_bytes(4, "big")
