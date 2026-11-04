@@ -1,0 +1,22 @@
+name: Build patches
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - run: python Tools/rescript.py
+      # patch2/patch3 (assets) sont versionnés tels quels ; seuls les scripts changent
+      - name: Pack xp3
+        run: for n in 1 8; do python Tools/xp3pack.py Release/Patch/patch$n Release/Patch/patch$n.xp3; done
+      - uses: actions/upload-artifact@v4
+        with:
+          name: patches-${{ github.sha }}
+          path: |
+            Release/Patch/*.xp3
+            Release/Patch/README.txt
