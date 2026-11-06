@@ -313,7 +313,7 @@
 @pg
 *page17|
 @chgfg time=200 storage=im18なぜなにコマドリふむ id=k
-@ploysay mode=lu19
+@ploysay mode=lu26
 @sestop
 @se storage=BA0_NZ3_0008.opus
 　　なンでもないッス。[r]
@@ -666,7 +666,7 @@
 @pg
 *page47|
 @chgfg time=200 storage=im18なぜなにコマドリふむ id=k
-@ploysay mode=lu262
+@ploysay mode=lu192
 @sestop
 @se storage=BA0_NZ3_0016.opus
 　おなじみの『ディドルディドル』ッスね。[r]
@@ -700,8 +700,8 @@
 @sestop
 @se storage=A40_NZ3_0022.opus
 　　　典型的な[ruby text=マザーグース char=4]韻踏み唄ね。[r]
-　　　真夜中、猫がヴァイオリンをひいて、[r]
-@ploysay mode=ru192
+　　　真夜中、猫がヴァイオリンをひいて、[l][r]
+@ploysay mode=ru19
 @sestop
 @se storage=A40_NZ3_0023.opus
 牛が月を飛び越えて、[r]
@@ -937,7 +937,7 @@
 @playstop time=5000
 @se storage=se05090 volume=100 loop=1 time=5000
 @chgfg time=200 storage=im18なぜなにコマドリ普 id=k textoff=0
-@ploysay mode=lu13
+@ploysay mode=lu19
 @sestop
 @se storage=BA0_NZ3_0024.opus
 　消化できないっつーか、[r]

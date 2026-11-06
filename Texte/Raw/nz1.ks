@@ -456,7 +456,7 @@
 @pg
 *page38|
 @chgfg textoff=0 storage=im18なぜなにコマドリふむ id=k time=200
-@ploysay mode=lu192
+@ploysay mode=lu262
 @sestop
 @se storage=BA0_NZ1_0019.opus
 　ん？　んじゃ、使い魔は術者より弱いんスね。[r]
@@ -491,6 +491,7 @@
 @pg
 *page42|
 @chgfg textoff=0 storage=im18なぜなに有珠制服微悲 id=a time=200
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ1_0021.opus
 　　試しに、こんどアナタのお腹に[r]
@@ -530,7 +531,7 @@
 *page45|
 @clfg time=100 storage=im18クラッカーb id=c
 @chgfg storage=im18なぜなに有珠制服普 id=a time=300 zoomx=100
-@ploysay mode=ru13
+@ploysay mode=ru19
 @sestop
 @se storage=A40_NZ1_0023.opus
 　　　まさに豆鉄砲ね。[r]
@@ -635,7 +636,7 @@
 @pg
 *page57|
 @chgfg storage=im18なぜなに有珠制服呆2 id=a time=200
-@ploysay mode=lu26
+@ploysay mode=lu262
 @sestop
 @se storage=BA0_NZ1_0028.opus
 　　泳ぎは犬かきしかできない、[r]

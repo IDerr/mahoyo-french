@@ -299,7 +299,7 @@
 *page23|
 @clfg storage=im18なぜなにコマドリ羽
 @chgfg storage=im18なぜなにコマドリ普(口開) id=k time=200 preback=0
-@ploysay mode=lu192 oy=-30
+@ploysay mode=lu132 oy=-30
 @sestop
 @se storage=BA0_NZ2_0017.opus
 　　　このコーナーの根底を崩す一言ッスね。
@@ -323,7 +323,7 @@
 @pg
 *page26|
 @chgfg storage=im18なぜなに有珠園児イヤ id=a time=200
-@ploysay mode=ru132 oy=-30
+@ploysay mode=ru192 oy=-30
 @sestop
 @se storage=A40_NZ2_0010.opus
 ………………それは避けたいわね。[r]
