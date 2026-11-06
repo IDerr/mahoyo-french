@@ -49,8 +49,8 @@
 　24 oiseaux noirs, dans la tourte grillés～♪』
 *page13|
 　... Hmm. J'comprends pas pourquoi on massacre[r]
-　les oiseaux sans raison. Qu'est-ce qu'ils[r]
-　avaient contre les oiseaux, ces nordiques ?
+　les oiseaux sans raison. Qu'est-ce qu'ils avaient[r]
+　contre les oiseaux, ces nordiques ?
 *page14|
 　Dans la suite, on a aussi :[r]
 　“Le roi, son argent comptait,[r]
@@ -92,18 +92,18 @@
 　Pas besoin de détails, n'est-ce pas ?[r]
 　Tu apparais bien assez comme ça dans l'histoire principale.
 *page27|
-　Il se base sur un chant funèbre.[r]
-　L'histoire tourne autour du meurtre du rouge-gorge.
+　Il se base sur un chant funèbre. L'histoire[r]
+　tourne autour du meurtre du rouge-gorge.
 *page28|
 　À la question 「Qui l'a tué ?」,[r]
 　l'ensemble du cortège funèbre répond 「Moi」.[r]
 　Elle dépeint aussi la recherche du coupable.
 *page29|
-　Suite à l'immense succès de cette comptine de Mother Goose,[r]
-　la préquelle “L'heureuse cour de Cock Robin et Jenny Wren”[r]　fut publiée et devint elle aussi un best-seller.
+Suite à l'immense succès de cette comptine de Mother Goose,[r]
+la préquelle 「Les heureuses fiançailles de Cock Robin et Jenny Wren」[r]fut publiée et devint elle aussi un best-seller.
 *page30|
-Elle fut suivie de “Le procès et l'exécution du moineau pour avoir tué[r]
-Cock Robin” qui conte les évènements après la mort du rouge-gorge.[r]
+Elle fut suivie de l'histoire du procès et de l'exécution du moineau[r]
+qui conte les évènements après la mort du rouge-gorge.[r]
 Je t'envie. Avec les droits d'auteur, tu dois être riche, Robin.
 *page31|
 　Les piafs ont pourtant jamais eu un yen.
@@ -159,9 +159,9 @@ Comme les mots-valises inventés par Lewis Carroll.
 　“première édition limitée” et “édition normale”,[r]
 　ça donne quoi ?
 *page49|
-　Eh bien, en combinant les deux,[r]
-　les bonus collector de l'édition limitée[r]
-　resteraient constamment disponible à la vente.
+　Eh bien, en combinant les deux, les bonus[r]
+　collector de l'édition limitée resteraient[r]
+　constamment disponible à la vente.
 *page50|
 　Ha ha ha ![r]
 　Alors, ce serait une [r]　“Première Édition Populaire” !

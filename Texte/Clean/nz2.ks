@@ -44,7 +44,7 @@
 　Je vois. J'ai à peu près compris.[r]
 　Cet entrain surprendrait même Mam'zelle Aoko.
 *page12|
-　Mais perso, j'préfère plutôt les jupes aux blouses.[r]　Celles qui ressemblent à des robes,[r]　elles sont divines.[r]　Enfin, c'est pas que les blouses c'est moche,[r]　c'est juste un problème d'image.[r]　Est-ce qu'elles rendent bien en peinture ?[r]　
+　Mais perso, j'préfère plutôt les jupes aux blouses.[r]　Celles qui ressemblent à des robes,[r]　elles sont divines.[r]　Enfin, c'est pas que les blouses c'est moche,[r]　c'est juste un problème d'image.[r]　Est-ce qu'elles rendent bien en peinture ?[r]
 　Vous voyez “La forêt, l'oiseau et la fillette” ?[r]　Ou “L'oiseau et l'écolier”, où l'enfant[r]　a une telle présence qu'on en oublie l'oiseau.
 *page13|
 　Zut. J'étais en pleine préparation de pâtisseries.
@@ -59,12 +59,12 @@
 　Tu peux le constater par toi-même.[r]
 　Dès que j'ai le temps, je fais des Ploy.
 *page17|
-　Ouaah. C'est à l'image des sorcières[r]
-　des contes de fées.[r]
+　Ouaah. C'est à l'image[r]
+　des sorcières des contes de fées.[r]
 　Les Ploy se fabriquent dans une marmite ?
 *page18|
-　En fait, cette odeur,[r]
-　c'est du chocolat ? Pas possible......[r]
+　En fait, cette odeur, c'est du chocolat ?[r]
+　Pas possible......[r]
 　Les Ploy étaient des pâtisseriesーーーー?!
 *page19|
 　...... Toi alors. Tu es un Ploy, et pourtant, tu ne connais[r]
@@ -90,11 +90,11 @@
 　À ce rythme, c't'partie va être pire[r]
 　qu'un certain dojo !
 *page26|
-　............... Je préférerais éviter[r]
-　cela. Dans ce cas......
+　............... Je préférerais éviter cela.[r]
+　Dans ce cas......
 *page27|
 　C'est l'orthographe de Ploy Kickshaw. En soi,[r]
-　ça donne déjà une assez bonne explication. [r]　Qu'en penses-tu ?
+　ça donne déjà une assez bonne explication.[r]　Qu'en penses-tu ?
 *page28|
 　　　　　Ploy ? Kickshaw ?
 *page29|

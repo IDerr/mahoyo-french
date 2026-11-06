@@ -54,11 +54,11 @@ Chef. Une autre assiette d'ōtoro.
 *page16|
 　　　　　　　　　Quoi ?
 *page17|
-　Non, rien. La proprio détient l'autorité[r]
-　absolue, après tout. Qui pourrait[r]
-　s'opposer à vous dans ce manoir ?
+　Non, rien.[r]
+　La proprio détient l'autorité absolue, après tout.[r]
+　Qui pourrait s'opposer à vous dans ce manoir ?
 *page18|
-　...... Mais tout de même, c't idiot[r]　est plutôt friqué, dis donc.[r]
+　...... Mais tout de même,[r]　c't idiot est plutôt friqué, dis donc.[r]
 　Il m'a l'air bien lourd, c'portefeuille.
 *page19|
 　Il roule sur les liasses de billets.[r]
@@ -77,7 +77,7 @@ Chef. Une autre assiette d'ōtoro.
 　Laissons-la.[r]
 　Tout le monde souhaite parfois s'isoler.
 *page24|
-　Mam'zelle Alice, vous[r]　n'prenez pas d'assiette ?
+　Mam'zelle Alice,[r]　vous n'prenez pas d'assiette ?
 *page25|
 　...... Bon, très bien.[r]
 　Je vais prendre ça.
@@ -99,7 +99,7 @@ Chef. Une autre assiette d'ōtoro.
 *page33|
 Les chouchous de notre maîtresse, pouvant[r]nous métamorphoser à volonté, Six Force !
 *page34|
-Des Ploy de haut niveau capables de[r]se transformer en mammifères ou en oiseaux ![r]
+Des Ploy de haut niveau capables de se[r]transformer en mammifères ou en oiseaux ![r]
 Les Jumeaux bavards, c'est nous.
 *page35|
 　Ooohーーー?![r]
@@ -152,8 +152,8 @@ Les Jumeaux bavards, c'est nous.
 　　　　Et le plat avec la cuillère s'est enfui.』
 *page50|
 C'est une comptine typique de Mother Goose.[r]
-Le poème parle d'un chat jouant du violon à[r]
-minuit, une vache qui saute par-dessus la lune,[r]
+Le poème parle d'un chat jouant du violon à minuit,[r]
+une vache qui saute par-dessus la lune,[r]
 un chien qui rit, et les personnifications[r]
 d'un plat et d'une cuillère qui s'enfuient.
 *page51|
@@ -209,8 +209,8 @@ de contes de fées, prend un sens tangible.
 　ce miroir pour en faire son chef-d'œuvre[r]
 　ultime. Cela dit, je ne sais trop quoi en penser.
 *page67|
-　Tu vois ? En affichant la carte de Misaki[r]
-　sur le Miroir de la sieste et en posant le pion dessus,[r]　l'endroit correspondant devient la “Forêt sans nom”.
+　Tu vois ? En affichant la carte de Misaki sur[r]
+　le Miroir de la sieste et en posant le pion dessus,[r]　l'endroit correspondant devient la “Forêt sans nom”.
 *page68|
 　C'est ce Ploy que j'ai utilisé pour le premier combat d'Aoko.[r]
 　Dans sa zone d'action, il suggère aux intrus qu'ils n'ont[r]　rien à faire là, agissant comme une répulsion, mais......
@@ -255,7 +255,7 @@ retentit à l'intérieur de mon ventre.
 　dans une des comptines de Mother Goose.
 *page83|
 　“Humpty Dumpty assis sur un mur[r]
-　mal assuré préféra ignorer le roi[r]　lui disant d'en descendre.
+　mal assuré, préféra ignorer le roi[r]　lui disant d'en descendre.
 *page84|
 　Ce dernier courroucé ordonna à ses soldats[r]
 　de le déloger, mais ils ne purent[r]　atteindre l'œuf haut perché.

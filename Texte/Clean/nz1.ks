@@ -76,7 +76,7 @@ C'est même physiquement pesant ?
 　et ces derniers ne prendraient pas de disciples [r]　s'il en était autrement.
 *page25|
 　À l'inverse, les familiers reçoivent l'intégralité[r]　de leurs capacités à leur naissance.[r]
-　Il n'y a aucun sens à ce qu'un être incapable d'évoluer　[r]devienne le successeur d'un Mage.
+　Il n'y a aucun sens à ce qu'un être incapable[r]d'évoluer devienne le successeur d'un Mage.
 *page26|
 J'vois. J'comprends mieux. C'pour ça que malgré les années qui passent, ma capacité de mémorisation n'augmente pas. Mais ça veut aussi dire que j'suis parfait depuis ma naissance.
 *page27|
@@ -92,9 +92,9 @@ En effet, une grande partie des types de familiers requièrent d'être alimenté
 　J'ai pas besoin de protéines ou de fibres alimentaires ?
 *page31|
 　Les Ploy sont une catégorie à part.[r]
-　Bref, pour les Mages, les familiers sont [r]　des “serviteurs” ou des “animaux [r]　de compagnie” à leur service.
+　Bref, pour les Mages,[r]　les familiers sont　des “serviteurs” ou[r]　des “animaux  de compagnie” à leur service.
 *page32|
-　Ainsi, on prend en général un chat,[r]　un oiseau ou une souris comme familier.
+　Ainsi, on prend en général un chat, un[r]　oiseau ou une souris comme familier.
 *page33|
 　Mam'zelle Alice, cette machine effrayante,[r]
 　ça entre dans quelle catégorie ?
@@ -107,13 +107,13 @@ les familiers possédant une intelligence compatible[r]
 avec les humains comme toi sont aussi des exceptions.
 *page36|
 　Mais les familiers de ce genre ne sont[r]　qu'un immense gâchis d'énergie.[r]　Leur coût en prana est trop élevé.[r]
-　En général, le Mage gagnerait à faire[r]　le travail lui-même　ou à utiliser[r]
+　En général, le Mage gagnerait à faire[r]　le travail lui-même ou à utiliser[r]
 　des ressources plus abordables.
 *page37|
 　En d'autres termes,[r]
 　la fin ne justifie pas les moyens, hein.
 *page38|
-　Hm ? Quelque part, ça veut dire que le familier est[r]　toujours plus faible que le Mage, hein.[r]
+　Hm ? Quelque part, ça veut dire que le familier[r]　est toujours plus faible que le Mage, hein.[r]
 　Ce sont que des sous-fifres ?[r]
 　Ouaah, ils sont vraiment inutiles !
 *page39|
@@ -127,8 +127,8 @@ avec les humains comme toi sont aussi des exceptions.
 　Même s'il ne lui donne que 10% de ses propres capacités,[r]
 　il est très facile pour un Mage de créer un familier[r]　plus “fort” que lui-même.
 *page42|
-　Tiens, pourquoi ne pas essayer[r]
-　de t'enfoncer un derringer[r]　dans le ventre une prochaine fois ?
+　Tiens, pourquoi ne pas essayer de t'enfoncer[r]
+　un derringer dans le ventre une prochaine fois ?
 *page43|
 　Tu ne pourras plus gazouiller, rire, ou voler,[r]
 　mais il y a de fortes chances que tu puisses[r]　au moins déstabiliser l'ennemi.
@@ -153,8 +153,8 @@ Je me demande si tes projectiles[r]se feront juste gober.
 　Cette hypothèse n'a pas lieu d'être.[r]
 　Aoko n'a pas les compétences[r]　nécessaires pour créer un familier.
 *page50|
-　En premier lieu, elle ne sait que détruire ![r]
-　Si elle donnait le seul don qu'elle possède à un familier,[r]
+　En premier lieu, elle ne sait que détruire ! Si elle[r]
+　donnait le seul don qu'elle possède à un familier,[r]
 　sa raison d'être se briserait en mille morceaux.
 *page51|
 　Ha ha ha.[r]
@@ -170,18 +170,18 @@ Et inversement, je ne peux pas me battre―――
 　Pour faire une comparaison avec les échecs......[r]
 　non, avec le shogi, Aoko n'est que le camp du roi [r]　(avec les capacités du fou et de la tour).
 *page55|
-　Quant à moi, mon camp est fort, [r]　mais le roi lui-même n'a que les capacités du pion.
+　Quant à moi, mon camp est fort, mais le roi[r]　lui-même n'a que les capacités du pion.
 *page56|
 　Oui, Mam'zelle Alice est un personnage lent,[r]
 　n'ayant ni force physique ni réflexe !
 *page57|
-　Elle peut à peine faire la nage du chien[r]
-　en natation, et ne sait faire[r]　ni de la barre fixe ni du vélo.
+　Elle peut à peine faire la nage du chien en natation,[r]
+　et ne sait faire ni de la barre fixe ni du vélo.
 *page58|
 　Aux heures de sport, sa tâche est facile : [r]　rester assise à la lisière du campus.
 *page59|
-　Mais c'est pas grave ! Si j'sais tout ça,[r]
-　c'est parce que j'vous file pour prendre des photos ![r]
+　Mais c'est pas grave ! Si j'sais tout ça, c'est[r]
+　parce que j'vous file pour prendre des photos ![r]
 　My Angel ! Vous êtes juste magnifi... [se storage=se10027 volume=100][fgact page=fore props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-effect,-visible keys=(0,3,l,ev青子汎用04私服a(ef小),907,367,5000,,10,10,monoff1313,1)(500,0,n,,,,,0,20,20,,) storage=ev青子汎用04私服a(ef小) textoff=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,-visible keys=(0,0,l,white,512,288,5000,,1)(250,,n,,,,,0,) storage=white textoff=0][fgact page=fore props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,l,im18なぜなにコマドリふむ,45,430,3000,,1)(500,,n,,-264,116,,720,) storage=im18なぜなにコマドリふむ id=k textoff=0]Hein ?![wact]
 *page60|
 　...... Quelle insolence ![r]

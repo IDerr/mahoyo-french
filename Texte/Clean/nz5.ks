@@ -2,9 +2,9 @@
 　Fiou. Ébloui par c'ciel bleu,[r]
 　j'ai crié l'titre par allégresse.
 *page1|
-　J'suis à l'endroit indiqué, mais Mam'zelle Alice n'est pas là.[r]
-　L'heure et le lieu devraient être justes, pourtant...[r]
-　J'vais recrier l'titre, on sait jamais.
+　J'suis à l'endroit indiqué, mais Mam'zelle Alice n'est[r]
+　pas là. L'heure et le lieu devraient être justes,[r]
+　pourtant... J'vais recrier l'titre, on sait jamais.
 *page2|
 　Non. Ce sera inutile.[r]
 　Parce que je suis là en bivouac depuis hier.
@@ -21,20 +21,20 @@
 　Ne sais-tu donc pas qu'un important pourcentage[r]　d'oiseaux migrateurs décèdent en tentant de la franchir ?
 *page7|
 　Un moment d'inattention et c'est la mort assurée.[r]
-　Tu peux mourir n'importe quand. Fais preuve de respect[r]
-　envers les sommets où vivent les dieux.
+　Tu peux mourir n'importe quand. Fais preuve de[r]
+　respect envers les sommets où vivent les dieux.
 *page8|
 　En gros, ça change pas vraiment de d'habitude.
 *page9|
-　Je reformule.[r]
-　Ne nous sous-estime pas, la montagne et moi.[r]
-　Aujourd'hui, je suis deux fois plus motivée que d'ordinaire.
+　Je reformule. Ne nous sous-estime pas,[r]
+　la montagne et moi. Aujourd'hui,[r]
+　je suis deux fois plus motivée que d'ordinaire.
 *page10|
 　Chuis mal ![r]
 　Vous avez l'air drôlement d'attaque.
 *page11|
-　Bien, c'est l'heure de Tout sur les Ploy,[r]
-　Robin. Aujourd'hui, je me sens en pleine forme,[r]
+　Bien, c'est l'heure de Tout sur les Ploy, Robin.[r]
+　Aujourd'hui, je me sens en pleine forme,[r]
 　alors abordons un sujet spécial.
 *page12|
 　Ah—, nous y voilà enfin ![r]
@@ -58,8 +58,8 @@
 『Le Pont de Londres est tombé, est tombé, est tombé,[r]
 　le Pont de Londres est tombé, My Fair Lady.』
 *page18|
-　Elle a été traduite en japonais et est même[r]
-　enseignée à l'école. Elle est donc très connue.
+　Elle a été traduite en japonais et est même enseignée[r]
+　à l'école. Elle est donc très connue.
 *page19|
 　Alias, le Troll Négligent ![r]
 　Il ne sert que contre le menu fretin !
@@ -101,8 +101,8 @@
 Parce que la société humaine ne m'intéresse pas. Le pont[r]
 présent dans mon univers ne va que du bois à la roche.
 *page32|
-　Comment ![r]
-　Moi qui vous croyais invulnérable,[r]　vous cachez donc des points faibles......
+　Comment ! Moi qui vous croyais invulnérable,[r]
+　vous cachez donc des points faibles......
 *page33|
 　Ah, non, en y repensant, vous n'êtes pas si invulnérable[r]
 　que ça ! Vous perdez souvent ! Comme moi, quoi !

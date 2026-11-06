@@ -2,17 +2,17 @@
 　Y a pas de sous-titres dans c'film.[r]
 　Pourtant, j'ai dit des tas de choses.
 *page1|
-　Je sais.[r]
-　Mais comme tu étais trop bruyant, j'ai ordonné[r]
-　au réalisateur de couper spécifiquement tes répliques.
+　Je sais. Mais comme tu étais trop bruyant,[r]
+　j'ai ordonné au réalisateur de couper[r]
+　spécifiquement tes répliques.
 *page2|
 　Great. De cette façon, toute l'attention[r]　peut se concentrer sur vous, hein ?[r]
 　Je suis le seul à jouer comme dans un film muet.
 *page3|
 　C'est l'deuxième, pas vrai ?
 *page4|
-　Le deuxième, oui.[r]
-　À titre d'information, je précise que[r]　le corps de Snark est liquide.
+　Le deuxième, oui. À titre d'information,[r]
+　je précise que le corps de Snark est liquide.
 *page5|
 　C'est vrai que son surnom, c'est l'Huile de la Lune.[r]
 　Qui l'a baptisé Flat Snark ?
@@ -27,8 +27,8 @@
 　Par ordre ? Pas par numéro, plutôt ?[r]
 　Vous n'donniez pas de nom par paresse... [r]　par simplicité plutôt, mais pourquoi les nommer par ordre ?
 *page9|
-　Eh bien, si je leur avais attribué des numéros fixes arbitrairement,[r]
-　cela aurait pu être mal interprété, non ?[r]　Alors que mon affection ou leurs forces changeaient constamment.
+　Eh bien, si je leur avais attribué des numéros fixes[r]　arbitrairement, cela aurait pu être mal interprété, non ? Alors[r]
+　que mon affection ou leurs forces changeaient constamment.
 *page10|
 　De fait, leur ordre était modifié en fonction[r]
 　de mon humeur. Diddle était toujours le premier.[r]
@@ -49,24 +49,24 @@
 　J'imagine la suite, mais j'demande quand même.[r]
 　C'était quel Ploy ?
 *page15|
-　Le parfum qu'elle nommerait après ça [r]　le Goblin Fron. Quand quelqu'un s'en met,[r]　il ne peut que dire des injures et parler[r]　en argot pendant toute une journée.
+　Le parfum qu'elle nommerait après ça le Goblin Fron.[r]　Quand quelqu'un s'en met, il ne peut que dire des injures[r]　et parler en argot pendant toute une journée.
 *page16|
 　　　　........................
 *page17|
-　Après ça, elle m'a proposé de donner [r]　des noms aux Ploy. Avec les yeux boursouflés [r]　pour une raison qui m'échappe.
+　Après ça, elle m'a proposé de donner des noms aux Ploy.[r]　Avec les yeux boursouflés pour une raison qui m'échappe.
 *page18|
 『Celui-ci est Sweets Hearts. Lui Scripps Humpty.[r]
-Celui-là Diddle Diddle. Et lui Flat Snark.[r]　Compris ? Appelle-les comme ça dorénavant.』
+　Celui-là Diddle Diddle. Et lui Flat Snark.[r]　Compris ? Appelle-les comme ça dorénavant.』
 *page19|
 　...... On dit que le nom est le reflet de l'âme, vois-tu ?[r]
 　Je pensais que les classer selon mon humeur était[r]　plus simple que d'employer des noms extravagants, mais...
 *page20|
 『On ne peut pas deviner ton état d'esprit. Dis-toi que [r]　mon destin peut dépendre de tes mystérieuses humeurs.』
 *page21|
-『Et puis, ce genre de noms sera bientôt à la mode. [r]
-C'est certain. Même si on en aura [r]　sûrement rapidement assez.』
+『Et puis, ce genre de noms sera bientôt à la mode.[r]
+　C'est certain. Même si on en aura sûrement rapidement assez.』
 *page22|
-『Quitte à leur donner des noms, autant que ça[r]　en jette. Ce sont nos créations originales,[r]　ne pas suivre la mode serait du gâchis.』
+『Quitte à leur donner des noms, autant que ça en jette.[r]　Ce sont nos créations originales,[r]　ne pas suivre la mode serait du gâchis.』
 *page23|
 　Depuis, j'appelle les Ploy par des noms. [r]　Ça a été dur de tous les retenir, [r]　mais je ne me suis plus jamais trompée après ça.
 *page24|
@@ -86,9 +86,9 @@ C'est certain. Même si on en aura [r]　sûrement rapidement assez.』
 　principale. Les données détaillées sont les suivantes :
 *page29|
 *page30|
-　Hum.[r]
-　Et cette huile précieuse, Mam'zelle Aoko[r]
-　l'a brûlée. On n'peut pas le restaurer ?
+　Hum. Et cette huile précieuse,[r]
+　Mam'zelle Aoko l'a brûlée.[r]
+　On n'peut pas le restaurer ?
 *page31|
 　Malheureusement, c'est impossible.[r]
 　Rien ne peut raffiner Snark à notre époque.
@@ -124,7 +124,7 @@ C'est certain. Même si on en aura [r]　sûrement rapidement assez.』
 　Et il en reste encore tellement !
 *page42|
 　...... Le film se finit là, apparemment.[r]
-　Les cinémas ne font plus de projections doubles [r]　depuis quelque temps.
+　Les cinémas ne font plus de projections[r]　doubles depuis quelque temps.
 *page43|
 　J'aurais voulu vous présenter le troisième pour finir,[r]
 　mais ce sera pour une prochaine fois.
