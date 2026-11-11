@@ -4,7 +4,7 @@
 *page1|
 　Sa maison se trouvait en pleine montagne,
 　sur une terre stérile dépourvue de tout.
-　Elle ne pouvait espérer avoir un ami d'enfance habitant aux alentours, et il n'y avait pas moins pratique pour aller à l'école ou pour sortir jouer,
+　Elle ne pouvait espérer avoir un ami d'enfance habitant aux alentours, et rien ne saurait être plus contraignant pour aller à l'école ou pour sortir jouer,
 　mais la maison n'en restait pas moins un lieu qui prenait une place importante dans ses souvenirs, d'une grande tranquillité et où l'on pouvait profiter d'une eau claire et d'un beau ciel étoilé.
 *page2|
 　Cependant, ce n'était ainsi qu'en été.

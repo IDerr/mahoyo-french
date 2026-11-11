@@ -7,8 +7,8 @@
 　et que dans ce cas, ils seraient sauvés s'ils rejoignaient l'extérieur.
 *page1|
 　Cependant,
-　sur le papier, le rapport de force actuel était de deux personnes contre une centaine.
-　Correction, une personne contre une centaine d'objets.
+　sur le papier, le rapport de force actuel était de deux personnes contre plusieurs centaines.
+　Correction, une personne contre plusieurs centaines d'objets.
 　Sōjūrō ne servait pratiquement à rien,[r]
 　et ceux qui les attaquaient étaient davantage des pantins que des humains.
 *page2|
@@ -30,7 +30,7 @@
 「Hein ?」
 　une forme gigantesque s'étira soudainement au-dessus de leur tête.
 *page6|
-　La langouste de dix-huit mètres d'envergure, juchée sur le toit du restaurant de homards, était la fameuse paire de ciseaux.
+　La langouste de dix-huit mètres de long, juchée sur le toit du restaurant de homards, était la fameuse paire de ciseaux.
 *page7|
 「............!」
 　Ces ciseaux étaient une véritable guillotine.

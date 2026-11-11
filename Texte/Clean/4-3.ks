@@ -66,7 +66,7 @@ Pour garder les curieux à l'écart, il me faudra donc choisir un endroit à des
 　L'univers n'accepte pas de donner forme à quelque chose qui n'existe pas dans ce monde―――qu'une chimère transgresse la réalité.
 *page15|
 『...... Même si on dit ça, à la base, [ruby char="l'élément imaginaire" text="Éther"] peut tout faire, donc en gros, les principes de base sont eux-mêmes une illusion, si je me souviens bien.
-　Les choses qui sont composées uniquement de prana sont considérées comme des illusions et disparaissent rapidement...... Pour une Barrière idéale, il faut tout d'abord faire pousser un mur d'épines ou autre, et ensuite, utiliser le prana pour le faire grandir et le renforcer instantanément.
+　Les choses qui sont composées uniquement de prana sont considérées comme des illusions et disparaissent rapidement...... Les Barrières plus classiques, comme les murs d'épines, fonctionnent différemment, il faut d'abord faire pousser de vraies ronces, et ensuite, utiliser le prana pour les faire grandir et les renforcer instantanément.
 　Pour résumer, le prana est un carburant que l'on utilise à sa guise, et simultanément, c'est l'étincelle qui déclenche le phénomène―――』
 *page16|
 「―――C'est bien beau de dire ça.

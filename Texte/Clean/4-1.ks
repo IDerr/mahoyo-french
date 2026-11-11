@@ -212,13 +212,13 @@ J'ai vérifié non seulement là où ils travaillent au cours du mois, mais auss
 　En entendant cette réponse incomplète, Aoko fit preuve d'une relative perspicacité.
 *page52|
 「Tu veux dire l'histoire des frères qui gardaient la caverne de Lotus ? [wait canskip=0 time=200][backlay][chgfg blur=1 storage=青子私服c05(大) type=13 partbg=bg01l久遠寺邸03居間(ソファ無し)-(夜)][fg preback=0 textoff=0 rule=crossfade time=300 storage=青子私服c06a(近)|c center=685 vcenter=257 index=1500 type=13 effect=屋内アンバー]Alors, c'est la même chose que cette gourde rouge ?[r]
-　Désolée de dire ça, mais tu ne trouves pas qu'on dirait juste un simple flacon de médicament contre le rhume dont on a enlevé l'étiquette ?」
+　Désolée de dire ça, mais tu ne trouves pas qu'on dirait un simple flacon de médicament contre le rhume dont on a juste enlevé l'étiquette ?」
 　En entendant la question, Alice examina le flacon et reconnut qu'il paraissait parfaitement ordinaire.
 　Mais réalisant que de toute façon, ce n'était pas elle qui allait l'utiliser, elle la posa sur la table.
 *page53|
 「Pas la gourde rouge, mais la flasque de suif en jade.」
 「C'est pas ça le problème. Je veux dire que ça manque de style pour un Mage.」
-「Tu t'inquiètes pour un détail mineur. Je pense que c'est déjà bien que ce ne soit pas une bouteille de laxatif.」
+「Tu te préoccupes d'un détail mineur. Je pense que c'est déjà bien que ce ne soit pas une bouteille de médicament contre la diarrhée.」
 「―――Hmm.」
 　C'était un argument plutôt convaincant.
 *page54|

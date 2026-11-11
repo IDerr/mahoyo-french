@@ -93,7 +93,7 @@
 「Donc tu n'es pas rancunière. Alors pourquoi tu cherchais la bagarre ? [l]
 D'accord, il te rend fou, mais il n'y a pas plus chic type.」
 「――――――」
-「Attends ! Pourquoi tu me dévisages comme ça, on dirait que tu regardes une fourmi à tes pieds.」[l][r]
+「Attends ! Pourquoi tu me dévisages comme ça, on dirait que tu regardes un insecte à tes pieds.」[l][r]
 「Pas vraiment. Je te jetais simplement un regard méprisant en pensant que toi aussi, tu disais ça.」
 *page19|
 「...... Enfin, c'est pas grave. C'est même parfait que ce soit un chic type ou quelqu'un de bien. C'est l'adversaire idéal à qui chercher la bagarre. Si personne ne veut le haïr, alors je dois le faire, non ?」
@@ -224,7 +224,7 @@ D'accord, il te rend fou, mais il n'y a pas plus chic type.」
 　Elle serra encore plus la cravate.
 　Elle mit en action ses paroles. À cause de l'asphyxie que provoquait impitoyablement Aoko, Tobimaru crut un instant voir les dieux.
 *page48|
-「―――Ah ?! Non, attends, attends. Je vais vraiment mourir, là ! Tu peux encore le faire ! Si tu arrives dix minutes après le début des cours, on notera juste que tu étais en retard !」
+「―――Ah ?! Non, attends, attends. Je vais vraiment mourir, là ! Tu as encore le temps ! Ce n'est que si tu arrives avec plus de dix minutes de retard que ce sera noté comme une absence !」
 　Aoko jeta un coup d'œil à l'horloge.
 　Il était actuellement treize heures sept. En courant, il était possible de parcourir juste à temps la distance qui séparait la salle du conseil étudiant du premier étage et la salle de la classe A au bout du deuxième étage.
 *page49|

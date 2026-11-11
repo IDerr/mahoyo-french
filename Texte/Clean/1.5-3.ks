@@ -54,7 +54,7 @@
 　La forêt diurne ne laissait personne entrer,
 　et la forêt d'hiver ensommeillait même les bêtes.
 　L'air en suspension de la nuit était en soi le souffle d'un spectre.
-　Il avalait le clair de lune, se cachait dans la falaise un peu plus loin et anéantissait la malheureuse victime qui s'était égarée.
+　Il avalait le clair de lune, dissimulait la falaise même quand celle-ci n'était qu'à un pas et précipitait dans l'abîme la malheureuse victime qui s'était égarée.
 *page13|
 　On pouvait entendre le léger bruissement du vent et le courant d'un petit cours d'eau.
 　Ici se trouvaient les ténèbres éternelles qui étouffaient la vie.
@@ -296,7 +296,7 @@
 　Pour cette chose, une attaque faisant trembler la terre équivalait à un geste pour chasser un insecte.
 *page65|
 　Des muscles développés et des vaisseaux sanguins verts bouillonnants.
-　Un épiderme de chêne vert sec, s'étant repu d'une centaine d'années et que même une tronçonneuse électrique ne pourrait entailler.
+　Un épiderme de chêne vert sec, endurci par le passage des siècles au point que même une tronçonneuse électrique ne pourrait l'entailler.
 　Sur son front étaient écrits avec une peinture multicolore les caractères 「emeth」...... Même si ce n'était qu'une inscription semblable à une promesse quelque peu erronée.
 *page66|
 　Cette silhouette s'appelait Thames Troll.

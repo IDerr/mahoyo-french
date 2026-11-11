@@ -33,7 +33,7 @@
 *page6|
 「―――En voilà une surprise. C'est seulement maintenant que tu commences à te soucier de tes camarades, Alice ?[r]
 　Ce soir, tu n'avais pas dit que tu me laissais faire ?」
-　Aoko s'avança légèrement, d'environ un pas et demi.
+　Aoko s'avança avec prudence d'environ un demi-pas.
 　Inconsciemment.
 　D'un point de vue extérieur, on aurait dit que c'était pour protéger la silhouette à proximité.
 *page7|

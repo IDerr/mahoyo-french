@@ -164,7 +164,7 @@
 *page35|
 　Qu'est-ce qui était vraiment important ?
 　Étant de nature simple, il n'avait même pas besoin d'y réfléchir.
-　Les succès et les récompenses ne constituaient pas l'essence de la beauté pour son cœur primitif.
+　Les succès et les récompenses n'avaient rien d'alléchant pour son cœur primitif.
 　C'était simplement,
 *page36|
 “Bien―――”

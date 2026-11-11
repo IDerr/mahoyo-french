@@ -324,7 +324,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 　Sa façon d'agir sans tenir compte de la mode laissait deviner une femme affranchie des conventions sociales. [l]On pouvait même dire qu'elle manquait de retenue.
 *page84|
 「Ah. Je sais !
-　Toi, tu es le travailleur du lycée Misaki ? C'est admirable, de nos jours, les lycéens feraient plutôt des farces aux commerçants !」
+　Toi, tu es le travailleur du lycée Misaki ? C'est formidable, les lycéens n'ont vraiment rien à envier aux professionnels de nos jours !」
 　Tout en regardant Sōjūrō assis au sommet de l'échelle, la femme était surexcitée.
 *page85|
 「Bien, je vais peut-être aider, moi aussi !
@@ -389,7 +389,7 @@ Mlle Hanazawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 *page100|
 「Hé ? Euh ?」
 　Même Hanazawa en était confuse.
-　Elle ne savait pas que Sōjūrō venait tout droit de la province, mais probablement à cause de son manque de tact naturel, elle s'était méprise en interprétant cela comme un subtil sarcasme.
+　Ne sachant pas que Sōjūrō venait tout droit de la province, combiné à sa vivacité d'esprit naturelle, elle avait manifestement interprété à tort la question comme un subtil sarcasme.
 *page101|
 「Hmm, eh bien...
 　Je me demande si l'on pourrait dire qu'on y protège l'âme des gens ? Non, il serait plus juste de parler, non pas de protection mais plutôt d'armure ? Une sorte de muraille rafistolée ? En tout cas, ça revient au même dans le sens où la personne en question n'est pas endurcie.

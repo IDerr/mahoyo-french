@@ -12,8 +12,8 @@
 　Pour rejoindre le grenier au deuxième, il fallait emprunter un second escalier à l'autre bout du couloir.
 　Mais au cours des deux dernières années, Aoko n'avait pas utilisé cette pièce une seule fois.
 *page3|
-　Pour faire simple, le manoir Kuonji possédait deux ailes : une côté est, et une côté ouest.
-　La seule partie qu'Aoko avait eu le droit de louer était la section est, mais deux chambres lui suffisaient amplement.
+　Pour faire simple, le manoir Kuonji possédait deux ailes principales : une aile côté est et une aile côté ouest.
+　La seule partie qu'Aoko avait eu le droit de louer était l'aile est, mais deux chambres lui suffisaient amplement.
 　Il était donc inutile d'utiliser un grenier qui avait servi de débarras pendant cinq ans et qui donnait l'impression, lorsqu'on en ouvrait la porte, de se retrouver projeté dans un livre d'images.
 *page4|
 　Au fond du couloir de l'aile est se trouvait la chambre d'Aoko.

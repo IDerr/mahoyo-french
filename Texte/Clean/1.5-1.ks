@@ -107,7 +107,7 @@ Merci de m'avoir prévenu. Et donc ? Tu veux des conseils ? Sur l'argent peut-ê
 *page25|
 「C'était quoi déjà. Sur ton chemin, tard dans la nuit, une femme en manteau te tend une embuscade et te demande : 『Est-ce que je suis belle ?』.
 　Et tu as beau lui dire qu'elle est belle ou même normale, tu te fais poursuivre jusque chez toi et tuer. [l][chgfg storage=木乃実バイト01(近)|f type=13 time=300]
-La passion féminine fait peur, c'est comme une héroïne des comics américains.」
+La passion féminine fait peur, c'est comme un méchant de comic américain.」
 *page26|
 「...... C'est vraiment effrayant, non ?[r]
 　Cette femme va même jusqu'à pénétrer dans ta maison ?」
