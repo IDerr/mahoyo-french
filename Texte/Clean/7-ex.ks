@@ -270,7 +270,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 「Si leur royaume avait compté cinq milliards de semblables, c'est sûrement parce qu'auparavant, ils n'avaient pas de prédateurs naturels. On dit aussi que les aborigènes, les indiens, ne les chassaient pas outre mesure.
 　Mais ces nouveaux arrivants ignoraient leur mode de vie.
 　Et surtout, ils n'ont jamais pensé qu'un nombre aussi considérable d'oiseaux pourrait s'éteindre un jour.
-　Pour les pigeons migrateurs, c'était comme un coup de tonnerre dans un ciel bleu. Qui aurait pu penser que leur prédateurs naturels viendraient de l'autre côté de l'océan avec quelques siècles de retard ?」
+　Pour les pigeons migrateurs, c'était comme un coup de tonnerre dans un ciel bleu. Qui aurait pu penser que leurs prédateurs naturels viendraient de l'autre côté de l'océan avec quelques siècles de retard ?」
 *page66|
 「Puis en 1896, les humains furent enfin confrontés à une réalité assez forte pour se rendre compte de leur folie.
 　Il ne restait plus que deux cent cinquante mille oiseaux.
