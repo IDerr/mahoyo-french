@@ -445,7 +445,7 @@
 @pg
 *page38|
 @chgfg storage=im18なぜなに有珠園児説 id=a time=200
-@ploysay mode=ru132 oy=-30
+@ploysay mode=ru13 oy=-30
 @sestop
 @se storage=A40_NZ2_0017.opus
 　……。[r]
