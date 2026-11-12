@@ -39,7 +39,7 @@
 「――――――!」
 　C'est alors que Tōko remarqua une autre altération.
 　Les changements ne se limitaient pas à la cour et à Aoko.
-　Le corps étendu à ses pieds avait été restauré.
+　Le corps coupé en deux qui gisait à ses pieds avait été restauré.
 *page8|
 　Résurrection des morts ? Ou bien, simple usage de soins médicaux ?
 　Elle ne semblait pas avoir lancé un sort d'une telle envergure, et avant tout, la restauration d'un corps n'impliquait aucunement d'annuler sa “mort”.
@@ -97,7 +97,7 @@
 　Après avoir effacé les caractères runiques, Aoko progressa sur le jardin de fleurs blanches.
 　Son expression, la stabilité de son Circuit Magique, et même sa respiration différaient complètement de tout ce qu'elle avait montré jusque-là.
 　Elle avait une maîtrise de soi optimale. De celles qu'on ne trouvait que chez ceux ayant une grande expérience du combat.
-「―――C'est... le temps―――?」
+「―――C'est... un gain d'expérience instantané―――?」
 　En effet, s'il s'agissait là de la vraie nature du pouvoir hérité chez les Aozaki, alors tout devenait parfaitement logique.
 *page20|
 　Le Circuit Magique d'Aoko n'avait pas été amplifié.

@@ -103,16 +103,16 @@
 　Moi, j'suis un Ploy qui sait y faire ! Je vais recycler [r]　ces déchets industriels ! Hé, le vendeur ! [r]　Prépare des frites avec l'huile restante !
 *page35|
 　En voilà une bonne idée venant de toi, Robin.[r]
-　Je vais peut-être commander un poulet rôti.
+　Je vais peut-être commander un poulet frit.
 *page36|
 　..................[r]
 　Le menu ne comporte qu'des hot-dogs, [r]　du pop-corn et des frites.
 *page37|
-　J'ai pour habitude d'vérifier le menu au cinéma. Et puis,[r]　le poulet rôti a une odeur trop forte pour le cinéma.[r]　Ça gêne les autres clients.
+　J'ai pour habitude d'vérifier le menu au cinéma. Et puis,[r]　le poulet frit a une odeur trop forte pour le cinéma.[r]　Ça gêne les autres clients.
 *page38|
 　Je le sais. Mais rassure-toi.[r]
 　Je n'ai pas vraiment faim.[r]
-　Le rôtir dans l'huile me suffira amplement.
+　Le frire dans l'huile me suffira amplement.
 *page39|
 　Ha ha ha.[r]
 　C'est donc pas pour le manger.

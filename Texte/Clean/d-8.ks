@@ -213,7 +213,7 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 *page45|
 　...... Oui.
 　Dans ses souvenirs de petite fille, elle portait un furisode pour la première fois, mais elle ne laissait pourtant paraître aucun signe de nervosité, et par conséquent, elle n'avait rien d'adorable.
-　Cependant, elle avait tout de même l'élégance de sourire face au miroir.
+　Cependant, elle avait assez de charme pour sourire en se regardant dans le miroir.
 　En voyant l'expression chaleureuse d'Aoko, Sōjūrō ferma les paupières, satisfait. On aurait pu croire que rien ne pouvait le rendre plus heureux.
 *page46|
 「―――Il nous est arrivé pas mal de choses.

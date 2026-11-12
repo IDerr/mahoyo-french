@@ -123,7 +123,7 @@ Très bien, je suis d'accord pour l'université Mizora ! C'est l'université loc
 　Ces quelques mots achevèrent de duper mon père.
 　Bien sûr, mon véritable objectif était ce deuxième vœu.
 　Pour atteindre ce but, j'avais continué de trimer dur dans le plus grand secret.
-　J'avais économisé pendant trois ans pour payer les frais d'examens et avoir de quoi vivre après l'admission. Mon plan supposait que l'université m'octroie une bourse pour les frais de scolarité, mais il me permettrait au moins d'entrer à la fac sans qu'on puisse émettre la moindre objection.
+　J'avais économisé pendant trois ans pour payer les frais d'examens et avoir de quoi vivre après l'admission. Mon plan supposait que l'université m'accorde un prêt pour les frais de scolarité, mais il me permettrait au moins d'entrer à la fac sans qu'on puisse émettre la moindre objection.
 *page32|
 　Mon père était d'un caractère obstiné et brutal, mais il n'était pas assez méchant pour ne pas tenir compte des efforts des autres.
 　Une fois que j'aurais obtenu de bons résultats et qu'il saurait que j'avais économisé suffisamment d'argent, il accepterait sûrement, de mauvaise grâce certes, que j'aille à l'université de Tokyo.

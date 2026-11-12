@@ -3,7 +3,7 @@
 *page1|
 　L'Atelier qui sert de base à un Mage représente son principal et ultime atout.
 　D'innombrables sorts défensifs gardent les lieux contre d'éventuels voleurs et autres assaillants insolents.
-　L'ancienne école ne dérogeait pas à la règle ; Aozaki Tōko, l'une des dernières marionnettistes et utilisatrice de Runes, avait largement mis la main à la pâte.
+　L'ancienne école ne dérogeait pas à la règle ; Aozaki Tōko, marionnettiste de génie et utilisatrice de Runes, avait largement mis la main à la pâte.
 　Cet Atelier reflétait son perfectionnisme maladif et éliminait tout intrus, humains et démons confondus.
 *page2|
 「Ces sorts foireux ne sont même pas capables de la ralentir―――!」
@@ -76,7 +76,7 @@ Je les lui rendrai après, alors tu n'es pas vraiment en position de me faire la
 *page16|
 　Les trois membranes cristallines multipliaient par dix millions la puissance de leurs Runes gravées.
 　Aucune balle de prana ne pourrait les transpercer.
-　Même si la puissance dégagée par Aoko surpassait de loin celle de Tōko, ces mégalithes en produisaient le double.
+　Même si la puissance dégagée par Aoko surpassait largement celle de Tōko, ce n'était qu'une fraction de ce que produisaient ces mégalithes.
 　La spécialité d'Aoko consistait simplement à “relâcher du prana”, elle ne pourrait ni se protéger ni éviter cette malédiction......!
 *page17|
 「―――[ruby o2o=1 text="Main" char="Axe subjectif"], [ruby char="Fixé" text="Set"].」

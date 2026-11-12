@@ -12,7 +12,7 @@
 　Par conséquent, le parvis de la gare d'Arisaka accueillait plus de visiteurs venus de très loin pour se détendre que de gens du coin.
 *page3|
 「Alors, voilà cette nouvelle salle de théâtre.[r]
-　Il paraît que c'est la plus grande salle de concert de la préfecture. Je me demande comment c'est agencé à l'intérieur. Elle n'a pas l'air plus haute que les bâtiments voisins.」
+　Il paraît que c'est la plus grande salle de concert de la préfecture. Je me demande comment c'est agencé à l'intérieur. Tu ne trouves pas qu'elle a l'air plus haute que les bâtiments voisins ?」
 *page4|
 　Sur le chemin de l'aquarium, nombre de personnes croisèrent leur route.
 　Aoko était habituée à la cohue,
@@ -137,9 +137,9 @@ J'ai même gagné contre le Saint-Bernard.」
 *page28|
 「...... C'est de l'histoire ancienne. Nous avions le même prénom.
 　C'est grâce à ça que nous nous sommes rapprochées, mais ça n'a pas duré longtemps.」
-「C'est vrai qu'Alice n'est pas un prénom si rare là-bas. C'est comme l'équivalent de nos Yoko, Anako ou autres ?」
-「Oui. Ou comme les Aoko, Akako, Kuroko ou Shiroko.」
-「...... Les deux derniers sont des noms de famille, tu sais.」
+「C'est vrai qu'Alice n'est pas un prénom si rare là-bas. C'est comme l'équivalent de nos Yoko, Hanako ou autres ?」
+「Oui. Ou comme les [ruby char="Aoko" text="Bleu"], [ruby char="Akako" text="Rouge"], [ruby char="Kuroko" text="Noir"] ou [ruby char="Shiroko" text="Blanc"].」
+「...... Les derniers sont aussi des noms communs, tu sais.」
 *page29|
 　La société humaine attribuait un nom à tout.
 　Le monde océanique avait l'air trépidant,

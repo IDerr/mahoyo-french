@@ -66,7 +66,7 @@
 [chgfg storage=木乃実私服01(中)|c type=13 partbgid=pb1 time=400]Oooh, je peux aller l'enlacer pour la réveiller ?!」
 「Pourquoi pas ? Au pire, tu finiras juste assommé.」
 *page16|
-　Les voix familières et joyeuses se retirèrent vers le salon.
+　Les voix familières et enjouées emplissaient le vestibule.
 　Les grains de la coquille dispersés par la brise passèrent à travers la lucarne et disparurent comme grillés par le soleil.
 “Hmm, bah, ce genre de fin est tout aussi bonne à prendre !”
 　Cette voix était tel un porte-parole des sentiments honnêtes et étrangement rafraîchissants de la jeune fille.

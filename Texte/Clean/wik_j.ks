@@ -1,5 +1,5 @@
 ﻿*page0|
-「J'ai terminé mon service de l'après-midi, et comme indiqué sur la lettre d'invitation d'Aoko, je me suis rendu pacifiquement au manoir.
+「J'ai terminé mon service de l'après-midi, et comme indiqué sur la lettre d'invitation d'Aoko, je me suis rendu au manoir dans une tenue pacifique.
 　Nous sommes arrivés à la résidence à quatre heures de l'après-midi, puis Riddell s'est présentée alors que nous prenions le thé dans la véranda, et nous avons appris peu après que M. Tokitsu avait été tué.
 　Je n'ai pas rencontré M. Tokitsu une seule fois après notre arrivée.
 　De plus, je soupçonne que quand nous avons découvert son cadavre, M. Yamashiro avait déjà disparu.」

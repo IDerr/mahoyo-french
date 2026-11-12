@@ -81,7 +81,7 @@
 *page22|
 「Aozaki s'est fait piéger ?」
 「Ouais. Après tout, cette fille est un véritable amoncellement de dynamisme, mais elle était bien trop occupée à dissimuler la victime dans sa chambre.
-　Et puis, elle a dit quelque chose de bizarre, non ? Elle a mentionné l'heure où sa sœur a dû se retrouver dans cet état, [wait canskip=0 time=400][chgfg storage=鳶丸私服b02(大)|a2 time=300]tu te rappelles ?」
+　Et puis, elle a dit quelque chose de bizarre, non ? Elle a mentionné l'heure où sa sœur a dû se retrouver dans cet état, [wait canskip=0 time=400][chgfg storage=鳶丸私服b02(大)|a2 time=300]qu'en penses-tu, Kumari ?」
 *page23|
 　... Je...
 *page24|

@@ -22,7 +22,7 @@
 　Aoko s'était proposée comme professeur en pensant qu'il suffirait de lui faire faire un bachotage de dernière minute qu'il pourrait oublier le lendemain.
 *page5|
 　...... Son erreur de calcul fut que cet élève était meilleur que prévu.
-　Elle ne pensait pas qu'ils passeraient la nuit entière à voir les questions potentielles des quatre sujets d'examen, mais seulement parce qu'elle n'avait pas imaginé qu'il s'y mettrait de façon si assidue, afin de ne pas gâcher ce qu'il apprenait.
+　Réviser le programme des quatre matières leur avait pris toute la nuit, mais elle n'avait pas pensé qu'il s'y mettrait avec autant d'ardeur, afin de ne rien gâcher de ce qu'il apprenait.
 *page6|
 「Par contre, c'est bien que tu sois sérieux, mais tu prends trop de temps à mémoriser les choses.」
 「Sois indulgente. Jusqu'à présent, j'utilisais plus mon corps que ma tête pour mémoriser.」

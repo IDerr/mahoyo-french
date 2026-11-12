@@ -22,7 +22,7 @@
 　et la cheminée n'avait pas servi depuis des lustres.
 　Le téléphone était laissé à l'abandon,[wait canskip=0 time=800][r]
 　tandis que la grande horloge solitaire marquait les secondes.
-　Cet endroit ressemblait plus à un manoir qu'à une maison occidentale classique.
+　Cet endroit ressemblait plus à un vieux château qu'à un manoir classique.
 　Aoko jeta un regard glacial vers Sōjūrō interloqué par le monde inconnu qui se trouvait sous ses yeux.
 *page6|
 「Le salon est par là. Ne reste pas planté là !」

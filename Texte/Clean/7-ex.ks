@@ -195,7 +195,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 　Kumari démentit d'un air froid ce Sōjūrō rassuré et qui s'était ressaisi.
 *page48|
 「Seulement s'il n'y a rien qui menace leur survie dans cette montagne.
-　Comme les conséquences de la pêche industrielle des humains, ou la répercussion de leur arrivée dans un nouvel écosystème, par exemple. Dans tous les cas, je pense que la durée de vie des animaux ayant perdu leur habitat est courte. Peut-être qu'ils tiendront un siècle, tout au mieux.
+　Comme les conséquences de la chasse excessive menée par les humains, ou l'affrontement avec l'écosystème de leur nouvel habitat, par exemple. Dans tous les cas, je pense que la durée de vie des animaux ayant perdu leur habitat est courte. Peut-être qu'ils tiendront un siècle, tout au mieux.
 　...... Il y a aussi l'exemple des pigeons migrateurs. Lorsque l'on réalise la situation, il est déjà trop tard. Voilà quelle est la relation entre les animaux et les humains.」
 *page49|
 「Les pigeons migrateurs......?」
@@ -270,7 +270,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 「Si leur royaume avait compté cinq milliards de semblables, c'est sûrement parce qu'auparavant, ils n'avaient pas de prédateurs naturels. On dit aussi que les aborigènes, les indiens, ne les chassaient pas outre mesure.
 　Mais ces nouveaux arrivants ignoraient leur mode de vie.
 　Et surtout, ils n'ont jamais pensé qu'un nombre aussi considérable d'oiseaux pourrait s'éteindre un jour.
-　Pour les pigeons migrateurs, c'était comme un coup de tonnerre dans un ciel bleu. Qui aurait pu penser que leur némésis serait les semblables des aborigènes arrivés quelques siècles auparavant par-delà les mers ?」
+　Pour les pigeons migrateurs, c'était comme un coup de tonnerre dans un ciel bleu. Qui aurait pu penser que leur prédateurs naturels viendraient de l'autre côté de l'océan avec quelques siècles de retard ?」
 *page66|
 「Puis en 1896, les humains furent enfin confrontés à une réalité assez forte pour se rendre compte de leur folie.
 　Il ne restait plus que deux cent cinquante mille oiseaux.

@@ -68,10 +68,10 @@ Un bref silence.
 　...... Qui sait ?
 「Elle n'a pas abandonné son passé. [l]
 Elle vit pour le rendre magnifique.」
-　Peut-être que son rôle avait pris fin ce jour-là.
+　Peut-être que son rôle avait pris fin depuis bien longtemps déjà.
 *page15|
-　Le jeune homme vit la silhouette du vieil homme changer.
-　Elle vacilla un instant comme sous un effet d'optique.
+　La silhouette du vieil homme sembla se changer en celle d'un jeune homme.
+　Elle ne vacilla qu'un instant, comme une illusion d'optique.
 *page16|
 「Je te corrige. Mes deux filles appréhendent très bien ce que je suis. J'ose même croire qu'elles me comprennent mieux que moi-même.
 　De la même façon que je ne tiens pas compte de leur personnalité, elles ne ressentent aucun intérêt pour la mienne.

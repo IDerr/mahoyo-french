@@ -75,11 +75,11 @@
 　L'étiquette précisait au stylo-feutre : “Épisode de la terrifiante terre des animaux, l'obscurité du continent”.
 　...... Aoko rabaissa d'un cran l'estime que le conseil étudiant porterait dorénavant à Kinomi Hōsuke.
 *page19|
-「...... Ensuite, tu mets la cassette dans le magnétoscope, puis tu n'as qu'à appuyer sur lecture. Le loquet n'est pas enclenché, alors fais attention à ne pas appuyer sur le bouton d'enregistrement.」
-「Le loquet ?」
+「...... Ensuite, tu mets la cassette dans le magnétoscope, puis tu n'as qu'à appuyer sur lecture. La languette de protection n'a pas été cassée, alors fais attention à ne pas appuyer sur le bouton d'enregistrement.」
+「La languette ?」
 *page20|
-「Là, tu vois le creux sur le côté de la cassette ? Ce qui le couvre, c'est le loquet. [l]
-Lorsque tu le détaches, tu ne peux plus enregistrer sur la cassette.
+「Là, tu vois le creux sur le côté de la cassette ? Ce qui le couvre, c'est la languette. [l]
+Lorsque tu la détaches, tu ne peux plus enregistrer sur la cassette.
 　Euh...... Voyons, pour faire un parallèle, c'est comme un cahier de cours.
 　Vois ça comme si on appliquait un fixatif pour éviter de gommer ce qui est important. En gros, c'est un moyen de protection analogique qui prévient physiquement toute erreur humaine.」
 *page21|
@@ -106,7 +106,7 @@ Lorsque tu le détaches, tu ne peux plus enregistrer sur la cassette.
 「Mais dis-moi, Aozaki, cette machine est assez poussiéreuse. Vous ne faites jamais la poussière ?」
 *page27|
 「Je ne l'utilise pas vraiment, et Alice ne regarde pas la télé, du coup, on ne s'en est pas souvent servies jusqu'à maintenant.
-　Je l'ai achetée sur un coup de tête pour faire de l'aérobic, mais je m'en suis vite désintéressée. Ce n'était pas un problème que je pouvais résoudre simplement en regardant des images...」
+　On me l'a achetée parce que j'envisageais de faire de l'aérobic, mais je m'en suis vite désintéressée. Ce n'était pas un problème que je pouvais résoudre simplement en regardant des images...」
 *page28|
 　Aoko haussa les épaules, comme si elle se moquait de son ancienne naïveté.
 　Sōjūrō, lui, se méprit à nouveau sur le réel sens de ses paroles : le magnétoscope était quelque chose dont on se lassait.

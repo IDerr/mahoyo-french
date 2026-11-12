@@ -50,7 +50,7 @@
 *page13|
 　... Hmm. J'comprends pas pourquoi on massacre[r]
 　les oiseaux sans raison. Qu'est-ce qu'ils avaient[r]
-　contre les oiseaux, ces nordiques ?
+　contre les oiseaux, ces Occidentaux ?
 *page14|
 　Dans la suite, on a aussi :[r]
 　“Le roi, son argent comptait,[r]

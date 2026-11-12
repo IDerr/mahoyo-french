@@ -97,7 +97,7 @@ Je n'ai fait qu'étouffer dans l'œuf toute rébellion. Ce sont eux qui m'ont d�
 Malheureusement, il n'y avait que du salami chez nous.」
 *page23|
 「Tu sais que notre maison se trouve dans les montagnes, pas vrai ?
-　Il faut une heure pour se rendre en ville. Je n'étais qu'en cinquième à l'époque. J'y suis allée, l'appel du ventre étant plus fort que moi. Mais il n'y avait pas une seule pizzeria. Du coup, je suis rentrée toute chancelante.」
+　Il faut une heure pour se rendre en ville. Je n'étais qu'en sixième à l'époque. J'y suis allée, l'appel du ventre étant plus fort que moi. Mais il n'y avait pas une seule pizzeria. Du coup, je suis rentrée toute chancelante.」
 　C'était la tragédie des petites villes de campagne.
 　Le vieux quartier de Misaki venait à peine de voir arriver des restaurants de sushi sur tapis roulant, et il faudrait attendre encore deux ans avant la montée en puissance des pizzerias.
 *page24|

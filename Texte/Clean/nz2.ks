@@ -42,7 +42,7 @@
 *page11|
 　C'est pour ça que vous avez changé de lieu.[r]
 　Je vois. J'ai à peu près compris.[r]
-　Cet entrain surprendrait même Mam'zelle Aoko.
+　Cette dilapidation surprendrait même Mam'zelle Aoko.
 *page12|
 　Mais perso, j'préfère plutôt les jupes aux blouses.[r]　Celles qui ressemblent à des robes,[r]　elles sont divines.[r]　Enfin, c'est pas que les blouses c'est moche,[r]　c'est juste un problème d'image.[r]　Est-ce qu'elles rendent bien en peinture ?[r]
 　Vous voyez “La forêt, l'oiseau et la fillette” ?[r]　Ou “L'oiseau et l'écolier”, où l'enfant[r]　a une telle présence qu'on en oublie l'oiseau.
@@ -185,5 +185,5 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 *page54|
 　J'me suis fait avaler tout rond en un instant.[r]
 　Comme je l'pensais, les Ploy sont des pâtisseries ?[r]
-　Hmm, c'est bon...
+　Hmm, c'est sucré...
 *page55|
