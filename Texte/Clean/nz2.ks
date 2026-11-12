@@ -127,10 +127,10 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 　en fait, tu sais très bien de quoi tu parles ?
 *page37|
 　? Désolé, j'ai oublié c'que j'viens de dire.[r]
-　Pour moi, les choses du passé [r]　sont plus vagues que l'futur.
+　Pour moi, les choses du passé[r]　sont plus vagues que l'futur.
 *page38|
 　...... Qu'entends-tu[r]
-　au juste par Meinster ?
+　au juste[r]　par “Meinster” ?
 *page39|
 　My Goddess. La mère de Mam'zelle Alice.[r]
 　Elle avait des surnoms comme la Sorcière au sang pur.
