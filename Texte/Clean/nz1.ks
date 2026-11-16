@@ -27,8 +27,8 @@
 　vous voyez ? Si l'invité n'vient pas, il n'y a qu'à[r]
 　venir faire l'émission dans sa chambre, non ?
 *page9|
-　...... C'est bon, alors dépêche-toi de commencer. Finis ça[r]
-　le plus rapidement possible, et va-t'en plus vite que la lumière.
+...... C'est bon, alors dépêche-toi de commencer. Finis ça le[r]
+le plus rapidement possible, et va-t'en plus vite que la lumière.
 *page10|
 　Uhaa, c't'embarrassant ![r]
 　C'est tordant !
@@ -91,20 +91,20 @@ que les petits animaux　sont privilégiés, car ils consomment peu de prana[r]e
 　? Pourtant, j'ai jamais chassé ou fait un truc du genre.[r]
 　J'ai pas besoin de protéines ou de fibres alimentaires ?
 *page31|
-　Les Ploy sont une catégorie à part. Bref, pour les Mages,[r]
-　les familiers sont　des “serviteurs” ou[r]　des “animaux  de compagnie” à leur service.
+　Les Ploy sont une catégorie à part. Bref,[r]
+　pour les Mages, les familiers sont　des “serviteurs”[r]　ou des “animaux  de compagnie” à leur service.
 *page32|
 　Ainsi, on prend en général un chat, un[r]　oiseau ou une souris comme familier.
 *page33|
-　Mam'zelle Alice,[r]　cette machine effrayante,[r]
-　ça entre dans quelle catégorie ?
+Mam'zelle Alice,[r]cette machine effrayante,[r]
+ça entre dans quelle catégorie ?
 *page34|
 　C'est un Automate adapté au combat. Mais à ce niveau,[r]
 　il s'agit davantage d'une sentinelle que d'un familier.
 *page35|
-...... Sa conception même est très éloignée des normes[r]traditionnelles des familiers. De la même façon,[r]
-les familiers possédant une intelligence compatible[r]
-avec les humains comme toi sont aussi des exceptions.
+...... Son concept même diffère fortement d'un familier classique.[r]
+D'ailleurs, les familiers assez intelligents pour interagir[r]
+avec les humains tels que toi sont aussi des exceptions.
 *page36|
 　Mais les familiers de ce genre ne sont[r]　qu'un immense gâchis d'énergie.[r]　Leur coût en prana est trop élevé.[r]
 　En général, le Mage gagnerait à faire[r]　le travail lui-même ou à utiliser[r]
