@@ -429,7 +429,7 @@
 @pg
 *page35|
 @wait time=200 canskip=0
-@ploysay mode=ru262 oy=-20
+@ploysay mode=ru26 oy=-20
 @sestop
 @se storage=A40_NZ1_0017.opus
 ……これは使い魔のセオリーから外れた特注品よ。[r]
