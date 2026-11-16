@@ -388,7 +388,7 @@
 *page31|
 @clfg storage=im18なぜなにコマドリ羽
 @chgfg storage=im18なぜなに有珠制服微悲 id=a time=200 preback=0
-@ploysay mode=ru262
+@ploysay mode=ru26
 @sestop
 @se storage=A40_NZ1_0014.opus
 貴方たちプロイはまた別のくくり。[r]
@@ -413,7 +413,7 @@
 @fg rule=crossfade time=300 storage=im18青子人形イメージ center=512 vcenter=288 index=2500
 @wait time=1500 canskip=0
 @chgfg storage=im18なぜなにコマドリ普 id=k time=200
-@ploysay mode=lu192 oy=-30
+@ploysay mode=lu13 oy=-30
 @sestop
 @se storage=BA0_NZ1_0017.opus
 　　アリスさん、この物騒なのは[r]
@@ -466,7 +466,7 @@
 @pg
 *page39|
 @chgfg storage=im18なぜなに有珠制服疑 id=a time=200 zoomx=100
-@ploysay mode=ru192
+@ploysay mode=ru19
 @sestop
 @se storage=A40_NZ1_0019.opus
 　　アナタらしい短絡思考ねロビン。[r]
@@ -475,7 +475,7 @@
 @pg
 *page40|
 @chgfg storage=im18なぜなにコマドリ普 id=k time=200 textoff=0
-@ploysay mode=lu19
+@ploysay mode=lu192
 @sestop
 @se storage=BA0_NZ1_0020.opus
 　アリスさん、[r]
@@ -563,7 +563,7 @@
 @pg
 *page49|
 @chgfg storage=im18なぜなに有珠制服普 id=a time=200
-@ploysay mode=ru19
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ1_0024.opus
 　あり得ない仮定ね。[r]
