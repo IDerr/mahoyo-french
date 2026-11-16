@@ -27,8 +27,8 @@
 　vous voyez ? Si l'invité n'vient pas, il n'y a qu'à[r]
 　venir faire l'émission dans sa chambre, non ?
 *page9|
-　...... C'est bon, alors dépêche-toi de commencer.[r]
-　Finis ça le plus rapidement possible, [r]　et va-t'en plus vite que la lumière.
+　...... C'est bon, alors dépêche-toi de commencer. Finis ça[r]
+　le plus rapidement possible, et va-t'en plus vite que la lumière.
 *page10|
 　Uhaa, c't'embarrassant ![r]
 　C'est tordant !
@@ -75,8 +75,8 @@ C'est même physiquement pesant ?
 　Ils ont le devoir de surpasser un jour leurs maîtres,[r]
 　et ces derniers ne prendraient pas de disciples [r]　s'il en était autrement.
 *page25|
-　À l'inverse, les familiers reçoivent l'intégralité[r]　de leurs capacités à leur naissance.[r]
-　Il n'y a aucun sens à ce qu'un être incapable[r]d'évoluer devienne le successeur d'un Mage.
+À l'inverse, les familiers reçoivent l'intégralité de leurs[r]
+capacités à leur naissance. Il n'y a aucun sens à ce qu'un[r]être incapable d'évoluer devienne le successeur d'un Mage.
 *page26|
 J'vois. J'comprends mieux. C'pour ça que malgré les années qui passent, ma capacité de mémorisation n'augmente pas. Mais ça veut aussi dire que j'suis parfait depuis ma naissance.
 *page27|
