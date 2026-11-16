@@ -269,7 +269,7 @@ Aoko est au fond d'un couloir en forme de Y. Comme ton regard suit une trajectoi
 「C'est un peu tard pour te l'apprendre, mais bon. Écoute, Aoko.
 　C'est toujours le premier à dégainer son atout qui perd.」
 　Son ton détaché ne laissait deviner aucun dommage.
-　Le manteau du Mage qui se tenait sur le champ de neige n'avait pas une seule déchirure.
+　Le manteau du Mage qui se tenait sur le champ de neige n'avait pas la moindre trace de suie.
 　―――La balle de prana contenant toutes les forces de la jeune fille avait été dispersée aux alentours par une quantité de prana égale, juste avant qu'elle n'atteigne le corps de Tōko.
 *page58|
 「――――――」

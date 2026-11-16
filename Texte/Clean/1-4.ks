@@ -57,11 +57,11 @@
 　Après la descente en légère pente se trouvait la ville pleine de vie.
 *page15|
 　La gare du vieux quartier de Misaki était flambant neuve.
-　Le bâtiment, qui avait l'air de n'être qu'une usine abandonnée auparavant, était maintenant devenu une construction complexe dotée d'un énorme supermarché s'étalant d'est en ouest.
+　Le bâtiment, qui avait l'air de n'être qu'une usine abandonnée auparavant, était maintenant devenu un complexe immobilier doté de grands magasins gigantesques disposés d'est en ouest.
 *page16|
-　Lorsque ce supermarché avait été terminé, Aoko et ses amies s'étaient excitées et avaient souhaité longue vie à la modernisation ! Mais d'ici quelques années, le bâtiment serait certainement passé de mode.
+　Lorsque l'édifice avait été terminé, Aoko et ses amies s'étaient excitées et avaient souhaité longue vie à la modernisation ! Mais d'ici quelques années, le bâtiment serait certainement passé de mode.
 *page17|
-　Elle n'avait aucune course à faire et passa donc devant le supermarché sans s'arrêter.
+　Elle n'avait aucune course à y faire et passa donc devant sans s'arrêter.
 　En réalité, elle voulait s'arrêter dans un salon de thé et se reposer, mais si elle dépensait inutilement de l'argent toute seule, sa colocataire allait encore une fois lui faire des remarques désagréables, alors elle se maîtrisa―――
 *page18|
 「――――――」

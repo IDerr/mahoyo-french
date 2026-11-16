@@ -458,7 +458,7 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 　L'inspiration d'un idiot pouvait parfois propulser la réflexion vers de nouveaux sommets.
 *page113|
 「...... Stupéfiant ! Même moi, je n'ai pas eu cette idée.
-　C'était équivoque, faut dire qu'à la base, la Magie n'apporte que des ennuis.」
+　Comme la Magie n'apporte que des ennuis en général, personne n'a jamais dû y penser.」
 　Alice abonda dans son sens.
 *page114|
 「Alors, tu as des exemples ?

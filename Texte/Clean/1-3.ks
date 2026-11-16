@@ -85,7 +85,7 @@
 「Mais je n'ai pu en recevoir qu'une seule.」
 「? Une seule ? Tu veux dire que tu as deux emplois en même temps ?」
 「...... Et encore, j'en ai arrêté deux autres.
-　Rien qu'avec les dépenses de tous les jours, c'est difficile, mais je dois aussi économiser pour les frais scolaires. Tu ne penses pas que c'est exagéré que l'on ne puisse avoir qu'un seul travail ?」
+　Rien qu'avec les dépenses de tous les jours, c'est difficile, mais je dois aussi gagner de quoi payer les frais scolaires. Tu ne penses pas que c'est exagéré que l'on ne puisse avoir qu'un seul travail ?」
 「...... Non, je pense que c'est toi qui exagères.」
 *page19|
 　Même si elle était déconcertée, Aoko révisa un peu son opinion sur Sōjūrō.

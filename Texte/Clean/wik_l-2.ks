@@ -1,6 +1,6 @@
 ﻿*page0|
 　Avant ça,[r]
-　je songeai que nous devrions écouter le témoignage de cette fille en rose.
+　je songeai que nous devrions aussi vérifier l'alibi de cette fille en rose.
 *page1|
 「Hein ? Vous voulez aussi mon alibi ?
 　Je n'ai rien à voir avec ça. Après tout, lorsque je suis arrivée, le vieux et le professeur avaient déjà tiré leur révérence, n'est-ce pas ? Si vous faites preuve de bon sens, vous en déduirez que je suis complètement innocente.

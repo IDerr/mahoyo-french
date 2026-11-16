@@ -190,7 +190,7 @@
 　Le canon, Aozaki Aoko,[wait canskip=0 time=400][r]
 　ne pouvait même pas détruire ce bloc de glace―――
 *page39|
-“Et alors―――”
+“Aïe, ça fait mal―――”
 　Elle accéléra encore plus le sort.
 　Le crâne riait. [wait canskip=0 time=300]Le bloc de glace n'était pas un bouclier. [wait canskip=0 time=300]Il était là pour écraser la Mage et lui apprendre où se trouvait sa place. [wait canskip=0 time=500]Il riait à l'idée qu'il écraserait non seulement Aoko mais aussi le garçon perché sur les montagnes russes, avec une attaque qui balaierait le parc d'attractions tout entier.
 “Qu'est-ce que ça peut faire―――!!!!”
@@ -364,11 +364,11 @@ Toutes les couches à plein régime―――!」
 　La première couche absorbait le brouillard qui s'était changé en énorme vortex,
 　et la deuxième couche traitait absolument tout le prana et le déversait dans le [ruby char="canon" text="Aoko"].
 *page73|
-「―――Mes suppositions étaient ridicules.
+「―――Je me suis montrée beaucoup trop naïve.
 　L'abattre, c'est faire le travail à moitié.
 　Vu la situation, je vais plutôt le réduire en poussière......!」
 *page74|
-　Le prana des temps anciens agit de concert avec la désinvolture du jeteur de sorts.
+　Le prana des temps anciens répondit à l'assurance de la lanceuse de sorts.
 　Le dessin de [ruby char="dragon" text="Orochi"] de son Sceau se déformait.
 　Son prana se déchaînait en silence.
 *page75|

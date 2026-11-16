@@ -35,7 +35,7 @@
 「Sweets Hearts...?
 　C'est le nom de ce Ploy, Alice ?」
 *page9|
-「Yes. Il crée des règles précises et augmente le prana du groupe ayant survécu. C'est un Ploy qui sert en quelque sorte à tester son courage avant le combat. Sauf qu'en général, tout le monde est exterminé et Sweets Hearts l'emporte haut la main. Il met en place un jeu mortel qui ne laisse la place à aucun survivant.
+「Yes. Il crée des règles précises et augmente le prana du groupe ayant survécu. C'est un Ploy qui sert en quelque sorte à tester sa chance avant le combat. Sauf qu'en général, tout le monde est exterminé et Sweets Hearts l'emporte haut la main. Il met en place un jeu mortel qui ne laisse la place à aucun survivant.
 　Bref, je fais équipe avec Alice.」
 「Hein ? C'est quoi cette histoire d'équipe ?」
 *page10|

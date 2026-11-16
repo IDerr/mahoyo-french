@@ -463,7 +463,7 @@
 *page111|
 「Je n'ai rien à voir là-dedans ! Je n'ai plus rien à voir avec l'Association !
 　Après tout, je n'ai pas travaillé sérieusement cette année !
-　Et même si c'est une blague, évite de menacer de mort ta camarade d'apprentissage !」
+　Et même si c'est une blague, évite de menacer de mort ton aînée d'apprentissage !」
 *page112|
 　La femme de la résidence faisait des moulinets avec les bras, les larmes aux yeux.
 　Cela dit, son inquiétude n'avait pas lieu d'être.
@@ -583,8 +583,8 @@
 「Hum. Pas étonnant qu'elle cherche à me faire garder le silence.
 　Les premières personnes qui redoubleraient de vigilance à la vue de Tōko, c'est moi et―――」
 　Une autre personne.
-　Le personnage que l'on pourrait véritablement qualifier d'aîné disciple des sœurs Aozaki.
-　L'homme de toute beauté ayant été chargé de l'éducation d'Aozaki Tōko.
+　Le personnage que l'on pouvait véritablement qualifier d'aîné disciple des sœurs Aozaki.
+　La femme de toute beauté ayant été chargée de l'éducation d'Aozaki Tōko.
 *page140|
 「Bah, elle a dû faire ses préparatifs dans son coin.
 　Connaissant Tōko, elle doit être parfaitement préparée, mais―――」
@@ -637,7 +637,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 *page152|
 「Ah là là. Tu es mal placée pour critiquer les autres.[r]
 　Tu es toi-même un véritable bourreau de travail.
-　Et si nous engagions une conversation un peu plus posée ? Après tout, en considérant nos positions respectives, qui sait quand notre prochaine rencontre aura lieu ?」
+　Et si nous engagions une conversation un peu plus posée ? Après tout, vu nos situations respectives, qui sait si nous nous rencontrerons à nouveau ?」
 「Assez plaisanté ! C'est déjà décidé. Cette rencontre est la dernière, Eiri.」
 *page153|
 　Tōko rejeta du tac au tac la proposition du prêtre tout sourire.
@@ -846,7 +846,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 *page204|
 　Beo s'interrompit brusquement alors qu'il levait la patte.
 　*bruit de métal*
-　La sœur ouvrit le couvercle d'une canette, versa dans une petite assiette ce qui semblait être un liquide brillant, [se storage=se07019 volume=100]puis plaça le tout devant le petit chien.
+　La sœur ouvrit le couvercle d'un flacon qu'elle tenait en main, versa dans une petite assiette ce qui semblait être un liquide brillant, [se storage=se07019 volume=100]puis plaça le tout devant le petit chien.
 *page205|
 「“Euh―――”」
 「Tiens, régale-toi.」

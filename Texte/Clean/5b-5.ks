@@ -183,7 +183,7 @@ Alors, si jamais Alice en utilise un autre, on sera fichus.」
 　Aoko ignora complètement l'intervention de Sōjūrō.
 *page44|
 「―――Reprenons.
-　La base de la Magie d'Alice est [ruby char="Mother Goose" text="Ma mère l'Oye"]...... [chgfg textoff=0 storage=青子私服aブーツ03b(近)|h brightness=-6 time=300]J'imagine que tu ne connais pas. Ce sont des comptines anglaises qui ont pour sujet d'abominables contes de fées.
+　La base de la Magie d'Alice est [ruby char="Mother Goose" text="Ma mère l'Oye"]...... [chgfg textoff=0 storage=青子私服aブーツ03b(近)|h brightness=-6 time=300]J'imagine que tu ne connais pas. Ce sont des comptines anglaises qui ont un ton ludique et féerique.
 　Mais les Ploy Kickshaw directement basés sur ces contes-là ne sont pas dangereux. [l]
 Parce que d'une manière ou d'une autre, on peut tous les vaincre avec la Magie.」
 「...... Même si la réponse à cette question me fait un peu peur, qu'en est-il de ceux qui ne font pas partie de cette catégorie ?」

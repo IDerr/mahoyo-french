@@ -16,7 +16,7 @@
 　Sōjūrō détourna un peu le visage et secoua la tête.
 *page4|
 「Je te le dis pour la troisième fois : je ne m'inquiète pas pour toi.
-　...... Mais tout à l'heure, j'ai quand même vu un peu rouge.」
+　...... Même si tout à l'heure, j'ai perdu connaissance un instant.」
 *page5|
 　Il afficha un sourire amer et embarrassé.
 　La première fois, il s'était évanoui à cause des vertiges. Toutefois, la deuxième fois, les vertiges ainsi que les nausées avaient été étouffés par des émotions plus fortes encore.

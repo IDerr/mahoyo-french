@@ -145,7 +145,7 @@
 @sestop delay=200 storage=seex14 time=200 nowait=1
 @clfg storage=im18なぜなに有珠サングラス
 @chgfg storage=im18なぜなに有珠登山普2 time=200 id=a preback=0 index=3500
-@ploysay mode=ru19
+@ploysay mode=ru26
 @sestop
 @se storage=A40_NZ5_0005.opus
 　　さあ、なぜなにプロイの時間よ、ロビン。[r]
@@ -332,7 +332,7 @@
 @pg
 *page32|
 @chgfg storage=im18なぜなにコマドリふむ id=k time=200
-@ploysay mode=lu19
+@ploysay mode=lu192
 @sestop
 @se storage=BA0_NZ5_0014.opus
 　なんと。[r]

@@ -101,7 +101,7 @@
 　　　　二体目ッスね。
 @pg
 *page4|
-@ploysay mode=lu26 ox=50 oy=-30
+@ploysay mode=lu262 ox=50 oy=-30
 @sestop
 @se storage=A40_NZ6_0001.opus
 二体目ね。[r]
@@ -125,7 +125,7 @@
 @fg storage=im0911根源光 center=473 vcenter=31 index=5000 opacity=224 type=14 zoom=65
 @bg rule=crossfade time=600 storage=black left=-48 top=-48 noclear=1
 @wait canskip=0 time=400
-@ploysay mode=ru26 ox=-100 oy=-30
+@ploysay mode=ru19 ox=-100 oy=-30
 @sestop
 @se storage=A40_NZ6_0002.opus
 　アナタもよく知っている彼女だけど。[r]
@@ -240,7 +240,7 @@
 @bg rule=crossfade time=600 storage=black noclear=1
 @wait time=500 canskip=0
 @chgfg storage=im18なぜなにコマドリ普(口開) id=k time=200
-@ploysay mode=lu19
+@ploysay mode=lu26
 @sestop
 @se storage=BA0_NZ6_0005.opus
 　 ……。[r]
@@ -249,7 +249,7 @@
 @pg
 *page15|
 @chgfg textoff=0 storage=im18なぜなに有珠制服呆 id=a time=200
-@ploysay mode=ru192
+@ploysay mode=ru26
 @sestop
 @se storage=A40_NZ6_0008.opus
 後に、彼女がゴブリンフロンと名付けるようになった香水よ。その香水をかけると、一日、悪口とスラングしか言えなくなるの。
@@ -264,7 +264,7 @@
 @pg
 *page17|
 @chgfg textoff=0 storage=im18なぜなに有珠制服疑 id=a time=200
-@ploysay mode=ru26
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ6_0009.opus
 その後、彼女はプロイに名前を付けるよう提案してきたわ。なぜか涙で赤くなった目で。
@@ -294,7 +294,7 @@
 @pg
 *page21|
 @chgfg textoff=0 storage=im18なぜなに有珠制服気取 id=a time=200
-@ploysay mode=ru26
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ6_0013.opus
 『それに近い将来、こういう名前がトレンドになる時代がくるから。
@@ -492,7 +492,7 @@
 @pg
 *page36|
 @chgfg textoff=0 storage=im18なぜなにコマドリ普(口開) id=k time=200
-@ploysay mode=lu26
+@ploysay mode=lu19
 @fgact textoff=0 page=fore props=-storage,center,vcenter,absolute,afx,afy,rotate,-effect,-visible keys=(0,4,l,im18なぜなにコマドリ羽,220,309,2000,33,281.5,-21.174,屋外深夜,1)(600,,,,,,,,,-108.896,,) storage=im18なぜなにコマドリ羽
 @sestop
 @se storage=BA0_NZ6_0013.opus
@@ -595,7 +595,7 @@
 @bg rule=crossfade time=600 storage=black left=-48 top=-48 noclear=1
 @stopaction page=back
 @wait canskip=0 time=600
-@ploysay mode=rb26 ox=-50
+@ploysay mode=rb19 ox=-50
 @sestop
 @se storage=BA0_NZ6_0016.opus
 この世でいちばん増やしたくないレパートリー、[r]
@@ -622,7 +622,7 @@
 @clfg storage=ef08魔弾(弱単発魔弾のみ)
 @clfg storage=im0911根源光 time=300 preback=0
 @wait canskip=0 time=1200
-@ploysay mode=ru26
+@ploysay mode=ru19
 @sestop
 @se storage=A40_NZ6_0023.opus
 　……映画はここまでのようね。[r]

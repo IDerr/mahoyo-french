@@ -58,11 +58,11 @@
 　Après tout, il ne bavarde qu'avec les gens qu'il apprécie.』
 *page13|
 　Par sa faute, je voulais croire que j'avais une chance.
-　Il s'était même cassé le bras en voulant me sauver durant les incidents de l'été dernier.
+　Il s'était même cassé le bras en voulant me sauver durant les incidents de cet été.
 　J'ignorais si Tsukiji avait déjà une petite amie, mais j'aurais peut-être ma chance si je lui déclarais ma flamme.
 *page14|
 　Mais seulement, voilà,
-　dans ce cas, à quoi servait le combat secret que je menais depuis le début de l'adolescence ?
+　dans ce cas, à quoi servait le combat secret que je menais depuis mon plus jeune âge ?
 　Moi qui concevais depuis l'enfance mes plans d'avenir, il m'arrivait de mépriser mes camarades de classe qui ne pensaient qu'à l'amour ou à leurs rêves.
 *page15|
 　J'avais sérieusement du mal à croire que cette même personne songeait à gâcher ces six longues années d'efforts pour une raison aussi puérile.

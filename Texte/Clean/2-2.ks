@@ -48,7 +48,7 @@
 　demanda Sōjūrō tout en regardant d'un air très intéressé la nourriture de Tobimaru.
 *page11|
 「Ce n'est pas mauvais, mais ce n'est pas bon non plus. Enfin, si tu veux goûter, je ne t'en empêcherai pas.
-　Si les gens ne faisaient plus des efforts pour rien, nous irions à notre perte. D'autant plus si ça concerne les trois grands plaisirs.」
+　Si les gens ne faisaient plus d'efforts pour rien, nous irions à notre perte. D'autant plus si ça concerne les trois grands plaisirs.」
 *page12|
 　Tobimaru finit sa barre énergétique, posa la dernière sur la table et prit, comme si c'était normal, une boulette de riz.
 　Sōjūrō laissa faire Tobimaru sans protester et goûta le biscuit qu'on lui avait offert.
@@ -190,7 +190,7 @@
 　Sōjūrō éprouvait envers Aozaki Aoko trop de sentiments qu'il ne comprenait pas lui-même.
 *page44|
 「C'est vrai, c'est bizarre. En plus, je ne la connais pas très bien.」
-　Ce n'était pas étonnant, car depuis le jour de l'anniversaire de l'établissement où elle s'était chargée de lui, il n'avait pas parlé une seule fois avec Aoko en dehors de l'école.
+　Ce n'était pas étonnant, car depuis le jour de l'anniversaire de l'établissement où elle s'était chargée de lui, il n'avait pas parlé une seule fois avec Aoko à l'école.
 　Quand Sōjūrō essayait de lui parler, Aoko s'en allait en toute hâte.
 　Le dimanche dernier, ils s'étaient retrouvés à travailler ensemble par hasard, mais là aussi, ils avaient à peine parlé sur le chemin de l'aller et du retour.
 *page45|

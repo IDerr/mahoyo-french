@@ -1,9 +1,9 @@
 ﻿*page0|
 「Shizuki est là ?」
 　À douze heures cinquante, alors que la pause déjeuner était sur le point de se terminer,
-　Aozaki Aoko se montra dans la salle 2-C toujours aussi survoltée,
+　Aozaki Aoko se montra dans la salle 2-C toujours en pleine effervescence,
 　et s'informa ainsi,
-　avec une gestuelle qui lui était tout à fait naturelle.
+　avec une gestuelle qui était tout à fait naturelle pour elle.
 *page1|
 　Aoko ne faisait pas partie de cette classe mais elle ne montra aucune hésitation en y entrant.
 　Quant aux élèves, qui étaient jusqu'à présent aussi bruyants que des oisillons devant leur nourriture et dont l'agitation tranchait avec le détachement de la présidente, ils commencèrent à retourner dans un calme relatif à leurs places.
@@ -102,7 +102,7 @@ mais si même un type comme toi commence à raconter des bêtises, en qui pourra
 「Je ne connais pas les bases, alors même en étudiant deux fois plus que les autres, je ne pourrai pas rattraper mon retard. Tu sais, si on ne fait que travailler, on devient une névrose, non ?」
 「On ne devient pas une névrose, on devient névrosé. En tout cas, c'est mauvais d'en faire trop. Que dirais-tu de réduire tes heures de travail le temps des examens ?」
 *page24|
-「Je l'ai demandé. Mais en fin d'année, les travailleurs à mi-temps qui prennent des vacances sont nombreux, même les remplaçants ont tendance à le demander.」
+「Je l'ai déjà fait. Mais en fin d'année, il y a beaucoup de gens qui prennent des congés, et on me demande souvent de les remplacer.」
 　répondit Sōjūrō en haussant les épaules, désappointé.
 　À sa façon de parler, on sentait à quel point il était surchargé de travail.
 　Sans aller jusqu'à la névrose, il manquait peut-être tellement de sommeil qu'il avait rêvé en plein jour...... Même si, dans le cas présent, la scène dont il avait été témoin s'était déroulée tard dans la nuit.

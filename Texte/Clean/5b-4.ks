@@ -27,7 +27,7 @@
 　Son talent pour les sorts complexes était médiocre,[wait canskip=0 time=400][r]
 　mais dans les sorts de base qu'elle n'avait qu'à alimenter en prana, elle avait dépassé Alice après avoir pratiqué la Magie pendant à peine deux ans.
 *page6|
-　...... Un travail acharné de génie et une excellente intuition.
+　...... Une aisance innée digne d'un génie et une excellente intuition.
 　Elle n'était pas spécialement douée pour utiliser la Magie, mais plutôt incroyablement “rapide”.
 　Si elle n'avait pas vu le jour dans la famille Aozaki, elle se serait certainement forgé une réputation d'as de la gâchette.
 *page7|

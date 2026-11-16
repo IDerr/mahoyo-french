@@ -18,7 +18,7 @@
 　Son aile fut touchée et son équilibre rompu.
 　Sa silhouette écroulée au sol paraissait misérable.
 　Aah―――cependant, même ainsi, il avait battu des ailes jusqu'à la fin avec toute sa dignité d'oiseau.
-　Fendant le vent, il avait chuté sur le sol sec, les yeux tournés vers le ciel.
+　Fendant le vent, il avait chuté sur le sol sec, les yeux tournés vers le nord.
 *page4|
 　...... Je revois cette scène en rêve après tout ce temps.
 　Elle est ancrée profondément dans mon cœur, et pourtant, je ne sais pourquoi, je ne m'en souviens que vaguement.
@@ -306,7 +306,7 @@ Ce n'est pas comme si j'attendais quoi que ce soit de sa part.」
 　La nuit au manoir passa.
 　Par chance ou par malchance, les changements causés par l'intrusion d'un élément étranger ne semblaient pas encore visibles.
 *page77|
-　Le lendemain matin, à six heures et demie, alors que les nuages commençaient à apparaître dans le ciel,
+　Le lendemain matin, à six heures et demie, alors que le ciel commençait à s'éclaircir,
 　pour une certaine raison, Sōjūrō se rendait à l'école avec Aoko dans le froid.
 *page78|
 “Compris ? Quand tu es au manoir, tâche autant que possible de ne pas te retrouver seul.”

@@ -87,7 +87,7 @@
 　Je courais, le souffle court.
 　Je sprintai à une vitesse que je n'avais encore jamais atteinte en EPS.
 　Apparemment, moi aussi, j'étais capable de courir quand je le voulais vraiment.
-　Même des gens pas très sportifs peuvent avoir des réflexes moteurs surhumains s'ils y mettent du leur, pensai-je en souriant.
+　Même des gens pas très sportifs peuvent avoir au moins une agilité dans la moyenne s'ils y mettent du leur, pensai-je en souriant.
 　Ce fut sur cette note optimiste, tentant de fuir la réalité,
 *page21|
 「Hein ?」
