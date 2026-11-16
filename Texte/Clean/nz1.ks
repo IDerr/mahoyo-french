@@ -85,24 +85,24 @@ J'vois. J'comprends mieux. C'pour ça que malgré les années qui passent, ma ca
 La plupart des familiers sont créés à partir de petits animaux.[r]
 En effet, une grande partie des types de familiers requièrent d'être alimentés en prana par leur maître.
 *page29|
-　Plus le familier est gros, plus il a besoin de prana.[r]
-　C'est pour cette raison que les petits animaux[r]　sont privilégiés,[r]　car leur consommation de prana est faible,[r]　et ils sont capables dès leur création de se procurer[r]　de la nourriture par leurs propres moyens.
+Plus le familier est gros, plus il a besoin de prana. C'est pour cela[r]
+que les petits animaux　sont privilégiés, car ils consomment peu de prana[r]et peuvent dès leur création subvenir eux-mêmes à leurs besoins.
 *page30|
 　? Pourtant, j'ai jamais chassé ou fait un truc du genre.[r]
 　J'ai pas besoin de protéines ou de fibres alimentaires ?
 *page31|
-　Les Ploy sont une catégorie à part.[r]
-　Bref, pour les Mages,[r]　les familiers sont　des “serviteurs” ou[r]　des “animaux  de compagnie” à leur service.
+　Les Ploy sont une catégorie à part. Bref, pour les Mages,[r]
+　les familiers sont　des “serviteurs” ou[r]　des “animaux  de compagnie” à leur service.
 *page32|
 　Ainsi, on prend en général un chat, un[r]　oiseau ou une souris comme familier.
 *page33|
-　Mam'zelle Alice, cette machine effrayante,[r]
+　Mam'zelle Alice,[r]　cette machine effrayante,[r]
 　ça entre dans quelle catégorie ?
 *page34|
 　C'est un Automate adapté au combat. Mais à ce niveau,[r]
 　il s'agit davantage d'une sentinelle que d'un familier.
 *page35|
-...... Sa construction même est très éloignée des normes[r]traditionnelles des familiers. De la même façon,[r]
+...... Sa conception même est très éloignée des normes[r]traditionnelles des familiers. De la même façon,[r]
 les familiers possédant une intelligence compatible[r]
 avec les humains comme toi sont aussi des exceptions.
 *page36|
@@ -117,12 +117,12 @@ avec les humains comme toi sont aussi des exceptions.
 　Ce sont que des sous-fifres ?[r]
 　Ouaah, ils sont vraiment inutiles !
 *page39|
-　Voilà une conclusion hâtive typique de toi,[r]　Robin.[r]
+　Voilà une conclusion hâtive typique de toi, Robin.[r]
 　Ça me consterne. Et dire que tu es mon familier,[r]
 　j'ai l'impression que ça va me rendre folle.
 *page40|
-　Mam'zelle Alice.[r]
-　Vos paroles sont merveilleuses, [r]　mais pourquoi votre visage fait peur ?
+　Mam'zelle Alice. Vos paroles sont merveilleuses,[r]
+　mais pourquoi votre visage fait peur ?
 *page41|
 　Même s'il ne lui donne que 10% de ses propres capacités,[r]
 　il est très facile pour un Mage de créer un familier[r]　plus “fort” que lui-même.
@@ -137,8 +137,8 @@ avec les humains comme toi sont aussi des exceptions.
 　Trop cool ![r]
 　J'ai l'intuition que j'aurai un grand rôle à jouer à Noël...!
 *page45|
-Tu serais plutôt un lance-pois.[r]
-Je me demande si tes projectiles[r]se feront juste gober.
+　Tu serais plutôt un lance-pois.[r]
+　Je me demande si tes projectiles[r]　se feront juste gober.
 *page46|
 　Vous êtes vachement dure.[r]
 　Mais au moins, on a fait une explication approximative.
@@ -151,7 +151,7 @@ Je me demande si tes projectiles[r]se feront juste gober.
 　Une auto-destruction instantanée à l'activation ?
 *page49|
 　Cette hypothèse n'a pas lieu d'être.[r]
-　Aoko n'a pas les compétences[r]　nécessaires pour créer un familier.
+　Aoko n'a pas les compétences nécessaires pour créer un familier.
 *page50|
 　En premier lieu, elle ne sait que détruire ! Si elle[r]
 　donnait le seul don qu'elle possède à un familier,[r]
@@ -180,9 +180,9 @@ Et inversement, je ne peux pas me battre―――
 *page58|
 　Aux heures de sport, sa tâche est facile : [r]　rester assise à la lisière du campus.
 *page59|
-　Mais c'est pas grave ! Si j'sais tout ça, c'est[r]
-　parce que j'vous file pour prendre des photos ![r]
-　My Angel ! Vous êtes juste magnifi... [se storage=se10027 volume=100][fgact page=fore props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-effect,-visible keys=(0,3,l,ev青子汎用04私服a(ef小),907,367,5000,,10,10,monoff1313,1)(500,0,n,,,,,0,20,20,,) storage=ev青子汎用04私服a(ef小) textoff=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,-visible keys=(0,0,l,white,512,288,5000,,1)(250,,n,,,,,0,) storage=white textoff=0][fgact page=fore props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,l,im18なぜなにコマドリふむ,45,430,3000,,1)(500,,n,,-264,116,,720,) storage=im18なぜなにコマドリふむ id=k textoff=0]Hein ?![wact]
+Mais c'est pas grave ! Si j'sais tout ça, c'est[r]
+parce que j'vous file pour prendre des photos ![r]
+My Angel ! Vous êtes juste magnifi... [se storage=se10027 volume=100][fgact page=fore props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-effect,-visible keys=(0,3,l,ev青子汎用04私服a(ef小),907,367,5000,,10,10,monoff1313,1)(500,0,n,,,,,0,20,20,,) storage=ev青子汎用04私服a(ef小) textoff=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,-visible keys=(0,0,l,white,512,288,5000,,1)(250,,n,,,,,0,) storage=white textoff=0][fgact page=fore props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,l,im18なぜなにコマドリふむ,45,430,3000,,1)(500,,n,,-264,116,,720,) storage=im18なぜなにコマドリふむ id=k textoff=0]Hein ?![wact]
 *page60|
 　...... Quelle insolence ![r]
 　Même moi, il m'arrive parfois de courir un peu.
