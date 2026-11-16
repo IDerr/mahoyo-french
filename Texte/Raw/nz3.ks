@@ -696,12 +696,12 @@
 @pg
 *page50|
 @chgfg time=200 storage=im18なぜなに有珠制服説 id=a textoff=0
-@ploysay mode=ru19
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ3_0022.opus
 　　　典型的な[ruby text=マザーグース char=4]韻踏み唄ね。[r]
 　　　真夜中、猫がヴァイオリンをひいて、[l][r]
-@ploysay mode=ru19
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ3_0023.opus
 牛が月を飛び越えて、犬が笑って、[r]
