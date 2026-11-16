@@ -156,8 +156,8 @@ Le poème parle d'un chat jouant du violon à minuit,[r]
 une vache qui saute par-dessus la lune, un chien qui rit, et[r]
 les personnifications d'un plat et d'une cuillère qui s'enfuient.
 *page51|
-Selon une théorie, elle s'inspire[r]d'une légende grecque ou égyptienne.[r]
-Si ça fait référence aux constellations, alors[r]la vache doit être une parodie du taureau.
+Selon une théorie, elle s'inspire d'une légende grecque[r]
+ou égyptienne. Si ça fait référence aux constellations,[r]alors la vache doit être une parodie du taureau.
 *page52|
 　C'est un Ploy jetable, pas vrai ?[r]
 　Il se casse après chaque utilisation.[r]
