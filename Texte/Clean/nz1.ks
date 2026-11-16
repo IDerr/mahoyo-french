@@ -28,7 +28,7 @@
 　venir faire l'émission dans sa chambre, non ?
 *page9|
 ...... C'est bon, alors dépêche-toi de commencer. Finis ça le[r]
-le plus rapidement possible, et va-t'en plus vite que la lumière.
+plus rapidement possible, et va-t'en plus vite que la lumière.
 *page10|
 　Uhaa, c't'embarrassant ![r]
 　C'est tordant !
