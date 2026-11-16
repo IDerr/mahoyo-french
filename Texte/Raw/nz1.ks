@@ -119,7 +119,7 @@
 @fg storage=im18なぜなにコマドリ普 center=45 vcenter=430 index=3000 id=k
 @fg storage=im18なぜなに有珠制服微悲 center=888 vcenter=443 index=3500 id=a
 @bg rule=crossfade time=300 storage=bgなぜなに有珠部屋(統合) left=-48 top=-48 noclear=1
-@ploysay mode=ru19
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ1_0002.opus
 ……いいから、はじめてちょうだい。[r]
@@ -340,7 +340,7 @@
 　　　師も、そういうものでなければ弟子にはとらないわ。
 @pg
 *page25|
-@ploysay mode=ru262
+@ploysay mode=ru26
 @sestop
 @se storage=A40_NZ1_0010.opus
 　　　　でも使い魔は造られた時の性能がすべてだから。[r]
