@@ -708,7 +708,7 @@
 擬人化された皿とスプーンが逃げていくだけの唄。
 @pg
 *page51|
-@ploysay mode=ru192  textoff=0
+@ploysay mode=ru26  textoff=0
 @sestop
 @se storage=A40_NZ3_0024.opus
 一説ではギリシャ・エジプトの神話を元にした……[r]
