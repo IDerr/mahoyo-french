@@ -152,9 +152,9 @@ Les Jumeaux bavards, c'est nous.
 　　　　Et le plat avec la cuillère s'est enfui.』
 *page50|
 C'est une comptine typique de Mother Goose.[r]
-Le poème parle d'un chat jouant du violon à minuit,[r]une vache qui saute par-dessus la lune,[l][r]
-un chien qui rit, et les personnifications[r]
-d'un plat et d'une cuillère qui s'enfuient.
+Le poème parle d'un chat jouant du violon à minuit,[r]
+une vache qui saute par-dessus la lune, un chien qui rit,[r]
+et les personnifications d'un plat et d'une cuillère qui s'enfuient.
 *page51|
 Selon une théorie, elle s'inspire[r]d'une légende grecque ou égyptienne.[r]
 Si ça fait référence aux constellations, alors[r]la vache doit être une parodie du taureau.
