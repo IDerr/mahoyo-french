@@ -85,13 +85,13 @@ J'vois. J'comprends mieux. C'pour ça que malgré les années qui passent, ma ca
 La plupart des familiers sont créés à partir de petits animaux.[r]
 En effet, une grande partie des types de familiers requièrent d'être alimentés en prana par leur maître.
 *page29|
-Plus le familier est gros, plus il a besoin de prana. C'est pour cela[r]
-que les petits animaux　sont privilégiés, car ils consomment peu de prana[r]et peuvent dès leur création subvenir eux-mêmes à leurs besoins.
+Plus le familier est gros, plus il a besoin de prana. C'est pour[r]
+cela que les petits animaux　sont privilégiés, car ils consomment[r]peu de prana et peuvent dès leur création subvenir eux-mêmes[r]à leurs besoins.
 *page30|
 　? Pourtant, j'ai jamais chassé ou fait un truc du genre.[r]
 　J'ai pas besoin de protéines ou de fibres alimentaires ?
 *page31|
-　Les Ploy sont une catégorie à part. Bref,[r]
+　Les Ploy constituent une catégorie à part. Bref,[r]
 　pour les Mages, les familiers sont　des “serviteurs”[r]　ou des “animaux  de compagnie” à leur service.
 *page32|
 　Ainsi, on prend en général un chat, un[r]　oiseau ou une souris comme familier.
@@ -117,9 +117,9 @@ avec les humains tels que toi sont aussi des exceptions.
 　Ce sont que des sous-fifres ?[r]
 　Ouaah, ils sont vraiment inutiles !
 *page39|
-　Voilà une conclusion hâtive typique de toi, Robin.[r]
-　Ça me consterne. Et dire que tu es mon familier,[r]
-　j'ai l'impression que ça va me rendre folle.
+Voilà une conclusion hâtive typique de toi, Robin.[r]
+Ça me consterne. Et dire que tu es mon familier,[r]
+j'ai l'impression que ça va me rendre folle.
 *page40|
 　Mam'zelle Alice. Vos paroles sont merveilleuses,[r]
 　mais pourquoi votre visage fait peur ?
@@ -181,7 +181,7 @@ Et inversement, je ne peux pas me battre―――
 　Aux heures de sport, sa tâche est facile : [r]　rester assise à la lisière du campus.
 *page59|
 Mais c'est pas grave ! Si j'sais tout ça, c'est[r]
-parce que j'vous file pour prendre des photos ![r]
+parc'que j'vous file pour prendre des photos ![r]
 My Angel ! Vous êtes juste magnifi... [se storage=se10027 volume=100][fgact page=fore props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-effect,-visible keys=(0,3,l,ev青子汎用04私服a(ef小),907,367,5000,,10,10,monoff1313,1)(500,0,n,,,,,0,20,20,,) storage=ev青子汎用04私服a(ef小) textoff=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,-visible keys=(0,0,l,white,512,288,5000,,1)(250,,n,,,,,0,) storage=white textoff=0][fgact page=fore props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,l,im18なぜなにコマドリふむ,45,430,3000,,1)(500,,n,,-264,116,,720,) storage=im18なぜなにコマドリふむ id=k textoff=0]Hein ?![wact]
 *page60|
 　...... Quelle insolence ![r]
