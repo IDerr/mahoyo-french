@@ -701,11 +701,9 @@
 @se storage=A40_NZ3_0022.opus
 　　　典型的な[ruby text=マザーグース char=4]韻踏み唄ね。[r]
 　　　真夜中、猫がヴァイオリンをひいて、[r]
-@ploysay mode=ru192
 @sestop
 @se storage=A40_NZ3_0023.opus
-牛が月を飛び越えて、[r]
-犬が笑って、[r]
+牛が月を飛び越えて、犬が笑って、[r]
 擬人化された皿とスプーンが逃げていくだけの唄。
 @pg
 *page51|

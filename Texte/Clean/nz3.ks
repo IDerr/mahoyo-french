@@ -153,8 +153,7 @@ Les Jumeaux bavards, c'est nous.
 *page50|
 C'est une comptine typique de Mother Goose.[r]
 Le poème parle d'un chat jouant du violon à[r]
-minuit, une vache qui saute par-dessus la lune,[r]
-un chien qui rit, et les personnifications[r]
+minuit, une vache qui saute par-dessus la lune,[r]un chien qui rit, et les personnifications[r]
 d'un plat et d'une cuillère qui s'enfuient.
 *page51|
 Selon une théorie, elle s'inspire[r]d'une légende grecque ou égyptienne.[r]
