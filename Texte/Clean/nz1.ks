@@ -86,13 +86,13 @@ La plupart des familiers sont créés à partir de petits animaux.[r]
 En effet, une grande partie des types de familiers requièrent d'être alimentés en prana par leur maître.
 *page29|
 Plus le familier est gros, plus il a besoin de prana. C'est pour[r]
-cela que les petits animaux　sont privilégiés, car ils consomment[r]peu de prana et peuvent dès leur création subvenir eux-mêmes[r]à leurs besoins.
+cela que les petits animaux sont privilégiés, car ils[r]consomment peu de prana et peuvent dès leur création[r]subvenir eux-mêmes à leurs besoins.
 *page30|
 　? Pourtant, j'ai jamais chassé ou fait un truc du genre.[r]
 　J'ai pas besoin de protéines ou de fibres alimentaires ?
 *page31|
 　Les Ploy constituent une catégorie à part. Bref,[r]
-　pour les Mages, les familiers sont　des “serviteurs”[r]　ou des “animaux  de compagnie” à leur service.
+　pour les Mages, les familiers sont des “serviteurs”[r]　ou des “animaux  de compagnie” à leur service.
 *page32|
 　Ainsi, on prend en général un chat, un[r]　oiseau ou une souris comme familier.
 *page33|
@@ -103,8 +103,8 @@ Mam'zelle Alice,[r]cette machine effrayante,[r]
 　il s'agit davantage d'une sentinelle que d'un familier.
 *page35|
 ...... Son concept même diffère fortement d'un familier classique.[r]
-D'ailleurs, les familiers assez intelligents pour interagir[r]
-avec les humains tels que toi sont aussi des exceptions.
+D'ailleurs, les familiers assez intelligents pour interagir avec[r]
+les humains tels que toi sont aussi des exceptions.
 *page36|
 　Mais les familiers de ce genre ne sont[r]　qu'un immense gâchis d'énergie.[r]　Leur coût en prana est trop élevé.[r]
 　En général, le Mage gagnerait à faire[r]　le travail lui-même ou à utiliser[r]
@@ -113,8 +113,8 @@ avec les humains tels que toi sont aussi des exceptions.
 　En d'autres termes,[r]
 　la fin ne justifie pas les moyens, hein.
 *page38|
-　Hm ? Quelque part, ça veut dire que le familier[r]　est toujours plus faible que le Mage, hein.[r]
-　Ce sont que des sous-fifres ?[r]
+　Hm ? Quelque part, ça veut dire que le familier est toujours[r]
+　plus faible que le Mage, hein. Ce sont que des sous-fifres ?[r]
 　Ouaah, ils sont vraiment inutiles !
 *page39|
 Voilà une conclusion hâtive typique de toi, Robin.[r]
@@ -150,8 +150,8 @@ j'ai l'impression que ça va me rendre folle.
 　que se passerait-il si Mam'zelle Aoko créait un familier ?[r]
 　Une auto-destruction instantanée à l'activation ?
 *page49|
-　Cette hypothèse n'a pas lieu d'être.[r]
-　Aoko n'a pas les compétences nécessaires pour créer un familier.
+　Cette hypothèse n'a pas lieu d'être. Aoko n'a pas[r]
+　les compétences nécessaires pour créer un familier.
 *page50|
 　En premier lieu, elle ne sait que détruire ! Si elle[r]
 　donnait le seul don qu'elle possède à un familier,[r]
