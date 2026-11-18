@@ -456,7 +456,7 @@
 @pg
 *page38|
 @chgfg textoff=0 storage=im18なぜなにコマドリふむ id=k time=200
-@ploysay mode=lu262
+@ploysay mode=lu26
 @sestop
 @se storage=BA0_NZ1_0019.opus
 　ん？　んじゃ、使い魔は術者より弱いんスね。[r]
@@ -499,6 +499,7 @@
 @pg
 *page43|
 @chgfg textoff=0 storage=im18なぜなに有珠制服説 id=a time=200
+@ploysay mode=ru26
 @sestop
 @se storage=A40_NZ1_0022.opus
 　泣いたり笑ったり飛んだりはできなくなるけど、[r]
