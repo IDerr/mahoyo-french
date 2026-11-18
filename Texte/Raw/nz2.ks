@@ -147,7 +147,7 @@
 @pg
 *page10|
 @chgfg time=300 storage=im18なぜなに有珠園児説 id=a
-@ploysay mode=ru19
+@ploysay mode=ru26
 @sestop
 @se storage=A40_NZ2_0004.opus
 マンネリズムはよくないでしょう？[r]
@@ -314,7 +314,7 @@
 @pg
 *page25|
 @chgfg storage=im18なぜなにコマドリふむ id=k time=200
-@ploysay mode=lu19 oy=-30
+@ploysay mode=lu26 oy=-30
 @sestop
 @se storage=BA0_NZ2_0018.opus
 ないッス。[r]
@@ -437,7 +437,7 @@
 @pg
 *page37|
 @chgfg storage=im18なぜなにコマドリ普 id=k time=200
-@ploysay mode=lu19 oy=-30
+@ploysay mode=lu262 oy=-30
 @sestop
 @se storage=BA0_NZ2_0023.opus
 ？　すまないッス、今なに言ったのか忘れたッス。[r]
@@ -542,7 +542,7 @@
 @pg
 *page47|
 @chgfg storage=im18なぜなに有珠園児イヤ id=a time=200 textoff=0
-@ploysay mode=ru19
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ2_0021.opus
 　それが済んだら……そうね。[r]
