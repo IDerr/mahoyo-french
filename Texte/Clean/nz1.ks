@@ -70,10 +70,10 @@ C'est même physiquement pesant ?
 　C'est différent des disciples ?
 *page23|
 　Tout à fait.[r]
-　Un disciple est le successeur qui hérite des techniques [r]　du maître et se doit de les maîtriser, n'est-ce pas ?
+　Un disciple est le successeur qui hérite des techniques[r]　du maître et se doit de les maîtriser, n'est-ce pas ?
 *page24|
 　Ils ont le devoir de surpasser un jour leurs maîtres,[r]
-　et ces derniers ne prendraient pas de disciples [r]　s'il en était autrement.
+　et ces derniers ne prendraient pas de disciples[r]　s'il en était autrement.
 *page25|
 À l'inverse, les familiers reçoivent l'intégralité de leurs[r]
 capacités à leur naissance. Il n'y a aucun sens à ce qu'un[r]être incapable d'évoluer devienne le successeur d'un Mage.
@@ -85,8 +85,8 @@ J'vois. J'comprends mieux. C'pour ça que malgré les années qui passent, ma ca
 La plupart des familiers sont créés à partir de petits animaux.[r]
 En effet, une grande partie des types de familiers requièrent d'être alimentés en prana par leur maître.
 *page29|
-Plus le familier est gros, plus il a besoin de prana. C'est pour[r]
-cela que les petits animaux sont privilégiés, car ils[r]consomment peu de prana et peuvent dès leur création[r]subvenir eux-mêmes à leurs besoins.
+Plus ils sont gros, plus ils ont besoin de prana. On préfère donc[r]
+utiliser de petits animaux, car ils consomment peu de prana et[r]peuvent dès leur création subvenir eux-mêmes à leurs besoins.
 *page30|
 　? Pourtant, j'ai jamais chassé ou fait un truc du genre.[r]
 　J'ai pas besoin de protéines ou de fibres alimentaires ?
