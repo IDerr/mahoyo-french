@@ -85,8 +85,8 @@ J'vois. J'comprends mieux. C'pour ça que malgré les années qui passent, ma ca
 La plupart des familiers sont créés à partir de petits animaux.[r]
 En effet, une grande partie des types de familiers requièrent d'être alimentés en prana par leur maître.
 *page29|
-Plus ils sont gros, plus ils ont besoin de prana. On préfère donc[r]
-utiliser de petits animaux, car ils consomment peu de prana et[r]peuvent dès leur création subvenir eux-mêmes à leurs besoins.
+Plus ils sont gros, plus ils ont besoin de prana. On préfère[r]
+donc utiliser de petits animaux, car ils consomment peu de[r]prana et peuvent s'alimenter seuls dès leur création.
 *page30|
 　? Pourtant, j'ai jamais chassé ou fait un truc du genre.[r]
 　J'ai pas besoin de protéines ou de fibres alimentaires ?
