@@ -439,7 +439,7 @@
 *page36|
 @clfg rule=crossfade time=1000 storage=im18青子人形イメージ
 @chgfg storage=im18なぜなに有珠制服気取 id=a time=200 zoomx=-100
-@ploysay mode=ru19
+@ploysay mode=ru26
 @sestop
 @se storage=A40_NZ1_0018.opus
 でも、そんなのは魔力の無駄ね。コストが高いだけ。[r]
