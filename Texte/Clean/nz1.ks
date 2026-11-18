@@ -86,7 +86,7 @@ La plupart des familiers sont créés à partir de petits animaux.[r]
 En effet, une grande partie des types de familiers requièrent d'être alimentés en prana par leur maître.
 *page29|
 Plus ils sont gros, plus ils ont besoin de prana. On préfère[r]
-donc utiliser de petits animaux, car ils consomment peu de[r]prana et peuvent s'alimenter seuls dès leur création.
+donc utiliser de petits animaux, car ils consomment peu[r]de prana et peuvent s'alimenter seuls dès leur création.
 *page30|
 　? Pourtant, j'ai jamais chassé ou fait un truc du genre.[r]
 　J'ai pas besoin de protéines ou de fibres alimentaires ?
@@ -106,9 +106,9 @@ Mam'zelle Alice,[r]cette machine effrayante,[r]
 D'ailleurs, les familiers assez intelligents pour interagir avec[r]
 les humains tels que toi sont aussi des exceptions.
 *page36|
-　Mais les familiers de ce genre ne sont[r]　qu'un immense gâchis d'énergie.[r]　Leur coût en prana est trop élevé.[r]
-　En général, le Mage gagnerait à faire[r]　le travail lui-même ou à utiliser[r]
-　des ressources plus abordables.
+Mais ce genre de familiers n'est qu'un immense gâchis d'énergie.[r]
+Leur coût en prana est trop élevé. En général, le Mage gagnerait à[r]
+faire le travail lui-même ou à utiliser des ressources plus abordables.
 *page37|
 　En d'autres termes,[r]
 　la fin ne justifie pas les moyens, hein.
