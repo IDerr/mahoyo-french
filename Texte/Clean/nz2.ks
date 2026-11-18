@@ -36,15 +36,15 @@
 　C'est un détail sans importance,[r]
 　mais que faites-vous ici ? Et pourquoi ?
 *page10|
-　Il ne faut pas tomber dans la routine, non ?[r]
-　Même si c'est le coin bonus,[r]　ce n'est pas une raison[r]　pour réutiliser les mêmes décors.[r]
-　C'est contraire à mon éthique.[r]　On n'est pas dans un certain dojo.
+Il ne faut pas tomber dans la routine, non ? Même si c'est le coin[r]
+bonus, ce n'est pas une raison pour réutiliser les mêmes décors.[r]
+C'est contraire à mon éthique. On n'est pas dans un certain dojo.
 *page11|
 　C'est pour ça que vous avez changé de lieu.[r]
 　Je vois. J'ai à peu près compris.[r]
-　Cette dilapidation surprendrait même Mam'zelle Aoko.
+　Cette opulence surprendrait même Mam'zelle Aoko.
 *page12|
-　Mais perso, j'préfère plutôt les jupes aux blouses.[r]　Celles qui ressemblent à des robes,[r]　elles sont divines.[r]　Enfin, c'est pas que les blouses c'est moche,[r]　c'est juste un problème d'image.[r]　Est-ce qu'elles rendent bien en peinture ?[r]
+　Mais perso, j'préfère plutôt les jupes[r]　aux blouses. Celles qui ressemblent[r]　à des robes, elles sont divines.[r]　Enfin, c'est pas que les blouses c'est moche,[r]　c'est juste un problème d'image.[r]　Est-ce qu'elles rendent bien en peinture ?[r]
 　Vous voyez “La forêt, l'oiseau et la fillette” ?[r]　Ou “L'oiseau et l'écolier”, où l'enfant[r]　a une telle présence qu'on en oublie l'oiseau.
 *page13|
 　Zut. J'étais en pleine préparation de pâtisseries.
@@ -63,9 +63,9 @@
 　des sorcières des contes de fées.[r]
 　Les Ploy se fabriquent dans une marmite ?
 *page18|
-　En fait, cette odeur, c'est du chocolat ?[r]
-　Pas possible......[r]
-　Les Ploy étaient des pâtisseriesーーーー?!
+En fait, cette odeur, c'est du chocolat ?[r]
+Pas possible......[r]
+Les Ploy étaient des pâtisseriesーーーー?!
 *page19|
 　...... Toi alors. Tu es un Ploy, et pourtant, tu ne connais[r]
 　pas leur mécanisme ? Je ne voulais pas le reconnaître,[r]
@@ -86,15 +86,15 @@
 *page24|
 　As-tu une objection à faire ?
 *page25|
-　Non. Mais j'voudrais au moins avoir un résumé.[r]
-　À ce rythme, c't'partie va être pire[r]
-　qu'un certain dojo !
+　Non.[r]
+　Mais j'voudrais au moins avoir un résumé.[r]
+　À ce rythme, c't'partie va être pire qu'un certain dojo !
 *page26|
 　............... Je préférerais éviter cela.[r]
 　Dans ce cas......
 *page27|
-　C'est l'orthographe de Ploy Kickshaw. En soi,[r]
-　ça donne déjà une assez bonne explication.[r]　Qu'en penses-tu ?
+C'est l'orthographe de Ploy Kickshaw. En soi,[r]
+ça donne déjà une assez bonne explication.[r]Qu'en penses-tu ?
 *page28|
 　　　　　Ploy ? Kickshaw ?
 *page29|
@@ -119,18 +119,18 @@
 ...... C'est la Magie propre à la lignée de ma mère.[r]
 Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en obtenir des privilèges et de l'argent.
 *page35|
-　Enfin, même si vous les présentiez publiquement,[r]
-　il n'y a que vous qui puissiez les utiliser ![r]
-　Ils sont liés au sang de Meinster !
+Enfin, même si vous les présentiez publiquement,[r]
+il n'y a que vous qui puissiez les utiliser ![r]
+Ils sont liés au sang de Meinster !
 *page36|
 　...... Toi,[r]
 　en fait, tu sais très bien de quoi tu parles ?
 *page37|
-　? Désolé, j'ai oublié c'que j'viens de dire.[r]
-　Pour moi, les choses du passé[r]　sont plus vagues que l'futur.
+　? Désolé, j'ai oublié c'que j'viens de dire. Pour moi,[r]
+　les choses du passé sont plus vagues que l'futur.
 *page38|
-　...... Qu'entends-tu[r]
-　au juste[r]　par “Meinster” ?
+　......[r]
+　Qu'entends-tu au juste[r]　par “Meinster” ?
 *page39|
 　My Goddess. La mère de Mam'zelle Alice.[r]
 　Elle avait des surnoms comme la Sorcière au sang pur.
@@ -161,8 +161,8 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 　au restaurant. Quand tu auras fini, réchauffe[r]
 　le chocolat. Et après, tu poliras le miroir.
 *page47|
-　Et ensuite...... voyons.[r]
-　Écrase-toi contre un poteau électrique [r]　et meurs de façon théâtrale.
+　Et ensuite...... voyons. Écrase-toi contre[r]
+　un poteau électrique et meurs de façon théâtrale.
 *page48|
 　Comme d'habitude, donc, hein ![r]
 　Mam'zelle Alice, vous êtes cruelle !

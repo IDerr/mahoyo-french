@@ -113,9 +113,9 @@ les humains tels que toi sont aussi des exceptions.
 　En d'autres termes,[r]
 　la fin ne justifie pas les moyens, hein.
 *page38|
-　Hm ? Quelque part, ça veut dire que le familier est toujours[r]
-　plus faible que le Mage, hein. Ce sont que des sous-fifres ?[r]
-　Ouaah, ils sont vraiment inutiles !
+Hm ? Quelque part, ça veut dire que le familier est toujours[r]
+plus faible que le Mage, hein. Ce sont que des sous-fifres ?[r]
+Ouaah, ils sont vraiment inutiles !
 *page39|
 Voilà une conclusion hâtive typique de toi, Robin.[r]
 Ça me consterne. Et dire que tu es mon familier,[r]
