@@ -114,7 +114,7 @@
 　　大トロのセットなだけよ。
 @pg
 *page4|
-@ploysay mode=c262 ox=-50 oy=200
+@ploysay mode=c26 ox=-50 oy=200
 @sestop
 @se storage=BA0_NZ3_0001.opus
 鮮血のトリコロール。フランスの国旗みたいッスね。[r]
