@@ -106,9 +106,9 @@ Mam'zelle Alice,[r]cette machine effrayante,[r]
 D'ailleurs, les familiers assez intelligents pour interagir avec[r]
 les humains tels que toi sont aussi des exceptions.
 *page36|
-Mais ce genre de familier n'est qu'un immense gâchis d'énergie.[r]
-Son coût est juste exorbitant. En général, le Mage gagnerait à[r]
-faire le travail lui-même ou à utiliser des matériaux moins chers.
+Mais un tel familier n'est qu'un immense gâchis de prana. Son[r]
+coût est excessif. En général, le Mage gagnerait à faire[r]
+le travail lui-même ou à utiliser des matériaux moins chers.
 *page37|
 　En d'autres termes,[r]
 　la fin ne justifie pas les moyens, hein.

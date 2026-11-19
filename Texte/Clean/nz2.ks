@@ -36,8 +36,8 @@
 　C'est un détail sans importance,[r]
 　mais que faites-vous ici ? Et pourquoi ?
 *page10|
-Il ne faut pas tomber dans la routine, non ? Même si c'est le[r]
-coin bonus, je refuse de réutiliser les mêmes décors. C'est[r]
+Il ne faut pas tomber dans la routine, non ? Même si c'est[r]
+un coin bonus, je refuse de garder les mêmes décors. C'est[r]
 contraire à mon éthique. On n'est pas dans un certain dojo.
 *page11|
 　C'est pour ça que vous avez changé de lieu.[r]
