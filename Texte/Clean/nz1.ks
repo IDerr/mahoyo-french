@@ -107,14 +107,14 @@ D'ailleurs, les familiers assez intelligents pour interagir avec[r]
 les humains tels que toi sont aussi des exceptions.
 *page36|
 Mais ce genre de familiers n'est qu'un immense gâchis d'énergie.[r]
-Leur coût en prana est trop élevé. En général, le Mage gagnerait à[r]
-faire le travail lui-même ou à utiliser des ressources plus abordables.
+Ils coûtent trop cher à produire. En général, le Mage gagnerait à[r]
+faire le travail lui-même ou à utiliser des matériaux moins onéreux.
 *page37|
 　En d'autres termes,[r]
 　la fin ne justifie pas les moyens, hein.
 *page38|
-Hm ? Quelque part, ça veut dire que le familier est toujours[r]
-plus faible que le Mage, hein. Ce sont que des sous-fifres ?[r]
+Hm ? Quelque part, ça veut dire qu'le familier est toujours[r]
+plus faible qu'le Mage, hein. Ce sont que des sous-fifres ?[r]
 Ouaah, ils sont vraiment inutiles !
 *page39|
 Voilà une conclusion hâtive typique de toi, Robin.[r]
