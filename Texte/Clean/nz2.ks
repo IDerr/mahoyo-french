@@ -36,9 +36,9 @@
 　C'est un détail sans importance,[r]
 　mais que faites-vous ici ? Et pourquoi ?
 *page10|
-Il ne faut pas tomber dans la routine, non ? Même si c'est le coin[r]
-bonus, ce n'est pas une raison pour réutiliser les mêmes décors.[r]
-C'est contraire à mon éthique. On n'est pas dans un certain dojo.
+Il ne faut pas tomber dans la routine, non ? Même si c'est le[r]
+coin bonus, je refuse de réutiliser les mêmes décors. C'est[r]
+contraire à mon éthique. On n'est pas dans un certain dojo.
 *page11|
 　C'est pour ça que vous avez changé de lieu.[r]
 　Je vois. J'ai à peu près compris.[r]
@@ -63,9 +63,9 @@ C'est contraire à mon éthique. On n'est pas dans un certain dojo.
 　des sorcières des contes de fées.[r]
 　Les Ploy se fabriquent dans une marmite ?
 *page18|
-En fait, cette odeur, c'est du chocolat ?[r]
-Pas possible......[r]
-Les Ploy étaient des pâtisseriesーーーー?!
+　En fait, cette odeur,[r]
+　c'est du chocolat ? Pas possible......[r]
+　Les Ploy étaient des pâtisseriesーーーー?!
 *page19|
 　...... Toi alors. Tu es un Ploy, et pourtant, tu ne connais[r]
 　pas leur mécanisme ? Je ne voulais pas le reconnaître,[r]

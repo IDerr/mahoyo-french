@@ -48,9 +48,9 @@
 　Une poche de seigle bourrée～♪[r]
 　24 oiseaux noirs, dans la tourte grillés～♪』
 *page13|
-　... Hmm. J'comprends pas pourquoi on massacre[r]
-　les oiseaux sans raison. Qu'est-ce qu'ils avaient[r]
-　contre les oiseaux, ces Occidentaux ?
+... Hmm. J'comprends pas pourquoi on massacre[r]
+les oiseaux sans raison. Qu'est-ce qu'ils avaient[r]
+contre les oiseaux, ces Occidentaux ?
 *page14|
 　Dans la suite, on a aussi :[r]
 　“Le roi, son argent comptait,[r]
@@ -100,10 +100,10 @@
 　Elle dépeint aussi la recherche du coupable.
 *page29|
 Suite à l'immense succès de cette comptine de Mother Goose,[r]
-la préquelle 「Les heureuses fiançailles de Cock Robin et Jenny Wren」[r]fut publiée et devint elle aussi un best-seller.
+la préquelle 「Les heureuses fiançailles de Cock Robin et[r]Jenny Wren」 fut publiée et devint elle aussi un best-seller.
 *page30|
-Elle fut suivie de l'histoire du procès et de l'exécution du moineau[r]
-qui conte les évènements après la mort du rouge-gorge.[r]
+Elle fut suivie de l'histoire du procès et de l'exécution du[r]
+moineau qui conte les évènements après la mort du rouge-gorge.[r]
 Je t'envie. Avec les droits d'auteur, tu dois être riche, Robin.
 *page31|
 　Les piafs ont pourtant jamais eu un yen.

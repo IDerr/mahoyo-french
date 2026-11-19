@@ -11,8 +11,8 @@
 　de thon akami,[r]
 　chūtoro et ōtoro.
 *page4|
-　Trois couleurs ensanglantées.[r]　Comme l'drapeau d'la France, quoi.[r]
-　Faute d'argent, j'me contenterai[r]　d'œuf, de poulpe et d'inari-zushi.
+　Trois couleurs ensanglantées. Comme l'drapeau d'la France,[r]
+　quoi. Faute d'argent, j'me contenterai[r]　d'œuf, de poulpe et d'inari-zushi.
 *page5|
 　Chef.[r]
 　Une autre assiette de chūtoro.
@@ -112,7 +112,7 @@ Les Jumeaux bavards, c'est nous.
 　Hé, ce serait pas le duo de cochons ?![r]
 　Ils peuvent se transformer en humainsーーー?!
 *page38|
-　...... Ils pourraient prendre cette[r]　forme avec le chiffre 1.[r]
+　...... Ils pourraient prendre[r]　cette forme avec le chiffre 1.[r]
 　Voici les détails.
 *page39|
 　Ils s'appellent les Jumeaux bavards.[r]

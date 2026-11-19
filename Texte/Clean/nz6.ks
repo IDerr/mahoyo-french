@@ -53,7 +53,7 @@
 *page16|
 　　　　........................
 *page17|
-　Après ça, elle m'a proposé de donner des noms aux Ploy.[r]　Avec les yeux boursouflés pour une raison qui m'échappe.
+Après ça, elle m'a proposé de donner des noms aux Ploy.[r]Avec les yeux boursouflés pour une raison qui m'échappe.
 *page18|
 『Celui-ci est Sweets Hearts. Lui Scripps Humpty.[r]
 　Celui-là Diddle Diddle. Et lui Flat Snark.[r]　Compris ? Appelle-les comme ça dorénavant.』
@@ -63,12 +63,12 @@
 *page20|
 『On ne peut pas deviner ton état d'esprit. Dis-toi que [r]　mon destin peut dépendre de tes mystérieuses humeurs.』
 *page21|
-『Et puis, ce genre de noms sera bientôt à la mode.[r]
-　C'est certain. Même si on en aura sûrement rapidement assez.』
+『Et puis, ce genre de noms sera bientôt à la mode. C'est[r]
+　certain. Même si on en aura sûrement rapidement assez.』
 *page22|
 『Quitte à leur donner des noms, autant que ça en jette.[r]　Ce sont nos créations originales,[r]　ne pas suivre la mode serait du gâchis.』
 *page23|
-　Depuis, j'appelle les Ploy par des noms. [r]　Ça a été dur de tous les retenir, [r]　mais je ne me suis plus jamais trompée après ça.
+　Depuis, j'appelle les Ploy par des noms.[r]　Ça a été dur de tous les retenir,[r]　mais je ne me suis plus jamais trompée après ça.
 *page24|
 　C'est un peu comme l'œuf de Colomb.[r]
 　Quelle flexibilité d'inspiration, ou plutôt d'originalité.[r]
@@ -100,7 +100,7 @@
 　c'est Snark qui y passe ! Ha ha, les Great Three ?[r]
 　Mon œil ! Ces Great Three sont trop faibles !
 *page34|
-　Moi, j'suis un Ploy qui sait y faire ! Je vais recycler [r]　ces déchets industriels ! Hé, le vendeur ! [r]　Prépare des frites avec l'huile restante !
+　Moi, j'suis un Ploy qui sait y faire ! Je vais recycler[r]　ces déchets industriels ! Hé, le vendeur ![r]　Prépare des frites avec l'huile restante !
 *page35|
 　En voilà une bonne idée venant de toi, Robin.[r]
 　Je vais peut-être commander un poulet frit.
@@ -123,8 +123,8 @@
 　Justement la collection que je voulais[r]　le moins étoffer, quel pied ![r]
 　Et il en reste encore tellement !
 *page42|
-　...... Le film se finit là, apparemment.[r]
-　Les cinémas ne font plus de projections[r]　doubles depuis quelque temps.
+...... Le film se finit là, apparemment.[r]
+Les cinémas ne font plus de projections[r]doubles depuis quelque temps.
 *page43|
 　J'aurais voulu vous présenter le troisième pour finir,[r]
 　mais ce sera pour une prochaine fois.
