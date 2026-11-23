@@ -299,7 +299,7 @@
 *page23|
 @clfg storage=im18なぜなにコマドリ羽
 @chgfg storage=im18なぜなにコマドリ普(口開) id=k time=200 preback=0
-@ploysay mode=lu132 oy=-30
+@ploysay mode=lu19 oy=-30
 @sestop
 @se storage=BA0_NZ2_0017.opus
 　　　このコーナーの根底を崩す一言ッスね。
@@ -335,7 +335,7 @@
 @se storage=seETC25 volume=100 delay=100
 @fg rule=左から右へ time=1000 storage=im18文字素材_プロイ綴り index=2200 center=512 vcenter=260 zoom=150
 @wait time=1000 canskip=0
-@ploysay mode=ru19 oy=-30
+@ploysay mode=ru262 oy=-30
 @sestop
 @se storage=A40_NZ2_0011.opus
 　これがプロイキッシャーの綴り。[r]
