@@ -533,7 +533,7 @@
 @pg
 *page46|
 @chgfg storage=im18なぜなに有珠園児説 id=a time=200 textoff=0
-@ploysay mode=ru19
+@ploysay mode=ru26
 @sestop
 @se storage=A40_NZ2_0020.opus
 　　それじゃロビン、お店の予約をしておいて。[r]

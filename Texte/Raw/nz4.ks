@@ -142,7 +142,7 @@
 *page7|
 @clfg storage=im18なぜなにコマドリ羽
 @chgfg storage=im18なぜなにコマドリ普(口開) id=k time=200 preback=0
-@ploysay mode=lu192
+@ploysay mode=lu132
 @sestop
 @se storage=BA0_NZ4_0004.opus
 　じゃあ右端から順にいくッスか。[r]
@@ -201,7 +201,7 @@
 @fg rule=crossfade time=300 storage=im18lチョコ center=454 vcenter=334 index=1600 zoom=60
 @fg storage=im18なぜなにコマドリ羽 center=202 vcenter=389 index=2950 rotate=-37
 @chgfg storage=im18なぜなにコマドリ普(目閉口開) id=k time=200 preback=0
-@ploysay mode=lb19 ox=50 oy=50
+@ploysay mode=lb192 ox=50 oy=50
 @sestop
 @se storage=BA0_NZ4_0005.opus
 あったりまえッス！[r]
@@ -250,7 +250,7 @@
 　　といった歌詞が続くわね。
 @pg
 *page15|
-@ploysay mode=rb19 ox=20 oy=50
+@ploysay mode=rb262 ox=20 oy=50
 @sestop
 @se storage=A40_NZ4_0007.opus
 　　二番目以降は[r]
@@ -400,7 +400,7 @@
 @pg
 *page26|
 @chgfg storage=im18なぜなに有珠ケーキ普 id=a time=200 textoff=0
-@ploysay mode=ru262
+@ploysay mode=ru19
 @sestop
 @se storage=A40_NZ4_0012.opus
 詳細データは必要ないわね。[r]
@@ -503,7 +503,7 @@
 　　　あんまり調子に乗ってると、たいへんよ
 @pg
 *page34|
-@ploysay mode=lu132
+@ploysay mode=lu19
 @sestop
 @se storage=BA0_NZ4_0019.opus
 　 既にこれ以上ないほど大変ッス
@@ -621,7 +621,7 @@
 @pg
 *page45|
 @chgfg storage=im18なぜなに有珠ケーキ普 id=a time=200 textoff=0
-@ploysay mode=rb262 ox=20 oy=30
+@ploysay mode=rb192 ox=20 oy=30
 @sestop
 @se storage=A40_NZ4_0024.opus
 　　　ハンプティは答えたわ。[r]
@@ -676,7 +676,7 @@
 @pg
 *page50|
 @chgfg storage=im18なぜなにコマドリ普(目閉口開) id=k time=200
-@ploysay mode=lu19
+@ploysay mode=lu262
 @sestop
 @se storage=BA0_NZ4_0025.opus
 ぶはは！[r]
@@ -715,7 +715,7 @@
 @fg storage=im18なぜなに有珠ケーキ普 center=881 vcenter=430 index=3500 id=a
 @playresume time=3000 volume=100
 @bg rule=crossfade time=1000 storage=bgなぜなにケーキ屋 noclear=1
-@ploysay mode=ru19
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ4_0029.opus
 　　……コホン。[r]

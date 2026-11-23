@@ -171,7 +171,7 @@
 @pg
 *page14|
 @chgfg textoff=0 storage=im18なぜなにコマドリ普 id=k time=200
-@ploysay mode=lu26
+@ploysay mode=lu262
 @sestop
 @se storage=BA0_NZ5_0008.opus
 　それが三大プロイ。[r]
@@ -213,7 +213,7 @@
 　ロンドン橋　落ちた　[ruby text=マイフェアレディ char=12]わたしのきれいなご婦人よ』
 @pg
 *page18|
-@ploysay mode=rb262 oy=20 ox=-50
+@ploysay mode=rb19 oy=20 ox=-50
 @sestop
 @se storage=A40_NZ5_0008.opus
 　日本語訳されて音楽の教材にもなっているから、[r]
@@ -245,7 +245,7 @@
 @pg
 *page22|
 @chgfg storage=im18なぜなにコマドリ普 id=k time=200
-@ploysay mode=lb192 ox=100 oy=30
+@ploysay mode=lb19 ox=100 oy=30
 @sestop
 @se storage=BA0_NZ5_0011.opus
 　三番目と四番目って、なんスか？
@@ -340,7 +340,7 @@
 @pg
 *page33|
 @chgfg storage=im18なぜなにコマドリ普(目閉口開) id=k time=200
-@ploysay mode=lu262
+@ploysay mode=lu26
 @sestop
 @se storage=BA0_NZ5_0015.opus
 あ。いや、振り返ってみればそんなに[r]
@@ -436,7 +436,7 @@
 　初めからジブンに逃げ場はなかったッス？
 @pg
 *page43|
-@ploysay mode=rb192 ox=-10 oy=-100
+@ploysay mode=rb19 ox=-10 oy=-100
 @sestop
 @se storage=A40_NZ5_0023.opus
 　そうよ。だから言ったでしょう。[r]
@@ -444,7 +444,7 @@
 @pg
 *page44|
 @chgfg storage=im18なぜなにコマドリふむ id=k time=200
-@ploysay mode=lu132
+@ploysay mode=lu19
 @sestop
 @se storage=BA0_NZ5_0020.opus
 　いや、そういう意味じゃなかった気がするッス。

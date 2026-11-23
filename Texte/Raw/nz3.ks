@@ -322,7 +322,7 @@
 @pg
 *page18|
 @chgfg time=200 storage=im18なぜなにコマドリ普(口開) id=k textoff=0
-@ploysay mode=lu19
+@ploysay mode=lu262
 @sestop
 @se storage=BA0_NZ3_0009.opus
 　……にしても、あのシャバ僧、小金持ちッスね。[r]
@@ -528,14 +528,14 @@
 @se storage=seETC18 volume=100
 @clfg storage=im18なぜなに双子dum
 @clfg storage=im18なぜなに双子統合dee time=100 preback=0
-@ploysay mode=lb262 ox=-50 oy=30
+@ploysay mode=lb19 ox=-50 oy=30
 @sestop
 @se storage=C20_NZ3_0004.opus
 　おおーーー！？[r]
 　まったく真っ暗どっちらけ、これじゃあゲームもできやしない！
 @pg
 *page36|
-@ploysay mode=rb19 ox=50 oy=30
+@ploysay mode=rb26 ox=50 oy=30
 @sestop
 @se storage=C30_NZ3_0004.opus
 　あやーーー！！[r]
@@ -559,7 +559,7 @@
 @pg
 *page38|
 @chgfg time=200 storage=im18なぜなに有珠制服説 id=a
-@ploysay mode=ru13
+@ploysay mode=ru192
 @sestop
 @se storage=A40_NZ3_0013.opus
 　　……一の目をだすと人間になるそうよ。[r]
@@ -592,7 +592,7 @@
 @pg
 *page41|
 @chgfg time=200 storage=im18なぜなに有珠制服説 id=a textoff=0
-@ploysay mode=rb19 ox=-70 oy=50
+@ploysay mode=rb262 ox=-70 oy=50
 @sestop
 @se storage=A40_NZ3_0016.opus
 　　　人間社会に毒されているから、[r]
@@ -926,7 +926,7 @@
 @se storage=seETC24 volume=100 delay=400
 @se storage=seETC24 volume=100 delay=800
 @se storage=seETC24 volume=100 delay=1200
-@ploysay mode=lu13
+@ploysay mode=lu192
 @sestop
 @se storage=BA0_NZ3_0023.opus
 　　うめぇ。玉子うめぇ。[r]
@@ -1024,14 +1024,14 @@
 モデルにしたものよ。
 @pg
 *page83|
-@ploysay mode=ru19
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ3_0045.opus
 　　“塀に上った卵はあぶなかしくて、[r]
 　　通りがかった王様が降りろと言っても無視するばかり。
 @pg
 *page84|
-@ploysay mode=ru19
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ3_0046.opus
 　　怒った王様は兵士たちに命じたけれど、[r]

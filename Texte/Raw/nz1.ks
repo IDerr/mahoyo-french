@@ -651,7 +651,7 @@
 @pg
 *page59|
 @chgfg storage=im18なぜなにコマドリふむ id=k time=200
-@ploysay mode=lu19
+@ploysay mode=lu26
 @sestop
 @se storage=BA0_NZ1_0030.opus
 　だがそれがいい！[r]
