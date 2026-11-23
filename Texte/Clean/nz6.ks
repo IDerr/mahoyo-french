@@ -42,8 +42,8 @@
 　Prête-moi le sixième Ploy, s'il te plaît.[r]
 　Je veux me faire belle pour l'accueillir !」
 *page13|
-　Conformément à sa demande,[r]
-　je lui ai prêté le Ploy [r]　que j'avais nommé “sixième” ce jour-là.
+　Conformément à sa demande, je lui ai prêté[r]
+　le Ploy que j'avais nommé “sixième” ce jour-là.
 *page14|
 　......[r]
 　J'imagine la suite, mais j'demande quand même.[r]
@@ -93,7 +93,7 @@ Après ça, elle m'a proposé de donner des noms aux Ploy.[r]Avec les yeux bours
 　Malheureusement, c'est impossible.[r]
 　Rien ne peut raffiner Snark à notre époque.
 *page32|
-　Et c'est ainsi que cet héritage culturel fut anéanti [r]　par une sauvage ne vivant qu'à l'instinct.[r]
+　Et c'est ainsi que cet héritage culturel fut anéanti[r]　par une sauvage ne vivant qu'à l'instinct.[r]
 　Ha ha, c'est si drôle d'écraser la culture !
 *page33|
 　Mais quand même, après le Négligent,[r]
@@ -131,7 +131,7 @@ Les cinémas ne font plus de projections[r]doubles depuis quelque temps.
 *page44|
 　À vous tous qui avez pris plaisir à suivre[r]
 　la longue histoire principale, mais également[r]
-　la compilation bonus qui a aussi traîné en longueur.
+　la compilation bonus qui a aussi traîné en longueur :
 *page45|
 　“Mahōtsukai no Yoru” est fini pour le moment.[r]
 　La suite arrivera un jour, quelque part, lorsque[r]

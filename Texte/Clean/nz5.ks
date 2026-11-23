@@ -44,8 +44,8 @@
 　de la mère de la mère de Mam'zelle Alice...[r]
 　enfin, depuis l'époque du fondateur, quoi.
 *page14|
-　Ce sont les Trois Grands Ploy.[r]
-　Les trois artéfacts fabuleux qu'auraient été créés[r]　par la première sorcière.
+　Ce sont les Trois Grands Ploy. Les trois artéfacts[r]
+　fabuleux qu'auraient été créés par la première sorcière.
 *page15|
 　Le Géant du Pont, Thames Troll,[r]
 　l'Huile de la Lune, Flat Snark,[r]
@@ -58,8 +58,8 @@
 『Le Pont de Londres est tombé, est tombé, est tombé,[r]
 　le Pont de Londres est tombé, My Fair Lady.』
 *page18|
-　Elle a été traduite en japonais et est même enseignée[r]
-　à l'école. Elle est donc très connue.
+　Elle a été traduite en japonais[r]　et est même enseignée à l'école.[r]
+　Elle est donc très connue.
 *page19|
 　Alias, le Troll Négligent ![r]
 　Il ne sert que contre le menu fretin !
@@ -71,7 +71,7 @@
 　Je ne peux l'invoquer que jusqu'au deuxième couplet.[r]
 　Je n'ai jamais vu les troisième et quatrième couplets.
 *page22|
-　Troisième et quatrième ?[r]　Comment ça ?
+[r]　Troisième et quatrième ? Comment ça ?
 *page23|
 　Dans la chanson du Pont de Londres.
 *page24|
@@ -104,8 +104,8 @@ présent dans mon univers ne va que du bois à la roche.
 　Comment ! Moi qui vous croyais invulnérable,[r]
 　vous cachez donc des points faibles......
 *page33|
-　Ah, non, en y repensant, vous n'êtes pas si invulnérable[r]
-　que ça ! Vous perdez souvent ! Comme moi, quoi !
+　Ah, non, en y repensant,[r]　vous n'êtes pas si invulnérable que ça ![r]
+　Vous perdez souvent ! Comme moi, quoi !
 *page34|
 　Mais au fait, si j'comprends bien les rumeurs,[r]
 　Thames Troll serait le meilleur golem au monde.[r]
@@ -140,8 +140,8 @@ même pour Aoko et ses meilleures techniques.
 　En fait, j'étais déjà sur son corps ?[r]
 　J'n'avais aucune issue depuis le début ?!
 *page43|
-　Exactement. Je t'avais prévenu, non ?[r]
+　Exactement.[r]　Je t'avais prévenu, non ?[r]
 　Ne sous-estime pas la montagne.
 *page44|
-　J'pensais pas que c'était[r]　dans c'sens-là !
+[r]　J'pensais pas que c'était dans c'sens-là !
 *page45|

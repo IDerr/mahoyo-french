@@ -37,7 +37,7 @@
 　mais que faites-vous ici ? Et pourquoi ?
 *page10|
 Il ne faut pas tomber dans la routine, non ? Même si c'est[r]
-un coin bonus, je refuse de garder les mêmes décors. C'est[r]
+le coin bonus, je refuse de garder les mêmes décors. C'est[r]
 contraire à mon éthique. On n'est pas dans un certain dojo.
 *page11|
 　C'est pour ça que vous avez changé de lieu.[r]
@@ -157,9 +157,9 @@ Ils sont liés au sang de Meinster !
 　À la prochaine leçon, faisons un cours[r]
 　“Ploy Kickshaw, cas particuliers”.
 *page46|
-　Alors Robin, occupe-toi de la réservation[r]
-　au restaurant. Quand tu auras fini, réchauffe[r]
-　le chocolat. Et après, tu poliras le miroir.
+　Alors Robin, occupe-toi de la réservation au restaurant.[r]
+　Quand tu auras fini, réchauffe le chocolat.[r]
+　Et après, tu poliras le miroir.
 *page47|
 　Et ensuite...... voyons. Écrase-toi contre[r]
 　un poteau électrique et meurs de façon théâtrale.

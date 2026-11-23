@@ -28,7 +28,7 @@
 　Le vieux quartier de Misaki, c'est vraiment l'enfer.
 *page7|
 　OK, partons de la droite.[r]
-　C'est quoi, cette espèce de boîte à bijoux ?
+　C'est quoi, cette espèce[r]　de boîte à bijoux ?
 *page8|
 　C'est la Chanson à 6 pence.[r]
 　Jack in The Box,[r]
@@ -37,8 +37,8 @@
 　Il a peut-être l'air faible,[r]　mais c'est un Ploy extrêmement utile.[r]
 　Rien à voir avec un certain oiseau ici présent.
 *page10|
-　Évidemment ![r]
-　Les oiseaux sont des familiers [r]　capables et élégants.
+　Évidemment ! Les oiseaux[r]
+　sont des familiers capables et élégants.
 *page11|
 　Même moi,[r]
 　je connais la Chanson à 6 pence.[r]
@@ -56,8 +56,8 @@ contre les oiseaux, ces Occidentaux ?
 　“Le roi, son argent comptait,[r]
 　la reine, de tartines au miel s'empiffrait.”
 *page15|
-　Après le deuxième couplet,[r]
-　le poème prend la forme d'une satire [r]　de la politique de l'époque.
+　Après le deuxième couplet, le poème prend[r]
+　la forme d'une satire de la politique de l'époque.
 *page16|
 　Non, ça décrit l'quotidien d'la résidence Kuonji. Le roi[r]
 　qui fait les comptes, c'est en fait la reine au pull bleu. Et[r]
@@ -90,7 +90,7 @@ contre les oiseaux, ces Occidentaux ?
 　Dès que je suis entré, j'ai su que c'était le plus cher[r]　et le plus populaire. Juré.
 *page26|
 　Pas besoin de détails, n'est-ce pas ?[r]
-　Tu apparais bien assez comme ça dans l'histoire principale.
+　Tu apparais bien assez comme ça[r]　dans l'histoire principale.
 *page27|
 　Il se base sur un chant funèbre. L'histoire[r]
 　tourne autour du meurtre du rouge-gorge.
@@ -115,7 +115,7 @@ Je t'envie. Avec les droits d'auteur, tu dois être riche, Robin.
 　En d'autres termes―――le personnage [r]　principal de Mahoyo, c'est mo... [playstop time=100][clfg storage=im18l駒鳥ベル][clfg storage=im18紐 ][clfg storage=im18なぜなに有珠ケーキ普 time=100 id=a preback=0 textoff=0][se storage=se06002 volume=100 delay=500][fgact page=fore props=-storage,center,vcenter,absolute,-visible keys=(0,31,l,im18なぜなに有珠ケーキタイトル用,739,24,3500,1)(1200,0,n,,,241,,) storage=im18なぜなに有珠ケーキタイトル用 id=a textoff=0][wait canskip=0 time=200][se storage=se05029 volume=80 delay=300][se storage=se10066 volume=100 delay=100][se storage=se12027 volume=100 delay=600][se storage=se10053 volume=100 delay=600][se storage=se10048 volume=100 delay=600][fgact page=fore textoff=0 props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-visible keys=(0,0,n,im爆発アイコン,203,450,3300,0,200,200,1)(450,,l,,,,,255,,,)(600,3,n,,,,,0,300,300,) storage=im爆発アイコン][fgact page=fore textoff=0 props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,n,im18なぜなにコマドリ普(口開),45,430,3000,,1)(450,,l,,,,,,)(600,,n,,-250,208,,360,) id=k][fgact page=fore textoff=0 props=-storage,center,vcenter,absolute,afx,afy,rotate,-visible keys=(0,2,l,im18なぜなにプロイタイトルプレート(花無し),512,405,5000,301,-800,50,1)(600,0,n,,,,,,,-50,) storage=im18なぜなにプロイタイトルプレート(花無し)][wact][stopaction]Kya ![r]
 　Il t'arrivera des bricoles si tu t'excites trop.
 *page34|
-　Ça pourra pas être pire[r]　que maintenant.
+[r]　Ça pourra pas être pire que maintenant.
 *page35|
 　Ensuite...... il n'y a que des restes.[r]
 　Ils ne méritent pas vraiment qu'on en parle.
@@ -145,8 +145,8 @@ Comme les mots-valises inventés par Lewis Carroll.
 　Au pays du miroir, Alice demanda à Humpty[r]
 　ce que signifie le mot slictueux.
 *page45|
-　Humpty lui répondit :[r]
-　「“Slictueux” signifie “souple, actif, onctueux”.」
+　Humpty lui répondit : 「“Slictueux”[r]
+　signifie “souple, actif, onctueux”.」
 *page46|
 　...... Compris ? C'est une règle qui permet de créer[r]
 　un nouveau mot à partir de plusieurs sens différents.[r]
@@ -164,7 +164,7 @@ Comme les mots-valises inventés par Lewis Carroll.
 　constamment disponible à la vente.
 *page50|
 　Ha ha ha ![r]
-　Alors, ce serait une [r]　“Première Édition Populaire” !
+　Alors, ce serait une “Première Édition Populaire” !
 *page51|
 　Non. “Article au rabais”.
 *page52|
@@ -175,7 +175,7 @@ Comme les mots-valises inventés par Lewis Carroll.
 　La prochaine fois, je ferai preuve de retenue.
 *page54|
 　Ensuite...... Ah, ç'ui-là.[r]
-　On en parlera dans le chap' bonus, [r]　alors on passe.
+　On en parlera dans le chap' bonus, alors on passe.
 *page55|
 　Le suivant―――c'est quoi c'truc ?
 *page56|

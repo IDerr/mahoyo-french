@@ -12,7 +12,7 @@
 　chūtoro et ōtoro.
 *page4|
 　Trois couleurs ensanglantées. Comme l'drapeau d'la France,[r]
-　quoi. Faute d'argent, j'me contenterai[r]　d'œuf, de poulpe et d'inari-zushi.
+　quoi. Faute d'argent, j'me contenterai d'œuf,[r]　de poulpe et d'inari-zushi.
 *page5|
 　Chef.[r]
 　Une autre assiette de chūtoro.
@@ -58,13 +58,13 @@ Chef. Une autre assiette d'ōtoro.
 　La proprio détient l'autorité absolue, après tout.[r]
 　Qui pourrait s'opposer à vous dans ce manoir ?
 *page18|
-　...... Mais tout de même,[r]　c't idiot est plutôt friqué, dis donc.[r]
+　...... Mais tout de même, c't idiot est plutôt friqué, dis donc.[r]
 　Il m'a l'air bien lourd, c'portefeuille.
 *page19|
 　Il roule sur les liasses de billets.[r]
 　J'en suis toute chamboulée.
 *page20|
-　...... L'akami n'est toujours[r]　pas passé.
+　...... L'akami n'est[r]　toujours pas passé.
 *page21|
 　Quelqu'un à la place d'honneur se les accapare tous.[r]
 　Elle a un manteau vert. Et des lunettes. Et les avale[r]
@@ -103,16 +103,16 @@ Des Ploy de haut niveau capables de se[r]transformer en mammifères ou en oiseau
 Les Jumeaux bavards, c'est nous.
 *page35|
 　Ooohーーー?![r]
-　On est dans le noir complet ! On ne va pas pouvoir jouer !
+　On est dans le noir complet ![r]　On ne va pas pouvoir jouer !
 *page36|
-　Ayaaaーーー!! Sans observateur, la face[r]
-　du dé restera un mystère ! Le jeu ne sera[r]
-　pas fini que le jaune d'œuf aura déjà tourné !
+　Ayaaaーーー!![r]
+　Sans observateur, la face du dé restera un mystère ![r]
+　Le jeu ne sera pas fini que le jaune d'œuf aura déjà tourné !
 *page37|
 　Hé, ce serait pas le duo de cochons ?![r]
 　Ils peuvent se transformer en humainsーーー?!
 *page38|
-　...... Ils pourraient prendre[r]　cette forme avec le chiffre 1.[r]
+　...... Ils pourraient prendre cette forme avec le chiffre 1.[r]
 　Voici les détails.
 *page39|
 　Ils s'appellent les Jumeaux bavards.[r]
@@ -122,8 +122,8 @@ Les Jumeaux bavards, c'est nous.
 　Ce sont des Ploy qui changent de forme[r]
 　selon le chiffre obtenu en lançant les dés.
 *page41|
-　La société humaine a une influence néfaste[r]
-　sur eux, ce qui les rend vulnérables[r]　à la Magie normale.
+　La société humaine a une influence néfaste sur eux,[r]
+　ce qui les rend vulnérables à la Magie normale.
 *page42|
 　Vous avez déjà eu le chiffre 1 ?
 *page43|
@@ -226,11 +226,11 @@ de contes de fées, prend un sens tangible.
 　Un œuf que j'peux avaler tout rond !
 *page73|
 　Cet œuf est succulent ![r]
-　Mais il me reste un peu[r]　sur l'estomac.
+　Mais il me reste un peu sur l'estomac.
 *page74|
-J'arrive pas à l'digérer. Et en plus,[r]
-j'entends une sorte de tic tac qui[r]
-retentit à l'intérieur de mon ventre.
+　J'arrive pas à l'digérer. Et en plus,[r]
+　j'entends une sorte de tic tac qui[r]
+　retentit à l'intérieur de mon ventre.
 *page75|
 　　　　　　　　Three.
 *page76|
@@ -253,11 +253,11 @@ retentit à l'intérieur de mon ventre.
 　Il est basé sur Humpty Dumpty apparaissant[r]
 　dans une des comptines de Mother Goose.
 *page83|
-　“Humpty Dumpty assis sur un mur[r]
-　mal assuré, préféra ignorer le roi[r]　lui disant d'en descendre.
+　“Humpty Dumpty assis sur un mur mal assuré,[r]
+　préféra ignorer le roi lui intimant l'ordre d'en descendre.
 *page84|
-　Ce dernier courroucé ordonna à ses soldats[r]
-　de le déloger, mais ils ne purent[r]　atteindre l'œuf haut perché.
+　Ce dernier courroucé ordonna à ses soldats de le déloger,[r]
+　mais ils ne purent atteindre l'œuf haut perché.
 *page85|
 　Le roi fatigué laissa Humpty Dumpty en paix.[r]
 　C'est alors qu'il tomba de son muret,[r]
