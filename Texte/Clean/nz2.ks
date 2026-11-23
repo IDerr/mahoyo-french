@@ -44,8 +44,8 @@ contraire à mon éthique. On n'est pas dans un certain dojo.
 　Je vois. J'ai à peu près compris.[r]
 　Cette opulence surprendrait même Mam'zelle Aoko.
 *page12|
-　Mais perso, j'préfère plutôt les jupes[r]　aux blouses. Celles qui ressemblent[r]　à des robes, elles sont divines.[r]　Enfin, c'est pas que les blouses c'est moche,[r]　c'est juste un problème d'image.[r]　Est-ce qu'elles rendent bien en peinture ?[r]
-　Vous voyez “La forêt, l'oiseau et la fillette” ?[r]　Ou “L'oiseau et l'écolier”, où l'enfant[r]　a une telle présence qu'on en oublie l'oiseau.
+Perso, j'préfère les jupes aux blouses. Elles vous donnent un[r]air de déesse. Attention, j'ai rien contre les blouses, c'est[r]juste une question d'image. Un peu comme dans un tableau ?
+Vous voyez “La forêt, l'oiseau et la fillette” ?[r]Ou “L'oiseau et l'écolier”, où l'enfant[r]a une telle présence qu'on en oublie l'oiseau.
 *page13|
 　Zut. J'étais en pleine préparation de pâtisseries.
 *page14|
@@ -82,7 +82,7 @@ contraire à mon éthique. On n'est pas dans un certain dojo.
 　C'est comme je l'ai expliqué[r]　dans l'histoire principale.[r]
 　Terminé, dispersion.
 *page23|
-　Voilà qui réduit à néant[r]　l'intérêt de c'coin bonus.
+[r]　Voilà qui réduit à néant l'intérêt de c'coin bonus.
 *page24|
 　As-tu une objection à faire ?
 *page25|
@@ -93,8 +93,8 @@ contraire à mon éthique. On n'est pas dans un certain dojo.
 　............... Je préférerais éviter cela.[r]
 　Dans ce cas......
 *page27|
-C'est l'orthographe de Ploy Kickshaw. En soi,[r]
-ça donne déjà une assez bonne explication.[r]Qu'en penses-tu ?
+C'est l'orthographe de Ploy Kickshaw. En soi, ça donne[r]
+déjà une assez bonne explication. Qu'en penses-tu ?
 *page28|
 　　　　　Ploy ? Kickshaw ?
 *page29|

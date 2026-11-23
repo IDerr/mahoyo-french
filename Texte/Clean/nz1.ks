@@ -178,10 +178,10 @@ Et inversement, je ne peux pas me battre―――
 　Elle peut à peine faire la nage du chien en natation,[r]
 　et ne sait faire ni de la barre fixe ni du vélo.
 *page58|
-　Aux heures de sport, sa tâche est facile : [r]　rester assise à la lisière du campus.
+　Aux heures de sport, sa tâche est facile :[r]　rester assise à la lisière du campus.
 *page59|
-Mais c'est pas grave ![r]
-Si j'sais tout ça, c'est parc'que j'vous file pour prendre des photos ![r]
+Mais c'est pas grave ! Si j'sais tout ça,[r]
+c'est parc'que j'vous file pour prendre des photos ![r]
 My Angel ! Vous êtes juste magnifi... [se storage=se10027 volume=100][fgact page=fore props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-effect,-visible keys=(0,3,l,ev青子汎用04私服a(ef小),907,367,5000,,10,10,monoff1313,1)(500,0,n,,,,,0,20,20,,) storage=ev青子汎用04私服a(ef小) textoff=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,-visible keys=(0,0,l,white,512,288,5000,,1)(250,,n,,,,,0,) storage=white textoff=0][fgact page=fore props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,l,im18なぜなにコマドリふむ,45,430,3000,,1)(500,,n,,-264,116,,720,) storage=im18なぜなにコマドリふむ id=k textoff=0]Hein ?![wact]
 *page60|
 　...... Quelle insolence ![r]
