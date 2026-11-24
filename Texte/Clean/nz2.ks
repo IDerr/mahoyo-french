@@ -44,7 +44,7 @@ contraire à mon éthique. On n'est pas dans un certain dojo.
 　Je vois. J'ai à peu près compris.[r]
 　Cette opulence surprendrait même Mam'zelle Aoko.
 *page12|
-Perso, j'préfère les jupes aux blouses. Elles vous donnent[r]un air de déesse. 'tention, j'ai rien contre les blouses, c'est[r]juste une question d'image. Un peu comme dans un tableau ?
+Perso, j'préfère les jupes aux blouses. Elles vous donnent[r]un air de déesse. Enfin, j'ai rien contre les blouses, c'est[r]juste une question d'image. Un peu comme dans un tableau ?
 Vous voyez “La forêt, l'oiseau et la fillette” ?[r]Ou “L'oiseau et l'écolier”, où l'enfant[r]a une telle présence qu'on en oublie l'oiseau.
 *page13|
 　Zut. J'étais en pleine préparation de pâtisseries.
