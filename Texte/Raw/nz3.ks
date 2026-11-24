@@ -355,7 +355,7 @@
 @fgact page=fore props=-storage,center,vcenter,absolute,-visible keys=(0,0,l,im18ベルト寿司プリン,-100,490,5000,1)(2500,,n,,1126,,,) storage=im18ベルト寿司プリン
 @wact
 @chgfg time=200 storage=im18なぜなに有珠制服疑 id=a zoomx=100
-@ploysay mode=ru13
+@ploysay mode=ru19
 @sestop
 @se storage=A40_NZ3_0010.opus
 　　……赤身がこないわね。
@@ -743,7 +743,7 @@
 　　童話詠唱が確かな意味を持つようになるわ。
 @pg
 *page55|
-@ploysay mode=ru19 textoff=0
+@ploysay mode=ru13 textoff=0
 @r
 @sestop
 @se storage=A40_NZ3_0027.opus
