@@ -11,8 +11,8 @@
 　de thon akami,[r]
 　chūtoro et ōtoro.
 *page4|
-Trois couleurs ensanglantées. Comme l'drapeau français. Faute[r]
-d'argent, j'me contenterai d'œuf, de poulpe et d'inarizushi.
+Trois couleurs ensanglantées. Comme l'drapeau français, quoi.[r]
+Faute d'argent, j'me contenterai d'œuf, poulpe et inarizushi.
 *page5|
 　Chef.[r]
 　Une autre assiette de chūtoro.
