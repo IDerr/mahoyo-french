@@ -124,7 +124,7 @@
 *page9|
 @chgfg storage=im18なぜなに有珠サングラス center=902 vcenter=311 rotate=0
 @chgfg storage=im18なぜなに有珠登山普 time=200 id=a preback=0
-@ploysay mode=ru26
+@ploysay mode=ru19
 @sestop
 @se storage=A40_NZ5_0004.opus
 　　繰り返すわ。[r]
@@ -436,7 +436,7 @@
 　初めからジブンに逃げ場はなかったッス？
 @pg
 *page43|
-@ploysay mode=rb19 ox=-10 oy=-100
+@ploysay mode=rb192 ox=-10 oy=-100
 @sestop
 @se storage=A40_NZ5_0023.opus
 　そうよ。だから言ったでしょう。[r]

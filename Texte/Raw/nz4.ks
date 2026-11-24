@@ -142,7 +142,7 @@
 *page7|
 @clfg storage=im18なぜなにコマドリ羽
 @chgfg storage=im18なぜなにコマドリ普(口開) id=k time=200 preback=0
-@ploysay mode=lu132
+@ploysay mode=lu13
 @sestop
 @se storage=BA0_NZ4_0004.opus
 　じゃあ右端から順にいくッスか。[r]
@@ -638,7 +638,7 @@
 @pg
 *page47|
 @chgfg storage=im18なぜなに有珠ケーキ説 id=a time=200 textoff=0
-@ploysay mode=rb262 ox=20 oy=30
+@ploysay mode=rb19 ox=20 oy=30
 @sestop
 @se storage=A40_NZ4_0026.opus
 別にハンプティがモデルという訳ではないのだけど、[r]
@@ -715,7 +715,7 @@
 @fg storage=im18なぜなに有珠ケーキ普 center=881 vcenter=430 index=3500 id=a
 @playresume time=3000 volume=100
 @bg rule=crossfade time=1000 storage=bgなぜなにケーキ屋 noclear=1
-@ploysay mode=ru262
+@ploysay mode=ru26
 @sestop
 @se storage=A40_NZ4_0029.opus
 　　……コホン。[r]
@@ -727,7 +727,7 @@
 @se storage=seETC18 volume=100
 @fg rule=crossfade time=300 storage=im18lスイーツハーツ center=508 vcenter=370 index=2800 zoom=80
 @chgfg storage=im18なぜなにコマドリ普(口開) id=k time=200
-@ploysay mode=lu19
+@ploysay mode=lu192
 @sestop
 @se storage=BA0_NZ4_0027.opus
 次は……ああ、これっスか。[r]

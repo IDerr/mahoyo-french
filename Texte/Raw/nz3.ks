@@ -114,7 +114,7 @@
 　　大トロのセットなだけよ。
 @pg
 *page4|
-@ploysay mode=c26 ox=-50 oy=200
+@ploysay mode=c262 ox=-50 oy=200
 @sestop
 @se storage=BA0_NZ3_0001.opus
 鮮血のトリコロール。フランスの国旗みたいッスね。[r]
@@ -355,7 +355,7 @@
 @fgact page=fore props=-storage,center,vcenter,absolute,-visible keys=(0,0,l,im18ベルト寿司プリン,-100,490,5000,1)(2500,,n,,1126,,,) storage=im18ベルト寿司プリン
 @wact
 @chgfg time=200 storage=im18なぜなに有珠制服疑 id=a zoomx=100
-@ploysay mode=ru132
+@ploysay mode=ru13
 @sestop
 @se storage=A40_NZ3_0010.opus
 　　……赤身がこないわね。
@@ -415,7 +415,7 @@
 @fgact page=fore props=-storage,center,vcenter,absolute,-visible keys=(0,0,l,im18ハンプティ皿,-100,461,5000,1)(2500,,n,,1126,,,) storage=im18ハンプティ皿
 @wact
 @chgfg time=200 storage=im18なぜなにコマドリ普(口開) id=k
-@ploysay mode=lu132
+@ploysay mode=lu19
 @sestop
 @se storage=BA0_NZ3_0012.opus
 　アリスさん、お皿取らないッスか？
@@ -528,7 +528,7 @@
 @se storage=seETC18 volume=100
 @clfg storage=im18なぜなに双子dum
 @clfg storage=im18なぜなに双子統合dee time=100 preback=0
-@ploysay mode=lb19 ox=-50 oy=30
+@ploysay mode=lb192 ox=-50 oy=30
 @sestop
 @se storage=C20_NZ3_0004.opus
 　おおーーー！？[r]
@@ -559,7 +559,7 @@
 @pg
 *page38|
 @chgfg time=200 storage=im18なぜなに有珠制服説 id=a
-@ploysay mode=ru192
+@ploysay mode=ru262
 @sestop
 @se storage=A40_NZ3_0013.opus
 　　……一の目をだすと人間になるそうよ。[r]
@@ -659,7 +659,7 @@
 @fg storage=im18ホワイトボードa center=513 vcenter=300 index=2100
 @xchgbgm time=4000 overlap=3000 volume=100 storage=m29
 @bg rule=crossfade time=500 storage=bgなぜなに回転寿司(統合ベルト以外) left=-48 top=-48 noclear=1
-@ploysay mode=ru132
+@ploysay mode=ru19
 @sestop
 @se storage=A40_NZ3_0018.opus
 　　夜の饗宴が、お皿に乗ってやってきたわね。
@@ -820,7 +820,7 @@
 長いこと壊れていたらしいわ。
 @pg
 *page63|
-@ploysay mode=rb192 ox=-70 oy=50
+@ploysay mode=rb132 ox=-70 oy=50
 @sestop
 @se storage=A40_NZ3_0033.opus
 　　それを母と橙子さんが協力して作り直した、[r]
