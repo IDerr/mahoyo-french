@@ -152,8 +152,8 @@ Comme les mots-valises inventés par Lewis Carroll.
 　un nouveau mot à partir de plusieurs sens différents.[r]
 　C'est de là que vient la polysémie de l'Œil Mystique.
 *page47|
-　Humpty n'a pas servi à proprement parler de modèle[r]
-　pour lui, mais “elle” a choisi ce nom en son honneur.
+　Humpty n'a pas servi à proprement parler[r]
+　de modèle pour lui, mais “elle” a choisi[r]ce nom en son honneur.
 *page48|
 　Hmm. J'viens d'y penser, mais associer[r]
 　“première édition limitée” et “édition normale”,[r]
@@ -174,8 +174,8 @@ Comme les mots-valises inventés par Lewis Carroll.
 　Vois-tu, ce Ploy n'est pas évident à utiliser.[r]
 　La prochaine fois, je ferai preuve de retenue.
 *page54|
-　Ensuite...... Ah, ç'ui-là.[r]
-　On en parlera dans le chap' bonus, alors on passe.
+　Ensuite...... Ah, ç'ui-là. On en parlera[r]
+　dans le chap' bonus, alors on passe.
 *page55|
 　Le suivant―――c'est quoi c'truc ?
 *page56|
@@ -183,8 +183,8 @@ Comme les mots-valises inventés par Lewis Carroll.
 　premier Ploy. Il n'a aucune utilité. Je m'en[r]
 　sers de décoration par sentimentalisme.
 *page57|
-　Comme tu le vois, il ne sert à rien au combat.[r]
-　Et puis, il est plutôt laid, alors je n'aime pas trop [r]　le montrer... mais ça reste un souvenir.
+　Comme tu le vois, il est inutile au combat. Et comme il est plutôt[r]
+　laid, je n'aime pas trop le montrer... mais ça reste un souvenir.
 *page58|
 　C'est un ouvrage en sucre en forme[r]
 　de broche. Ouah, sucré...![r]

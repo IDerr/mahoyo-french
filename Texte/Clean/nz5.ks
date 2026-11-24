@@ -27,8 +27,8 @@
 　En gros, ça change pas vraiment de d'habitude.
 *page9|
 　Je reformule. Ne nous sous-estime pas,[r]
-　la montagne et moi. Aujourd'hui,[r]
-　je suis deux fois plus motivée que d'ordinaire.
+　la montagne et moi. Aujourd'hui, je suis[r]
+　deux fois plus motivée que d'ordinaire.
 *page10|
 　Chuis mal ![r]
 　Vous avez l'air drôlement d'attaque.
@@ -140,7 +140,7 @@ même pour Aoko et ses meilleures techniques.
 　En fait, j'étais déjà sur son corps ?[r]
 　J'n'avais aucune issue depuis le début ?!
 *page43|
-　Exactement.[r]　Je t'avais prévenu, non ?[r]
+　Exactement. Je t'avais prévenu, non ?[r]
 　Ne sous-estime pas la montagne.
 *page44|
 [r]　J'pensais pas que c'était dans c'sens-là !

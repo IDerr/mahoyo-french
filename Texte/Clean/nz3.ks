@@ -12,7 +12,7 @@
 　chūtoro et ōtoro.
 *page4|
 Trois couleurs ensanglantées. Comme l'drapeau français, quoi.[r]
-Faute d'argent, j'me contenterai d'œuf, poulpe et inarizushi.
+Faute d'argent, j'me contenterai d'œuf, de poulpe et d'inarizushi.
 *page5|
 　Chef.[r]
 　Une autre assiette de chūtoro.
@@ -58,13 +58,13 @@ Chef. Une autre assiette d'ōtoro.
 　La proprio détient l'autorité absolue, après tout.[r]
 　Qui pourrait s'opposer à vous dans ce manoir ?
 *page18|
-　...... Mais tout de même, c't idiot est plutôt friqué, dis donc.[r]
-　Il m'a l'air bien lourd, c'portefeuille.
+　...... Mais tout de même, c't idiot est plutôt friqué,[r]
+　dites donc. Il m'a l'air bien lourd, c'portefeuille.
 *page19|
 　Il roule sur les liasses de billets.[r]
 　J'en suis toute chamboulée.
 *page20|
-　...... L'akami n'est[r]　toujours pas passé.
+[r]　...... L'akami n'est toujours pas passé.
 *page21|
 　Quelqu'un à la place d'honneur se les accapare tous.[r]
 　Elle a un manteau vert. Et des lunettes. Et les avale[r]
@@ -77,7 +77,7 @@ Chef. Une autre assiette d'ōtoro.
 　Laissons-la.[r]
 　Tout le monde souhaite parfois s'isoler.
 *page24|
-　Mam'zelle Alice,[r]　vous n'prenez pas d'assiette ?
+[r]　Mam'zelle Alice, vous n'prenez pas d'assiette ?
 *page25|
 　...... Bon, très bien.[r]
 　Je vais prendre ça.
@@ -102,8 +102,8 @@ Les chouchous de notre maîtresse, pouvant[r]nous métamorphoser à volonté, Si
 Des Ploy de haut niveau capables de se[r]transformer en mammifères ou en oiseaux ![r]
 Les Jumeaux bavards, c'est nous.
 *page35|
-　Ooohーーー?![r]
-　On est dans le noir complet ![r]　On ne va pas pouvoir jouer !
+　Ooohーーー?! On est dans le noir complet ![r]
+　On ne va pas pouvoir jouer !
 *page36|
 　Ayaaaーーー!![r]
 　Sans observateur, la face du dé restera un mystère ![r]
@@ -138,7 +138,7 @@ Les Jumeaux bavards, c'est nous.
 　Ce monde est plein de ruses,[r]
 　sans tricher, vous resterez sur le 6 !
 *page46|
-　Le Banquet de la nuit[r]　est arrivé.
+[r]　Le Banquet de la nuit est arrivé.
 *page47|
 　C'est notre bon vieux “Diddle Diddle”.[r]
 　Moi aussi, je connais sa comptine.
@@ -196,8 +196,8 @@ de contes de fées, prend un sens tangible.
 　Oui. À l'origine, ce n'était qu'un embryon[r]
 　doté d'un monde parallèle, mais il est[r]　resté endommagé pendant un certain temps.
 *page63|
-　Ma mère et Tōko ont collaboré[r]
-　pour le réparer.
+　Ma mère et Tōko ont[r]
+　collaboré pour le réparer.
 *page64|
 　? Pourquoi faire ça ?[r]
 　My Goddess suffisait, non ?

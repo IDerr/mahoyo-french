@@ -61,14 +61,14 @@ Après ça, elle m'a proposé de donner des noms aux Ploy.[r]Avec les yeux bours
 　...... On dit que le nom est le reflet de l'âme, vois-tu ?[r]
 　Je pensais que les classer selon mon humeur était[r]　plus simple que d'employer des noms extravagants, mais...
 *page20|
-『On ne peut pas deviner ton état d'esprit. Dis-toi que [r]　mon destin peut dépendre de tes mystérieuses humeurs.』
+『On ne peut pas deviner ton état d'esprit. Dis-toi que[r]　mon destin peut dépendre de tes mystérieuses humeurs.』
 *page21|
 『Et puis, ce genre de noms sera bientôt à la mode. C'est[r]
-　certain. Même si on en aura sûrement rapidement assez.』
+　certain. Même si les gens se lasseront sans doute très vite.』
 *page22|
-『Quitte à leur donner des noms, autant que ça en jette.[r]　Ce sont nos créations originales,[r]　ne pas suivre la mode serait du gâchis.』
+『Quitte à leur donner des noms, autant que ce soit classe. Ce sont[r]　nos créations à nous, ne pas suivre la mode serait du gâchis.』
 *page23|
-　Depuis, j'appelle les Ploy par des noms.[r]　Ça a été dur de tous les retenir,[r]　mais je ne me suis plus jamais trompée après ça.
+　Depuis, j'appelle les Ploy par des noms. Ce fut dur de tous[r]　les retenir, mais je ne me suis plus jamais trompée après ça.
 *page24|
 　C'est un peu comme l'œuf de Colomb.[r]
 　Quelle flexibilité d'inspiration, ou plutôt d'originalité.[r]
