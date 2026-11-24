@@ -12,7 +12,7 @@
 　chūtoro et ōtoro.
 *page4|
 Trois couleurs ensanglantées. Comme l'drapeau français, quoi.[r]
-Faute d'argent, j'me contenterai d'œuf, de poulpe et d'inarizushi.
+Faute d'argent, j'me contenterai d'poulpe, d'œuf et d'inarizushi.
 *page5|
 　Chef.[r]
 　Une autre assiette de chūtoro.
@@ -25,8 +25,8 @@ Faute d'argent, j'me contenterai d'œuf, de poulpe et d'inarizushi.
 　Une autre assiette d'ōtoro.
 *page8|
 　Chaque assiette coûte aussi cher[r]
-　qu'un dîner normal.[r]
-　Vous n'pouvez pas vous limiter au saumon ?
+　qu'un dîner normal. Vous n'pouvez[r]
+　pas vous limiter au saumon ?
 *page9|
 Ce n'est pas grand-chose.[r]
 Chef. Une autre assiette d'ōtoro.
@@ -77,7 +77,7 @@ Chef. Une autre assiette d'ōtoro.
 　Laissons-la.[r]
 　Tout le monde souhaite parfois s'isoler.
 *page24|
-[r]　Mam'zelle Alice, vous n'prenez pas d'assiette ?
+[r]Mam'zelle Alice, vous n'prenez pas d'assiette ?
 *page25|
 　...... Bon, très bien.[r]
 　Je vais prendre ça.
