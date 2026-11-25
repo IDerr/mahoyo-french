@@ -220,7 +220,7 @@
 @fg storage=im0911根源光 center=473 vcenter=31 index=5000 opacity=224 type=14 zoom=65
 @fadebgm time=2000 volume=70
 @bg rule=crossfade time=600 storage=black left=-48 top=-48 noclear=1
-@ploysay mode=ru262 ox=-200 oy=-30
+@ploysay mode=ru262 ox=-100 oy=-30
 @sestop
 @se storage=A40_NZ6_0007.opus
 　そう言った彼女に、わたし、その日は気分的に[r]
