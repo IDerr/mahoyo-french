@@ -153,7 +153,7 @@ Comme les mots-valises inventés par Lewis Carroll.
 　C'est de là que vient la polysémie de l'Œil Mystique.
 *page47|
 　Humpty n'a pas servi à proprement parler[r]
-　de modèle pour lui, mais “elle” a choisi[r]ce nom en son honneur.
+　de modèle pour lui, mais “elle” a choisi[r]　ce nom en son honneur.
 *page48|
 　Hmm. J'viens d'y penser, mais associer[r]
 　“première édition limitée” et “édition normale”,[r]
@@ -183,8 +183,8 @@ Comme les mots-valises inventés par Lewis Carroll.
 　premier Ploy. Il n'a aucune utilité. Je m'en[r]
 　sers de décoration par sentimentalisme.
 *page57|
-　Comme tu le vois, il est inutile au combat. Et comme il est plutôt[r]
-　laid, je n'aime pas trop le montrer... mais ça reste un souvenir.
+Comme tu vois, il est inutile au combat. Et comme il est plutôt[r]
+laid, je n'aime pas trop le montrer... mais ça reste un souvenir.
 *page58|
 　C'est un ouvrage en sucre en forme[r]
 　de broche. Ouah, sucré...![r]
