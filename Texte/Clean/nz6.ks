@@ -66,7 +66,7 @@ Après ça, elle m'a proposé de donner des noms aux Ploy.[r]Avec les yeux bours
 『Et puis, ce genre de noms sera bientôt à la mode. C'est[r]
 　certain. Même si les gens se lasseront sans doute très vite.』
 *page22|
-『Quitte à leur donner des noms, autant que ce soit stylé. Ce[r]　sont nos inventions, ne pas être tendance serait du gâchis.』
+『Quitte à leur donner des noms, autant qu'ils soient stylés.[r]　C'est notre création, ne pas être tendance serait du gâchis.』
 *page23|
 　Depuis, j'appelle les Ploy par des noms. Ce fut dur de[r]　les retenir, mais je ne me suis plus jamais trompée après ça.
 *page24|
@@ -100,7 +100,7 @@ Après ça, elle m'a proposé de donner des noms aux Ploy.[r]Avec les yeux bours
 　c'est Snark qui y passe ! Ha ha, les Great Three ?[r]
 　Mon œil ! Ces Great Three sont trop faibles !
 *page34|
-　Moi, j'suis un Ploy qui sait y faire ! J'vais recycler ces[r]　déchets ! Hé, l'vendeur ! Fais des frites avec l'huile restante !
+Moi, j'suis un Ploy qui sait y faire ! J'vais recycler ces[r]déchets ! Hé, l'vendeur ! Fais des frites avec l'huile restante !
 *page35|
 　En voilà une bonne idée venant de toi, Robin.[r]
 　Je vais peut-être commander un poulet frit.
@@ -108,7 +108,7 @@ Après ça, elle m'a proposé de donner des noms aux Ploy.[r]Avec les yeux bours
 　..................[r]
 　Le menu ne comporte qu'des hot-dogs,[r]　du pop-corn et des frites.
 *page37|
-J'vérifie toujours le menu au cinéma. En plus, le poulet frit a[r]une odeur trop forte pour l'cinéma. Ça gêne les autres clients.
+J'vérifie toujours le menu au cinéma. En plus, le poulet frit[r]a une odeur trop forte. Ça gêne les autres clients.
 *page38|
 　Je le sais. Mais rassure-toi.[r]
 　Je n'ai pas vraiment faim.[r]
