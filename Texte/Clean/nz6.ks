@@ -25,7 +25,7 @@
 　de mon attachement envers eux, 1er, 2e, etc.
 *page8|
 　Par ordre ? Pas par numéro, plutôt ?[r]
-　Vous n'donniez pas de nom par paresse... [r]　par simplicité plutôt, mais pourquoi les nommer par ordre ?
+　Vous n'donniez pas de nom par paresse...[r]　par simplicité plutôt, mais pourquoi les nommer par ordre ?
 *page9|
 　Eh bien, si je leur avais attribué des numéros fixes[r]　arbitrairement, cela aurait pu être mal interprété, non ? Alors[r]
 　que mon affection ou leurs forces changeaient constamment.
@@ -64,11 +64,11 @@ Après ça, elle m'a proposé de donner des noms aux Ploy.[r]Avec les yeux bours
 『On ne peut pas deviner ton état d'esprit. Dis-toi que[r]　mon destin peut dépendre de tes mystérieuses humeurs.』
 *page21|
 『Et puis, ce genre de noms sera bientôt à la mode. C'est[r]
-　certain. Même si les gens s'en lasseront sans doute très vite.』
+　certain. Même si les gens se lasseront sans doute très vite.』
 *page22|
-『Quitte à leur donner des noms, autant que ça en jette. Ce sont[r]　nos créations à nous, ne pas être tendance serait du gâchis.』
+『Quitte à leur donner des noms, autant que ça en jette. C'est[r]　notre invention, ne pas être tendance serait du gâchis.』
 *page23|
-　Depuis, j'appelle les Ploy par des noms. Ce fut dur de les[r]　retenir tous, mais je ne me suis plus jamais trompée après ça.
+　Depuis, j'appelle les Ploy par des noms. Ce fut dur de[r]　les retenir, mais je ne me suis plus jamais trompée après ça.
 *page24|
 　C'est un peu comme l'œuf de Colomb.[r]
 　Quelle flexibilité d'inspiration, ou plutôt d'originalité.[r]
@@ -100,7 +100,7 @@ Après ça, elle m'a proposé de donner des noms aux Ploy.[r]Avec les yeux bours
 　c'est Snark qui y passe ! Ha ha, les Great Three ?[r]
 　Mon œil ! Ces Great Three sont trop faibles !
 *page34|
-Moi, j'suis un Ploy qui sait y faire ! J'vais recycler ces[r]déchets ! Hé, l'vendeur ! Fais des frites avec l'huile restante !
+　Moi, j'suis un Ploy qui sait y faire ! J'vais recycler ces déchets ![r]　Hé, l'vendeur ! Fais des frites avec l'huile restante !
 *page35|
 　En voilà une bonne idée venant de toi, Robin.[r]
 　Je vais peut-être commander un poulet frit.
@@ -108,7 +108,7 @@ Moi, j'suis un Ploy qui sait y faire ! J'vais recycler ces[r]déchets ! Hé, l'v
 　..................[r]
 　Le menu ne comporte qu'des hot-dogs, [r]　du pop-corn et des frites.
 *page37|
-　J'vérifie toujours le menu au cinéma. Et puis, le poulet frit a[r]　une odeur trop forte pour le cinéma. Ça gêne les autres clients.
+J'vérifie toujours le menu au cinéma. Et puis, le poulet frit a[r]une odeur trop forte pour l'cinéma. Ça gêne les autres clients.
 *page38|
 　Je le sais. Mais rassure-toi.[r]
 　Je n'ai pas vraiment faim.[r]
