@@ -66,7 +66,7 @@ Après ça, elle m'a proposé de donner des noms aux Ploy.[r]Avec les yeux bours
 『Et puis, ce genre de noms sera bientôt à la mode. C'est[r]
 　certain. Même si les gens se lasseront sans doute très vite.』
 *page22|
-『Quitte à leur donner des noms, autant qu'ils soient stylés.[r]　C'est notre création, ne pas être tendance serait du gâchis.』
+『Quitte à leur donner des noms, autant que ce soit stylé.[r]　C'est notre création, ne pas être tendance serait du gâchis.』
 *page23|
 　Depuis, j'appelle les Ploy par des noms. Ce fut dur de[r]　les retenir, mais je ne me suis plus jamais trompée après ça.
 *page24|
