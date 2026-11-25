@@ -220,7 +220,7 @@
 @fg storage=im0911根源光 center=473 vcenter=31 index=5000 opacity=224 type=14 zoom=65
 @fadebgm time=2000 volume=70
 @bg rule=crossfade time=600 storage=black left=-48 top=-48 noclear=1
-@ploysay mode=ru262 ox=-300 oy=-30
+@ploysay mode=ru262 ox=-200 oy=-30
 @sestop
 @se storage=A40_NZ6_0007.opus
 　そう言った彼女に、わたし、その日は気分的に[r]
@@ -439,7 +439,7 @@
 @pg
 *page32|
 @chgfg storage=im18lなぜなにコマドリ普(口開) rotate=-10.601 zoomx=-100 time=300 id=k
-@ploysay mode=ru26 ox=0 oy=-20
+@ploysay mode=ru262 ox=0 oy=-20
 @sestop
 @se storage=BA0_NZ6_0010.opus
 こうして貴重な文化遺産は、フィーリングだけで生きている野蛮人に壊されていくんスねー。[r]
@@ -476,7 +476,7 @@
 @fg storage=im18lなぜなに映画館(座席) center=503 vcenter=440 index=1700 brightness=-67 zoom=76
 @fg storage=im0911根源光 center=507 vcenter=20 index=5000 opacity=224 type=14 zoom=65
 @bg rule=crossfade time=600 storage=black left=-48 top=-48 noclear=1
-@ploysay mode=lu26
+@ploysay mode=lu262
 @fgact textoff=0 page=fore props=-storage,center,vcenter,absolute,afx,afy,rotate,-effect,-visible keys=(0,0,n,im18なぜなにコマドリ羽,223,395,2000,33,281.5,-45.99,屋外深夜,1)(600,31,l,,,,,,,,,)(1000,,,,220,309,,,,-21,,) storage=im18なぜなにコマドリ羽
 @sestop
 @se storage=BA0_NZ6_0012.opus
@@ -501,7 +501,7 @@
 @pg
 *page37|
 @chgfg textoff=0 storage=im18なぜなにコマドリふむ id=k time=200
-@ploysay mode=lu26
+@ploysay mode=lu262
 @sestop
 @se storage=BA0_NZ6_0014.opus
 ジブン、映画館はまず飲食店のメニューからチェックする派ッスから。だいたい映画館でフライドチキンとか、匂いが無頼ッス。他のお客さんに迷惑ッス。
